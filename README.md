@@ -6,6 +6,6 @@ Machine Learning and Deep Learning Resources
  - [Iris Dataset and ML](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
  
 ## Libraries ##
-# Scala # 
+### Scala ### 
   - [Deeplearning.Scala](https://github.com/ThoughtWorksInc/DeepLearning.scala)
   
