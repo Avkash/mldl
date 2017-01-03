@@ -9,3 +9,6 @@ Machine Learning and Deep Learning Resources
 ### Scala ### 
   - [Deeplearning.Scala](https://github.com/ThoughtWorksInc/DeepLearning.scala)
   
+### Python Tutorials ###
+  - [Python Lecturers](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/tree/master/)
+  - [Matlibplot Guide](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb)
