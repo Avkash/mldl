@@ -10,3 +10,5 @@ This is a tutorial in an IPython Notebook for the Kaggle competition, Titanic Ma
 ## 2. Kaggle-titanic ##
 [Trying to Kaggle Titanic from Newbie](https://www.kaggle.com/ericnana/titanic/trying-to-kaggle-titanic-from-newbie)
 
+## My Exercise ##
+[Jupyter Notebook to dataset analysis]()
