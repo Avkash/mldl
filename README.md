@@ -12,3 +12,5 @@ Machine Learning and Deep Learning Resources
 ### Python Tutorials ###
   - [Python Lecturers](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/tree/master/)
   - [Matlibplot Guide](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb)
+  - [Learning Pandas](https://bitbucket.org/hrojas/learn-pandas)
+  
