@@ -1,6 +1,9 @@
 # mldl
 Machine Learning and Deep Learning Resources
 
+## H2O Deep Water Build Process ##
+ - [H2O Deep Water Build Guide](https://github.com/Avkash/mldl/blob/master/h2o_deepwater_build.md)
+
 ## Machine learning through examples ##
  - [Titanic Dataset and ML](https://github.com/Avkash/mldl/blob/master/titanic.md)
  - [Iris Dataset and ML](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
