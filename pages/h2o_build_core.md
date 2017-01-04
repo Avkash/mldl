@@ -1,5 +1,7 @@
 # Building H2O (H2O-3) Core Source Code #
 
+Note: Make sure you have completed the [H2O Pre-requsite](https://github.com/Avkash/mldl/blob/master/pages/h2o_dw_prerequsite.md) requirements. 
+
 Start: change your current working folder to H2O core - h2o-3 source code
 ```
 $ pwd
