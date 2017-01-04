@@ -40,3 +40,36 @@ Following R libraries are needed inside R environment to compile R specific code
    > install.packages("roxygen2")
    > install.packages("RCurl")
 ```
+
+
+## Decide to install package by yourself ##
+
+### PCRE: ###
+> curl --remote-name ftp://ftp.csx.cam.ac.uk/pub/software/programming/pcre/pcre-8.39.tar.gz
+```
+> tar -xzvf pcre-8.39.tar.gz
+> cd pcre-8.39
+> ./configure
+> make
+> make install
+Verify the installation:
+> pcre-config —version
+```
+
+### SWIG: ###
+> wget http://prdownloads.sourceforge.net/swig/swig-3.0.11.tar.gz
+
+```
+> tar -xzvf swig-3.0.11.tar.gz
+> cd swig-3.0.11
+
+> ./configure
+> make
+> make install
+
+```
+
+### R package ###:
+
+> wget https://cran.r-project.org/src/contrib/roxygen2_5.0.1.tar.gz
+> R CMD INSTALL roxygen2_5.0.1.tar.gz
