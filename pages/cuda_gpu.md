@@ -9,8 +9,9 @@ nvidia-smi: command not found
 ```
 Solution:
    You dont have Nvidia toollit install. You can install it as below:
-   
+   ```
    $ sudo apt install nvidia-cuda-toolkit
+   ```
 
 $ nvidia-smi
 ```
@@ -74,4 +75,6 @@ Fri Dec 30 22:48:00 2016
 |  No running processes found                                                 |
 +-----------------------------------------------------------------------------+
 ```
+Note: Above you have Nvidia driver 367.57
+
 
