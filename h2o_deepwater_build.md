@@ -1,8 +1,8 @@
 # Building DeepWater Source on Ubuntu 16.x and above machine #
 
 ## Getting Source Code ##
- - Get H2O-3 Source Code
- - Get DeepWater Source Code
+ - [Get H2O-3 Source Code](https://github.com/Avkash/mldl/blob/master/pages/h2o_source.md)
+ - [Get DeepWater Source Code](https://github.com/Avkash/mldl/blob/master/pages/h2o_source.md)
 
 ## Pre-requsite and Environment ##
  - Install prerequsite for H2O-3 and DeepWater
