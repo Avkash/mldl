@@ -31,4 +31,11 @@ Following R specific modules are needed to build R specific code in H2O:
 ```
   sudo apt-get install r-base r-base-dev
   sudo apt install r-cran-littler
+  sudo apt-get install libcurl4-openssl-dev	
+```
+Following R libraries are needed inside R environment to compile R specific code:
+```
+   > install.packages("devtools")
+   > install.packages("roxygen2")
+   > install.packages("RCurl")
 ```
