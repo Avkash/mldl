@@ -33,7 +33,16 @@ drwxrwxr-x 22 ubuntu ubuntu     4096 Dec 30 22:58 ../
 -rw-rw-r--  1 ubuntu ubuntu 27493922 Dec 30 22:58 libmxnet.a
 -rwxrwxr-x  1 ubuntu ubuntu 10901728 Dec 30 22:58 libmxnet.so*
 ```
+Note: Once libmxnet.so is built, go back to the top-level directory of the deepwater repo, and follow the directions there.
 
+## Build and install mxnet Python bindings ##
+
+To build the Python egg (which can be installed with easy_install dist/*.egg), do the following:
+```
+cd thirdparty/mxnet/python
+python setup.py install
+Now, you'll have the mxnet python module available for creating your own Deep Learning models from scratch.
+```
 
 ### PROBLEM ###
 Note: IF there is any error in the build and after fixing the build you retry build but no progress i.e. below:
