@@ -13,43 +13,50 @@ Now run the build command without the test (building test component will take ve
 $ ./gradlew build -x test
 ```
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-FAILURE: Build failed with an exception.
 
+### PROBLEM ###
+```
+FAILURE: Build failed with an exception.
 * What went wrong:
 Execution failed for task ':h2o-web:compileHelpFiles'.
 > A problem occurred starting process 'command 'node''
-
-Solution:
+```
+**Solution:**
+```
  sudo apt-get install npm
  sudo apt-get install nodejs-legacy
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+```
+
+### PROBLEM ###
+```
 ImportError: No module named requests
 :h2o-bindings:runGenerateRESTAPIBindingsSrc FAILED
 :h2o-bindings:runGenerateRESTAPIBindingsSrc took 0.065 secs
-
 FAILURE: Build failed with an exception.
-
 * What went wrong:
 Execution failed for task ':h2o-bindings:runGenerateRESTAPIBindingsSrc'.
 > Process 'command 'python'' finished with non-zero exit value 1
+```
+** Solution: **
+```
+  pip install requests
+```
 
-Solution:
-   pip install requests
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+### PROBLEM ###
+```
 ImportError: No module named tabulate
 :h2o-py:buildDist FAILED
 :h2o-py:buildDist took 0.137 secs
-
 FAILURE: Build failed with an exception.
-
 * What went wrong:
 Execution failed for task ':h2o-py:buildDist'.
 > Process 'command 'python'' finished with non-zero exit value 1
-
-Solution:
+```
+**Solution:**
    pip install tabulate
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+### PROBLEM ###
+```
 ImportError: No module named future.utils
 :h2o-py:buildDist FAILED
 :h2o-py:buildDist took 0.115 secs
@@ -58,10 +65,14 @@ FAILURE: Build failed with an exception.
 
 * What went wrong:
 Execution failed for task ':h2o-py:buildDist'.
-
-Solution:
+```
+** Solution:**
+```
    pip install future
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+```
+
+### PROBLEM ###
+```
 ImportError: No module named colorama
 :h2o-py:buildDist FAILED
 :h2o-py:buildDist took 0.194 secs
@@ -70,10 +81,14 @@ FAILURE: Build failed with an exception.
 
 * What went wrong:
 Execution failed for task ':h2o-py:buildDist'.
+```
+** Solution:**
+```
+ pip install colorama
+```
 
-Solution:
-   pip install colorama
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+### PROBLEM ###
+```
 :h2o-r:getRVersion FAILED
 :h2o-r:getRVersion took 0.003 secs
 
@@ -82,8 +97,9 @@ FAILURE: Build failed with an exception.
 * What went wrong:
 Execution failed for task ':h2o-r:getRVersion'.
 > A problem occurred starting process 'command 'R''
-
-Solution:
+```
+**Solution:**
+```
   sudo apt-get install r-base r-base-dev
   sudo apt install r-cran-littler
   $ r --version
@@ -102,8 +118,10 @@ Solution:
         $ sudo apt-get install libcurl4-openssl-dev	
 
     sudo make && sudo make install
-      
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+```   
+
+### PROBLEM ###
+```
 ...
 ...
 > library(devtools); document('h2o-package');
@@ -113,14 +131,15 @@ Execution halted
 :h2o-r:buildPackageDocumentation took 0.177 secs
 
 FAILURE: Build failed with an exception.
-
-Solution:
+```
+**Solution:**
    $ R
    Now in R console:
    > install.packages("devtools")
    > install.packages("roxygen2")
-   roxygen2
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+### PROBLEM ###
+```
 > library(devtools); document('h2o-package');
 Updating h2o documentation
 Loading h2o
@@ -130,10 +149,9 @@ Calls: document -> load_all -> load_imports -> mapply -> <Anonymous>
 Execution halted
 :h2o-r:buildPackageDocumentation FAILED
 :h2o-r:buildPackageDocumentation took 0.624 secs
-
-Solution:
+```
+**Solution:**
    $ R
    Now in R console:
    > install.packages("RCurl")
 
-===========================================
