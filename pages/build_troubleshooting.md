@@ -10,8 +10,10 @@ Makefile:189: recipe for target 'lib/libmxnet.so' failed
 make: *** [lib/libmxnet.so] Error 1
 ```
 
-[SOLUTION]
-sudo apt-get install libatlas-base-dev
+**[SOLUTION]**
+```
+$ sudo apt-get install libatlas-base-dev
+```
 
 ### [PROBLEM] ###
 ```
