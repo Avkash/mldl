@@ -5,8 +5,8 @@
  - [Get DeepWater Source Code](https://github.com/Avkash/mldl/blob/master/pages/h2o_source.md)
 
 ## Pre-requsite and Environment ##
- - Install prerequsite for H2O-3 and DeepWater
- - Test environment
+ - [Install prerequsite for H2O-3 and DeepWater](https://github.com/Avkash/mldl/blob/master/pages/h2o_dw_prerequsite.md)
+ - [Test environment](https://github.com/Avkash/mldl/blob/master/pages/h2o_test_environment.md)
 
 ## GPU/CUDA Libraries and Tools ##
 
