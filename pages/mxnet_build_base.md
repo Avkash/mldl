@@ -1,5 +1,12 @@
 # mxnet - Build base without key libraries #
 
+## Pre-requsite ##
+
+-- C++ compiler with C11 support 
+ -- gcc
+ -- g++
+-- [SWIG](http://www.swig.org/)
+
 ## mxnet Build ##
 
 ```
@@ -10,6 +17,25 @@ cp make/config.mk .
 make -j8
 ```
 
+Note: Above -j8 means use 8 available CPU cores to build the code. Alternatively you can use the following as well:
+
+```
+ $ make -j$(sysctl -n hw.ncpu)
+```
+
+## SUCCESS IN  mxnet BUILD ##
+
+$  ll src/github/h2o/deepwater/thirdparty/mxnet/lib/
+```
+total 37508
+drwxrwxr-x  2 ubuntu ubuntu     4096 Dec 30 22:58 ./
+drwxrwxr-x 22 ubuntu ubuntu     4096 Dec 30 22:58 ../
+-rw-rw-r--  1 ubuntu ubuntu 27493922 Dec 30 22:58 libmxnet.a
+-rwxrwxr-x  1 ubuntu ubuntu 10901728 Dec 30 22:58 libmxnet.so*
+```
+
+
+### PROBLEM ###
 Note: IF there is any error in the build and after fixing the build you retry build but no progress i.e. below:
 
 $ make -j8
@@ -29,13 +55,3 @@ Note: Above there is no action for make becuase dmlc-core already there with muc
    $ make -jN
 
 
-## SUCCESS IN BUILD mxnet ##
-
-$  ll src/github/h2o/deepwater/thirdparty/mxnet/lib/
-```
-total 37508
-drwxrwxr-x  2 ubuntu ubuntu     4096 Dec 30 22:58 ./
-drwxrwxr-x 22 ubuntu ubuntu     4096 Dec 30 22:58 ../
--rw-rw-r--  1 ubuntu ubuntu 27493922 Dec 30 22:58 libmxnet.a
--rwxrwxr-x  1 ubuntu ubuntu 10901728 Dec 30 22:58 libmxnet.so*
-```
