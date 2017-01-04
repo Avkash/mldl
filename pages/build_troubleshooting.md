@@ -10,7 +10,7 @@ Makefile:189: recipe for target 'lib/libmxnet.so' failed
 make: *** [lib/libmxnet.so] Error 1
 ```
 
-**[SOLUTION]**
+** SOLUTION **
 
 ```
 $ sudo apt-get install libatlas-base-dev
@@ -23,7 +23,7 @@ compilation terminated.
 Makefile:151: recipe for target 'build/src/io/io.o' failed
 ```
 
-** [SOLUTION] **
+** SOLUTION: **
 ```
 open config.mk
 set USE_OPENCV=0
@@ -38,7 +38,7 @@ In file included from /home/ubuntu/src/github/h2o/deepwater/thirdparty/mxnet/msh
 compilation terminated.
 ```
 
-** [SOLUTION] **
+** SOLUTION: **
 
 ```
 sudo apt-get install libblas-dev liblapack-dev
