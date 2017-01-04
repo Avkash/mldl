@@ -1,6 +1,18 @@
 # GPU - CUDA Specific Libraries and Tools #
 
 
+## Get Cuda 8.0 from Nvidia ##
+
+Get updated Nvidia driver from the link below: [https://developer.nvidia.com/cuda-downloads](https://developer.nvidia.com/cuda-downloads)
+
+## CUDA 7.x to 8.0 Update ##
+
+[Updating Nvidia CUDA to 8.0.x in Ubuntu 16.04](https://aichamp.wordpress.com/2016/11/09/updating-nvidia-cuda-to-8-0-x-in-ubuntu-16-04-ec2-gx-instance/)
+
+## NVidia Toolkit ##
+
+[Installing Nvidia driver and toolkit in Ubuntu 16.04 with tooklit samples](https://aichamp.wordpress.com/2016/11/20/installing-nvidia-driver-and-toolkit-in-ubuntu-16-04-with-tooklit-samples/)
+
 ## Solving Issues ##
 
 $ nvidia-smi
