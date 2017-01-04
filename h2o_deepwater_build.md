@@ -30,3 +30,8 @@
    - javacpp-presets
    
 ### Building DeepWater - tensorflow ###
+
+
+### Troubleshooting - Common Build Issues ###
+
+ - [Common Build Issues/Failues](https://github.com/Avkash/mldl/blob/master/pages/build_troubleshooting.md)
