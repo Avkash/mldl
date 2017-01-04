@@ -24,7 +24,7 @@
    - Without CUDA 
    - With CUDA
    - Without OpenCV
-   - With OpenCV 
+   - [With OpenCV](https://github.com/Avkash/mldl/blob/master/pages/opencv_build.md) 
    
 ### Build thridparty section ###
    - javacpp
