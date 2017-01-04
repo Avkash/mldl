@@ -12,6 +12,7 @@ sudo apt-get install libatlas-base-dev
 sudo apt-get install maven
 sudo apt-get install libprotobuf-dev protobuf-compiler
 sudo apt-get install swig
+sudo apt-get install libpcre3 libpcre3-dev
 ```
 
 Following components are needed for building H2O core source:
