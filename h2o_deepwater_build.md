@@ -20,6 +20,7 @@
 
 ### Building DeepWater - mxnet ###
 
+   - [Base Quick Build](https://github.com/Avkash/mldl/blob/master/pages/mxnet_build_base.md)
    - Without CUDA 
    - With CUDA
    - Without OpenCV
