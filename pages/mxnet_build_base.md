@@ -41,8 +41,8 @@ To build the Python egg (which can be installed with easy_install dist/*.egg), d
 ```
 cd thirdparty/mxnet/python
 python setup.py install
-Now, you'll have the mxnet python module available for creating your own Deep Learning models from scratch.
 ```
+Note: Now, you'll have the mxnet python module available for creating your own Deep Learning models from scratch. You can test it in the python as well. 
 
 ### PROBLEM ###
 Note: IF there is any error in the build and after fixing the build you retry build but no progress i.e. below:
