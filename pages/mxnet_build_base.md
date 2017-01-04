@@ -51,7 +51,7 @@ Note: Above there is no action for make becuase dmlc-core already there with muc
 
 ** Solution: **
 
-   $ make clean
-   $ make -jN
+   - $ make clean
+   - $ make -jN
 
 
