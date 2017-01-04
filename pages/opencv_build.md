@@ -1,5 +1,25 @@
 # Building OpenCV #
 
+Building OpenCV
+
+>>>>- Without CUDA
+cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D WITH_TBB=ON -D WITH_V4L=ON -D WITH_QT=ON -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D OPENCV_EXTRA_MODULES_PATH=~/src/opencv_contrib/modules -D BUILD_EXAMPLES=ON -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=g++  -D WITH_OPENGL=ON ..
+
+>>>>- With CUDA
+cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D WITH_TBB=ON -D WITH_V4L=ON -D WITH_QT=ON -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D OPENCV_EXTRA_MODULES_PATH=~/src/opencv_contrib/modules -D BUILD_EXAMPLES=ON -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=g++ -DCUDA_CUDA_LIBRARY=/usr/local/cuda -DWITH_CUDA=ON -DENABLE_FAST_MATH=1 -D CUDA_FAST_MATH=1 -D WITH_CUBLAS=1 -D WITH_OPENGL=ON  ..
+
+
+Note: If you have opencv installed you can look for opencv if CUDA is enabled:
+
+OPENCV with CUDA
+pkg-config --libs opencv | grep cuda
+-L/usr/local/lib -lopencv_cudabgsegm -lopencv_cudaobjdetect -lopencv_cudastereo -lopencv_stitching -lopencv_cudafeatures2d -lopencv_superres -lopencv_cudacodec -lopencv_videostab -lopencv_cudaoptflow -lopencv_cudalegacy -lopencv_cudawarping -lopencv_aruco -lopencv_bgsegm -lopencv_bioinspired -lopencv_ccalib -lopencv_dpm -lopencv_fuzzy -lopencv_line_descriptor -lopencv_optflow -lopencv_reg -lopencv_saliency -lopencv_stereo -lopencv_structured_light -lopencv_phase_unwrapping -lopencv_rgbd -lopencv_surface_matching -lopencv_tracking -lopencv_datasets -lopencv_text -lopencv_face -lopencv_plot -lopencv_dnn -lopencv_xfeatures2d -lopencv_shape -lopencv_video -lopencv_ximgproc -lopencv_calib3d -lopencv_features2d -lopencv_flann -lopencv_xobjdetect -lopencv_objdetect -lopencv_ml -lopencv_xphoto -lopencv_highgui -lopencv_videoio -lopencv_photo -lopencv_imgcodecs -lopencv_cudaimgproc -lopencv_cudafilters -lopencv_imgproc -lopencv_cudaarithm -lopencv_core -lopencv_cudev
+
+
+OPENCV with NO CUDA
+pkg-config --libs opencv | grep cuda
+-L/USR/LOCAL/LIB -LOPENCV_STITCHING -LOPENCV_SUPERRES -LOPENCV_VIDEOSTAB -LOPENCV_ARUCO -LOPENCV_BGSEGM -LOPENCV_BIOINSPIRED -LOPENCV_CCALIB -LOPENCV_CVV -LOPENCV_DNN -LOPENCV_DPM -LOPENCV_FUZZY -LOPENCV_HDF -LOPENCV_LINE_DESCRIPTOR -LOPENCV_OPTFLOW -LOPENCV_PLOT -LOPENCV_REG -LOPENCV_SALIENCY -LOPENCV_STEREO -LOPENCV_STRUCTURED_LIGHT -LOPENCV_PHASE_UNWRAPPING -LOPENCV_RGBD -LOPENCV_SURFACE_MATCHING -LOPENCV_TRACKING -LOPENCV_DATASETS -LOPENCV_TEXT -LOPENCV_FACE -LOPENCV_XFEATURES2D -LOPENCV_SHAPE -LOPENCV_VIDEO -LOPENCV_XIMGPROC -LOPENCV_CALIB3D -LOPENCV_FEATURES2D -LOPENCV_FLANN -LOPENCV_XOBJDETECT -LOPENCV_OBJDETECT -LOPENCV_ML -LOPENCV_XPHOTO -LOPENCV_HIGHGUI -LOPENCV_VIDEOIO -LOPENCV_IMGCODECS -LOPENCV_PHOTO -LOPENCV_IMGPROC -LOPENCV_CORE
+
 CMake Error at /usr/share/cmake-3.5/Modules/FindQt4.cmake:1326 (message):
   Found unsuitable Qt version "" from NOTFOUND, this code requires Qt 4.x
 Call Stack (most recent call first):
