@@ -72,4 +72,6 @@ Verify the installation:
 ### R package ###:
 
 > wget https://cran.r-project.org/src/contrib/roxygen2_5.0.1.tar.gz
+```
 > R CMD INSTALL roxygen2_5.0.1.tar.gz
+```
