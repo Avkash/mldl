@@ -69,8 +69,33 @@ Note: GCC & G++ - 5.x and above does work fine.
 
 ## Nvidia compilers tools for CUDA compilation ##
 
-$ nvcc
+$ nvcc --version
+```
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2016 NVIDIA Corporation
+Built on Sun_Sep__4_22:14:01_CDT_2016
+Cuda compilation tools, release 8.0, V8.0.44
+```
 
 $ nvidia-smi
+```
+Wed Jan  4 06:47:38 2017
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 367.57                 Driver Version: 367.57                    |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  GRID K520           Off  | 0000:00:03.0     Off |                  N/A |
+| N/A   28C    P0    37W / 125W |      0MiB /  4036MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID  Type  Process name                               Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+```
 
 sudo apt install nvidia-cuda-toolkit
