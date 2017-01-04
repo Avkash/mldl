@@ -3,8 +3,8 @@
 ## Pre-requsite ##
 
 * C++ compiler with C11 support 
-..* gcc
-..* g++
+ ..* gcc
+ ..* g++
 * [SWIG](http://www.swig.org/)
 
 ## mxnet Build ##
