@@ -13,8 +13,8 @@
  - [Install GPU/CUDA libraries & tools](https://github.com/Avkash/mldl/blob/master/pages/cuda_gpu.md)
 
 ## Building h2o-3 source ##
-   - Building main H2O-3 without DeepWater libraries
-   - Building main H2O-3 with DeepWater libraries
+   - [Building main H2O-3 without DeepWater libraries](https://github.com/Avkash/mldl/blob/master/pages/h2o_build_core.md)
+   - [Building main H2O-3 with DeepWater libraries](https://github.com/Avkash/mldl/blob/master/pages/h2o_build_dw.md)
 
 ## DeepWater Build Process ##
 
