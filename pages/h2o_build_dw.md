@@ -7,7 +7,7 @@ $pwd
 ~/h2o/deepwater$ ./gradlew build -x test
 
 
-##[PROBLEM]##
+###[PROBLEM]###
 
 Error:
 * What went wrong:
