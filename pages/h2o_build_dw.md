@@ -1,10 +1,16 @@
 # Building H2O (H2O-3) Core with DeepWater libraries #
 
 
-$pwd
-/home/ubuntu/src/github/h2o/deepwater
+Make sure your working directory is deepwater folder which you just pulled/cloned from githug
 
-~/h2o/deepwater$ ./gradlew build -x test
+$pwd
+```
+/home/ubuntu/src/github/h2o/deepwater
+```
+
+To build DeepWater source, the command is same as H2O as below:
+
+*~/h2o/deepwater$ ./gradlew build -x test*
 
 
 ###[PROBLEM]###
