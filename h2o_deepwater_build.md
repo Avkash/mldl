@@ -83,13 +83,19 @@ Copy/link deepwater-all.jar from the deepwater source tree
 :~/src/github/h2o/h2o-3$ ll ../deepwater/build/libs/deepwater-all.jar
 -rw-rw-r-- 1 avkash avkash 139695003 Jan  7 14:37 ../deepwater/build/libs/deepwater-all.jar
 :~/src/github/h2o/h2o-3$ mkdir lib
-:~/src/github/h2o/h2o-3$ ln -s ../deepwater/build/libs/deepwater-all.jar lib/deepwater-all.jar
+:~/src/github/h2o/h2o-3$ cp ../deepwater/build/libs/deepwater-all.jar lib/
 :~/src/github/h2o/h2o-3$ ll lib/
-lrwxrwxrwx  1 avkash avkash   41 Jan  7 15:02 deepwater-all.jar -> ../deepwater/build/libs/deepwater-all.jar
+-rw-rw-r--  1 avkash avkash 139695003 Jan  7 15:06 deepwater-all.jar
 ```
  
  - Rebuild h2o
   - Run **[Step 1] Building h2o-3 source** Above
+
+```
+After successful build:
+:~/src/github/h2o/h2o-3$ ll build/
+-rw-rw-r--  1 avkash avkash 342872720 Jan  7 15:07 h2o.jar
+```
 
 ## Troubleshooting - Common Build Issues ###
 
