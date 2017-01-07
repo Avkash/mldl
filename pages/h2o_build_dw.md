@@ -42,3 +42,22 @@ For DeepWater build, you *must* finish the 3rd party build where java specific l
 
 ```
 
+### PROBLEM ###
+
+```
+:deepwater-mxnet:make FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':deepwater-mxnet:make'.
+> Process 'command 'make'' finished with non-zero exit value 2
+```
+
+** Solution **
+```
+ The deep water build is missing mxnet libs. 
+ You must finish building mxnet source first. 
+ 
+```
+
