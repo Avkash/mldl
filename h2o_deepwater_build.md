@@ -94,6 +94,7 @@ Copy/link deepwater-all.jar from the deepwater source tree
 ```
 After successful build:
 :~/src/github/h2o/h2o-3$ ll build/
+-rw-rw-r--  1 avkash avkash  67437408 Jan  7 15:04 h2o-base.jar <= This is without deepwater
 -rw-rw-r--  1 avkash avkash 342872720 Jan  7 15:07 h2o.jar
 ```
 
