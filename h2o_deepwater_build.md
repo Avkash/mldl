@@ -12,11 +12,10 @@
 
  - [Install GPU/CUDA libraries & tools](https://github.com/Avkash/mldl/blob/master/pages/cuda_gpu.md)
 
-## Building h2o-3 source ##
+## [Step 1] Building h2o-3 source ##
    - [Building main H2O-3 without DeepWater libraries](https://github.com/Avkash/mldl/blob/master/pages/h2o_build_core.md)
-   - [Building main H2O-3 with DeepWater libraries](https://github.com/Avkash/mldl/blob/master/pages/h2o_build_dw.md)
 
-## DeepWater Build Process ##
+## [Step 2] Building DeepWater Source ##
 
  - Edit settings.gradle
  - Build DeepWater with mxnet only
@@ -43,8 +42,9 @@
    include 'tensorflow'
    }
    ```
+   - [Building DeepWater libraries](https://github.com/Avkash/mldl/blob/master/pages/h2o_build_dw.md)
 
-### [Step 1] Building DeepWater - mxnet ###
+### [Step 2.1] Building DeepWater - mxnet ###
 
    - [Base Quick Build](https://github.com/Avkash/mldl/blob/master/pages/mxnet_build_base.md)
      - You have abiliy to build mxnet with/without CUDA, OpenCV. 
@@ -65,11 +65,15 @@
       
    - [Take a look at how mxnet libs are generated](https://github.com/Avkash/mldl/blob/master/pages/mxnet_libs.md) 
    
-### [Step 2] Build thridparty section - Needed for Tensorflow ###
+### [Step 2.2] Build thridparty section - Needed for Tensorflow ###
    - javacpp
    - javacpp-presets
    
-### [Step 3] Building DeepWater - Tensorflow ###
+### [Step 2.3] Building DeepWater - Tensorflow ###
+   
+   - Not Started yet
+
+### Finally building H2O with DeepWater ###
 
 
 ### Troubleshooting - Common Build Issues ###
