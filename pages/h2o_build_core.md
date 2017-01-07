@@ -13,6 +13,42 @@ Now run the build command without the test (building test component will take ve
 $ ./gradlew build -x test
 ```
 
+### SUCCESS ###
+
+```
+:h2o-hadoop:h2o-mapreduce-generic:compileJava took 27.439 secs
+:h2o-hadoop:h2o-mapreduce-generic:processResources UP-TO-DATE
+:h2o-hadoop:h2o-mapreduce-generic:classes
+:h2o-hadoop:h2o-mapreduce-generic:jar
+:h2o-hadoop:h2o-mapreduce-generic:assemble
+:h2o-hadoop:h2o-mapreduce-generic:check
+:h2o-hadoop:h2o-mapreduce-generic:build
+:h2o-hadoop:h2o-yarn-generic:compileJava
+warning: [options] bootstrap class path not set in conjunction with -source 1.6
+1 warning
+:h2o-hadoop:h2o-yarn-generic:processResources UP-TO-DATE
+:h2o-hadoop:h2o-yarn-generic:classes
+:h2o-hadoop:h2o-yarn-generic:jar
+:h2o-hadoop:h2o-yarn-generic:assemble
+:h2o-hadoop:h2o-yarn-generic:check
+:h2o-hadoop:h2o-yarn-generic:build
+
+BUILD SUCCESSFUL
+
+Total time: 4 mins 8.879 secs
+
+Task timings:
+  27.439 secs  :h2o-hadoop:h2o-mapreduce-generic:compileJava
+  27.437 secs  :h2o-web:installNpmPackages
+  17.574 secs  :h2o-assembly:shadowJar
+  16.524 secs  :h2o-scala_2.10:compileScala
+  14.865 secs  :h2o-scala_2.11:compileScala
+  12.437 secs  :h2o-orc-parser:compileJava
+   8.855 secs  :h2o-core:compileJava
+  41.229 secs  All others
+  
+```
+
 ### PROBLEM ###
 
 ```
