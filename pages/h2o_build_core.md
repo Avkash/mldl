@@ -27,7 +27,19 @@ Execution failed for task ':compileJava'.
 ```
 **Solution:**
 ```
+1. Make sure you have following both commands working:
+  $ java
+  $ javac
+  
+If no javac then install openjdk:
+
+  $ sudo apt-get install openjdk-8-jdk
+
 You must set JAVA_HOME environment because gradle is not able to find tools.jar and looking for JAVA_HOME 
+
+$ echo $JAVA_HOME
+  /usr/lib/jvm/java-8-openjdk-amd64
+
 ```
 
 ### PROBLEM ###
