@@ -18,6 +18,24 @@
 
 ## DeepWater Build Process ##
 
+ - Build DeepWater with mxnet
+   - Edit settings.gradle
+   ```
+   if (!isGradlePropSet("buildOnlyBackendApi")) {
+   include 'mxnet'
+   //include 'tensorflow'
+   }
+   ```
+
+ - Build DeepWater with mxnet
+   - Edit settings.gradle
+   ```
+   if (!isGradlePropSet("buildOnlyBackendApi")) {
+   //include 'mxnet'
+   include 'tensorflow'
+   }
+   ```
+
 ### [Step 1] Building DeepWater - mxnet ###
 
    - [Base Quick Build](https://github.com/Avkash/mldl/blob/master/pages/mxnet_build_base.md)
