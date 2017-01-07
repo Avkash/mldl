@@ -77,7 +77,7 @@
 
 Copy/link deepwater-all.jar from the deepwater source tree
 
-**Creating Symbolic link to deepwater-all.jar in H2O-3**
+**Copying deepwater-all.jar from deepwater to H2O-3 lib/ folder**
 
  ```
 :~/src/github/h2o/h2o-3$ ll ../deepwater/build/libs/deepwater-all.jar
