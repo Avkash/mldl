@@ -44,6 +44,30 @@ $ ls $JAVA_HOME
  export PATH=${PATH}:/usr/local/cuda/bin
 ```
 
+### R  ###
+
+```
+$ R --version
+R version 3.2.3 (2015-12-10) -- "Wooden Christmas-Tree"
+Copyright (C) 2015 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under the terms of the
+GNU General Public License versions 2 or 3.
+For more information about these matters see
+http://www.gnu.org/licenses/.
+```
+
+### Python ###
+
+```
+$ python
+Python 2.7.12 (default, Nov 19 2016, 06:48:10)
+[GCC 5.4.0 20160609] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
 
 ## GCC ## 
 
