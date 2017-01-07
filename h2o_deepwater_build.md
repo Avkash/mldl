@@ -37,6 +37,7 @@
    - With OpenCV [Want to buid OpenCV?](https://github.com/Avkash/mldl/blob/master/pages/opencv_build.md) 
      - USE_OPENCV = 1
       
+   - [Take a look at how mxnet libs are generated]()  
 ### [Step 2] Build thridparty section - Needed for Tensorflow ###
    - javacpp
    - javacpp-presets
