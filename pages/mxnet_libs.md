@@ -7,7 +7,6 @@
  USE_CUDA = 0
 
 ```
-
 ubuntu@ip-10-0-0-212:~/src/github/h2o/deepwater/thirdparty/mxnet$ ll lib/
 		total 37508
 		drwxrwxr-x  2 ubuntu ubuntu     4096 Dec 30 22:58 ./
@@ -23,11 +22,13 @@ ubuntu@ip-10-0-0-212:~/src/github/h2o/deepwater/thirdparty/mxnet$ ll lib/
 		-rw-rw-r--  1 ubuntu ubuntu  27M Dec 30 22:58 libmxnet.a
 		-rwxrwxr-x  1 ubuntu ubuntu  11M Dec 30 22:58 libmxnet.so*
 
+```
+
 ### With CUDA ###
 
-      in the config.mk
-       USE_CUDA = 1
-	     USE_CUDA_PATH = /usr/local/cuda/
+in the config.mk
+USE_CUDA = 1
+USE_CUDA_PATH = /usr/local/cuda/
 
 ```
 ubuntu@ip-10-0-0-212:~/src/github/h2o/deepwater/thirdparty/mxnet$ ll lib
