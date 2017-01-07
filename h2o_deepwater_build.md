@@ -20,6 +20,7 @@
 
  - Edit settings.gradle
  - Build DeepWater with mxnet only
+ 
    ```
    if (!isGradlePropSet("buildOnlyBackendApi")) {
    include 'mxnet'
@@ -27,6 +28,7 @@
    }
    ```
  - Build DeepWater with tensorflow only
+ 
    ```
    if (!isGradlePropSet("buildOnlyBackendApi")) {
    //include 'mxnet'
@@ -34,6 +36,7 @@
    }
    ```
  - Build DeepWater with mxnet and tensorflow
+ 
    ```
    if (!isGradlePropSet("buildOnlyBackendApi")) {
    include 'mxnet'
