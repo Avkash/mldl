@@ -18,19 +18,29 @@
 
 ## DeepWater Build Process ##
 
-### Building DeepWater - mxnet ###
+### [Step 1] Building DeepWater - mxnet ###
 
    - [Base Quick Build](https://github.com/Avkash/mldl/blob/master/pages/mxnet_build_base.md)
+   You have abiliy to build mxnet with/without CUDA, OpenCV. 
+   All these settings are in config.mk and you can edit them as below:  
    - Without CUDA 
+      USE_CUDA=0
    - With CUDA
+      USE_CUDA=0
+      USE_CUDA_PATH=/usr/local/cuda     
+   - With CUDNN
+      USE_CUDNN=1
+      USE_CUDA_PATH=/usr/local/cuda     
+      Note: You must make sure that CUDNN files into CUDA home includes & lib folders
    - Without OpenCV
-   - [With OpenCV](https://github.com/Avkash/mldl/blob/master/pages/opencv_build.md) 
-   
-### Build thridparty section ###
+      USE_OPENCV = 0
+   - With OpenCV [Want to buid OpenCV?](https://github.com/Avkash/mldl/blob/master/pages/opencv_build.md) 
+      USE_OPENCV = 1
+### [Step 2] Build thridparty section - Needed for Tensorflow ###
    - javacpp
    - javacpp-presets
    
-### Building DeepWater - tensorflow ###
+### [Step 3] Building DeepWater - Tensorflow ###
 
 
 ### Troubleshooting - Common Build Issues ###
