@@ -1,6 +1,7 @@
-# 
+#Machine Learning Terminology - H #
+ 
 
-** HyperParameter **
+## HyperParameter ##
 
 ```
  This is hyperparameter
