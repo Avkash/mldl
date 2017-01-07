@@ -21,13 +21,13 @@
 ### [Step 1] Building DeepWater - mxnet ###
 
    - [Base Quick Build](https://github.com/Avkash/mldl/blob/master/pages/mxnet_build_base.md)
-   You have abiliy to build mxnet with/without CUDA, OpenCV. 
+     - You have abiliy to build mxnet with/without CUDA, OpenCV. 
    All these settings are in config.mk and you can edit them as below:  
    - Without CUDA 
-      - USE_CUDA=0
+     - USE_CUDA=0
    - With CUDA
-      - USE_CUDA=0
-      - USE_CUDA_PATH=/usr/local/cuda     
+     - USE_CUDA=0
+     - USE_CUDA_PATH=/usr/local/cuda     
    - With CUDNN
       - USE_CUDNN=1
       - USE_CUDA_PATH=/usr/local/cuda     
