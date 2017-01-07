@@ -78,7 +78,7 @@
  - Copy/link deepwater-all.jar from the deepwater source tree
   - 
  - Rebuild h2o
-  - Run [Step 1] Above
+  - Run **[Step 1] Building h2o-3 source** Above
 
 ## Troubleshooting - Common Build Issues ###
 
