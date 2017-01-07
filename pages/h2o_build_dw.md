@@ -12,6 +12,46 @@ To build DeepWater source, the command is same as H2O as below:
 
 *~/h2o/deepwater$ ./gradlew build -x test*
 
+### SUCCESS ###
+
+```
+mkdir -p build/deepwater/backends/mxnet
+javac -sourcepath . -d build *.java build/*.java
+cp build/libNative.so build/deepwater/backends/mxnet
+cp ../thirdparty/mxnet/lib/libmxnet.so build/deepwater/backends/mxnet
+:deepwater-mxnet:compileJava
+:deepwater-mxnet:processResources
+:deepwater-mxnet:classes
+:deepwater-mxnet:jar
+:compileJava UP-TO-DATE
+:processResources UP-TO-DATE
+:classes UP-TO-DATE
+:jar SKIPPED
+:shadowJar
+:assemble
+:check
+:build
+:deepwater-backend-api:assemble UP-TO-DATE
+:deepwater-backend-api:check
+:deepwater-backend-api:build
+:deepwater-backend-api:javadoc
+:deepwater-mxnet:javadoc
+:deepwater-mxnet:javadocJar
+:deepwater-mxnet:sourcesJar
+:deepwater-mxnet:assemble
+:deepwater-mxnet:check
+:deepwater-mxnet:build
+
+BUILD SUCCESSFUL
+
+Total time: 33.982 secs
+```
+
+Now look for  build/libs into deepwater folder for deepwater-all.jar as below:
+
+```
+-rw-rw-r-- 1 avkash avkash 139695003 Jan  7 14:37 deepwater-all.jar
+```
 
 ### PROBLEM ###
 
@@ -21,6 +61,7 @@ Error:
 Execution failed for task ':deepwater-backend-api:compileJava'.
 > Could not find tools.jar
 ```
+
 
 **Solution:**
 
