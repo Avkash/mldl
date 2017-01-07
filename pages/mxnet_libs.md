@@ -3,8 +3,8 @@
 
 ### Wthout CUDA ###
 
- in the config.mk
- USE_CUDA = 0
+ - in the config.mk
+ - USE_CUDA = 0
 
 ```
 ubuntu@ip-10-0-0-212:~/src/github/h2o/deepwater/thirdparty/mxnet$ ll lib/
@@ -26,9 +26,9 @@ ubuntu@ip-10-0-0-212:~/src/github/h2o/deepwater/thirdparty/mxnet$ ll lib/
 
 ### With CUDA ###
 
-in the config.mk
-USE_CUDA = 1
-USE_CUDA_PATH = /usr/local/cuda/
+- in the config.mk
+- USE_CUDA = 1
+- USE_CUDA_PATH = /usr/local/cuda/
 
 ```
 ubuntu@ip-10-0-0-212:~/src/github/h2o/deepwater/thirdparty/mxnet$ ll lib
@@ -47,8 +47,8 @@ Note: - Above there is no OpenCV yet.
 ```
 
 ### With Opencv + CUDA ###
-      in the config.mk
-       USE_OPENCV = 1
+ - in the config.mk
+ - USE_OPENCV = 1
 
 ```
 ubuntu@ip-10-0-0-212:~/src/github/h2o/deepwater/thirdparty/mxnet$ ll lib/
