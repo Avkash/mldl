@@ -41,6 +41,12 @@ Following R libraries are needed inside R environment to compile R specific code
    > install.packages("RCurl")
 ```
 
+## Environment Variables ##
+
+```
+Setup the JAVA_HOME as below:
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+```
 
 ## Decide to install package by yourself ##
 
