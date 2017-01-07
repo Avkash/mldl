@@ -42,7 +42,7 @@
    include 'tensorflow'
    }
    ```
-   - [Building DeepWater libraries](https://github.com/Avkash/mldl/blob/master/pages/h2o_build_dw.md)
+ - [Building DeepWater libraries](https://github.com/Avkash/mldl/blob/master/pages/h2o_build_dw.md)
 
 ### [Step 2.1] Building DeepWater - mxnet ###
 
@@ -73,9 +73,13 @@
    
    - Not Started yet
 
-### Finally building H2O with DeepWater ###
+## [Step 3]Finally building H2O with DeepWater ###
 
+ - Copy/link deepwater-all.jar from the deepwater source tree
+  - 
+ - Rebuild h2o
+  - Run [Step 1] Above
 
-### Troubleshooting - Common Build Issues ###
+## Troubleshooting - Common Build Issues ###
 
  - [Common Build Issues/Failues](https://github.com/Avkash/mldl/blob/master/pages/build_troubleshooting.md)
