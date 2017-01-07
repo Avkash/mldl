@@ -80,13 +80,13 @@ Copy/link deepwater-all.jar from the deepwater source tree
 **Creating Symbolic link to deepwater-all.jar in H2O-3**
 
  ```
-~/src/github/h2o/h2o-3$ ll ../deepwater/build/libs/deepwater-all.jar
--rw-rw-r-- 1 ubuntu ubuntu 95995316 Dec 31 01:16 ../deepwater/build/libs/deepwater-all.jar
-~/src/github/h2o/h2o-3$ ln -s ../deepwater/build/libs/deepwater-all.jar lib/deepwater-all.jar
+:~/src/github/h2o/h2o-3$ ll ../deepwater/build/libs/deepwater-all.jar
+-rw-rw-r-- 1 avkash avkash 139695003 Jan  7 14:37 ../deepwater/build/libs/deepwater-all.jar
+:~/src/github/h2o/h2o-3$ mkdir lib
+:~/src/github/h2o/h2o-3$ ln -s ../deepwater/build/libs/deepwater-all.jar lib/deepwater-all.jar
 :~/src/github/h2o/h2o-3$ ll lib/
-total 8
-lrwxrwxrwx  1 ubuntu ubuntu   41 Dec 31 01:28 deepwater-all.jar -> ../deepwater/build/libs/deepwater-all.jar
- ```
+lrwxrwxrwx  1 avkash avkash   41 Jan  7 15:02 deepwater-all.jar -> ../deepwater/build/libs/deepwater-all.jar
+```
  
  - Rebuild h2o
   - Run **[Step 1] Building h2o-3 source** Above
