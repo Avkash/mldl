@@ -148,4 +148,32 @@ Set the following in yout bashrc or other profile you have:
  export CPATH=${CPATH}:$JAVA_HOME/include/linux
 ```
 
+### PROBLEM ###
+
+```
+$ ./gradlew build -x test
+deepwater-backend-api
+deepwater-mxnet
+deepwater-tensorflow
+:deepwater-backend-api:compileJava
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+:deepwater-backend-api:processResources UP-TO-DATE
+:deepwater-backend-api:classes
+:deepwater-backend-api:jar  <============================ SUCCESS 
+:deepwater-mxnet:make       <============================ Build started 
+mkdir -p build
+....
+....
+Makefile:72: recipe for target 'build/libNative.so' failed
+make: swig: Command not found <=============================== This is the ERROR
+make: *** [build/libNative.so] Error 127
+:deepwater-mxnet:make FAILED
+```
+**Solution:**
+
+```
+   You did not install swig in your machine. Install swig (see pre-requsite)
+   $ sudo apt-get install swig
+```
 
