@@ -1,6 +1,12 @@
 # H2O Build Environment - Test for all requirements#
 
-Note: Make sure you have proper results for the following commands:
+## Environment ##
+
+```
+CPATH=/usr/lib/jvm/java-8-openjdk-amd64/include:/usr/lib/jvm/java-8-openjdk-amd64/include/linux
+PATH=/home/ubuntu/bin:/home/ubuntu/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/ubuntu/src/protoc-3.0.0:/home/ubuntu/src/protoc-3.0.0/bin
+JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+```
 
 ## Java ##
 $ java -version
