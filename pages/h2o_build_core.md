@@ -13,6 +13,22 @@ Now run the build command without the test (building test component will take ve
 $ ./gradlew build -x test
 ```
 
+### PROBLEM ###
+
+```
+:buildSrc:clean UP-TO-DATE
+:buildSrc:compileJava FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':compileJava'.
+> Could not find tools.jar
+```
+**Solution:**
+```
+You must set JAVA_HOME environment because gradle is not able to find tools.jar and looking for JAVA_HOME 
+```
 
 ### PROBLEM ###
 ```
