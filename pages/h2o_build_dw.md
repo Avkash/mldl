@@ -61,3 +61,50 @@ Execution failed for task ':deepwater-mxnet:make'.
  
 ```
 
+### PROBLEM ###
+
+```
+$ ./gradlew build -x test
+deepwater-backend-api
+deepwater-mxnet
+deepwater-tensorflow
+:deepwater-backend-api:compileJava UP-TO-DATE
+:deepwater-backend-api:processResources UP-TO-DATE
+:deepwater-backend-api:classes UP-TO-DATE
+:deepwater-backend-api:jar UP-TO-DATE
+:deepwater-mxnet:make
+swig -outdir build -c++ -java -package deepwater.backends.mxnet -o build/deepwater_wrap.cxx deepwater.i
+g++ -c -fPIC -std=c++11 -O3 -Wall -I/usr/lib/jvm/java-8-oracle/include/linux/ -I/usr/lib/jvm/java-8-oracle/include/ -Iinclude -I. -I./src/ -Wno-unused-function -DMSHADOW_USE_CUDA=0 -I/usr/lib/jvm/java-8-oracle/include/linux/ -I/usr/lib/jvm/java-8-oracle/include/ -Iinclude -I. -I./src/ build/deepwater_wrap.cxx -o build/deepwater_wrap.o
+build/deepwater_wrap.cxx:176:17: fatal error: jni.h: No such file or directory
+compilation terminated.
+Makefile:72: recipe for target 'build/libNative.so' failed
+make: *** [build/libNative.so] Error 1
+:deepwater-mxnet:make FAILED
+
+[OR]
+:deepwater-mxnet:make
+swig -outdir build -c++ -java -package deepwater.backends.mxnet -o build/deepwater_wrap.cxx deepwater.i
+g++ -c -fPIC -std=c++11 -O3 -Wall -I/usr/lib/jvm/java-8-oracle/include/linux/ -I/usr/lib/jvm/java-8-oracle/include/ -Iinclude -I. -I./src/ -Wno-unused-function -DMSHADOW_USE_CUDA=0 -I/usr/lib/jvm/java-8-oracle/include/linux/ -I/usr/lib/jvm/java-8-oracle/include/ -Iinclude -I. -I./src/ build/deepwater_wrap.cxx -o build/deepwater_wrap.o
+In file included from build/deepwater_wrap.cxx:176:0:
+/usr/lib/jvm/java-8-openjdk-amd64/include/jni.h:45:20: fatal error: jni_md.h: No such file or directory
+compilation terminated.
+Makefile:72: recipe for target 'build/libNative.so' failed
+make: *** [build/libNative.so] Error 1
+:deepwater-mxnet:make FAILED
+```
+**Solution:**
+```
+  Look if you have jni.h 
+    $ find $JAVA_HOME -name 'jni.h'
+  Once confirmed add CPATH
+    export CPATH=$JAVA_HOME/include
+    $ ls $CPATH 
+       >> should result jni.h
+
+Set the following in yout bashrc or other profile you have:
+
+ export CPATH=$JAVA_HOME/include
+ export CPATH=${CPATH}:$JAVA_HOME/include/linux
+```
+
+
