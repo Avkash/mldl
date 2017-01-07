@@ -1,5 +1,21 @@
 # Building DeepWater Source on Ubuntu 16.x and above machine #
 
+## Build Steps in nutshell ##
+
+```
+1. Get h2o & deepwater
+2. Install prerequsite
+3. check/test environment
+4. build h2o-3
+5. Install gpu/cuda tools
+6. Build mxnet
+7. Build thridparty section
+	 7.1 javacpp
+	 7.2 javacpp-presets
+8. Build tensorflow
+9. build deepwater
+```
+
 ## Getting Source Code ##
  - [Get H2O-3 Source Code](https://github.com/Avkash/mldl/blob/master/pages/h2o_source.md)
  - [Get DeepWater Source Code](https://github.com/Avkash/mldl/blob/master/pages/h2o_source.md)
