@@ -8,6 +8,7 @@
 
 ## Top 10 machine learning libraries @ github ##
  - [Top 10 by stars](https://github.com/search?o=desc&q=Machine+Learning&s=stars&type=Repositories&utf8=%E2%9C%93) 
+ - [Top 10 listed @ kdnuggets](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)
 
 ## Machine learning through examples ##
  - [Titanic Dataset and ML](https://github.com/Avkash/mldl/blob/master/titanic.md)
