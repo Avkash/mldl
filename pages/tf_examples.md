@@ -8,6 +8,10 @@
   - [Tensorflow Word2Vec Example with tSNE graph](https://github.com/Avkash/mldl/blob/master/notebook/TF%2BWord2Vev%2BExample%2Bwith%2BtSNE%2BGraph.ipynb)
   - [Tensorflow and Tensorboard Example](https://github.com/Avkash/mldl/blob/master/notebook/TF%2Bwith%2Btensorboard%2Bexample.ipynb)
 
-Inception Model
+### Inception Model ###
 
  - [Sample of using OpenCV dnn module with Tensorflow Inception model](https://github.com/opencv/opencv_contrib/blob/master/modules/dnn/samples/tf_inception.cpp)
+ 
+### Deep Neural Networks ###
+ - [Kaggle - Tensorflow Deep NN](https://www.kaggle.com/kakauandme/digit-recognizer/tensorflow-deep-nn/comments)
+ 
