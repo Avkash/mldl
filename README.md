@@ -12,13 +12,8 @@
  - [Kmeans Tutorial using IRIS Dataset - by Avkash](https://github.com/Avkash/mldl/blob/master/notebook/Kmeans%2B%2B-%2Bend%2Bto%2Bend%2Btutorial.ipynb)
  
 ## Tensorflow Resources ##
- - [Various Tensorflow Details]
- - [Original Tensorflow Examples](https://github.com/tensorflow/tensorflow/tree/r0.12/tensorflow/examples)
- - My Example Notebooks
-  - [K-Means Tutorial](https://github.com/Avkash/mldl/blob/master/notebook/Kmeans%2B%2B-%2Bend%2Bto%2Bend%2Btutorial.ipynb)
-  - [Learning from Titanic Disaster](https://github.com/Avkash/mldl/blob/master/notebook/Learning%2Bfrom%2BTitanic%2BDisaster%2BDataset.ipynb)
-  - [Tensorflow Word2Vec Example with tSNE graph](https://github.com/Avkash/mldl/blob/master/notebook/TF%2BWord2Vev%2BExample%2Bwith%2BtSNE%2BGraph.ipynb)
-  - [Tensorflow and Tensorboard Example](https://github.com/Avkash/mldl/blob/master/notebook/TF%2Bwith%2Btensorboard%2Bexample.ipynb)
+ - [Various Tensorflow Details](https://github.com/Avkash/mldl/blob/master/pages/tf_home.md)
+ - [Various Tensorflow Examples]()
 
 ## Libraries ##
 ### Scala ### 
