@@ -18,6 +18,8 @@
 ## Libraries ##
 ### Scala ### 
   - [Deeplearning.Scala](https://github.com/ThoughtWorksInc/DeepLearning.scala)
+  - [Airbnb - Aerosolve](https://github.com/airbnb/aerosolve)
+  - [Aerosolve - Income Prediction Sample in Scala](https://github.com/airbnb/aerosolve/tree/master/demo/income_prediction)
   
 ### Python Tutorials ###
   - [Python Lecturers](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/tree/master/)
