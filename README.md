@@ -12,7 +12,7 @@
 
 ## Deep Learning ##
  - [Neural Networks]()
- - [Re-inforcement Learning]()
+ - [Re-inforcement Learning](https://github.com/Avkash/mldl/edit/master/pages/rl_all.md)
  
 ## Machine learning through examples ##
  - [Titanic Dataset and ML](https://github.com/Avkash/mldl/blob/master/titanic.md)
