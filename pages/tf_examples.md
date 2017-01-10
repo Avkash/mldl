@@ -14,4 +14,5 @@
  
 ### Deep Neural Networks ###
  - [Kaggle - Tensorflow Deep NN](https://www.kaggle.com/kakauandme/digit-recognizer/tensorflow-deep-nn/comments)
+ - [The Meta Model and Meta Meta-Model of Deep Learning](https://medium.com/intuitionmachine/the-meta-model-and-meta-meta-model-of-deep-learning-10062f0bf74c#.o5gct0oyl)
  
