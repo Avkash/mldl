@@ -6,6 +6,9 @@
 ## H2O Deep Water Build Process ##
  - [H2O Deep Water Build Guide](https://github.com/Avkash/mldl/blob/master/h2o_deepwater_build.md)
 
+## Top 10 machine learning libraries @ github ##
+ - [Top 10 by stars](https://github.com/search?o=desc&q=Machine+Learning&s=stars&type=Repositories&utf8=%E2%9C%93) 
+
 ## Machine learning through examples ##
  - [Titanic Dataset and ML](https://github.com/Avkash/mldl/blob/master/titanic.md)
  - [Iris Dataset and ML](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
