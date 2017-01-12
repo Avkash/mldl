@@ -12,4 +12,5 @@
 - [A Kaggler's Guide to Model Stacking in Practice](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
 - [LEARNING REINFORCEMENT LEARNING (WITH CODE, EXERCISES AND SOLUTIONS)](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 - [IMPLEMENTING A CNN FOR TEXT CLASSIFICATION IN TENSORFLOW](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+- [7 Important Model Evaluation Error Metrics Everyone should know](https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/)
 
