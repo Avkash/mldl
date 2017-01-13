@@ -38,8 +38,8 @@
   - [All Articles](https://github.com/Avkash/mldl/blob/master/pages/all_articles.md)
   
 ### Training Series ###
-  - [Stanford CS231 - 2016 Lectures](https://www.youtube.com/playlist?list=PL70hhrN6k0-CmnEhCnZLVP_0d9XH3edXW)
-  - [Stanford CS231n - Lecturers](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+  - [Stanford CS231  - 2016 Lectures](https://www.youtube.com/playlist?list=PL70hhrN6k0-CmnEhCnZLVP_0d9XH3edXW)
+  - [Stanford CS231n - 2016 Lecturers](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
   
   
   
