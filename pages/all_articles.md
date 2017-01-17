@@ -14,4 +14,5 @@
 - [IMPLEMENTING A CNN FOR TEXT CLASSIFICATION IN TENSORFLOW](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 - [7 Important Model Evaluation Error Metrics Everyone should know](https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/)
 - [Data Science with H2O - GBM, Bayesian optimization, Partial Dependency Plot, Prediction](https://a-ghorbani.github.io/2016/11/24/data-science-with-h2o)
+- [Creating a Binary Classifier to Sort Trump vs. Clinton Tweets Using NLP](http://blog.h2o.ai/2016/10/creating-a-binary-classifier-to-sort-trump-vs-clinton-tweets-using-nlp/)
 
