@@ -2,6 +2,13 @@
 
 ## Januray 2017 ##
 
+### Week Jan 13 - Jan 20 ###
+
+- [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+  - When we discuss prediction models, prediction errors can be decomposed into two main subcomponents we care about: error due to "bias" and error due to "variance". There is a tradeoff between a model's ability to minimize bias and variance. Understanding these two types of error can help us diagnose model results and avoid the mistake of over- or under-fitting
+  - 
+- [s]
+
 ### Week Jan 9 - Jan 13 ###
 
 - [A Starter guide to AI in marketing](http://www.hugeinc.com/ideas/perspective/a-starter-guide-to-ai-in-marketing)
