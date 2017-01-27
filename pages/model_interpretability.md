@@ -1,9 +1,9 @@
-### Model Intepretability ###
+## Remedy - Healthcare AI ##
 
-LIME
- - Liner 
-Distillation
-
+- Model Interpretability 
+ - LIME
+  - Liner 
+ - Distillation
 - Large Clean Datasets
  - highly siloed
  - out of sync with regularization or compliance 
