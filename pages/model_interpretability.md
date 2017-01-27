@@ -17,4 +17,24 @@
    - Based on **outcomes**
  -  
 
+## Tractable ##
+- Auto repair estimating $200B business
+- Visual Task
+ - Algo
+  - CNN - general purpose learning machinary
+  - propritery data set of 200M images
+ - Labels (General purpose tagging machine)
+  - Accidental vehical - 1K labels
+  - 71 labels = $150 for labor
+  - Using 1K labels 
+ - Data
+- General Purpose Tagging Machine
+ - Interactive Learning
+  - dimensionality reduction
+   - tSNE 
+  - transfer learning
+  - information retrival
+  - scalable infrastructure - distributed
+  
+
 Keywords: Telemedicine, 
