@@ -10,6 +10,11 @@ Distillation
  - dirty data
 - ML system Deployment
  - dd
+- Example - Remy
+ - Intake > History > Triage > Follow Up
+ - Comphrensive dataset
+  - for automated diagnosis and treatment plan design
+   - Based on **outcomes**
+ -  
 
-
-
+Keywords: Telemedicine, 
