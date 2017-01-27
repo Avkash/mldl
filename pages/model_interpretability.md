@@ -14,7 +14,7 @@
  - Intake > History > Triage > Follow Up
  - Comphrensive dataset
   - for automated diagnosis and treatment plan design
-   - Based on **outcomes**
+   - Based on outcomes
  -  
 
 ## Tractable ##
@@ -36,5 +36,17 @@
   - information retrival
   - scalable infrastructure - distributed
   
+## 20 Billion Neurons ##
+- 20BN Croud acting platform
+- Something Something Dataset
+
+## Deepomatic ##
+ - nnonate manually
+ - Performance Boosting
+ - Example
+  - Suspecious package detection in crowded place
+  
+ 
+
 
 Keywords: Telemedicine, 
