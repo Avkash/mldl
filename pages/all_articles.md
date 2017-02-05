@@ -7,6 +7,8 @@
 - [Test Run - L1 and L2 Regularization for Machine Learning](https://msdn.microsoft.com/en-us/magazine/dn904675.aspx)
 - [Analytics Vidhya Solution in R/H2O](https://github.com/MichaelPluemacher/Big-Mart-Sales)
 - [SF Beta - Robotics Edition March 22, 2017](https://www.eventbrite.com/e/sf-beta-robotics-edition-tickets-27598663345)
+- [Neural Language Processing with Deep Learning](http://www.kdnuggets.com/2017/01/deep-learning-review-natural-language-processing.html)
+- [Why use SVM](http://blog.yhat.com/posts/why-support-vector-machine.html)
 
 ## Januray 2017 ##
 
