@@ -1,5 +1,13 @@
 # A list of all articles based #
 
+## February ##
+- [Machine learning treasure trove](http://www.efimov-ml.com/)
+- [Distributed Data Science with Spark 2.0, Python, R, and H2O on Docker](http://www.bluedata.com/blog/2016/11/data-science-spark-python-r-h2o-docker/)
+- [A Complete Tutorial on Ridge and Lasso Regression in Python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
+- [Test Run - L1 and L2 Regularization for Machine Learning](https://msdn.microsoft.com/en-us/magazine/dn904675.aspx)
+- [Analytics Vidhya Solution in R/H2O](https://github.com/MichaelPluemacher/Big-Mart-Sales)
+- [SF Beta - Robotics Edition March 22, 2017](https://www.eventbrite.com/e/sf-beta-robotics-edition-tickets-27598663345)
+
 ## Januray 2017 ##
 
 ### Week Jan 13 - Jan 20 ###
