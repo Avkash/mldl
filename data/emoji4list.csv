@@ -1,4 +1,4 @@
-_,Code,Name
+Sn,Code,Name
 1,U+1F600,grinning face
 2,U+1F601,grinning face with smiling eyes
 3,U+1F602,face with tears of joy
@@ -1265,22 +1265,22 @@ _,Code,Name
 1264,U+1F457,dress
 1265,U+1F458,kimono
 1266,U+1F459,bikini
-1267,U+1F45A,woman’s clothes
+1267,U+1F45A,woman√ïs clothes
 1268,U+1F45B,purse
 1269,U+1F45C,handbag
 1270,U+1F45D,clutch bag
 1271,U+1F6CD,shopping bags
 1272,U+1F392,school backpack
-1273,U+1F45E,man’s shoe
+1273,U+1F45E,man√ïs shoe
 1274,U+1F45F,running shoe
 1275,U+1F460,high-heeled shoe
-1276,U+1F461,woman’s sandal
-1277,U+1F462,woman’s boot
+1276,U+1F461,woman√ïs sandal
+1277,U+1F462,woman√ïs boot
 1278,U+1F451,crown
-1279,U+1F452,woman’s hat
+1279,U+1F452,woman√ïs hat
 1280,U+1F3A9,top hat
 1281,U+1F393,graduation cap
-1282,U+26D1,rescue worker’s helmet
+1282,U+26D1,rescue worker√ïs helmet
 1283,U+1F4FF,prayer beads
 1284,U+1F484,lipstick
 1285,U+1F48D,ring
@@ -1630,29 +1630,29 @@ _,Code,Name
 1629,U+23F1,stopwatch
 1630,U+23F2,timer clock
 1631,U+1F570,mantelpiece clock
-1632,U+1F55B,twelve o’clock
+1632,U+1F55B,twelve o√ïclock
 1633,U+1F567,twelve-thirty
-1634,U+1F550,one o’clock
+1634,U+1F550,one o√ïclock
 1635,U+1F55C,one-thirty
-1636,U+1F551,two o’clock
+1636,U+1F551,two o√ïclock
 1637,U+1F55D,two-thirty
-1638,U+1F552,three o’clock
+1638,U+1F552,three o√ïclock
 1639,U+1F55E,three-thirty
-1640,U+1F553,four o’clock
+1640,U+1F553,four o√ïclock
 1641,U+1F55F,four-thirty
-1642,U+1F554,five o’clock
+1642,U+1F554,five o√ïclock
 1643,U+1F560,five-thirty
-1644,U+1F555,six o’clock
+1644,U+1F555,six o√ïclock
 1645,U+1F561,six-thirty
-1646,U+1F556,seven o’clock
+1646,U+1F556,seven o√ïclock
 1647,U+1F562,seven-thirty
-1648,U+1F557,eight o’clock
+1648,U+1F557,eight o√ïclock
 1649,U+1F563,eight-thirty
-1650,U+1F558,nine o’clock
+1650,U+1F558,nine o√ïclock
 1651,U+1F564,nine-thirty
-1652,U+1F559,ten o’clock
+1652,U+1F559,ten o√ïclock
 1653,U+1F565,ten-thirty
-1654,U+1F55A,eleven o’clock
+1654,U+1F55A,eleven o√ïclock
 1655,U+1F566,eleven-thirty
 1656,U+1F311,new moon
 1657,U+1F312,waxing crescent moon
@@ -1923,8 +1923,8 @@ _,Code,Name
 1922,U+1F6AE,litter in bin sign
 1923,U+1F6B0,potable water
 1924,U+267F,wheelchair symbol
-1925,U+1F6B9,men’s room
-1926,U+1F6BA,women’s room
+1925,U+1F6B9,men√ïs room
+1926,U+1F6BA,women√ïs room
 1927,U+1F6BB,restroom
 1928,U+1F6BC,baby symbol
 1929,U+1F6BE,water closet
@@ -2085,23 +2085,23 @@ _,Code,Name
 2084,U+1F198,SOS button
 2085,U+1F199,UP! button
 2086,U+1F19A,VS button
-2087,U+1F201,Japanese “here” button
-2088,U+1F202,Japanese “service charge” button
-2089,U+1F237,Japanese “monthly amount” button
-2090,U+1F236,Japanese “not free of charge” button
-2091,U+1F22F,Japanese “reserved” button
-2092,U+1F250,Japanese “bargain” button
-2093,U+1F239,Japanese “discount” button
-2094,U+1F21A,Japanese “free of charge” button
-2095,U+1F232,Japanese “prohibited” button
-2096,U+1F251,Japanese “acceptable” button
-2097,U+1F238,Japanese “application” button
-2098,U+1F234,Japanese “passing grade” button
-2099,U+1F233,Japanese “vacancy” button
-2100,U+3297,Japanese “congratulations” button
-2101,U+3299,Japanese “secret” button
-2102,U+1F23A,Japanese “open for business” button
-2103,U+1F235,Japanese “no vacancy” button
+2087,U+1F201,Japanese √íhere√ì button
+2088,U+1F202,Japanese √íservice charge√ì button
+2089,U+1F237,Japanese √ímonthly amount√ì button
+2090,U+1F236,Japanese √ínot free of charge√ì button
+2091,U+1F22F,Japanese √íreserved√ì button
+2092,U+1F250,Japanese √íbargain√ì button
+2093,U+1F239,Japanese √ídiscount√ì button
+2094,U+1F21A,Japanese √ífree of charge√ì button
+2095,U+1F232,Japanese √íprohibited√ì button
+2096,U+1F251,Japanese √íacceptable√ì button
+2097,U+1F238,Japanese √íapplication√ì button
+2098,U+1F234,Japanese √ípassing grade√ì button
+2099,U+1F233,Japanese √ívacancy√ì button
+2100,U+3297,Japanese √ícongratulations√ì button
+2101,U+3299,Japanese √ísecret√ì button
+2102,U+1F23A,Japanese √íopen for business√ì button
+2103,U+1F235,Japanese √íno vacancy√ì button
 2104,U+25AA,black small square
 2105,U+25AB,white small square
 2106,U+25FB,white medium square
@@ -2145,7 +2145,7 @@ _,Code,Name
 2144,U+1F1E6 U+1F1F9,Austria
 2145,U+1F1E6 U+1F1FA,Australia
 2146,U+1F1E6 U+1F1FC,Aruba
-2147,U+1F1E6 U+1F1FD,Åland Islands
+2147,U+1F1E6 U+1F1FD,¬Åland Islands
 2148,U+1F1E6 U+1F1FF,Azerbaijan
 2149,U+1F1E7 U+1F1E6,Bosnia & Herzegovina
 2150,U+1F1E7 U+1F1E7,Barbados
@@ -2156,7 +2156,7 @@ _,Code,Name
 2155,U+1F1E7 U+1F1ED,Bahrain
 2156,U+1F1E7 U+1F1EE,Burundi
 2157,U+1F1E7 U+1F1EF,Benin
-2158,U+1F1E7 U+1F1F1,St. Barthélemy
+2158,U+1F1E7 U+1F1F1,St. Barth¬élemy
 2159,U+1F1E7 U+1F1F2,Bermuda
 2160,U+1F1E7 U+1F1F3,Brunei
 2161,U+1F1E7 U+1F1F4,Bolivia
@@ -2174,7 +2174,7 @@ _,Code,Name
 2173,U+1F1E8 U+1F1EB,Central African Republic
 2174,U+1F1E8 U+1F1EC,Congo - Brazzaville
 2175,U+1F1E8 U+1F1ED,Switzerland
-2176,U+1F1E8 U+1F1EE,Côte d’Ivoire
+2176,U+1F1E8 U+1F1EE,C¬ôte d√ïIvoire
 2177,U+1F1E8 U+1F1F0,Cook Islands
 2178,U+1F1E8 U+1F1F1,Chile
 2179,U+1F1E8 U+1F1F2,Cameroon
@@ -2184,7 +2184,7 @@ _,Code,Name
 2183,U+1F1E8 U+1F1F7,Costa Rica
 2184,U+1F1E8 U+1F1FA,Cuba
 2185,U+1F1E8 U+1F1FB,Cape Verde
-2186,U+1F1E8 U+1F1FC,Curaçao
+2186,U+1F1E8 U+1F1FC,Cura¬çao
 2187,U+1F1E8 U+1F1FD,Christmas Island
 2188,U+1F1E8 U+1F1FE,Cyprus
 2189,U+1F1E8 U+1F1FF,Czech Republic
@@ -2323,7 +2323,7 @@ _,Code,Name
 2322,U+1F1F5 U+1F1FC,Palau
 2323,U+1F1F5 U+1F1FE,Paraguay
 2324,U+1F1F6 U+1F1E6,Qatar
-2325,U+1F1F7 U+1F1EA,Réunion
+2325,U+1F1F7 U+1F1EA,R¬éunion
 2326,U+1F1F7 U+1F1F4,Romania
 2327,U+1F1F7 U+1F1F8,Serbia
 2328,U+1F1F7 U+1F1FA,Russia
@@ -2344,7 +2344,7 @@ _,Code,Name
 2343,U+1F1F8 U+1F1F4,Somalia
 2344,U+1F1F8 U+1F1F7,Suriname
 2345,U+1F1F8 U+1F1F8,South Sudan
-2346,U+1F1F8 U+1F1F9,São Tomé & Príncipe
+2346,U+1F1F8 U+1F1F9,S¬ão Tom¬é & Pr¬íncipe
 2347,U+1F1F8 U+1F1FB,El Salvador
 2348,U+1F1F8 U+1F1FD,Sint Maarten
 2349,U+1F1F8 U+1F1FE,Syria
