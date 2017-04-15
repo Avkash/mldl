@@ -18,6 +18,7 @@
  - [Titanic Dataset and ML](https://github.com/Avkash/mldl/blob/master/titanic.md)
  - [Iris Dataset and ML](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
  - [Kmeans Tutorial using IRIS Dataset - by Avkash](https://github.com/Avkash/mldl/blob/master/notebook/Kmeans%2B%2B-%2Bend%2Bto%2Bend%2Btutorial.ipynb)
+ - [Forecasting gas and electricity utilization using Facebook prophet]()
  
 ## Tensorflow Resources ##
  - [Various Tensorflow Details](https://github.com/Avkash/mldl/blob/master/pages/tf_home.md)
@@ -47,7 +48,9 @@
   - [Stanford CS231n - 2016 Lecturers](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
     - [Syllabus](http://cs231n.stanford.edu/syllabus.html)
     - [Class Reddit](https://www.reddit.com/r/cs231n/)
-  - [s]  
+  - [s]
   
+  ### Active Links ###
+  - [All my active links](https://github.com/Avkash/mldl/blob/master/pages/activelinks.md)
   
   
