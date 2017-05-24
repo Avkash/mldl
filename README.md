@@ -1,4 +1,4 @@
-# mldl - Machine Learning and Deep Learning Resources #
+# mldl - Machine Learning and Deep Learning #
 
 ## Machine Learning Definition Terms ##
 [A](https://github.com/Avkash/mldl/blob/master/pages/def_a.md) B C D E F G [H](https://github.com/Avkash/mldl/blob/master/pages/def_h.md) I J K L M [N](https://github.com/Avkash/mldl/blob/master/pages/def_n.md) [O](https://github.com/Avkash/mldl/blob/master/pages/def_o.md) P Q R S T [U](https://github.com/Avkash/mldl/blob/master/pages/def_u.md) V W X Y Z
