@@ -3,6 +3,10 @@
 ## Machine Learning Definition Terms ##
 [A](https://github.com/Avkash/mldl/blob/master/pages/def_a.md) B C D E F G [H](https://github.com/Avkash/mldl/blob/master/pages/def_h.md) I J K L M [N](https://github.com/Avkash/mldl/blob/master/pages/def_n.md) [O](https://github.com/Avkash/mldl/blob/master/pages/def_o.md) P Q R S T [U](https://github.com/Avkash/mldl/blob/master/pages/def_u.md) V W X Y Z
 
+## Projects, Presentations and Resources ##
+ - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
+ - [TensorBeat - Building AnswerBot with Keras and Tensorflow Slides](https://github.com/Avkash/mldl/tree/master/tensorbeat-answerbot)
+
 ## H2O Deep Water Build Process ##
  - [H2O Deep Water Build Guide](https://github.com/Avkash/mldl/blob/master/h2o_deepwater_build.md)
 
@@ -18,7 +22,6 @@
  - [Titanic Dataset and ML](https://github.com/Avkash/mldl/blob/master/titanic.md)
  - [Iris Dataset and ML](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
  - [Kmeans Tutorial using IRIS Dataset - by Avkash](https://github.com/Avkash/mldl/blob/master/notebook/Kmeans%2B%2B-%2Bend%2Bto%2Bend%2Btutorial.ipynb)
- - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
  
 ## Tensorflow Resources ##
  - [Various Tensorflow Details](https://github.com/Avkash/mldl/blob/master/pages/tf_home.md)
