@@ -24,6 +24,7 @@
  - [Kmeans Tutorial using IRIS Dataset - by Avkash](https://github.com/Avkash/mldl/blob/master/notebook/Kmeans%2B%2B-%2Bend%2Bto%2Bend%2Btutorial.ipynb)
 
 ## Model Interpretability Resources ##
+ - [Ideas on interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
  - [Lime](https://github.com/marcotcr/lime)
  - [ChaLearn AutoML challenge ](http://automl.chalearn.org/)
  - [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
