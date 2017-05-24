@@ -22,6 +22,11 @@
  - [Titanic Dataset and ML](https://github.com/Avkash/mldl/blob/master/titanic.md)
  - [Iris Dataset and ML](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
  - [Kmeans Tutorial using IRIS Dataset - by Avkash](https://github.com/Avkash/mldl/blob/master/notebook/Kmeans%2B%2B-%2Bend%2Bto%2Bend%2Btutorial.ipynb)
+
+## Model Interpretability Resources ##
+ - [Lime](https://github.com/marcotcr/lime)
+ - [ChaLearn AutoML challenge ](http://automl.chalearn.org/)
+ - [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
  
 ## Tensorflow Resources ##
  - [Various Tensorflow Details](https://github.com/Avkash/mldl/blob/master/pages/tf_home.md)
