@@ -8,6 +8,7 @@
  - [mxnet](https://github.com/Avkash/mldl/blob/master/dllibs/mxnet/README.md)
  - [cntk](https://github.com/Avkash/mldl/blob/master/dllibs/cntk/README.md)
  - [caffe](https://github.com/Avkash/mldl/blob/master/dllibs/caffe/README.md)
+ - [DL4J](https://github.com/Avkash/mldl/blob/master/dllibs/dl4j/README.md)
  - [xgboost](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
  - [keras (High level API for TF, Theano, mxnet(coming soon), cntk(coming soon))](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
 
