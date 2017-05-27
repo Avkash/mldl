@@ -9,6 +9,12 @@
  - [caffe](https://github.com/Avkash/mldl/blob/master/dllibs/caffe/README.md)
  - [xgboost](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
 
+## Top Organizations with ML/DL projects(Which I mostly follow) ##
+ - [Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md)
+ - [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md)
+ - [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md)
+ - [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md)
+
 ## Projects, Presentations and Resources ##
  - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
  - [TensorBeat - Building AnswerBot with Keras and Tensorflow Slides](https://github.com/Avkash/mldl/tree/master/tensorbeat-answerbot)
