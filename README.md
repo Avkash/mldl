@@ -4,10 +4,10 @@
 [A](https://github.com/Avkash/mldl/blob/master/pages/def_a.md) B C D E F G [H](https://github.com/Avkash/mldl/blob/master/pages/def_h.md) I J K L M [N](https://github.com/Avkash/mldl/blob/master/pages/def_n.md) [O](https://github.com/Avkash/mldl/blob/master/pages/def_o.md) P Q R S T [U](https://github.com/Avkash/mldl/blob/master/pages/def_u.md) V W X Y Z
 
 ## Top Deep Learning Libraries (Which I use mostly)##
- - [Tensorflow]()
- - [mxnet]()
- - [caffe]()
- - [xgboost]()
+ - [Tensorflow](https://github.com/Avkash/mldl/blob/master/dllibs/tensorflow/README.md)
+ - [mxnet](https://github.com/Avkash/mldl/blob/master/dllibs/mxnet/README.md)
+ - [caffe](https://github.com/Avkash/mldl/blob/master/dllibs/caffe/README.md)
+ - [xgboost](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
 
 ## Projects, Presentations and Resources ##
  - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
