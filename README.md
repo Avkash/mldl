@@ -17,6 +17,7 @@
  - [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md)
  - [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md)
  - [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md)
+ - [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md)
 
 ## Projects, Presentations and Resources ##
  - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
