@@ -46,11 +46,6 @@
  - [ChaLearn AutoML challenge ](http://automl.chalearn.org/)
  - [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
  
-## Tensorflow Resources ##
- - [Various Tensorflow Details](https://github.com/Avkash/mldl/blob/master/pages/tf_home.md)
- - [Various Tensorflow Examples](https://github.com/Avkash/mldl/blob/master/pages/tf_examples.md)
-
-## Libraries ##
 ### Scala ### 
   - [Deeplearning.Scala](https://github.com/ThoughtWorksInc/DeepLearning.scala)
   - [Airbnb - Aerosolve](https://github.com/airbnb/aerosolve)
@@ -74,7 +69,6 @@
   - [Stanford CS231n - 2016 Lecturers](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
     - [Syllabus](http://cs231n.stanford.edu/syllabus.html)
     - [Class Reddit](https://www.reddit.com/r/cs231n/)
-  - [s]
   
   ### Active Links ###
   - [All my active links](https://github.com/Avkash/mldl/blob/master/pages/activelinks.md)
