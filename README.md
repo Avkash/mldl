@@ -39,6 +39,7 @@
 
 ## Deep Learning ##
  - [A16Z AI Playbook](http://aiplaybook.a16z.com/docs/guides/dl-architectures)
+ - [Google Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
  - [Neural Networks](https://github.com/Avkash/mldl/blob/master/pages/nn_all.md)
  - [Re-inforcement Learning](https://github.com/Avkash/mldl/edit/master/pages/rl_all.md)
  - [Deep Learning IDE & CNN Visualization](https://github.com/Avkash/mldl/blob/master/pages/dl_ide.md)
