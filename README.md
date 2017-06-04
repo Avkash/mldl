@@ -3,7 +3,7 @@
 ## Machine Learning Definition Terms ##
 [A](https://github.com/Avkash/mldl/blob/master/pages/def_a.md) B C D E F G [H](https://github.com/Avkash/mldl/blob/master/pages/def_h.md) I J K L M [N](https://github.com/Avkash/mldl/blob/master/pages/def_n.md) [O](https://github.com/Avkash/mldl/blob/master/pages/def_o.md) P Q R S T [U](https://github.com/Avkash/mldl/blob/master/pages/def_u.md) V W X Y Z
 
-##Cheatsheets (RefCards)##
+## Cheatsheets (RefCards) ##
  - [Keras](https://github.com/Avkash/mldl/blob/master/pages/refcards-keras.md) | [Neural Networks Zoo](https://github.com/Avkash/mldl/blob/master/pages/refcards-nn-zoo.md) | [Scikit-learn](https://github.com/Avkash/mldl/blob/master/pages/refcards-scikit-learn.md)
  - [Pandas](https://github.com/Avkash/mldl/blob/master/pages/refcards-pandas.md) | [numpy](https://github.com/Avkash/mldl/blob/master/pages/refcards-numpy.md) | [Scipy](https://github.com/Avkash/mldl/blob/master/pages/refcards-scipy.md) 
  - [ggplot](https://github.com/Avkash/mldl/blob/master/pages/refcards-ggplot.md) | [Matplotlib](https://github.com/Avkash/mldl/blob/master/pages/refcards-matplotlib.md)
