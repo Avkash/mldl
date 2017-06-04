@@ -40,7 +40,7 @@
 ## Deep Learning ##
  - [Neural Networks](https://github.com/Avkash/mldl/blob/master/pages/nn_all.md)
  - [Re-inforcement Learning](https://github.com/Avkash/mldl/edit/master/pages/rl_all.md)
- - [Deep Learning IDE](https://github.com/Avkash/mldl/edit/master/pages/dl_ide.md)
+ - [Deep Learning IDE & CNN Visualization](https://github.com/Avkash/mldl/edit/master/pages/dl_ide.md)
  
 ## Machine learning through examples ##
  - [Titanic Dataset and ML](https://github.com/Avkash/mldl/blob/master/titanic.md)
