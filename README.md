@@ -8,15 +8,12 @@
 
 [Life & Career Motivation](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)
  
-## Top Deep Learning Libraries (Which I use mostly)##
- - [Tensorflow](https://github.com/Avkash/mldl/blob/master/dllibs/tensorflow/README.md)
- - [mxnet](https://github.com/Avkash/mldl/blob/master/dllibs/mxnet/README.md)
- - [cntk](https://github.com/Avkash/mldl/blob/master/dllibs/cntk/README.md)
- - [caffe](https://github.com/Avkash/mldl/blob/master/dllibs/caffe/README.md)
- - [DL4J](https://github.com/Avkash/mldl/blob/master/dllibs/dl4j/README.md)
- - [Chainer](https://github.com/Avkash/mldl/blob/master/dllibs/chainer/README.md)
- - [xgboost](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
- - [keras (High level API for TF, Theano, mxnet(coming soon), cntk(coming soon))](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
+## Top Deep Learning Libraries/Dataframes (Which I use mostly)##
+[Tensorflow](https://github.com/Avkash/mldl/blob/master/dllibs/tensorflow/README.md) | [mxnet](https://github.com/Avkash/mldl/blob/master/dllibs/mxnet/README.md) | [cntk](https://github.com/Avkash/mldl/blob/master/dllibs/cntk/README.md) | [caffe](https://github.com/Avkash/mldl/blob/master/dllibs/caffe/README.md) | [DL4J](https://github.com/Avkash/mldl/blob/master/dllibs/dl4j/README.md) | [Chainer](https://github.com/Avkash/mldl/blob/master/dllibs/chainer/README.md) | [xgboost](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
+
+[keras (High level API for TF, Theano, mxnet(coming soon), cntk(coming soon))](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
+
+[cypy](https://cupy.chainer.org/) | [pygdf](https://github.com/gpuopenanalytics/pygdf) | [GPU Open Analytics](https://github.com/Avkash/mldl/blob/master/pages/gpuopenanalytics.md)
 
 ## Top Organizations with ML/DL projects(Which I mostly follow) ##
  - [Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md)
