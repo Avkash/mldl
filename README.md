@@ -24,9 +24,16 @@
  - [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md)
 
 ## AutoML (Automated Machine Learning Resources) ##
- - [Resources]()
- - [Libraries]()
+ - [Resources](https://github.com/Avkash/mldl/blob/master/pages/automl-resources.md)
+ - [Libraries](https://github.com/Avkash/mldl/blob/master/pages/automl-libraries.md)
 
+## Model Interpretability Resources ##
+ - [Ideas on interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
+ - [Lime](https://github.com/marcotcr/lime)
+ - [FairML: Auditing Black-Box Predictive Models](http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html)
+ - [ChaLearn AutoML challenge ](http://automl.chalearn.org/)
+ - [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
+ 
 ## Projects, Presentations and Resources ##
  - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
  - [TensorBeat - Building AnswerBot with Keras and Tensorflow Slides](https://github.com/Avkash/mldl/tree/master/tensorbeat-answerbot)
@@ -47,13 +54,6 @@
  - [Iris Dataset and ML](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
  - [Kmeans Tutorial using IRIS Dataset - by Avkash](https://github.com/Avkash/mldl/blob/master/notebook/Kmeans%2B%2B-%2Bend%2Bto%2Bend%2Btutorial.ipynb)
 
-## Model Interpretability Resources ##
- - [Ideas on interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
- - [Lime](https://github.com/marcotcr/lime)
- - [FairML: Auditing Black-Box Predictive Models](http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html)
- - [ChaLearn AutoML challenge ](http://automl.chalearn.org/)
- - [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
- 
 ### Scala ### 
   - [Deeplearning.Scala](https://github.com/ThoughtWorksInc/DeepLearning.scala)
   - [Airbnb - Aerosolve](https://github.com/airbnb/aerosolve)
