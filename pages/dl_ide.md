@@ -5,8 +5,12 @@
   - [Aertos - Trainers](https://aetros.com/trainer#features)
   - [Aertos - Keras Integration](https://aetros.com/trainer#features)
  - [Deepcognition](http://deepcognition.ai/)
+
+## Deep learning Projects ##
  - [Guild AI](https://github.com/guildai/guild)
  - [Perceptron](https://github.com/casparwylie/Perceptron)
+ - [TensorFlight](https://tensorflight.com/tutorial)
+ - [Neural Doodle](https://github.com/alexjc/neural-doodle)
 
 ## Keras Visualization ##
  - [Visualize the Activations of your layers with Keras](https://github.com/philipperemy/keras-visualize-activations)
