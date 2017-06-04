@@ -16,12 +16,7 @@
 [cypy](https://cupy.chainer.org/) | [pygdf](https://github.com/gpuopenanalytics/pygdf) | [GPU Open Analytics](https://github.com/Avkash/mldl/blob/master/pages/gpuopenanalytics.md)
 
 ## Top Organizations with ML/DL projects(Which I mostly follow) ##
- - [Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md)
- - [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md)
- - [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md)
- - [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md)
- - [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md)
- - [Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md)
+[Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md) | [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md) | [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md) | [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md) | [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md) | [Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md)
 
 ## AutoML (Automated Machine Learning Resources) ##
  - [Resources](https://github.com/Avkash/mldl/blob/master/pages/automl-resources.md)
