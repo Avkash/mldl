@@ -38,9 +38,6 @@
  - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
  - [TensorBeat - Building AnswerBot with Keras and Tensorflow Slides](https://github.com/Avkash/mldl/tree/master/tensorbeat-answerbot)
 
-## H2O Deep Water Build Process ##
- - [H2O Deep Water Build Guide](https://github.com/Avkash/mldl/blob/master/h2o_deepwater_build.md)
-
 ## Top 10 machine learning libraries @ github ##
  - [Top 10 by stars](https://github.com/search?o=desc&q=Machine+Learning&s=stars&type=Repositories&utf8=%E2%9C%93) 
  - [Top 10 listed @ kdnuggets](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)
