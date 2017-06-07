@@ -1,8 +1,3 @@
-#Machine Learning Terminology - N #
+# Machine Learning/Deep Learning Terminology(Glossary) - A #
 
-## Noisy Data ##
-```
-What is Noisy data?
-```
-
-
+A

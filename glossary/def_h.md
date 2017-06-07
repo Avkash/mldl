@@ -1,8 +1,3 @@
-#Machine Learning Terminology - H #
- 
+# Machine Learning/Deep Learning Terminology(Glossary) - A #
 
-## HyperParameter ##
-
-```
- This is hyperparameter
-```
+A
