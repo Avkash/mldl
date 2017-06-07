@@ -1,3 +1,7 @@
-# Machine Learning/Deep Learning Terminology(Glossary) - A #
+# Machine Learning/Deep Learning Terminology(Glossary) - P #
 
-A
+
+
+
+## Credits/Resources ##
+ - []()
