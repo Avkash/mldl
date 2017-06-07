@@ -11,12 +11,14 @@
 
 [Life & Career Motivation](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)
  
-## Top Deep Learning Libraries/Dataframes (Which I use mostly)##
+## Top Deep Learning Libraries/Dataframes/Methods (Which I use mostly)##
 [Tensorflow](https://github.com/Avkash/mldl/blob/master/dllibs/tensorflow/README.md) | [mxnet](https://github.com/Avkash/mldl/blob/master/dllibs/mxnet/README.md) | [cntk](https://github.com/Avkash/mldl/blob/master/dllibs/cntk/README.md) | [caffe](https://github.com/Avkash/mldl/blob/master/dllibs/caffe/README.md) | [DL4J](https://github.com/Avkash/mldl/blob/master/dllibs/dl4j/README.md) | [Chainer](https://github.com/Avkash/mldl/blob/master/dllibs/chainer/README.md) | [xgboost](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
 
 [keras (High level API for TF, Theano, mxnet(coming soon), cntk(coming soon))](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
 
-[cypy](https://cupy.chainer.org/) | [pygdf](https://github.com/gpuopenanalytics/pygdf) | [GPU Open Analytics](https://github.com/Avkash/mldl/blob/master/pages/gpuopenanalytics.md)
+[CUDA](https://github.com/Avkash/mldl/blob/master/pages/cuda_gpu.md) | [cypy](https://cupy.chainer.org/) | [pygdf](https://github.com/gpuopenanalytics/pygdf) | [GPU Open Analytics](https://github.com/Avkash/mldl/blob/master/pages/gpuopenanalytics.md)
+
+[Text Analysis]
 
 ## Top Organizations with ML/DL projects(Which I mostly follow) ##
 [Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md) | [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md) | [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md) | [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md) | [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md) | [Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md)
