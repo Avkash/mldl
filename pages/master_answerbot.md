@@ -28,4 +28,5 @@
  - [Keras: Twitter Analysis using Word2Vec](http://ahmedbesbes.com/sentiment-analysis-on-twitter-using-word2vec-and-keras.html)
  - [Short Text Categorization using NN and Word Embeddings](https://datawarrior.wordpress.com/2016/10/12/short-text-categorization-using-deep-neural-networks-and-word-embedding-models/)
  - [Python: Using BeautifulSoup Library](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
+ - [Text Summarization with Amazon Reviews](https://medium.com/towards-data-science/text-summarization-with-amazon-reviews-41801c2210b)
 
