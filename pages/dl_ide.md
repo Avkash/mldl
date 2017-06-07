@@ -21,8 +21,11 @@
 ## CNN Visualize Articles ## 
  - [Visualizing parts of Convolutional Neural Networks using Keras and Cats](https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59)
 
-## Deep Learning CNN Visualization - Videos ##
+## Deep Learning CNN Visualization Projects ##
  - [VGG16 Visualization](https://github.com/anujshah1003/convolution-layer-visualization-VGG-16)
+ - [DeepVis](https://github.com/yosinski/deep-visualization-toolbox)
+ 
+## Deep Learning CNN Visualization Vidoes ##
  - [Intermediate convolution layer visualization-VGG-16](https://www.youtube.com/watch?v=N7-lyuhKoz8)
  - [Visualizing weights & intermediate layer outputs of CNN in Keras](https://www.youtube.com/watch?v=5tW3y7lm7V0)
  - [VQA-DEMO in Keras using CNN & LSTM](https://www.youtube.com/watch?v=7FB9PvzOuQY)
