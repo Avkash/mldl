@@ -29,7 +29,7 @@
  - [ChaLearn AutoML challenge ](http://automl.chalearn.org/)
  - [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
  
-## Projects, Presentations and Resources ##
+## My (Projects & Presentations) ##
  - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
  - [TensorBeat - Building AnswerBot with Keras and Tensorflow Slides](https://github.com/Avkash/mldl/tree/master/tensorbeat-answerbot)
 
@@ -37,11 +37,6 @@
  - [Top 10 by stars](https://github.com/search?o=desc&q=Machine+Learning&s=stars&type=Repositories&utf8=%E2%9C%93) 
  - [Top 10 listed @ kdnuggets](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)
  
-## Machine learning through examples ##
- - [Titanic Dataset and ML](https://github.com/Avkash/mldl/blob/master/titanic.md)
- - [Iris Dataset and ML](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
- - [Kmeans Tutorial using IRIS Dataset - by Avkash](https://github.com/Avkash/mldl/blob/master/notebook/Kmeans%2B%2B-%2Bend%2Bto%2Bend%2Btutorial.ipynb)
-
 ### Scala ### 
   - [Deeplearning.Scala](https://github.com/ThoughtWorksInc/DeepLearning.scala)
   - [Airbnb - Aerosolve](https://github.com/airbnb/aerosolve)
