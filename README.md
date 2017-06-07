@@ -12,14 +12,14 @@
 [Life & Career Motivation](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)
 
 ## Deep & Machine Learning ##
-[All things Deep Learning](https://github.com/Avkash/mldl/blob/master/master_dl.md) | [All things Machine Learning](https://github.com/Avkash/mldl/blob/master/master_ml.md) | [All things Kaggle]() | [Training Resources](https://github.com/Avkash/mldl/blob/master/pages/master_training.md)
+[All things Deep Learning](https://github.com/Avkash/mldl/blob/master/master_dl.md) | [All things Machine Learning](https://github.com/Avkash/mldl/blob/master/master_ml.md) | [All things Kaggle](https://github.com/Avkash/mldl/blob/master/kaggle/master_kaggle.md) | [Training Resources](https://github.com/Avkash/mldl/blob/master/pages/master_training.md)
 
 [Python](https://github.com/Avkash/mldl/blob/master/pages/master_python.md) | [R](https://github.com/Avkash/mldl/blob/master/pages/master_r.md) | [Java](https://github.com/Avkash/mldl/blob/master/pages/master_java.md) | [Scala](https://github.com/Avkash/mldl/blob/master/pages/master_scala.md)
 
 [Self Driving Aotomotive Technology]()
 
 ## Latest in Machine Learning ##
-[Model Interpretability](https://github.com/Avkash/mldl/blob/master/ml_interpretability.md) | [Automated Machine Learning (AutoML](https://github.com/Avkash/mldl/blob/master/master_automl.md)
+[Model Interpretability](https://github.com/Avkash/mldl/blob/master/ml_interpretability.md) | [Automated Machine Learning (AutoML)](https://github.com/Avkash/mldl/blob/master/master_automl.md)
 
 ## Top Organizations with ML/DL projects(Which I mostly follow) ##
 [Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md) | [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md) | [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md) | [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md) | [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md) | [Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md)
