@@ -3,4 +3,4 @@
 
 ## PCA Quick Links ##
 
- - []
+ - [PCA in 3 steps](https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html)
