@@ -12,22 +12,15 @@
 [Life & Career Motivation](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)
 
 ## Deep & Machine Learning ##
- - [All things Deep Learning](https://github.com/Avkash/mldl/blob/master/master_dl.md)
- - [All things Machine Learning](https://github.com/Avkash/mldl/blob/master/master_ml.md)
+[All things Deep Learning](https://github.com/Avkash/mldl/blob/master/master_dl.md) | [All things Machine Learning](https://github.com/Avkash/mldl/blob/master/master_ml.md)
+
+[Python](https://github.com/Avkash/mldl/blob/master/pages/master_python.md) | [R](https://github.com/Avkash/mldl/blob/master/pages/master_r.md) | [Java](https://github.com/Avkash/mldl/blob/master/pages/master_java.md) | [Scala](https://github.com/Avkash/mldl/blob/master/pages/master_scala.md)
+
+## Latest in Machine Learning ##
+[Model Interpretability](https://github.com/Avkash/mldl/blob/master/ml_interpretability.md) | [Automated Machine Learning (AutoML](https://github.com/Avkash/mldl/blob/master/master_automl.md)
 
 ## Top Organizations with ML/DL projects(Which I mostly follow) ##
 [Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md) | [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md) | [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md) | [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md) | [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md) | [Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md)
-
-## AutoML (Automated Machine Learning Resources) ##
- - [Resources](https://github.com/Avkash/mldl/blob/master/pages/automl-resources.md)
- - [Libraries](https://github.com/Avkash/mldl/blob/master/pages/automl-libraries.md)
-
-## Model Interpretability Resources ##
- - [Ideas on interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
- - [Lime](https://github.com/marcotcr/lime)
- - [FairML: Auditing Black-Box Predictive Models](http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html)
- - [ChaLearn AutoML challenge ](http://automl.chalearn.org/)
- - [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
  
 ## My (Projects & Presentations) ##
  - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
@@ -41,13 +34,7 @@
   - [Deeplearning.Scala](https://github.com/ThoughtWorksInc/DeepLearning.scala)
   - [Airbnb - Aerosolve](https://github.com/airbnb/aerosolve)
   - [Aerosolve - Income Prediction Sample in Scala](https://github.com/airbnb/aerosolve/tree/master/demo/income_prediction)
-  
-### Python Tutorials ###
-  - [Python Lecturers](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/tree/master/)
-  - [Matlibplot Guide](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb)
-  - [Learning Pandas](https://bitbucket.org/hrojas/learn-pandas)
-  - [Emoji Workshop](https://github.com/Avkash/mldl/blob/master/pages/emoji_workshop.md)
-  
+    
 ### Articles ###
   - [All Articles](https://github.com/Avkash/mldl/blob/master/pages/all_articles.md)
   
