@@ -11,7 +11,7 @@
  - [Perceptron](https://github.com/casparwylie/Perceptron)
  - [TensorFlight](https://tensorflight.com/tutorial)
  - [Neural Doodle](https://github.com/alexjc/neural-doodle)
- - [Visual Questions-Answers with Keras](https://github.com/avisingh599/visual-qa)
+ - [Visual Questions-Answers with Keras (VisualQA)](https://github.com/avisingh599/visual-qa)
   - [Deep Learning for Visual Question Answering](https://avisingh599.github.io/deeplearning/visual-qa/)
 
 ## Keras Visualization ##
