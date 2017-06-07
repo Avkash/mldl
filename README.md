@@ -12,9 +12,11 @@
 [Life & Career Motivation](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)
 
 ## Deep & Machine Learning ##
-[All things Deep Learning](https://github.com/Avkash/mldl/blob/master/master_dl.md) | [All things Machine Learning](https://github.com/Avkash/mldl/blob/master/master_ml.md)
+[All things Deep Learning](https://github.com/Avkash/mldl/blob/master/master_dl.md) | [All things Machine Learning](https://github.com/Avkash/mldl/blob/master/master_ml.md) | [Training Resources](https://github.com/Avkash/mldl/blob/master/pages/master_training.md)
 
 [Python](https://github.com/Avkash/mldl/blob/master/pages/master_python.md) | [R](https://github.com/Avkash/mldl/blob/master/pages/master_r.md) | [Java](https://github.com/Avkash/mldl/blob/master/pages/master_java.md) | [Scala](https://github.com/Avkash/mldl/blob/master/pages/master_scala.md)
+
+[Self Driving Aotomotive Technology]()
 
 ## Latest in Machine Learning ##
 [Model Interpretability](https://github.com/Avkash/mldl/blob/master/ml_interpretability.md) | [Automated Machine Learning (AutoML](https://github.com/Avkash/mldl/blob/master/master_automl.md)
@@ -29,25 +31,10 @@
 ## Top 10 machine learning libraries @ github ##
  - [Top 10 by stars](https://github.com/search?o=desc&q=Machine+Learning&s=stars&type=Repositories&utf8=%E2%9C%93) 
  - [Top 10 listed @ kdnuggets](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)
- 
-### Scala ### 
-  - [Deeplearning.Scala](https://github.com/ThoughtWorksInc/DeepLearning.scala)
-  - [Airbnb - Aerosolve](https://github.com/airbnb/aerosolve)
-  - [Aerosolve - Income Prediction Sample in Scala](https://github.com/airbnb/aerosolve/tree/master/demo/income_prediction)
-    
+     
 ### Articles ###
   - [All Articles](https://github.com/Avkash/mldl/blob/master/pages/all_articles.md)
-  
-### Training Series ###
-  - [Stanford CS229  - Course Info](http://cs229.stanford.edu/info.html)
-    - [Material](http://cs229.stanford.edu/materials.html)
-    - [Content](http://cs229.stanford.edu/)
-    - [All Videos](http://videolectures.net/stanfordcs229f07_machine_learning/)
-  - [Stanford CS231  - 2016 Lectures](https://www.youtube.com/playlist?list=PL70hhrN6k0-CmnEhCnZLVP_0d9XH3edXW)
-  - [Stanford CS231n - 2016 Lecturers](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
-    - [Syllabus](http://cs231n.stanford.edu/syllabus.html)
-    - [Class Reddit](https://www.reddit.com/r/cs231n/)
-  
+    
 ### Active Links ###
   - [All my active links](https://github.com/Avkash/mldl/blob/master/pages/activelinks.md)
 
