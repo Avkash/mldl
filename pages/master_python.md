@@ -1,7 +1,7 @@
 # Machine and Deep Learning in Python #
 
 ## Libraries ##
- - []()
+ - [Mlxtend (machine learning extensions) - tools for the day-to-day data science tasks](http://rasbt.github.io/mlxtend/)
 
 ## Tutorials ##
  - [Python Lecturers](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/tree/master/)
