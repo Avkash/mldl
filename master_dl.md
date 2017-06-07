@@ -17,3 +17,7 @@
  - [Deep Learning IDE & CNN Visualization](https://github.com/Avkash/mldl/blob/master/pages/dl_ide.md)
  - [AI Demo Sites](https://github.com/Avkash/mldl/blob/master/pages/ai_demo_sites.md)
  
+## Deep Learning Projects ##
+ - 
+	- [Fast.ai](http://www.fast.ai/)
+	- [Tensorflight](https://tensorflight.io/)
