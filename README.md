@@ -10,15 +10,10 @@
 [Keras](https://github.com/Avkash/mldl/blob/master/pages/refcards-keras.md) | [Neural Networks Zoo](https://github.com/Avkash/mldl/blob/master/pages/refcards-nn-zoo.md) | [Scikit-learn](https://github.com/Avkash/mldl/blob/master/pages/refcards-scikit-learn.md) | [Pandas](https://github.com/Avkash/mldl/blob/master/pages/refcards-pandas.md) | [numpy](https://github.com/Avkash/mldl/blob/master/pages/refcards-numpy.md) | [Scipy](https://github.com/Avkash/mldl/blob/master/pages/refcards-scipy.md) | [ggplot](https://github.com/Avkash/mldl/blob/master/pages/refcards-ggplot.md) | [Matplotlib](https://github.com/Avkash/mldl/blob/master/pages/refcards-matplotlib.md)
 
 [Life & Career Motivation](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)
- 
-## Top Deep Learning Libraries/Dataframes/Methods (Which I use mostly)##
-[Tensorflow](https://github.com/Avkash/mldl/blob/master/dllibs/tensorflow/README.md) | [mxnet](https://github.com/Avkash/mldl/blob/master/dllibs/mxnet/README.md) | [cntk](https://github.com/Avkash/mldl/blob/master/dllibs/cntk/README.md) | [caffe](https://github.com/Avkash/mldl/blob/master/dllibs/caffe/README.md) | [DL4J](https://github.com/Avkash/mldl/blob/master/dllibs/dl4j/README.md) | [Chainer](https://github.com/Avkash/mldl/blob/master/dllibs/chainer/README.md) | [xgboost](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
 
-[keras (High level API for TF, Theano, mxnet(coming soon), cntk(coming soon))](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
-
-[CUDA](https://github.com/Avkash/mldl/blob/master/pages/cuda_gpu.md) | [cypy](https://cupy.chainer.org/) | [pygdf](https://github.com/gpuopenanalytics/pygdf) | [GPU Open Analytics](https://github.com/Avkash/mldl/blob/master/pages/gpuopenanalytics.md)
-
-[Text Analysis]
+## Deep & Machine Learning ##
+ - [All things Deep Learning](https://github.com/Avkash/mldl/blob/master/master_dl.md)
+ - [All things Machine Learning](https://github.com/Avkash/mldl/blob/master/master_ml.md)
 
 ## Top Organizations with ML/DL projects(Which I mostly follow) ##
 [Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md) | [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md) | [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md) | [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md) | [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md) | [Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md)
@@ -41,15 +36,7 @@
 ## Top 10 machine learning libraries @ github ##
  - [Top 10 by stars](https://github.com/search?o=desc&q=Machine+Learning&s=stars&type=Repositories&utf8=%E2%9C%93) 
  - [Top 10 listed @ kdnuggets](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)
-
-## Deep Learning ##
- - [A16Z AI Playbook](http://aiplaybook.a16z.com/docs/guides/dl-architectures)
- - [Google Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
- - [Neural Networks](https://github.com/Avkash/mldl/blob/master/pages/nn_all.md)
- - [Re-inforcement Learning](https://github.com/Avkash/mldl/edit/master/pages/rl_all.md)
- - [Deep Learning IDE & CNN Visualization](https://github.com/Avkash/mldl/blob/master/pages/dl_ide.md)
- - [AI Demo Sites](https://github.com/Avkash/mldl/blob/master/pages/ai_demo_sites.md)
-  
+ 
 ## Machine learning through examples ##
  - [Titanic Dataset and ML](https://github.com/Avkash/mldl/blob/master/titanic.md)
  - [Iris Dataset and ML](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
