@@ -1,7 +1,8 @@
 # All things Natural Language Processing #
 
 ## Libraries ##
- - [Facebook bAbi Project](Facebook - https://research.fb.com/projects/babi/ (bAbi))
+ - [Facebook bAbi Project]
+   - [Facebook bAbi](https://research.fb.com/projects/babi/)
  - [Microsoft](https://www.microsoft.com/en-us/research/group/natural-language-processing/)
    - [Deep Learning for NLP Throry and Practice](https://www.microsoft.com/en-us/research/publication/deep-learning-for-natural-language-processing-theory-and-practice-tutorial/)
    - [Text Analytics API](https://www.microsoft.com/cognitive-services/en-us/text-analytics-api)
