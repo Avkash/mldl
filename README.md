@@ -16,7 +16,7 @@
 
 [All things Kaggle](https://github.com/Avkash/mldl/blob/master/kaggle/master_kaggle.md)| [Training Resources](https://github.com/Avkash/mldl/blob/master/pages/master_training.md) | [All things Datasets](https://github.com/Avkash/mldl/blob/master/pages/master_datasets.md) | [AI Companies](https://github.com/Avkash/mldl/blob/master/dllibs/enterprise_ai.md) | [All things NLP](https://github.com/Avkash/mldl/blob/master/dllibs/master_nlp.md)
 
-[Python](https://github.com/Avkash/mldl/blob/master/pages/master_python.md) | [R](https://github.com/Avkash/mldl/blob/master/pages/master_r.md) | [Java](https://github.com/Avkash/mldl/blob/master/pages/master_java.md) | [Scala](https://github.com/Avkash/mldl/blob/master/pages/master_scala.md) | [Spark](https://github.com/Avkash/mldl/blob/master/pages/master_spark.md)
+[Python](https://github.com/Avkash/mldl/blob/master/pages/master_python.md) | [R](https://github.com/Avkash/mldl/blob/master/dllibs/master_r.md) | [Java](https://github.com/Avkash/mldl/blob/master/dllibs/master_java.md) | [Scala](https://github.com/Avkash/mldl/blob/master/pages/master_scala.md) | [Spark](https://github.com/Avkash/mldl/blob/master/pages/master_spark.md)
 
 ## Latest in Machine Learning ##
 [Model Interpretability](https://github.com/Avkash/mldl/blob/master/ml_interpretability.md) | [Automated Machine Learning (AutoML)](https://github.com/Avkash/mldl/blob/master/master_automl.md) | [Model Management](https://github.com/Avkash/mldl/blob/master/pages/master_model_mgmt.md) | [AnswerBots](https://github.com/Avkash/mldl/blob/master/pages/master_answerbot.md) | [Time-Series](https://github.com/Avkash/mldl/blob/master/dllibs/timeseries.md)
