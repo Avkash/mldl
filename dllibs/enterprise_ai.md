@@ -10,8 +10,9 @@
  - [SparkML]
 
 ## Healthcare ##
+ 
 
-
-## Finance ##
+## ASIC/FPGA, Hardware ##
+ - [DeepVision](http://deepvision.io/#our-solution)
 
 
