@@ -9,7 +9,7 @@
    - [Text Analytics](https://www.microsoft.com/cognitive-services/en-us/text-analytics/documentation)
    - [AI](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/)
  - [IBM - ML Technology](https://www.ibm.com/analytics/us/en/technology/machine-learning/) 
- - [GENSIM]
+ - [GENSIM](https://radimrehurek.com/gensim/)
  
 ## Samples/Source ##
  - [Modern NLP in Python (Notebook)](http://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
