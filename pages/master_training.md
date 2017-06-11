@@ -1,14 +1,15 @@
 # AI, ML, DL Traning Resources #
 
 ## Training Series ##
-  - [Fast.ai - 7 weeks traning course](http://course.fast.ai/)
-   - [Lesson 1](http://course.fast.ai/lessons/lesson1.html)
-   - [Lesson 2](http://course.fast.ai/lessons/lesson2.html)
-   - [Lesson 3](http://course.fast.ai/lessons/lesson3.html)
-   - [Lesson 4](http://course.fast.ai/lessons/lesson4.html)
-   - [Lesson 5](http://course.fast.ai/lessons/lesson5.html)
-   - [Lesson 6](http://course.fast.ai/lessons/lesson6.html)
-   - [Lesson 7](http://course.fast.ai/lessons/lesson7.html)
+  - [Fast.ai - 7 weeks Practical Deep Learning For Coders](http://course.fast.ai/)
+    - [Intro: WHY DEEP LEARNING; INTRO TO CONVOLUTIONS](http://course.fast.ai/lessons/lesson0.html)
+    - [Lesson 1(RECOGNIZING CATS AND DOGS)](http://course.fast.ai/lessons/lesson1.html)
+    - [Lesson 2(CONVOLUTIONAL NEURAL NETWORKS)](http://course.fast.ai/lessons/lesson2.html)
+    - [Lesson 3(UNDER FITTING AND OVER FITTING)](http://course.fast.ai/lessons/lesson3.html)
+    - [Lesson 4(COLLABORATIVE FILTERING, EMBEDDINGS, AND MORE)](http://course.fast.ai/lessons/lesson4.html)
+    - [Lesson 5(INTRO TO NLP AND RNNS)](http://course.fast.ai/lessons/lesson5.html)
+    - [Lesson 6(BUILDING RNNS)](http://course.fast.ai/lessons/lesson6.html)
+    - [Lesson 7(EXOTIC CNN ARCHITECTURES; RNN FROM SCRATCH)](http://course.fast.ai/lessons/lesson7.html)
   - [Stanford CS229  - Course Info](http://cs229.stanford.edu/info.html)
     - [Material](http://cs229.stanford.edu/materials.html)
     - [Content](http://cs229.stanford.edu/)
