@@ -1,6 +1,14 @@
 # AI, ML, DL Traning Resources #
 
 ## Training Series ##
+  - [Fast.ai - 7 weeks traning course](http://course.fast.ai/)
+   - [Lesson 1](http://course.fast.ai/lessons/lesson1.html)
+   - [Lesson 2](http://course.fast.ai/lessons/lesson2.html)
+   - [Lesson 3](http://course.fast.ai/lessons/lesson3.html)
+   - [Lesson 4](http://course.fast.ai/lessons/lesson4.html)
+   - [Lesson 5](http://course.fast.ai/lessons/lesson5.html)
+   - [Lesson 6](http://course.fast.ai/lessons/lesson6.html)
+   - [Lesson 7](http://course.fast.ai/lessons/lesson7.html)
   - [Stanford CS229  - Course Info](http://cs229.stanford.edu/info.html)
     - [Material](http://cs229.stanford.edu/materials.html)
     - [Content](http://cs229.stanford.edu/)
@@ -9,7 +17,7 @@
   - [Stanford CS231n - 2016 Lecturers](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
     - [Syllabus](http://cs231n.stanford.edu/syllabus.html)
     - [Class Reddit](https://www.reddit.com/r/cs231n/)
- - [A Whirlwind Tour of ML](https://github.com/mitdbg/ml-class-iap2017)
+  - [A Whirlwind Tour of ML](https://github.com/mitdbg/ml-class-iap2017)
   - [Lecture 1 Slides](https://github.com/mitdbg/ml-class-iap2017/blob/master/slides/lec1.pdf)
   - [Lecture 2 Slides](https://github.com/mitdbg/ml-class-iap2017/blob/master/slides/lec2.pdf)
- - []()
+  - []()
