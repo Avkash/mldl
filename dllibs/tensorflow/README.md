@@ -4,6 +4,8 @@
 
 ## Tensorflow Resources ##
  - [Deep Learning CNN’s in Tensorflow with GPUs](https://hackernoon.com/deep-learning-cnns-in-tensorflow-with-gpus-cba6efe0acc2)
- - [Various Tensorflow Examples](https://github.com/Avkash/mldl/blob/master/pages/tf_examples.md)
+ - [My Journey into Deep Learning](https://hackernoon.com/my-journey-into-deep-learning-9104057a642f)
 
 
+## Re-inforcement Learning with Tensorflow ##
+ - [Deep Q-Networks and Practical Reinforcement Learning with TensorFlow](https://medium.com/@Altoros/deep-q-networks-and-practical-reinforcement-learning-with-tensorflow-fb2874763223)
