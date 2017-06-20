@@ -1,4 +1,5 @@
 # All things Machine Learning #
+ - [For the Starters - Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
 ## Machine learning through examples ##
  - [Titanic Dataset and ML](https://github.com/Avkash/mldl/blob/master/titanic.md)
