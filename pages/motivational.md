@@ -5,6 +5,7 @@ You must spent about 5 minutes every 4 working hours to read motivational conten
  - [35 things no one told you about becoming successful](https://journal.thriveglobal.com/35-things-no-one-told-you-about-becoming-successful-4b25edd1fe9)
  - [Why you will fail?](https://www.ted.com/search?q=why+you+will+fail)
  - [Arsheep Bhardwaj on how failure is the process to success](https://journal.thriveglobal.com/arsheep-bhardwaj-on-how-failure-is-the-process-to-success-a8d203ec317d)
+ - [How Can You Tell Someone Has True Leadership Skills? Look for This 1 Rare Sign](https://www.inc.com/marcel-schwantes/how-can-you-tell-someone-has-true-leadership-skills-look-for-this-1-rare-sign.html)
  
 ### Life ###
  - [11 Ways to beat procrastination](https://www.inc.com/travis-bradberry/11-ways-to-beat-procrastination.html)
