@@ -1,5 +1,3 @@
-Keras - 
-
 ## Key Details ##
  - [Keras Source Github](https://github.com/fchollet/keras)
  - [Keras Deep Learning Models](https://github.com/fchollet/deep-learning-models)
