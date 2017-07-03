@@ -38,3 +38,7 @@
 
 ## Deep Learning solutions ## 
  - [Introducing deep learning and long-short term memory networks](https://www.ibm.com/developerworks/analytics/library/iot-deep-learning-anomaly-detection-1/index.html)
+ 
+## Speed and Benchmarks ##
+ - [CNN Model Benchmarks](https://github.com/jcjohnson/cnn-benchmarks)  
+ - [Train your deep model faster and sharper — two novel techniques](https://hackernoon.com/training-your-deep-model-faster-and-sharper-e85076c3b047)
