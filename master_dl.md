@@ -1,14 +1,24 @@
 # All things about Deep Learnng #
 
 ## Top Deep Learning Libraries/Dataframes/Methods (Which I use mostly)##
-[Tensorflow](https://github.com/Avkash/mldl/blob/master/dllibs/tensorflow/README.md) | [mxnet](https://github.com/Avkash/mldl/blob/master/dllibs/mxnet/README.md) | [cntk](https://github.com/Avkash/mldl/blob/master/dllibs/cntk/README.md) | [caffe](https://github.com/Avkash/mldl/blob/master/dllibs/caffe/README.md) | [DL4J](https://github.com/Avkash/mldl/blob/master/dllibs/dl4j/README.md) | [Chainer](https://github.com/Avkash/mldl/blob/master/dllibs/chainer/README.md) | [xgboost](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
+ - [Tensorflow](https://github.com/Avkash/mldl/blob/master/dllibs/tensorflow/README.md)
+ - [mxnet](https://github.com/Avkash/mldl/blob/master/dllibs/mxnet/README.md)
+ - [cntk](https://github.com/Avkash/mldl/blob/master/dllibs/cntk/README.md)
+ - [caffe](https://github.com/Avkash/mldl/blob/master/dllibs/caffe/README.md)
+ - [DL4J](https://github.com/Avkash/mldl/blob/master/dllibs/dl4j/README.md)
+ - [Chainer](https://github.com/Avkash/mldl/blob/master/dllibs/chainer/README.md)
+ - [xgboost](https://github.com/Avkash/mldl/blob/master/dllibs/xgboost/README.md)
+ - [Keras - High level API for TF, Theano, mxnet, CNTK](https://github.com/Avkash/mldl/blob/master/dllibs/keras/README.md)
 
-[Keras - High level API for TF, Theano, mxnet, CNTK](https://github.com/Avkash/mldl/blob/master/dllibs/keras/README.md)
+## GPU and Deep Learning ##
+ - [CUDA](https://github.com/Avkash/mldl/blob/master/pages/cuda_gpu.md)
+ - [cypy](https://cupy.chainer.org/)
+ - [pygdf](https://github.com/gpuopenanalytics/pygdf)
+ - [GPU Open Analytics](https://github.com/Avkash/mldl/blob/master/pages/gpuopenanalytics.md)
 
-[CUDA](https://github.com/Avkash/mldl/blob/master/pages/cuda_gpu.md) | [cypy](https://cupy.chainer.org/) | [pygdf](https://github.com/gpuopenanalytics/pygdf) | [GPU Open Analytics](https://github.com/Avkash/mldl/blob/master/pages/gpuopenanalytics.md)
-
-[Text Analysis]
-
+# Text Analysis with Deep Learning#
+ - [Word2Vec]
+ 
 ## Deep Learning Resources ##
  - [A16Z AI Playbook](http://aiplaybook.a16z.com/docs/guides/dl-architectures)
  - [Google Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
