@@ -1,6 +1,6 @@
 ## Tensorflow Libraries ##
  - [TensorFlowOnSpark  - Yahoo](https://github.com/yahoo/TensorFlowOnSpark)
- - [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor)
+ - [Tensor2Tensor - A library for generalized sequence to sequence models](https://github.com/tensorflow/tensor2tensor)
 
 
 ## Tensorflow Resources ##
