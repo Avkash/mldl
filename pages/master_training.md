@@ -10,6 +10,9 @@
     - [Lesson 5(INTRO TO NLP AND RNNS)](http://course.fast.ai/lessons/lesson5.html)
     - [Lesson 6(BUILDING RNNS)](http://course.fast.ai/lessons/lesson6.html)
     - [Lesson 7(EXOTIC CNN ARCHITECTURES; RNN FROM SCRATCH)](http://course.fast.ai/lessons/lesson7.html)
+  - [Computer Science - Georgia Tech] (http://www.cc.gatech.edu/~hays)
+    - [CS 4476 / 6476 Computer Vision](http://www.cc.gatech.edu/~hays/compvision/)
+      - [Project 1: Image Filtering and Hybrid Images] 
   - [Stanford CS229  - Course Info](http://cs229.stanford.edu/info.html)
     - [Material](http://cs229.stanford.edu/materials.html)
     - [Content](http://cs229.stanford.edu/)
