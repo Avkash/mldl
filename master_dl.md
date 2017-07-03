@@ -35,6 +35,8 @@
  - [Stock2Vec - Stock market to Vec](https://medium.com/towards-data-science/stock2vec-from-ml-to-p-e-2e6ba407c24)
  - [Descriptive Deep Learning - Kur](https://github.com/deepgram/kur)
  - [A Small Neural Network in C/C++](https://github.com/luanfujun/LearnMSE)
+ - [Artistic Style - VGG16 + Tensorflow](https://github.com/janivanecky/Artistic-Style)
+
 
 ## Deep Learning solutions ## 
  - [Introducing deep learning and long-short term memory networks](https://www.ibm.com/developerworks/analytics/library/iot-deep-learning-anomaly-detection-1/index.html)
