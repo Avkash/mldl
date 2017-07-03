@@ -14,7 +14,9 @@
  - [CUDA](https://github.com/Avkash/mldl/blob/master/pages/cuda_gpu.md)
  - [cypy](https://cupy.chainer.org/)
  - [pygdf](https://github.com/gpuopenanalytics/pygdf)
+ - [py3nvml](https://github.com/fbcotter/py3nvml)
  - [GPU Open Analytics](https://github.com/Avkash/mldl/blob/master/pages/gpuopenanalytics.md)
+ 
 
 # Text Analysis with Deep Learning#
  - [Word2Vec]
