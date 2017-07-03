@@ -14,9 +14,9 @@
  - [CUDA](https://github.com/Avkash/mldl/blob/master/pages/cuda_gpu.md)
  - [cypy](https://cupy.chainer.org/)
  - [pygdf](https://github.com/gpuopenanalytics/pygdf)
+   -  - [MapD to Pygdf with H2Oai](https://github.com/gpuopenanalytics/pygdf/blob/master/notebooks/mapd_to_pygdf_to_h2oaiglm.ipynb)
  - [py3nvml](https://github.com/fbcotter/py3nvml)
  - [GPU Open Analytics](https://github.com/Avkash/mldl/blob/master/pages/gpuopenanalytics.md)
- 
 
 # Text Analysis with Deep Learning#
  - [Word2Vec]
@@ -33,3 +33,4 @@
  - [Fast.ai](http://www.fast.ai/)
  - [Tensorflight](https://tensorflight.io/)
  - [Stock2Vec - Stock market to Vec](https://medium.com/towards-data-science/stock2vec-from-ml-to-p-e-2e6ba407c24)
+ - [Descriptive Deep Learning - Kur](https://github.com/deepgram/kur)
