@@ -14,9 +14,14 @@
 [Life & Career Motivation](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)
 
 ## Deep & Machine Learning ##
-[All things Deep Learning](https://github.com/Avkash/mldl/blob/master/master_dl.md) | [All things Machine Learning](https://github.com/Avkash/mldl/blob/master/master_ml.md) | [Self Driving Automotive Technology](https://github.com/Avkash/mldl/blob/master/driverless/README.md)
+[All things Deep Learning](https://github.com/Avkash/mldl/blob/master/master_dl.md) | [All things Machine Learning](https://github.com/Avkash/mldl/blob/master/master_ml.md) | [Self Driving Automotive Technology](https://github.com/Avkash/mldl/blob/master/driverless/README.md) | [GAN](https://github.com/Avkash/mldl/blob/master/pages/mater_gan.md)
 
 [All things Kaggle](https://github.com/Avkash/mldl/blob/master/kaggle/master_kaggle.md)| [Training Resources](https://github.com/Avkash/mldl/blob/master/pages/master_training.md) | [All things Datasets](https://github.com/Avkash/mldl/blob/master/pages/master_datasets.md) | [AI Companies](https://github.com/Avkash/mldl/blob/master/dllibs/enterprise_ai.md) | [All things NLP](https://github.com/Avkash/mldl/blob/master/dllibs/master_nlp.md)
+
+
+https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners?imm_mid=0f28f9&cmp=em-data-na-na-newsltr_ai_20170612
+
+## Coding and Programming ##
 
 [Python](https://github.com/Avkash/mldl/blob/master/pages/master_python.md) | [R](https://github.com/Avkash/mldl/blob/master/dllibs/master_r.md) | [Java](https://github.com/Avkash/mldl/blob/master/dllibs/master_java.md) | [Scala](https://github.com/Avkash/mldl/blob/master/pages/master_scala.md) | [Spark](https://github.com/Avkash/mldl/blob/master/pages/master_spark.md)
 
