@@ -18,6 +18,6 @@
  - [AI Demo Sites](https://github.com/Avkash/mldl/blob/master/pages/ai_demo_sites.md)
  
 ## Deep Learning Projects ##
- - 
-	- [Fast.ai](http://www.fast.ai/)
-	- [Tensorflight](https://tensorflight.io/)
+ - [Fast.ai](http://www.fast.ai/)
+ - [Tensorflight](https://tensorflight.io/)
+ - [Stock2Vec - Stock market to Vec](https://medium.com/towards-data-science/stock2vec-from-ml-to-p-e-2e6ba407c24)
