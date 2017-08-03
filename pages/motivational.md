@@ -14,3 +14,4 @@ You must spent about 5 minutes every 4 working hours to read motivational conten
  - [11 Ways to beat procrastination](https://www.inc.com/travis-bradberry/11-ways-to-beat-procrastination.html)
  - [How to Become the Best in the World at What You Do](https://journal.thriveglobal.com/how-to-become-the-best-in-the-world-at-what-you-do-45e74115c07a)
  - [The 7 Mental Shifts That Only Ultra-Successful People Make](https://journal.thriveglobal.com/7-mental-shifts-ultra-successful-people-make-4f2f95bf0c7)
+ - [A Japanese doctor who studied longevity — and lived to 105 — said if you must retire, do it well after age 65](http://www.businessinsider.com/doctor-who-studied-longevity-dont-retire-2017-7) 
