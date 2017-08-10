@@ -28,7 +28,7 @@
 ## Organizations/Personals/Blogs with active ML/DL projects (Which I mostly follow) ##
 [Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md) | [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md) | [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md) | [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md) | [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md) | [Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md)
  
-[Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | [Blogs](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Quora AI Sections](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) 
+[Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | [Blogs](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Quora AI Sections](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Newaletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)
  
 ## My (Projects & Presentations) ##
  - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
