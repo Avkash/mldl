@@ -1,8 +1,6 @@
 # All things about Deep Learnng #
 
-- [All Deep Learning projects at Github](https://github.com/search?q=topic%3Adeep-learning&type=Repositories)
-- [All Machine Learning projects at Github](https://github.com/search?o=desc&q=topic%3Amachine-learning+&s=stars&type=Repositories&utf8=%E2%9C%93)
-- [All Neural Network projects at Github](https://github.com/search?q=topic%3Aneural-network&type=Repositories)
+[All Deep Learning projects at Github](https://github.com/search?q=topic%3Adeep-learning&type=Repositories) | [All Machine Learning projects at Github](https://github.com/search?o=desc&q=topic%3Amachine-learning+&s=stars&type=Repositories&utf8=%E2%9C%93) | [All Neural Network projects at Github](https://github.com/search?q=topic%3Aneural-network&type=Repositories)
 
 ## Top Deep Learning Libraries/Dataframes/Methods (Which I use mostly)##
  - [Tensorflow](https://github.com/Avkash/mldl/blob/master/dllibs/tensorflow/README.md)
