@@ -1,5 +1,7 @@
 # All things Natural Language Processing #
 
+[A list of NLP specific projects at Github](https://github.com/search?utf8=%E2%9C%93&q=topic%3Anlp&type=Repositories)
+
 ## Libraries ##
  - [Facebook bAbi Project]
    - [Facebook bAbi](https://research.fb.com/projects/babi/)
