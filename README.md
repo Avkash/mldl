@@ -9,6 +9,10 @@
 ## Cheatsheets (RefCards) ##
 [Keras](https://github.com/Avkash/mldl/blob/master/pages/refcards-keras.md) | [Neural Networks Zoo](https://github.com/Avkash/mldl/blob/master/pages/refcards-nn-zoo.md) | [Scikit-learn](https://github.com/Avkash/mldl/blob/master/pages/refcards-scikit-learn.md) | [Pandas](https://github.com/Avkash/mldl/blob/master/pages/refcards-pandas.md) | [numpy](https://github.com/Avkash/mldl/blob/master/pages/refcards-numpy.md) | [Scipy](https://github.com/Avkash/mldl/blob/master/pages/refcards-scipy.md) | [ggplot](https://github.com/Avkash/mldl/blob/master/pages/refcards-ggplot.md) | [Matplotlib](https://github.com/Avkash/mldl/blob/master/pages/refcards-matplotlib.md)
 
+## Learn by Watching/Reading/Tailgating ##
+
+[YouTube Videos](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Podcast](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Video Turotials](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | [Blogs](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Quora AI Sections](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Newsletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)
+
 ## Motivational Stuff in Life & Career ##
 
 [Life & Career Motivation](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)
@@ -27,9 +31,7 @@
 
 ## Organizations/Personals/Blogs with active ML/DL projects (Which I mostly follow) ##
 [Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md) | [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md) | [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md) | [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md) | [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md) | [Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md)
- 
-[Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | [Blogs](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Quora AI Sections](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Newaletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)
- 
+  
 ## My (Projects & Presentations) ##
  - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
  - [TensorBeat - Building AnswerBot with Keras and Tensorflow Slides](https://github.com/Avkash/mldl/tree/master/tensorbeat-answerbot)
