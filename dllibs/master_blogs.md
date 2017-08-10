@@ -42,3 +42,24 @@
 - [Computational-Linguistics](https://www.quora.com/topic/Computational-Linguistics) (23K followers)
 - [Recurrent-Neural-Networks](https://www.quora.com/topic/Recurrent-Neural-Networks) (17.4K followers)
 
+
+# Newsletters #
+
+- [The Exponential View](https://www.getrevue.co/profile/azeem)
+- [AI Weekly](http://aiweekly.co/)
+- [Deep Hunt](https://deephunt.in/)
+- [O’Reilly Artificial Intelligence Newsletter](http://www.oreilly.com/ai/newsletter.html)
+- [Machine Learning Weekly](http://mlweekly.com/)
+- [Data Science Weekly Newsletter](https://www.datascienceweekly.org/)
+- [Machine Learnings](http://subscribe.machinelearnings.co/)
+- [Artificial Intelligence News](http://aiweekly.co/)
+- [When trees fall…](https://meetnucleus.com/p/GVBR82UWhWb9)
+- [WildML](https://meetnucleus.com/p/PoZVx95N9RGV)
+- [Inside AI](https://inside.com/technically-sentient)
+- [Kurzweil AI](http://www.kurzweilai.net/create-account)
+- [Import AI](https://jack-clark.net/import-ai/)
+- [The Wild Week in AI](https://www.getrevue.co/profile/wildml)
+- [Deep Learning Weekly](http://www.deeplearningweekly.com/)
+- [Data Science Weekly](https://www.datascienceweekly.org/)
+- [KDnuggets Newsletter](http://www.kdnuggets.com/news/subscribe.html?qst)
+
