@@ -18,8 +18,8 @@
  - [py3nvml](https://github.com/fbcotter/py3nvml)
  - [GPU Open Analytics](https://github.com/Avkash/mldl/blob/master/pages/gpuopenanalytics.md)
 
-# Text Analysis with Deep Learning#
- - [Word2Vec]
+# Natural Language Processing & Deep Learning #
+ - [Word2Vec with TF]
  
 ## Deep Learning Resources ##
  - [A16Z AI Playbook](http://aiplaybook.a16z.com/docs/guides/dl-architectures)
