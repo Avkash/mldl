@@ -2,6 +2,10 @@
 
 ## Libraries ##
  - [Mlxtend (machine learning extensions) - tools for the day-to-day data science tasks](http://rasbt.github.io/mlxtend/)
+ - [Boruta - Feature Selection Library in Python](https://m2.icm.edu.pl/boruta/)
+
+## Articles ##
+ - [Select Important Variables Boruta Package](https://www.analyticsvidhya.com/blog/2016/03/select-important-variables-boruta-package/)
 
 ## Data Visualization ##
  - [Datashader - Creating graphs from large datasets](http://datashader.readthedocs.io/en/latest/)
