@@ -15,3 +15,15 @@
 - [Tim Dettmers]() / Twitter (1K followers)
 - [When trees fall…]() / Twitter (265 followers)
 - [ML@B]() / Twitter (80 followers)
+- [Robbie Allen](https://medium.com/@robbieallen) / Medium Writer
+- [Erik P.M. Vermeulen](https://medium.com/@erikpmvermeulen) / Medium Writer
+- [Frank Chen](https://medium.com/@withfries2) / Medium Writer
+- [azeem](https://medium.com/@azeem) / Medium Writer
+- [Sam DeBrule](https://medium.com/@samdebrule) / Medium Writer
+- [Derrick Harris](https://medium.com/@derrickharris) / Medium Writer
+- [Yitaek Hwang](https://medium.com/@yitaek) / Medium Writer
+- [samim](https://medium.com/@samim) / Medium Writer
+- [Paul Boutin](https://medium.com/@Paul_Boutin) / Medium Writer
+- [Mariya Yao](https://medium.com/@thinkmariya) / Medium Writer
+- [Rob May](https://medium.com/@robmay) / Medium Writer
+- [Avinash Hindupur](https://medium.com/@hindupuravinash) / Medium Writer
