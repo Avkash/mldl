@@ -16,6 +16,18 @@
 
 # Podcast #
 
+- [Concerning AI](https://concerning.ai/) / [iTunes]()
+- [This Week in Machine Learning and AI](https://twimlai.com/) / [iTunes]()
+- [The AI Podcast](https://blogs.nvidia.com/ai-podcast/) / [iTunes]()
+- [Data Skeptic](http://dataskeptic.com/) / [iTunes]()
+- [Linear Digressions](https://itunes.apple.com/us/podcast/linear-digressions/id941219323) / [iTunes]()
+- [Partially Derivative](http://partiallyderivative.com/) / [iTunes]()
+- [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast) / [iTunes]()
+- [Learning Machines 101](http://www.learningmachines101.com/) / [iTunes]()
+- [The Talking Machines](http://www.thetalkingmachines.com/) / [iTunes]()
+- [Artificial Intelligence in Industry](http://techemergence.com/) / [iTunes]()
+- [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning) / [iTunes]()
+
 
 # Video Tutorials #
 
@@ -34,3 +46,6 @@
 - [Oxford Deep NLP 2017 (Phil Blunsom et al.)](https://github.com/oxford-cs-deepnlp-2017/lectures)
 - [Reinforcement Learning (David Silver)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [Practical Machine Learning Tutorial with Python (sentdex)](https://www.youtube.com/watch?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&v=OGxgnH8y2NM)
+
+
+Source: [Link](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524) 
