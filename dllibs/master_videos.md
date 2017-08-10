@@ -16,15 +16,15 @@
 
 # Podcast #
 
-- [Concerning AI](https://concerning.ai/) / [iTunes]()
-- [This Week in Machine Learning and AI](https://twimlai.com/) / [iTunes]()
-- [The AI Podcast](https://blogs.nvidia.com/ai-podcast/) / [iTunes]()
-- [Data Skeptic](http://dataskeptic.com/) / [iTunes]()
-- [Linear Digressions](https://itunes.apple.com/us/podcast/linear-digressions/id941219323) / [iTunes]()
-- [Partially Derivative](http://partiallyderivative.com/) / [iTunes]()
-- [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast) / [iTunes]()
-- [Learning Machines 101](http://www.learningmachines101.com/) / [iTunes]()
-- [The Talking Machines](http://www.thetalkingmachines.com/) / [iTunes]()
+- [Concerning AI](https://concerning.ai/) / [iTunes](https://itunes.apple.com/us/podcast/concerning-ai-artificial-intelligence/id1038719211)
+- [This Week in Machine Learning and AI](https://twimlai.com/) / [iTunes](https://itunes.apple.com/us/podcast/this-week-in-machine-learning/id1116303051?mt=2)
+- [The AI Podcast](https://blogs.nvidia.com/ai-podcast/) / [iTunes](https://itunes.apple.com/us/podcast/the-ai-podcast/id1186480811)
+- [Data Skeptic](http://dataskeptic.com/) / [iTunes](https://itunes.apple.com/us/podcast/the-data-skeptic-podcast/id890348705)
+- [Linear Digressions](https://itunes.apple.com/us/podcast/linear-digressions/id941219323) / [iTunes](https://itunes.apple.com/us/podcast/linear-digressions/id941219323?mt=2)
+- [Partially Derivative](http://partiallyderivative.com/) / [iTunes](https://itunes.apple.com/us/podcast/partially-derivative/id942048597?mt=2)
+- [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast) / [iTunes](https://itunes.apple.com/us/podcast/oreilly-data-show/id944929220)
+- [Learning Machines 101](http://www.learningmachines101.com/) / [iTunes](https://itunes.apple.com/us/podcast/learning-machines-101/id892779679?mt=2)
+- [The Talking Machines](http://www.thetalkingmachines.com/) / [iTunes](https://itunes.apple.com/us/podcast/talking-machines/id955198749?mt=2)
 - [Artificial Intelligence in Industry](http://techemergence.com/) / [iTunes]()
 - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning) / [iTunes]()
 
