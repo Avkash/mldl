@@ -25,8 +25,8 @@
 - [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast) / [iTunes](https://itunes.apple.com/us/podcast/oreilly-data-show/id944929220)
 - [Learning Machines 101](http://www.learningmachines101.com/) / [iTunes](https://itunes.apple.com/us/podcast/learning-machines-101/id892779679?mt=2)
 - [The Talking Machines](http://www.thetalkingmachines.com/) / [iTunes](https://itunes.apple.com/us/podcast/talking-machines/id955198749?mt=2)
-- [Artificial Intelligence in Industry](http://techemergence.com/) / [iTunes]()
-- [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning) / [iTunes]()
+- [Artificial Intelligence in Industry](http://techemergence.com/) / [iTunes](https://itunes.apple.com/us/podcast/artificial-intelligence-in-industry-with-dan-faggella/id670771965?mt=2)
+- [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning) / [iTunes](https://itunes.apple.com/us/podcast/machine-learning-guide/id1204521130?mt=2)
 
 
 # Video Tutorials #
