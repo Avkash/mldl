@@ -11,7 +11,7 @@
 
 ## Learn by Watching/Reading/Tailgating ##
 
-[YouTube Videos](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Podcast](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Video Turotials](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | [Blogs](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Quora AI Sections](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Newsletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)
+[YouTube Videos](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Podcast](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Video Turotials](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | [Blogs](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Quora AI Sections](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Newsletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Reddit](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)
 
 ## Motivational Stuff in Life & Career ##
 
@@ -30,7 +30,7 @@
 [Model Interpretability](https://github.com/Avkash/mldl/blob/master/ml_interpretability.md) | [Automated Machine Learning (AutoML)](https://github.com/Avkash/mldl/blob/master/master_automl.md) | [Model Management](https://github.com/Avkash/mldl/blob/master/pages/master_model_mgmt.md) | [AnswerBots](https://github.com/Avkash/mldl/blob/master/pages/master_answerbot.md) | [Time-Series](https://github.com/Avkash/mldl/blob/master/dllibs/timeseries.md)
 
 ## Organizations/Personals/Blogs with active ML/DL projects (Which I mostly follow) ##
-[Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md) | [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md) | [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md) | [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md) | [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md) | [Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md)
+[Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md) | [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md) | [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md) | [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md) | [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md) | [Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md) | [AI2](http://allenai.org/) | [Baidu Research](http://research.baidu.com/) | [Partnership on AI](https://www.partnershiponai.org/)
   
 ## My (Projects & Presentations) ##
  - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
