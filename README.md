@@ -11,8 +11,9 @@
 
 ## Learn by Training/Watching/Reading/Tailgating ##
 
-[All things Kaggle](https://github.com/Avkash/mldl/blob/master/kaggle/master_kaggle.md)| [Training Resources] | 
 [YouTube Videos](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Podcast](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Video Turotials](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | [Blogs](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Quora AI Sections](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Newsletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Reddit](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)
+
+[Training Resources](https://github.com/Avkash/mldl/blob/master/pages/master_training.md)
 
 ## Motivational Stuff in Life & Career ##
 
@@ -21,7 +22,10 @@
 ## Deep & Machine Learning ##
 [All things Deep Learning](https://github.com/Avkash/mldl/blob/master/master_dl.md) | [All things Machine Learning](https://github.com/Avkash/mldl/blob/master/master_ml.md) | [Self Driving Automotive Technology](https://github.com/Avkash/mldl/blob/master/driverless/README.md) | [GAN](https://github.com/Avkash/mldl/blob/master/pages/mater_gan.md)
 
-(https://github.com/Avkash/mldl/blob/master/pages/master_training.md) | [All things Datasets](https://github.com/Avkash/mldl/blob/master/pages/master_datasets.md) | [AI Companies](https://github.com/Avkash/mldl/blob/master/dllibs/enterprise_ai.md) | [All things NLP](https://github.com/Avkash/mldl/blob/master/dllibs/master_nlp.md)
+[All things Datasets](https://github.com/Avkash/mldl/blob/master/pages/master_datasets.md) | [AI Companies](https://github.com/Avkash/mldl/blob/master/dllibs/enterprise_ai.md) | [All things NLP](https://github.com/Avkash/mldl/blob/master/dllibs/master_nlp.md)
+
+## Kaggle & Other Competitive Machine Learning ##
+[All things Kaggle](https://github.com/Avkash/mldl/blob/master/kaggle/master_kaggle.md)
 
 ## Coding and Programming ##
 
