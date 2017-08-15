@@ -11,17 +11,13 @@
 
 ## Learn by Training/Watching/Reading/Tailgating ##
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| [YouTube Videos](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | |  |
-| [Podcast](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md)        |  |  | 
-| [Video Turotials](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md)|   |  |
-| [Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | |  |
-| [Blogs](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)           | |  |
-| [Quora AI Sections](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)|  |  |
-| [Newsletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)     | |  |
-| [Reddit](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)          | |  |
-| [Training Resources](https://github.com/Avkash/mldl/blob/master/pages/master_training.md) | |  |
+| Videos        | Articles           | Others  |
+| ------------- |:------------------:| ------:|
+| [YouTube Videos](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Blogs](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)          | [Training Resources](https://github.com/Avkash/mldl/blob/master/pages/master_training.md) |
+| [Podcast](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md)        | [Quora AI Sections](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) |  | 
+| [Video Turotials](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md)| [Reddit](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)   |  |
+| [Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | [Newsletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)  |  |
+
 
 ## Motivational Stuff in Life & Career ##
 
