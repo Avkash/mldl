@@ -11,6 +11,13 @@
 
 ## Learn by Training/Watching/Reading/Tailgating ##
 
+ Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+
 [YouTube Videos](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Podcast](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Video Turotials](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | [Blogs](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Quora AI Sections](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Newsletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Reddit](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)
 
 [Training Resources](https://github.com/Avkash/mldl/blob/master/pages/master_training.md)
