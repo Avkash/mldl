@@ -11,12 +11,12 @@
 
 ## Learn by Training/Watching/Reading/Tailgating ##
 
-| Videos        | Articles           |        Others       |
-| ------------- |:------------------:| -------------------:|
-| [YouTube Videos](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Blogs](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)          | [Training Resources](https://github.com/Avkash/mldl/blob/master/pages/master_training.md) |
-| [Podcast](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md)        | [Quora AI Sections](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Datasets](https://github.com/Avkash/mldl/blob/master/pages/master_datasets.md)  | 
-| [Video Turotials](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md)| [Reddit](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)   | [AI Companies](https://github.com/Avkash/mldl/blob/master/dllibs/enterprise_ai.md) |
-| [Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | [Newsletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)  | [All things NLP](https://github.com/Avkash/mldl/blob/master/dllibs/master_nlp.md) |
+| Videos        | Articles           |        Others       |       Kaggle        |
+| ------------- |:------------------:|:-------------------:| -------------------:|
+| [YouTube Videos](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Blogs](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)          | [Training Resources](https://github.com/Avkash/mldl/blob/master/pages/master_training.md) | [All things Kaggle](https://github.com/Avkash/mldl/blob/master/kaggle/master_kaggle.md) |
+| [Podcast](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md)        | [Quora AI Sections](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md) | [Datasets](https://github.com/Avkash/mldl/blob/master/pages/master_datasets.md)  |   |
+| [Video Turotials](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md)| [Reddit](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)   | [AI Companies](https://github.com/Avkash/mldl/blob/master/dllibs/enterprise_ai.md) |  |
+| [Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | [Newsletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)  | [All things NLP](https://github.com/Avkash/mldl/blob/master/dllibs/master_nlp.md) |   |
 
 
 ## Motivational Stuff in Life & Career ##
@@ -25,9 +25,6 @@
 
 ## Deep & Machine Learning ##
 [All things Deep Learning](https://github.com/Avkash/mldl/blob/master/master_dl.md) | [All things Machine Learning](https://github.com/Avkash/mldl/blob/master/master_ml.md) | [Self Driving Automotive Technology](https://github.com/Avkash/mldl/blob/master/driverless/README.md) | [GAN](https://github.com/Avkash/mldl/blob/master/pages/mater_gan.md)
-
-## Kaggle & Other Competitive Machine Learning ##
-[All things Kaggle](https://github.com/Avkash/mldl/blob/master/kaggle/master_kaggle.md)
 
 ## Coding and Programming ##
 
