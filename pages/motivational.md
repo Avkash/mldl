@@ -9,6 +9,7 @@ You must spent about 5 minutes every 4 working hours to read motivational conten
  - [After Giving 1,000 Interviews, I Found the 4 Questions That Actually Matter](https://www.inc.com/david-walker/after-giving-1000-interviews-i-found-the-4-questions-that-actually-matter.html)
  - [21 Behaviors That Will Make You Brilliant At Creativity & Relationships](https://journal.thriveglobal.com/21-behaviors-that-will-make-you-brilliant-at-creativity-relationships-315d7dd94699)
  - [I just read a great book on accomplishing more by doing less — here are my 5 best takeaways (Details on 80/20 Pareto principle)](http://www.businessinsider.com/how-to-accomplish-more-by-doing-less-2017-7)
+ - [5 Traits of People With High Emotional Intelligence](https://www.inc.com/andrew-thomas/5-traits-of-people-with-high-emotional-intelligenc.html)
  
 ### Life ###
  - [11 Ways to beat procrastination](https://www.inc.com/travis-bradberry/11-ways-to-beat-procrastination.html)
