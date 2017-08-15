@@ -15,16 +15,13 @@
 | [Video Turotials](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md)| [Reddit](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)   | [AI Companies](https://github.com/Avkash/mldl/blob/master/dllibs/enterprise_ai.md) |  | [ggplot](https://github.com/Avkash/mldl/blob/master/pages/refcards-ggplot.md)  [Matplotlib](https://github.com/Avkash/mldl/blob/master/pages/refcards-matplotlib.md)  |
 | [Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | [Newsletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)  | [All things NLP](https://github.com/Avkash/mldl/blob/master/dllibs/master_nlp.md) |   |  [Pandas](https://github.com/Avkash/mldl/blob/master/pages/refcards-pandas.md) [numpy](https://github.com/Avkash/mldl/blob/master/pages/refcards-numpy.md) [Scipy](https://github.com/Avkash/mldl/blob/master/pages/refcards-scipy.md) |
 
-
-## Motivational Stuff in Life & Career ##
-
-[Life & Career Motivation](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)
-
 ## Deep & Machine Learning ##
 [All things Deep Learning](https://github.com/Avkash/mldl/blob/master/master_dl.md) | [All things Machine Learning](https://github.com/Avkash/mldl/blob/master/master_ml.md) | [Self Driving Automotive Technology](https://github.com/Avkash/mldl/blob/master/driverless/README.md) | [GAN](https://github.com/Avkash/mldl/blob/master/pages/mater_gan.md)
 
-## Coding and Programming ##
+## Events and Conferences ##
+[2017](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md) | [2018](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md)
 
+## Coding and Programming ##
 [Python](https://github.com/Avkash/mldl/blob/master/pages/master_python.md) | [R](https://github.com/Avkash/mldl/blob/master/dllibs/master_r.md) | [Java](https://github.com/Avkash/mldl/blob/master/dllibs/master_java.md) | [Scala](https://github.com/Avkash/mldl/blob/master/pages/master_scala.md) | [Spark](https://github.com/Avkash/mldl/blob/master/pages/master_spark.md) | [Data Visualization](https://github.com/Avkash/mldl/blob/master/pages/master_datavis.md) | [Genetic Programming](https://github.com/Avkash/mldl/blob/master/dllibs/master_ga.md)
 
 ## Latest in Machine Learning ##
@@ -32,7 +29,10 @@
 
 ## Organizations/Personals/Blogs with active ML/DL projects (Which I mostly follow) ##
 [Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md) | [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md) | [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md) | [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md) | [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md) | [Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md) | [AI2](http://allenai.org/) | [Baidu Research](http://research.baidu.com/) | [Partnership on AI](https://www.partnershiponai.org/)
-  
+ 
+## Motivational Stuff in Life & Career ##
+[Life & Career Motivation](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)
+
 ## My (Projects & Presentations) ##
  - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
  - [TensorBeat - Building AnswerBot with Keras and Tensorflow Slides](https://github.com/Avkash/mldl/tree/master/tensorbeat-answerbot)
