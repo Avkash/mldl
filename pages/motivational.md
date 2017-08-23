@@ -18,4 +18,5 @@ You must spent about 5 minutes every 4 working hours to read motivational conten
  - [The 7 Mental Shifts That Only Ultra-Successful People Make](https://journal.thriveglobal.com/7-mental-shifts-ultra-successful-people-make-4f2f95bf0c7)
  - [A Japanese doctor who studied longevity — and lived to 105 — said if you must retire, do it well after age 65](http://www.businessinsider.com/doctor-who-studied-longevity-dont-retire-2017-7) 
  - [What Happens When You Take Full Responsibility of Your Life](https://journal.thriveglobal.com/what-happens-when-you-take-full-responsibility-of-your-life-dbbb5c5afcf6)
+ - [Why Most People Will Not Be Successful](https://www.inc.com/benjamin-p-hardy/why-most-people-will-never-be-successful_1.html)
  - []()
