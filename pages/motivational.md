@@ -11,6 +11,8 @@ You must spent about 5 minutes every 4 working hours to read motivational conten
  - [I just read a great book on accomplishing more by doing less — here are my 5 best takeaways (Details on 80/20 Pareto principle)](http://www.businessinsider.com/how-to-accomplish-more-by-doing-less-2017-7)
  - [5 Traits of People With High Emotional Intelligence](https://www.inc.com/andrew-thomas/5-traits-of-people-with-high-emotional-intelligenc.html)
  - [Why EQ Matters More Than IQ](https://www.inc.com/justin-bariso/why-eq-matters-more-than-iq.html)
+ - [How setting “anti-goals” can keep work from being miserable](https://qz.com/1055238/follow-warren-buffett-and-charlie-mungers-advice-and-set-anti-goals-to-keep-work-from-being-miserable/)
+ - [Never, Ever Take A Job Before Asking These Ten Questions](https://www.forbes.com/sites/lizryan/2017/08/18/never-ever-take-a-job-before-asking-these-ten-questions/2/#51be7d693606)
  
 ### Life ###
  - [11 Ways to beat procrastination](https://www.inc.com/travis-bradberry/11-ways-to-beat-procrastination.html)
