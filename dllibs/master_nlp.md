@@ -13,6 +13,7 @@
    - [AI](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/)
  - [IBM - ML Technology](https://www.ibm.com/analytics/us/en/technology/machine-learning/) 
  - [GENSIM](https://radimrehurek.com/gensim/)
+ - [text-classifier - Creates models to classify documents into categories (mortehu)](https://github.com/mortehu/text-classifier)
  
 ## Samples/Source ##
  - [Modern NLP in Python (Notebook)](http://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
