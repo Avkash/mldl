@@ -45,6 +45,8 @@
 
 ## Other Personalities ##
  - [Jim Alder](https://jimadler.me/)
+ - [Bharat Ramnathan](https://github.com/parambharat)
  - [Tom Kraljevic](https://github.com/tomkraljevic)
+ 
 
 Source: [Link](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
