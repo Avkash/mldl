@@ -20,8 +20,13 @@
  - [py3nvml](https://github.com/fbcotter/py3nvml)
  - [GPU Open Analytics](https://github.com/Avkash/mldl/blob/master/pages/gpuopenanalytics.md)
 
-# Natural Language Processing & Deep Learning #
+## Natural Language Processing & Deep Learning ##
  - [Word2Vec with TF]
+ 
+## Neural Networks ###
+ - [How to create a Neural Network in JavaScript in only 30 lines of code](https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49)
+ - [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+ - [Deep Learning for Noobs](https://hackernoon.com/deep-learning-for-noobs-part-2-43d5098e61f6#.tbfbymvwp)
  
 ## Deep Learning Resources ##
  - [A16Z AI Playbook](http://aiplaybook.a16z.com/docs/guides/dl-architectures)
