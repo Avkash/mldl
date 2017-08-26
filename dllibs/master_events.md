@@ -1,6 +1,7 @@
 # Events in 2017 #
 
 ## August ##
+ - [MACHINE LEARNING FOR HEALTHCARE (MLHC)](http://mucmd.org/)
  - [G-Summit at Pebble Beach® - August 23-25 ](http://www.thegsummit.org/)
 
 ## September ##
