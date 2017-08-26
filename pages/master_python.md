@@ -3,7 +3,7 @@
 ## Libraries ##
  - [Mlxtend (machine learning extensions) - tools for the day-to-day data science tasks](http://rasbt.github.io/mlxtend/)
  - [Boruta - Feature Selection Library in Python](https://m2.icm.edu.pl/boruta/)
-
+ 
 ## Articles ##
  - [Select Important Variables Boruta Package](https://www.analyticsvidhya.com/blog/2016/03/select-important-variables-boruta-package/)
 
@@ -17,3 +17,6 @@
 
 ## Anaconda Tips ##
  - [Anaconda Tips](https://github.com/Avkash/mldl/blob/master/pages/anaconda_tips.md)
+
+## Python and other programming languages integration ##
+ - [pyjnius](https://pyjnius.readthedocs.io/en/latest/installation.html)
