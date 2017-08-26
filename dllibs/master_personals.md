@@ -43,6 +43,8 @@
  - [Oren Etzioni](http://allenai.org/team/orene/) 
    - ([GScholar](https://scholar.google.com/citations?user=XF6Yk98AAAAJ&hl=en) / Quora / AMA)
 
-
+## Other Personalities ##
+ - [Jim Alder](https://jimadler.me/)
+ - []()
 
 Source: [Link](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
