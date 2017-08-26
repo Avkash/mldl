@@ -41,6 +41,8 @@
 
 ## Image Processing & Deep Learning ##
  - [Using AI to Super Compress Images](http://www.kdnuggets.com/2017/08/ai-compress-images.html)
+   - [An End-to-End Compression Framework Based on Convolutional Neural Networks](https://arxiv.org/pdf/1708.00838v1.pdf)
+ - []()
  
 ## Deep Learning solutions ## 
  - [Introducing deep learning and long-short term memory networks](https://www.ibm.com/developerworks/analytics/library/iot-deep-learning-anomaly-detection-1/index.html)
