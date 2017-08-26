@@ -39,7 +39,9 @@
  - [A Small Neural Network in C/C++](https://github.com/luanfujun/LearnMSE)
  - [Artistic Style - VGG16 + Tensorflow](https://github.com/janivanecky/Artistic-Style)
 
-
+## Image Processing & Deep Learning ##
+ - [Using AI to Super Compress Images](http://www.kdnuggets.com/2017/08/ai-compress-images.html)
+ 
 ## Deep Learning solutions ## 
  - [Introducing deep learning and long-short term memory networks](https://www.ibm.com/developerworks/analytics/library/iot-deep-learning-anomaly-detection-1/index.html)
  
