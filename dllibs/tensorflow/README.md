@@ -2,6 +2,9 @@
 
 [A list of all github repo related to Tensorflow](https://github.com/search?q=topic%3Atensorflow&type=Repositories)
 
+## Tensorflow Models ##
+ - [All TF models](https://github.com/tensorflow/models)
+
 ## Tensorflow Libraries ##
  - [TensorFlowOnSpark  - Yahoo](https://github.com/yahoo/TensorFlowOnSpark)
  - [Tensor2Tensor - A library for generalized sequence to sequence models](https://github.com/tensorflow/tensor2tensor)
