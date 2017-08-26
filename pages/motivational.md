@@ -13,6 +13,7 @@ You must spent about 5 minutes every 4 working hours to read motivational conten
  - [Why EQ Matters More Than IQ](https://www.inc.com/justin-bariso/why-eq-matters-more-than-iq.html)
  - [How setting “anti-goals” can keep work from being miserable](https://qz.com/1055238/follow-warren-buffett-and-charlie-mungers-advice-and-set-anti-goals-to-keep-work-from-being-miserable/)
  - [Never, Ever Take A Job Before Asking These Ten Questions](https://www.forbes.com/sites/lizryan/2017/08/18/never-ever-take-a-job-before-asking-these-ten-questions/2/#51be7d693606)
+ - []()
  
 ### Life ###
  - [11 Ways to beat procrastination](https://www.inc.com/travis-bradberry/11-ways-to-beat-procrastination.html)
@@ -21,4 +22,5 @@ You must spent about 5 minutes every 4 working hours to read motivational conten
  - [A Japanese doctor who studied longevity — and lived to 105 — said if you must retire, do it well after age 65](http://www.businessinsider.com/doctor-who-studied-longevity-dont-retire-2017-7) 
  - [What Happens When You Take Full Responsibility of Your Life](https://journal.thriveglobal.com/what-happens-when-you-take-full-responsibility-of-your-life-dbbb5c5afcf6)
  - [Why Most People Will Not Be Successful](https://www.inc.com/benjamin-p-hardy/why-most-people-will-never-be-successful_1.html)
+ - [Rejection and the four paths](http://sethgodin.typepad.com/seths_blog/2017/08/rejection-and-the-four-paths.html)
  - []()
