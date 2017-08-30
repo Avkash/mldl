@@ -7,7 +7,7 @@
 ## September ##
 
 ## October ##
-
+ - [AI and Big Data Asia 2017 - October 30-31, Singapore](http://aiasiashow.com/index.html)
 ## November ##
  - [Inside Data Science - Nov 14-15 Monterey CA](https://www.insidedatascience.com/)
  - [AI Expo North America - November 29-30, Santa Clara Convention Center, San Jose](https://www.ai-expo.net/northamerica/)
