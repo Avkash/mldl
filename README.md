@@ -6,13 +6,17 @@
 ## Content Index ##
 | Algorithms    |     Programming    |  Deep Learning HOT  |    Organizations   |   Events & News     |
 | ------------- |:------------------:|:-------------------:|:-------------------:| -------------------:|
-|    |  |   |   |   |
-|    |  |   |   |   |
-|    |  |   |   |   |
-|    |  |   |   |   |
+|[GLM](https://github.com/Avkash/mldl/blob/master/algos/algo_glm.md)    |  |   |   |   |
+|[GBM](https://github.com/Avkash/mldl/blob/master/algos/algo_gbm.md)    |  |   |   |   |
+|[RandomForest](https://github.com/Avkash/mldl/blob/master/algos/algo_drf.md)    |  |   |   |   |
+|[DeepLearning](https://github.com/Avkash/mldl/blob/master/algos/algo_dl.md)    |  |   |   |   |
+|[K-Means](https://github.com/Avkash/mldl/blob/master/algos/algo_kmeans.md)    |  |   |   |   |
+|[Naive Bayes](https://github.com/Avkash/mldl/blob/master/algos/algo_nb.md)    |  |   |   |   |
+|[PCA](https://github.com/Avkash/mldl/blob/master/algos/algo_pca.md)    |  |   |   |   |
+|[GLRM](https://github.com/Avkash/mldl/blob/master/algos/algo_glrm.md)    |  |   |   |   |
+|[Ensembles](https://github.com/Avkash/mldl/blob/master/algos/algo_ensembles.md)    |  |   |   |   |
 |    |  |   |   |   |
 
-[GLM](https://github.com/Avkash/mldl/blob/master/algos/algo_glm.md) | [GBM](https://github.com/Avkash/mldl/blob/master/algos/algo_gbm.md) | [RandomForest](https://github.com/Avkash/mldl/blob/master/algos/algo_drf.md) | [DeepLearning](https://github.com/Avkash/mldl/blob/master/algos/algo_dl.md) | [K-Means](https://github.com/Avkash/mldl/blob/master/algos/algo_kmeans.md) | [Naive Bayes](https://github.com/Avkash/mldl/blob/master/algos/algo_nb.md) | [PCA](https://github.com/Avkash/mldl/blob/master/algos/algo_pca.md) | [GLRM](https://github.com/Avkash/mldl/blob/master/algos/algo_glrm.md) | [Ensembles](https://github.com/Avkash/mldl/blob/master/algos/algo_ensembles.md)
 
 ## Learn by Training/Watching/Reading/Tailgating ##
 
