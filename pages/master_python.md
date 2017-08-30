@@ -6,6 +6,7 @@
  
 ## Articles ##
  - [Select Important Variables Boruta Package](https://www.analyticsvidhya.com/blog/2016/03/select-important-variables-boruta-package/)
+ - [Python sample code to perform MOJO Scoring](https://github.com/Avkash/mldl/blob/master/code/python/python_mojo_score.md)
 
 ## Data Visualization ##
  - [Datashader - Creating graphs from large datasets](http://datashader.readthedocs.io/en/latest/)
