@@ -3,7 +3,15 @@
 ## Machine & Deep Learning Glossary ##
 [A](https://github.com/Avkash/mldl/blob/master/glossary/def_a.md) | [B](https://github.com/Avkash/mldl/blob/master/glossary/def_b.md) | [C](https://github.com/Avkash/mldl/blob/master/glossary/def_c.md) | [D](https://github.com/Avkash/mldl/blob/master/glossary/def_d.md) | [E](https://github.com/Avkash/mldl/blob/master/glossary/def_e.md) | [F](https://github.com/Avkash/mldl/blob/master/glossary/def_f.md) | [G](https://github.com/Avkash/mldl/blob/master/glossary/def_g.md) | [H](https://github.com/Avkash/mldl/blob/master/glossary/def_h.md) | [I](https://github.com/Avkash/mldl/blob/master/glossary/def_i.md) | [J](https://github.com/Avkash/mldl/blob/master/glossary/def_j.md) | [K](https://github.com/Avkash/mldl/blob/master/glossary/def_k.md) | [L](https://github.com/Avkash/mldl/blob/master/glossary/def_l.md) | [M](https://github.com/Avkash/mldl/blob/master/glossary/def_m.md) | [N](https://github.com/Avkash/mldl/blob/master/glossary/def_n.md) | [O](https://github.com/Avkash/mldl/blob/master/glossary/def_o.md) | [P](https://github.com/Avkash/mldl/blob/master/glossary/def_p.md) | [Q](https://github.com/Avkash/mldl/blob/master/glossary/def_q.md) | [R](https://github.com/Avkash/mldl/blob/master/glossary/def_r.md) | [S](https://github.com/Avkash/mldl/blob/master/glossary/def_s.md) | [T](https://github.com/Avkash/mldl/blob/master/glossary/def_t.md) | [U](https://github.com/Avkash/mldl/blob/master/glossary/def_u.md) | [V](https://github.com/Avkash/mldl/blob/master/glossary/def_v.md) | [W](https://github.com/Avkash/mldl/blob/master/glossary/def_w.md) | [X](https://github.com/Avkash/mldl/blob/master/glossary/def_x.md) | [Y](https://github.com/Avkash/mldl/blob/master/glossary/def_y.md) | [Z](https://github.com/Avkash/mldl/blob/master/glossary/def_z.md)
 
-## Algorithms ##
+## Content Index ##
+| Algorithms    |     Programming    |  Deep Learning HOT  |    Organizations   |   Events & News     |
+| ------------- |:------------------:|:-------------------:|:-------------------:| -------------------:|
+|    |  |   |   |   |
+|    |  |   |   |   |
+|    |  |   |   |   |
+|    |  |   |   |   |
+|    |  |   |   |   |
+
 [GLM](https://github.com/Avkash/mldl/blob/master/algos/algo_glm.md) | [GBM](https://github.com/Avkash/mldl/blob/master/algos/algo_gbm.md) | [RandomForest](https://github.com/Avkash/mldl/blob/master/algos/algo_drf.md) | [DeepLearning](https://github.com/Avkash/mldl/blob/master/algos/algo_dl.md) | [K-Means](https://github.com/Avkash/mldl/blob/master/algos/algo_kmeans.md) | [Naive Bayes](https://github.com/Avkash/mldl/blob/master/algos/algo_nb.md) | [PCA](https://github.com/Avkash/mldl/blob/master/algos/algo_pca.md) | [GLRM](https://github.com/Avkash/mldl/blob/master/algos/algo_glrm.md) | [Ensembles](https://github.com/Avkash/mldl/blob/master/algos/algo_ensembles.md)
 
 ## Learn by Training/Watching/Reading/Tailgating ##
