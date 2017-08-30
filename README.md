@@ -5,14 +5,14 @@
 
 | Algorithms    |     Programming    |  Deep Learning HOT  |    Organizations   |   Events & News     |
 | ------------- |:------------------:|:-------------------:|:-------------------:| -------------------:|
-|[GLM](https://github.com/Avkash/mldl/blob/master/algos/algo_glm.md)    |  |   |   |   |
-|[GBM](https://github.com/Avkash/mldl/blob/master/algos/algo_gbm.md)    |  |   |   |   |
-|[RandomForest](https://github.com/Avkash/mldl/blob/master/algos/algo_drf.md)    |  |   |   |   |
-|[DeepLearning](https://github.com/Avkash/mldl/blob/master/algos/algo_dl.md)    |  |   |   |   |
-|[K-Means](https://github.com/Avkash/mldl/blob/master/algos/algo_kmeans.md)    |  |   |   |   |
-|[Naive Bayes](https://github.com/Avkash/mldl/blob/master/algos/algo_nb.md)    |  |   |   |   |
-|[PCA](https://github.com/Avkash/mldl/blob/master/algos/algo_pca.md)    |  |   |   |   |
-|[GLRM](https://github.com/Avkash/mldl/blob/master/algos/algo_glrm.md)    |  |   |   |   |
+|[GLM](https://github.com/Avkash/mldl/blob/master/algos/algo_glm.md)    |[Python](https://github.com/Avkash/mldl/blob/master/pages/master_python.md)  |   |   |[2017](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md)   |
+|[GBM](https://github.com/Avkash/mldl/blob/master/algos/algo_gbm.md)    | [R](https://github.com/Avkash/mldl/blob/master/dllibs/master_r.md)   |   |   |[2018](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md)   |
+|[RandomForest](https://github.com/Avkash/mldl/blob/master/algos/algo_drf.md)    |[Java](https://github.com/Avkash/mldl/blob/master/dllibs/master_java.md)  |   |   |   |
+|[DeepLearning](https://github.com/Avkash/mldl/blob/master/algos/algo_dl.md)    |[Scala](https://github.com/Avkash/mldl/blob/master/pages/master_scala.md)  |   |   |   |
+|[K-Means](https://github.com/Avkash/mldl/blob/master/algos/algo_kmeans.md)    |[Spark](https://github.com/Avkash/mldl/blob/master/pages/master_spark.md)   |   |   |   |
+|[Naive Bayes](https://github.com/Avkash/mldl/blob/master/algos/algo_nb.md)    |[Data Visualization](https://github.com/Avkash/mldl/blob/master/pages/master_datavis.md)  |   |   |   |
+|[PCA](https://github.com/Avkash/mldl/blob/master/algos/algo_pca.md)    |[Genetic Programming](https://github.com/Avkash/mldl/blob/master/dllibs/master_ga.md)   |   |   |   |
+|[GLRM](https://github.com/Avkash/mldl/blob/master/algos/algo_glrm.md)    |[React](https://github.com/Avkash/mldl/blob/master/pages/react_css.md)  |   |   |   |
 |[Ensembles](https://github.com/Avkash/mldl/blob/master/algos/algo_ensembles.md)    |  |   |   |   |
 |    |  |   |   |   |
 
@@ -28,12 +28,6 @@
 
 ## Deep & Machine Learning ##
 [All things Deep Learning](https://github.com/Avkash/mldl/blob/master/master_dl.md) | [All things Machine Learning](https://github.com/Avkash/mldl/blob/master/master_ml.md) | [Self Driving Automotive Technology](https://github.com/Avkash/mldl/blob/master/driverless/README.md) | [GAN](https://github.com/Avkash/mldl/blob/master/pages/mater_gan.md)
-
-## Events and Conferences ##
-[2017](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md) | [2018](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md)
-
-## Coding and Programming ##
-[Python](https://github.com/Avkash/mldl/blob/master/pages/master_python.md) | [R](https://github.com/Avkash/mldl/blob/master/dllibs/master_r.md) | [Java](https://github.com/Avkash/mldl/blob/master/dllibs/master_java.md) | [Scala](https://github.com/Avkash/mldl/blob/master/pages/master_scala.md) | [Spark](https://github.com/Avkash/mldl/blob/master/pages/master_spark.md) | [Data Visualization](https://github.com/Avkash/mldl/blob/master/pages/master_datavis.md) | [Genetic Programming](https://github.com/Avkash/mldl/blob/master/dllibs/master_ga.md) | [React](https://github.com/Avkash/mldl/blob/master/pages/react_css.md)
 
 ## Latest in Machine Learning ##
 [Model Interpretability](https://github.com/Avkash/mldl/blob/master/ml_interpretability.md) | [Automated Machine Learning (AutoML)](https://github.com/Avkash/mldl/blob/master/master_automl.md) | [Model Management](https://github.com/Avkash/mldl/blob/master/pages/master_model_mgmt.md) | [AnswerBots](https://github.com/Avkash/mldl/blob/master/pages/master_answerbot.md) | [Time-Series](https://github.com/Avkash/mldl/blob/master/dllibs/timeseries.md)
