@@ -23,4 +23,5 @@ You must spent about 5 minutes every 4 working hours to read motivational conten
  - [What Happens When You Take Full Responsibility of Your Life](https://journal.thriveglobal.com/what-happens-when-you-take-full-responsibility-of-your-life-dbbb5c5afcf6)
  - [Why Most People Will Not Be Successful](https://www.inc.com/benjamin-p-hardy/why-most-people-will-never-be-successful_1.html)
  - [Rejection and the four paths](http://sethgodin.typepad.com/seths_blog/2017/08/rejection-and-the-four-paths.html)
+ - [Want Your Kids to Succeed in School and Life? Science Says to Instill This 1 Thing Above All Else](https://www.inc.com/melanie-curtin/according-to-science-this-1-thing-predicts-a-stude.html)
  - []()
