@@ -1,4 +1,4 @@
-# All things Model Interpretability #
+# All things Model Interpretability (MLI) #
 
 ## Model Interpretability Projects ##
  - [Lime](https://github.com/marcotcr/lime)
@@ -12,3 +12,4 @@
 ## Model Interpretability Articles ##
  - [Ideas on interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
  - [Interpreting Random Forest](http://blog.datadive.net/interpreting-random-forests/)
+ - [Look Who's Fighting Our Algorithmic Overlords](https://www.bloomberg.com/view/articles/2017-08-30/look-who-s-fighting-our-algorithmic-overlords)
