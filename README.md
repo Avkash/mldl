@@ -5,15 +5,15 @@
 
 | Algorithms    |     Programming    |  Deep Learning HOT  |    Organizations   |   Events & News     |
 | ------------- |:------------------:|:-------------------:|:-------------------:| -------------------:|
-|[GLM](https://github.com/Avkash/mldl/blob/master/algos/algo_glm.md)    |[Python](https://github.com/Avkash/mldl/blob/master/pages/master_python.md)  |   |   |[2017](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md)   |
-|[GBM](https://github.com/Avkash/mldl/blob/master/algos/algo_gbm.md)    | [R](https://github.com/Avkash/mldl/blob/master/dllibs/master_r.md)   |   |   |[2018](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md)   |
-|[RandomForest](https://github.com/Avkash/mldl/blob/master/algos/algo_drf.md)    |[Java](https://github.com/Avkash/mldl/blob/master/dllibs/master_java.md)  |   |   |   |
-|[DeepLearning](https://github.com/Avkash/mldl/blob/master/algos/algo_dl.md)    |[Scala](https://github.com/Avkash/mldl/blob/master/pages/master_scala.md)  |   |   |   |
-|[K-Means](https://github.com/Avkash/mldl/blob/master/algos/algo_kmeans.md)    |[Spark](https://github.com/Avkash/mldl/blob/master/pages/master_spark.md)   |   |   |   |
-|[Naive Bayes](https://github.com/Avkash/mldl/blob/master/algos/algo_nb.md)    |[Data Visualization](https://github.com/Avkash/mldl/blob/master/pages/master_datavis.md)  |   |   |   |
-|[PCA](https://github.com/Avkash/mldl/blob/master/algos/algo_pca.md)    |[Genetic Programming](https://github.com/Avkash/mldl/blob/master/dllibs/master_ga.md)   |   |   |   |
-|[GLRM](https://github.com/Avkash/mldl/blob/master/algos/algo_glrm.md)    |[React](https://github.com/Avkash/mldl/blob/master/pages/react_css.md)  |   |   |   |
-|[Ensembles](https://github.com/Avkash/mldl/blob/master/algos/algo_ensembles.md)    |  |   |   |   |
+|[GLM](https://github.com/Avkash/mldl/blob/master/algos/algo_glm.md)    |[Python](https://github.com/Avkash/mldl/blob/master/pages/master_python.md)  |   |[Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md)   |[2017](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md)   |
+|[GBM](https://github.com/Avkash/mldl/blob/master/algos/algo_gbm.md)    | [R](https://github.com/Avkash/mldl/blob/master/dllibs/master_r.md)   |   |[Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md)   |[2018](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md)   |
+|[RandomForest](https://github.com/Avkash/mldl/blob/master/algos/algo_drf.md)    |[Java](https://github.com/Avkash/mldl/blob/master/dllibs/master_java.md)  |   |[AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md)   |   |
+|[DeepLearning](https://github.com/Avkash/mldl/blob/master/algos/algo_dl.md)    |[Scala](https://github.com/Avkash/mldl/blob/master/pages/master_scala.md)  |   |[Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md)   |   |
+|[K-Means](https://github.com/Avkash/mldl/blob/master/algos/algo_kmeans.md)    |[Spark](https://github.com/Avkash/mldl/blob/master/pages/master_spark.md)   |   |[H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md)   |   |
+|[Naive Bayes](https://github.com/Avkash/mldl/blob/master/algos/algo_nb.md)    |[Data Visualization](https://github.com/Avkash/mldl/blob/master/pages/master_datavis.md)  |   |[Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md)   |   |
+|[PCA](https://github.com/Avkash/mldl/blob/master/algos/algo_pca.md)    |[Genetic Programming](https://github.com/Avkash/mldl/blob/master/dllibs/master_ga.md)   |   |[AI2](http://allenai.org/)   |   |
+|[GLRM](https://github.com/Avkash/mldl/blob/master/algos/algo_glrm.md)    |[React](https://github.com/Avkash/mldl/blob/master/pages/react_css.md)  |   |[Baidu Research](http://research.baidu.com/)   |   |
+|[Ensembles](https://github.com/Avkash/mldl/blob/master/algos/algo_ensembles.md)    |  |   |[Partnership on AI](https://www.partnershiponai.org/)   |   |
 |    |  |   |   |   |
 
 
@@ -31,9 +31,6 @@
 
 ## Latest in Machine Learning ##
 [Model Interpretability](https://github.com/Avkash/mldl/blob/master/ml_interpretability.md) | [Automated Machine Learning (AutoML)](https://github.com/Avkash/mldl/blob/master/master_automl.md) | [Model Management](https://github.com/Avkash/mldl/blob/master/pages/master_model_mgmt.md) | [AnswerBots](https://github.com/Avkash/mldl/blob/master/pages/master_answerbot.md) | [Time-Series](https://github.com/Avkash/mldl/blob/master/dllibs/timeseries.md)
-
-## Organizations/Personals/Blogs with active ML/DL projects (Which I mostly follow) ##
-[Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md) | [Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md) | [AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md) | [Facebook](https://github.com/Avkash/mldl/blob/master/orgs/facebook/README.md) | [H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md) | [Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md) | [AI2](http://allenai.org/) | [Baidu Research](http://research.baidu.com/) | [Partnership on AI](https://www.partnershiponai.org/)
  
 ## Motivational Stuff in Life & Career ##
 [Life & Career Motivation](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)
