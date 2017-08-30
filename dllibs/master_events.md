@@ -10,7 +10,7 @@
 
 ## November ##
  - [Inside Data Science - Nov 14-15 Monterey CA](https://www.insidedatascience.com/)
-
+ - [AI Expo North America - November 29-30, Santa Clara Convention Center, San Jose](https://www.ai-expo.net/northamerica/)
 ## December ##
 
 # Events in 2018 #
