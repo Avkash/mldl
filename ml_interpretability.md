@@ -13,3 +13,4 @@
  - [Ideas on interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
  - [Interpreting Random Forest](http://blog.datadive.net/interpreting-random-forests/)
  - [Look Who's Fighting Our Algorithmic Overlords](https://www.bloomberg.com/view/articles/2017-08-30/look-who-s-fighting-our-algorithmic-overlords)
+ - [How AI detectives are cracking open the black box of deep learning](http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning)
