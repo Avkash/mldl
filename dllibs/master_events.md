@@ -19,5 +19,5 @@
 ## January ##
 
 ## Febryary ##
-
+ - [Fairness, Accountability, and Transparency in Machine Learning - Feb 23-24 NYU, NYC](http://www.fatml.org/)
 ## March ##
