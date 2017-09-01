@@ -1,4 +1,4 @@
-# Events in 2017 #
+# ML/AI Events in 2017 #
 
 ## August ##
  - [MACHINE LEARNING FOR HEALTHCARE (MLHC)](http://mucmd.org/)
