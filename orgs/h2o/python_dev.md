@@ -3,19 +3,29 @@
 ### Get the source code ###
  - Get the H2O Source
    - Try using -> $ git clone https://github.com/h2oai/h2o-3.git
- - 
+ 
 ### Python source tree
  - The root of python code is h2o-3/h2o-py
- -  
+ 
 ### Adding a root H2O python function ###
  - For example you need to add a main function in the H2O, you will add it to below:
    - All the root functions are defined here ->  h2o-py/h2o/h2o.py
    - Let's assume the function name is predict_results which is written into h2o-py/h2o/h2o.py
  - To make the above function exportable you would need to set it the
   - Edit h2o-py/h2o/__init__.py to add your function
-  - Add your function into h2o.h2o import list as well as __all__ list. 
+  - Add your function into h2o.h2o import list as well as ___all___ list. 
     - h2o.h2o import (...., predict_result, ...)
     - __all__ = (...., predict_results, ..... )
+
+### Adding a function anywhere in the python code ###
+ - For example a new function name predict_now is added into h2o-py/h2o/utils/shared_utils.py 
+ - Now if you want this function to be available globally
+   - Edit h2o-py/h2o/utils/__init__.py as below:
+     -- from .shared_utils import predict_json
+     -- __all__ = ("predict_now")
+ - You can use this function in your python code as 
+   - import h2o.utils.shared_utils as hu
+   - hu.predict_now() 
 
 ### Testing python code in real time without packaging and installing package ###
  - Set your H2O_HOME where your H2O source code is cloned
