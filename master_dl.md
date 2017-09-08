@@ -44,11 +44,12 @@
  - [Descriptive Deep Learning - Kur](https://github.com/deepgram/kur)
  - [A Small Neural Network in C/C++](https://github.com/luanfujun/LearnMSE)
  - [Artistic Style - VGG16 + Tensorflow](https://github.com/janivanecky/Artistic-Style)
+ - [GreenRoom.AI](https://greenscreen-ai.boorgle.com/)
 
 ## Image Processing & Deep Learning ##
  - [Using AI to Super Compress Images](http://www.kdnuggets.com/2017/08/ai-compress-images.html)
    - [An End-to-End Compression Framework Based on Convolutional Neural Networks](https://arxiv.org/pdf/1708.00838v1.pdf)
- - []()
+ - [Background removal with deep learning](https://medium.com/towards-data-science/background-removal-with-deep-learning-c4f2104b3157)
  
 ## Deep Learning solutions ## 
  - [Introducing deep learning and long-short term memory networks](https://www.ibm.com/developerworks/analytics/library/iot-deep-learning-anomaly-detection-1/index.html)
