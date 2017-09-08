@@ -24,4 +24,5 @@ You must spent about 5 minutes every 4 working hours to read motivational conten
  - [Why Most People Will Not Be Successful](https://www.inc.com/benjamin-p-hardy/why-most-people-will-never-be-successful_1.html)
  - [Rejection and the four paths](http://sethgodin.typepad.com/seths_blog/2017/08/rejection-and-the-four-paths.html)
  - [Want Your Kids to Succeed in School and Life? Science Says to Instill This 1 Thing Above All Else](https://www.inc.com/melanie-curtin/according-to-science-this-1-thing-predicts-a-stude.html)
+ - [8 Things You Should Do After 8 P.M. if You Want to Be Happy and Successful](https://journal.thriveglobal.com/8-things-you-should-do-after-8-p-m-if-you-want-to-be-happy-and-successful-ca98bb04b0c3)
  - []()
