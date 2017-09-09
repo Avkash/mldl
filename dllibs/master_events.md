@@ -8,6 +8,7 @@
 
 ## October ##
  - [AI and Big Data Asia 2017 - October 30-31, Singapore](http://aiasiashow.com/index.html)
+ - [GeekWire Summit - Oct 9-11 Seattle](https://www.geekwire.com/events/geekwire-summit-2017/)
 ## November ##
  - [AIFrontiers: Applied Deep Learning November 3-4, 2017, Santa Clara Convention Center](http://www.aifrontiers.com/)
  - [Inside Data Science - Nov 14-15 Monterey CA](https://www.insidedatascience.com/)
