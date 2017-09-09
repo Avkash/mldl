@@ -8,7 +8,7 @@
 - [genetic_algorithms_with_python-sample.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/genetic_algorithms_with_python-sample.pdf)
 - [Getting-Started-with-Kubernetes.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Getting-Started-with-Kubernetes.pdf)
 - [ImageSearchEngineResourceGuide.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/ImageSearchEngineResourceGuide.pdf)
-- [ISLR First Printing.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/ISLR First Printing.pdf)
+- [Introduction to Statistical Learning - ISLR First Printing.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/ISLR First Printing.pdf)
 - [Mastering-Apache-Spark-2.0.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Mastering-Apache-Spark-2.0.pdf)
 - [NCCL-Woolley.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/NCCL-Woolley.pdf)
 - [Pluralsight-The-science-behind-forgetting-and-how-to-conquer-it.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Pluralsight-The-science-behind-forgetting-and-how-to-conquer-it.pdf)
