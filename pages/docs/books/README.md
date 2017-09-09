@@ -1,6 +1,6 @@
 # All Books ##
 
-- [Institute of Mathematical Statistics Monographs - Bradley Efron, Trevor Hastie-Computer Age Statistical Inference_ Algorithms, Evidence, and Data Science](https://github.com/Avkash/mldl/tree/master/pages/docs/books/(Institute of Mathematical Statistics Monographs) Bradley Efron, Trevor Hastie-Computer Age Statistical Inference_ Algorithms, Evidence, and Data Science-Cambridge University Press (2016).pdf)
+- [Institute of Mathematical Statistics Monographs - Bradley Efron, Trevor Hastie-Computer Age Statistical Inference_ Algorithms, Evidence, and Data Science](https://github.com/Avkash/mldl/tree/master/pages/docs/books/ComputerAge_Statistical_Inference_AlgorithmsEvidenceandDataScience.pdf)
 - [andy-field-discovering-statistics-using-spss-third-edition-20091.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/andy-field-discovering-statistics-using-spss-third-edition-20091.pdf)
 - [data-jujitsu.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/data-jujitsu.pdf)
 - [deep_learning_with_python_mini_course.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/deep_learning_with_python_mini_course.pdf)
@@ -8,7 +8,7 @@
 - [genetic_algorithms_with_python-sample.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/genetic_algorithms_with_python-sample.pdf)
 - [Getting-Started-with-Kubernetes.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Getting-Started-with-Kubernetes.pdf)
 - [ImageSearchEngineResourceGuide.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/ImageSearchEngineResourceGuide.pdf)
-- [Introduction to Statistical Learning - ISLR First Printing.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/ISLR First Printing.pdf)
+- [Introduction to Statistical Learning - ISLR First Printing.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/ISLR_First_printing.pdf)
 - [Mastering-Apache-Spark-2.0.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Mastering-Apache-Spark-2.0.pdf)
 - [NCCL-Woolley.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/NCCL-Woolley.pdf)
 - [Pluralsight-The-science-behind-forgetting-and-how-to-conquer-it.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Pluralsight-The-science-behind-forgetting-and-how-to-conquer-it.pdf)
