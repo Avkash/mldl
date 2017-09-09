@@ -13,5 +13,5 @@ for aa in range(len(onlyfiles)):
 		file_string = onlyfiles[aa].replace(" ", "_")
 	else:
 		file_string = onlyfiles[aa]
-	temp = "- [" + file_string + "](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/" + file_string + ")"
+	temp = "- [" + file_string + "](https://github.com/Avkash/mldl/tree/master/pages/docs/slidedecks/" + file_string + ")"
 	print(temp)
