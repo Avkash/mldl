@@ -1,5 +1,8 @@
 # Machine and Deep Learning in Python #
 
+## Online Books and Content ##
+ - [Python Data Science Handbook - All Online content](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+
 ## Libraries ##
  - [Mlxtend (machine learning extensions) - tools for the day-to-day data science tasks](http://rasbt.github.io/mlxtend/)
  - [Boruta - Feature Selection Library in Python](https://m2.icm.edu.pl/boruta/)
