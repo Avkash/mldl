@@ -10,7 +10,7 @@
  - [Machine Learning is Fun! Part 6: How to do Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
  - [Machine Learning is Fun! Part 7: Abusing Generative Adversarial Networks to Make 8-bit Pixel Art](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
  - [Machine Learning is Fun! Part 8: How to Intentionally Trick Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
- - []()
+ - [Guess The Correlation - A Website to have fun with Correlation](http://guessthecorrelation.com/)
  - []()
  
 ## Machine learning through examples ##
