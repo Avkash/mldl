@@ -15,7 +15,7 @@ Visit my Blog: [https://aichamp.wordpress.com/](https://aichamp.wordpress.com/)
 |[Naive Bayes](https://github.com/Avkash/mldl/blob/master/algos/algo_nb.md)    |[Data Visualization](https://github.com/Avkash/mldl/blob/master/pages/master_datavis.md)  |[Automated Machine Learning](https://github.com/Avkash/mldl/blob/master/master_automl.md)   |[Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md)   |   |
 |[PCA](https://github.com/Avkash/mldl/blob/master/algos/algo_pca.md)    |[Genetic Programming](https://github.com/Avkash/mldl/blob/master/dllibs/master_ga.md)   |[Model Management](https://github.com/Avkash/mldl/blob/master/pages/master_model_mgmt.md)   |[AI2](http://allenai.org/)   |   |
 |[GLRM](https://github.com/Avkash/mldl/blob/master/algos/algo_glrm.md)    |[React](https://github.com/Avkash/mldl/blob/master/pages/react_css.md)  |[Time-Series](https://github.com/Avkash/mldl/blob/master/dllibs/timeseries.md)   |[Baidu Research](http://research.baidu.com/)   |   |
-|[Ensembles](https://github.com/Avkash/mldl/blob/master/algos/algo_ensembles.md)    |  |[AnswerBots](https://github.com/Avkash/mldl/blob/master/pages/master_answerbot.md)   |[Partnership on AI](https://www.partnershiponai.org/)   |   |
+|[Ensembles](https://github.com/Avkash/mldl/blob/master/algos/algo_ensembles.md)    | [Docker and Containers](https://github.com/Avkash/mldl/blob/master/pages/containers_all.md) |[AnswerBots](https://github.com/Avkash/mldl/blob/master/pages/master_answerbot.md)   |[Partnership on AI](https://www.partnershiponai.org/)   |   |
 |    |  |   |   |   |
 
 
