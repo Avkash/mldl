@@ -1,8 +1,6 @@
+Full working Sample of Scala GBM example to perform GridSearch with Hyper parameters 
 
 
-// --------
-// https://github.com/h2oai/h2o-3/blob/6c9aa26fcd1a47321845da62a9d32d3687a380dd/h2o-algos/src/test/java/hex/tree/gbm/GBMGridTest.java
-// --------
 
 ```
 import org.apache.spark.SparkFiles
@@ -174,4 +172,7 @@ val grid = gbmGrid.get().asInstanceOf[_root_.hex.grid.Grid[_root_.hex.Model.Para
 val gbmXModel = gbmGrid.getModels.minBy(_._output._validation_metrics.rmse()).asInstanceOf[GBMModel]
 println(gbmXModel._output._validation_metrics)
 
+
+Resources:
+- [H2O - GBMGridTest.java](https://github.com/h2oai/h2o-3/blob/6c9aa26fcd1a47321845da62a9d32d3687a380dd/h2o-algos/src/test/java/hex/tree/gbm/GBMGridTest.java)
 
