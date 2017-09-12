@@ -4,6 +4,7 @@
 // https://github.com/h2oai/h2o-3/blob/6c9aa26fcd1a47321845da62a9d32d3687a380dd/h2o-algos/src/test/java/hex/tree/gbm/GBMGridTest.java
 // --------
 
+```
 import org.apache.spark.SparkFiles
 import org.apache.spark.h2o._
 import org.apache.spark.examples.h2o._
@@ -148,6 +149,10 @@ val ms = gbmGrid.getModels()
 val gbm =ms(0)
 val gbm =ms(1)
 val gbm =ms(2)
+
+```
+
+Still in work is the following code:
 
 // All hyper parameters
 gbmGrid.getHyperNames
