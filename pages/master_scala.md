@@ -1,5 +1,8 @@
 # Scala Resources # 
 
+## Code Snippets ## 
+ - [Scala Example with Grid Search and Hyperparameters for GBM in H2O](https://aichamp.wordpress.com/2017/09/11/scala-example-with-grid-search-and-hyperparameters-for-gbm-in-h2o/)
+
 ## Libraries ##
 
 ### Articles ### 
