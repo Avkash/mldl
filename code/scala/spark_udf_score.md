@@ -57,8 +57,6 @@ import _root_.hex.genmodel.MojoModel
 scala> import _root_.hex.genmodel.easy.RowData
 import _root_.hex.genmodel.easy.RowData
 
-scala>
-
 scala> // Load Mojo
 
 scala> val mojo = MojoModel.load("/Users/avkashchauhan/learn/customers/mojo_bin/gbm_model.zip")
@@ -67,17 +65,10 @@ mojo: hex.genmodel.MojoModel = hex.genmodel.algos.gbm.GbmMojoModel@7f958d4a
 scala> val easyModel = new EasyPredictModelWrapper(mojo)
 easyModel: hex.genmodel.easy.EasyPredictModelWrapper = hex.genmodel.easy.EasyPredictModelWrapper@7602c65d
 
-scala>
-
 scala> // Get Mojo names
 
 scala> var features = mojo.getNames.toBuffer
 features: scala.collection.mutable.Buffer[String] = ArrayBuffer(ID, AGE, RACE, DPROS, DCAPS, PSA, VOL, GLEASON, CAPSULE)
-
-scala> features.remove(mojo.getResponseIdx)
-res0: String = CAPSULE
-
-scala>
 
 scala> val r = new RowData
 r: hex.genmodel.easy.RowData = {}
