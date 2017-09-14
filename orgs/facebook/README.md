@@ -14,3 +14,13 @@ Metric/similarity learning, e.g. learning sentence or document similarity.
 Content-based or Collaborative filtering-based Recommendation, e.g. recommending music or videos.
 Text classification, or any other labeling task.
 Embedding graphs, e.g. multi-relational graphs such as Freebase.
+
+
+### [VISDOM](https://github.com/facebookresearch/visdom) ###
+A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
+
+- Overview
+- Concepts
+- Setup
+- Usage
+- API
