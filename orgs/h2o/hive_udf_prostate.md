@@ -1,13 +1,38 @@
 
-## Building the UDF Jar File ###
-
+## Copy the model and genmodel from exported location to into the Hive UDF project $$
 
 ```
+$ cp generated_model/h2o-genmodel.jar localjars
+$ cd src/main/
+$ mkdir resources
+$ cp generated_model/GBMModel.zip src/main/java/resources/ai/h2o/hive/udf/GBMModel.zip
+```
+
+## Update the pom.xml to Reflect Hadoop and Hive Versions ##
+
+Get your version numbers using:
+```
+$ hadoop version
+$ hive --version
+
+And plug these into the <properties> section of the pom.xml file. Currently, the configuration is set for pulling the necessary dependencies for Hortonworks. For other Hadoop distributions, you will also need to update the <repositories> section to reflect the respective repositories (a commented-out link to a Cloudera repository is included).
+
+```
+
+## Now Compiling the UDF Jar File ###
+
+You must have maven 3.5.0 or newer maven because older maven may not work.
+
+```
+$ mvn compile
+$ mvn package -Dmaven.test.skip=true
+
 [INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ ScoreData ---
 [INFO] Building jar: /h2oai/h2o-tutorials/tutorials/hive_udf_template/hive_udf_mojo_template/target/ScoreData-1.0-SNAPSHOT.jar
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 ```
+
 
 ## Copying dataset to HDFS ##
 
