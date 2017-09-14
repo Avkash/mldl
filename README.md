@@ -14,9 +14,9 @@ Visit my Blog: [https://aichamp.wordpress.com/](https://aichamp.wordpress.com/)
 |[K-Means](https://github.com/Avkash/mldl/blob/master/algos/algo_kmeans.md)    |[Spark](https://github.com/Avkash/mldl/blob/master/pages/master_spark.md)   |[Model Interpretability (MLI)](https://github.com/Avkash/mldl/blob/master/ml_interpretability.md)   |[H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/README.md)   |   |
 |[Naive Bayes](https://github.com/Avkash/mldl/blob/master/algos/algo_nb.md)    |[Data Visualization](https://github.com/Avkash/mldl/blob/master/pages/master_datavis.md)  |[Automated Machine Learning](https://github.com/Avkash/mldl/blob/master/master_automl.md)   |[Nvidia](https://github.com/Avkash/mldl/blob/master/orgs/nvidia/README.md)   |   |
 |[PCA](https://github.com/Avkash/mldl/blob/master/algos/algo_pca.md)    |[Genetic Programming](https://github.com/Avkash/mldl/blob/master/dllibs/master_ga.md)   |[Model Management](https://github.com/Avkash/mldl/blob/master/pages/master_model_mgmt.md)   |[AI2](http://allenai.org/)   |   |
-|[GLRM](https://github.com/Avkash/mldl/blob/master/algos/algo_glrm.md)    |[React](https://github.com/Avkash/mldl/blob/master/pages/react_css.md)  |[RL - Reinforcement Learning](https://github.com/Avkash/mldl/blob/master/dllibs/timeseries.md)   |[Baidu Research](http://research.baidu.com/)   |   |
+|[GLRM](https://github.com/Avkash/mldl/blob/master/algos/algo_glrm.md)    |[React](https://github.com/Avkash/mldl/blob/master/pages/react_css.md)  |[RL - Reinforcement Learning](https://github.com/Avkash/mldl/blob/master/pages/rl_all.md)   |[Baidu Research](http://research.baidu.com/)   |   |
 |[Ensembles](https://github.com/Avkash/mldl/blob/master/algos/algo_ensembles.md)    | [Docker and Containers](https://github.com/Avkash/mldl/blob/master/pages/containers_all.md) |[AnswerBots](https://github.com/Avkash/mldl/blob/master/pages/master_answerbot.md)   |[Partnership on AI](https://www.partnershiponai.org/)   |   |
-|    |  |[Time-Series](https://github.com/Avkash/mldl/blob/master/dllibs/timeseries.md) |   |   |
+|   |[Time-Series](https://github.com/Avkash/mldl/blob/master/dllibs/timeseries.md)|   |   |   |
 
 
 ## Learn by Training/Watching/Reading/Tailgating ##
