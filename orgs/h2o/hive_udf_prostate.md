@@ -1,5 +1,5 @@
 
-## Copy the model and genmodel from exported location to into the Hive UDF project $$
+## Copy the model and genmodel from exported location to into the Hive UDF project ##
 
 ```
 $ cp generated_model/h2o-genmodel.jar localjars
