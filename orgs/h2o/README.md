@@ -7,6 +7,7 @@
  - [Python sample code to perform MOJO Scoring](https://github.com/Avkash/mldl/blob/master/code/python/python_mojo_score.md)
  - [Scoring using MOJO with Hive UDf Function](https://github.com/Avkash/mldl/blob/master/orgs/h2o/hive_udf_prostate.md)
  - [How to debug H2O with R]()
+ - [rsparkling User Guide](https://github.com/Avkash/mldl/blob/master/code/R/rsparkling_guide.md)
  
 #### Deep Learning Algorithms ###
   - [Anomaly Detection Using H2O Deep Learning](https://dzone.com/articles/dive-deep-into-deep-learning-using-h2o-1)
