@@ -9,6 +9,7 @@
 ### 3. Data Ingest ###
 
 ### 4. Data Manipultion ###
+  - [Slicing the data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_data_man.md)
 
 ### 5. Machine Learning Algotithms with Code ###
 
