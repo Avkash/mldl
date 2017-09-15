@@ -1,5 +1,7 @@
 # H2O - User Guide #
 
+ - The code snippets will be in R, python, scala and java
+
 ### 1. Architecture ###
 
 ### 2. Installation ###
