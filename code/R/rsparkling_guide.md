@@ -1,9 +1,10 @@
 
 ## Intallation Packages ##
- - sparklyr 
- - rsparkling 0.2.1
+ - [sparklyr](https://spark.apache.org/docs/latest/sparkr.html) 0.6.2
+ - [rsparkling](https://github.com/h2oai/rsparkling) 0.2.1 
  - Apache spark 2.1.x
  - Sparkling Water 2.1.14
+ - [RStudio] (https://github.com/rstudio) - Optional 
 
 
 ## Quick Start Script ##
