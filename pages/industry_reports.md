@@ -1,5 +1,8 @@
 # Industry Reports #
 
+## DZone ##
+ - [DZone - Guide To Big data Vol IV](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/5077701-dzone-guidetobigdata-voliv.pdf)
+ 
 ## Gartner ##
 - [magic_quadrant_for_data_science platforms.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/magic_quadrant_for_data_science_platforms.pdf)
 - [MGI-The-Age-of-Analytics-Full-report.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/MGI-The-Age-of-Analytics-Full-report.pdf)
