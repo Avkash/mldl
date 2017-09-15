@@ -16,3 +16,7 @@
    - $ conda remove --name python27 --all
    - Note: This will remove the environment python27 and listing it will not list it. 
    
+
+Caution:
+ - Make sure not to have PYTHON_PATH set otherwise it may have issues with conda runtime
+ 
