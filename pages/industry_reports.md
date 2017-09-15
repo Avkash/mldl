@@ -1,5 +1,7 @@
 # Industry Reports #
 
+## CrowdFlower ##
+ - [CrowdFlower - ](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/image-annotation-guide-crowdflower.pdf)
 ## DZone ##
  - [DZone - Guide To Big data Vol IV](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/5077701-dzone-guidetobigdata-voliv.pdf)
  
