@@ -1,4 +1,4 @@
-##Scala code to perform AutoML ##
+## Scala code to perform AutoML ##
 
 Here is the full scala code:
 
