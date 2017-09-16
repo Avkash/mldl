@@ -101,7 +101,7 @@ hive> CREATE TEMPORARY FUNCTION scoredata AS 'ai.h2o.hive.udf.ScoreDataUDF';
    Time taken: 0.512 seconds
 
 ```
-## Validating the scoredata function is in give ##
+## Validating the scoredata function is in Hive ##
 
 While running "show functions;" command at give you can see the function is listed properly.
 
