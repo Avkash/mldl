@@ -3,25 +3,40 @@
  - The code snippets will be in R, python, scala and java
 
 ### 1. Architecture ###
+ - What is it
+ - How it works
+ - What you can do with it? 
 
 ### 2. Installation ###
+ - On Premise
+ - Cluster
+ - Hadoop
+ - Spark
 
+## Accessing H2O Cluster
+ - Web Frontend (FLOW)
+ - Python
+ - R
+ 
 ### 3. Data Ingest ###
+ - Ingesting data (FLOW | Python | R | Scala)
+ - Supported Data Source
 
 ### 4. Data Manipultion ###
   - [Slicing the data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_data_man.md)
   - 
   - 
+
 ### 5. Machine Learning Algotithms with Code ###
-  - Supervised
+  - Supervised 
     - GLM
       - Classification Example (FLOW | Python | R | Scala)
       - Regression Example (FLOW | Python | R | Scala)
     - GBM 
-      - Classification Example (FLOW | Python | R | Scala)
+      - Binomial Classification Example (FLOW | Python | R | Scala)
       - Regression Example (FLOW | Python | R | Scala)
     - Distributed Random Forest
-      - Classification Example (FLOW | Python | R | Scala)
+      - Multinomial Classification Example (FLOW | Python | R | Scala)
       - Regression Example (FLOW | Python | R | Scala)
     - Deep Learning
       - Classification Example (FLOW | Python | R | Scala)
@@ -29,9 +44,9 @@
     - Naïve Bayes Classifier
     - Stacked Ensembles
   - Unsupervised 
-    - KMeans
-    - PCA
-    - GLRM
+    - KMeans (FLOW | Python | R | Scala)
+    - PCA (FLOW | Python | R | Scala)
+    - GLRM (FLOW | Python | R | Scala)
     
 ### AutoML in H2O  ###
   - Classification Example (FLOW | Python | R | Scala)
