@@ -15,17 +15,17 @@
 ### 5. Machine Learning Algotithms with Code ###
   - Supervised
     - GLM
-     - Classification Example (FLOW | Python | R | Scala)
-     - Regression Example (FLOW | Python | R | Scala)
+      - Classification Example (FLOW | Python | R | Scala)
+      - Regression Example (FLOW | Python | R | Scala)
     - GBM 
-     - Classification Example (FLOW | Python | R | Scala)
-     - Regression Example (FLOW | Python | R | Scala)
+      - Classification Example (FLOW | Python | R | Scala)
+      - Regression Example (FLOW | Python | R | Scala)
     - Distributed Random Forest
-     - Classification Example (FLOW | Python | R | Scala)
-     - Regression Example (FLOW | Python | R | Scala)
+      - Classification Example (FLOW | Python | R | Scala)
+      - Regression Example (FLOW | Python | R | Scala)
     - Deep Learning
-     - Classification Example (FLOW | Python | R | Scala)
-     - Regression Example (FLOW | Python | R | Scala)
+      - Classification Example (FLOW | Python | R | Scala)
+      - Regression Example (FLOW | Python | R | Scala)
     - Naïve Bayes Classifier
     - Stacked Ensembles
   - Unsupervised 
@@ -42,11 +42,11 @@
  - Launching Cluster 
  - Machine Learning 
  - pysparkling
-  - GBM Example
-  - DRF Sample
+   - GBM Example
+   - DRF Sample
  - rsparkling
-  - GBM Example
-  - DRF Sample
+   - GBM Example
+   - DRF Sample
   
 ### H2O on Hadoop Cluster ##
  - Launching Cluster 
