@@ -54,10 +54,6 @@
   - Miscellaneous 
     - Word2Vec (Python | R )
     
-### AutoML in H2O  ###
-  - Classification Example (FLOW | Python | R | Scala)
-  - Regression Example (FLOW | Python | R | Scala)
-
 ### Sparkling Water ##
  - Installation
  - Launching Cluster 
@@ -92,3 +88,14 @@
   - Cluster size approximation
   - 
 
+### Advance Concepts ###
+  - Grid Search
+    - Classification Example (FLOW | Python | R | Scala)
+    - Regression Example (FLOW | Python | R | Scala)
+  - Hpyerparameters 
+    - Classification Example (FLOW | Python | R | Scala)
+    - Regression Example (FLOW | Python | R | Scala)
+  - AutoML
+    - Classification Example (FLOW | Python | R | Scala)
+    - Regression Example (FLOW | Python | R | Scala)
+  - Cross-Validation
