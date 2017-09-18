@@ -9,7 +9,7 @@
 
 ### 2. Installation ###
  - On Premise
- - Cluster
+ - [Cluster](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_installation.md)
  - Hadoop
  - Spark
 
