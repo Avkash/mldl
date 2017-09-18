@@ -56,7 +56,7 @@
     
 ### Sparkling Water ##
  - Installation
- - Launching Cluster 
+ - Launching Cluster (deploy mode - client vs cluster)
  - Machine Learning 
  - pysparkling
    - GBM Example
@@ -67,7 +67,7 @@
   
 ### H2O on Hadoop Cluster ##
  - Launching Cluster 
- - 
+ - using -disown
 
 ### 6. H2O Models in Production ###
  - Exporting Models
