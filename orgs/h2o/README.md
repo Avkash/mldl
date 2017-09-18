@@ -9,7 +9,11 @@
  - [How to debug H2O with R]()
  - [rsparkling User Guide](https://github.com/Avkash/mldl/blob/master/code/R/rsparkling_guide.md)
  
-#### Deep Learning Algorithms ###
+### Presentations ###
+ - [H2O Machine Learning on Hadoop ](https://github.com/Avkash/mldl/blob/master/pages/docs/slidedecks/H2O-Hadoop-Full-Demo.pdf)
+ - [H2O Model Deployment with MOJO and POJO](https://github.com/Avkash/mldl/blob/master/pages/docs/slidedecks/Model-deployment-Final.pdf)
+ 
+### Deep Learning Algorithms ###
   - [Anomaly Detection Using H2O Deep Learning](https://dzone.com/articles/dive-deep-into-deep-learning-using-h2o-1)
   - [Anomaly Detection: Increasing Classification Accuracy with H2O's Autoencoder and R](http://amunategui.github.io/anomaly-detection-h2o/)
   - [Deep Learning session @ Statistical Learning and Data Mining IV course](https://github.com/ledell/sldm4-h2o/blob/master/sldm4-deeplearning-h2o.Rmd)
