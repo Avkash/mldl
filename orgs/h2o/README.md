@@ -8,6 +8,7 @@
  - [Scoring using MOJO with Hive UDf Function](https://github.com/Avkash/mldl/blob/master/orgs/h2o/hive_udf_prostate.md)
  - [How to debug H2O with R]()
  - [rsparkling User Guide](https://github.com/Avkash/mldl/blob/master/code/R/rsparkling_guide.md)
+ - [Creating H2O cluster of N machines using flatfile or multicate way](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_installation.md)
  
 ### Presentations ###
  - [H2O Machine Learning on Hadoop ](https://github.com/Avkash/mldl/blob/master/pages/docs/slidedecks/H2O-Hadoop-Full-Demo.pdf)
