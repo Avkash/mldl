@@ -13,12 +13,12 @@
  - Hadoop
  - Spark
 
-## Accessing H2O Cluster
+## 3. Accessing H2O Cluster
  - Web Frontend (FLOW)
  - Python
  - R
  
-### 3. Data Ingest ###
+## 4. Data Ingest ##
  - Ingesting data in H2O
    - Uploading a File (FLOW | Python | R | Scala)
    - Importing a File (FLOW | Python | R | Scala)
@@ -27,7 +27,7 @@
  - Supported Data Source in H2O
  - Understanding Data distribution in memory
   
-### 4. Data Manipultion ###
+## 5. Data Manipultion ##
  - Splitting Datasets into Training/Testing/Validating  (Python | R | Scala)
  - H2O Pandas Dataframe and vice-versa (Python)
  - Merging Two H2O Dataframes (Python | R | Scala)
@@ -42,7 +42,7 @@
  - Pivoting data frames (Python | R | Scala)
  - [Slicing the data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_data_man.md)
 
-### 5. Machine Learning Algotithms with Code ###
+## 6. Machine Learning Algotithms with Code ##
   - Supervised 
     - GLM
       - Classification Example (FLOW | Python | R | Scala)
@@ -65,7 +65,7 @@
   - Miscellaneous 
     - Word2Vec (Python | R )
     
-### Sparkling Water ##
+## 7. Sparkling Water ##
  - Installation
  - Launching Cluster (deploy mode - client vs cluster)
  - Machine Learning in Sparkling Water
@@ -76,22 +76,22 @@
    - GBM Example
    - DRF Sample
 
-### pysparkling ###
+## 8. pysparkling ##
  - Installation
  - Connection spark cluster
  - Machine learning example (GBM | GLM)
  
-### rsparkling ###
+## 9. rsparkling ##
  - Installation
  - Connection spark cluster
  - Analyzing Job and data
  - Machine learning example (GBM | GLM | Deep Learning)
  
-### H2O on Hadoop Cluster ##
+## 10. H2O on Hadoop Cluster ##
  - Launching Cluster 
  - using various parameters ( ip | port | disown)
 
-### 6. H2O Models in Production ###
+## 11. H2O Models in Production ##
  - Supported Scenarios
  - Exporting Models
    - Binary  (FLOW | Python | R | Scala)
@@ -107,11 +107,11 @@
    - Hive Scoring
      - Hive UDF Sample in Java
 
-### H2O Performance ###
+## 12. H2O Performance ##
   - Cluster size approximation
   - Analyzing data in H2O memory
 
-### Advance Concepts ###
+## 13. Advance Concepts ##
   - Grid Search
     - Classification Example (FLOW | Python | R | Scala)
     - Regression Example (FLOW | Python | R | Scala)
@@ -122,3 +122,11 @@
     - Classification Example (FLOW | Python | R | Scala)
     - Regression Example (FLOW | Python | R | Scala)
   - Cross-Validation
+  
+## 14: Important Links ##
+ - [Latest Download Page]
+ - [Documentation]
+ - [Github for ket projects]
+ - [JIRA]
+ - [Stackoverflow Tags]
+
