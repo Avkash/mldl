@@ -13,8 +13,7 @@ import h2oContext.implicits._
 import water.Key
 val prostateData = new H2OFrame(new File("/Users/avkashchauhan/src/github.com/h2oai/sparkling-water/examples/smalldata/prostate.csv"))
 val autoMLBuildSpec = new AutoMLBuildSpec()
-autoMLBuildSpec.input_spec.training_frame = prostateData.
-autoMLBuildSpec.input_spec.training_frame = prostateData._key
+autoMLBuildSpec.input_spec.training_frame = prostateData
 autoMLBuildSpec.input_spec.response_column = "CAPSULE";
 autoMLBuildSpec.build_control.loss = "AUTO"
 autoMLBuildSpec.build_control.stopping_criteria.set_max_runtime_secs(5)
