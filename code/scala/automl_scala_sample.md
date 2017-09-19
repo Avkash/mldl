@@ -3,26 +3,26 @@
 Here is the full scala code:
 
 ```
-scala> import ai.h2o.automl.AutoML;
-scala> import ai.h2o.automl.AutoMLBuildSpec
-scala> import org.apache.spark.h2o._
-scala> val h2oContext = H2OContext.getOrCreate(sc)
-scala> import h2oContext._
-scala> import java.io.File
-scala> import h2oContext.implicits._
-scala> import water.Key
-scala> val prostateData = new H2OFrame(new File("/Users/avkashchauhan/src/github.com/h2oai/sparkling-water/examples/smalldata/prostate.csv"))
-scala> val autoMLBuildSpec = new AutoMLBuildSpec()
-scala> autoMLBuildSpec.input_spec.training_frame = prostateData.
-scala> autoMLBuildSpec.input_spec.training_frame = prostateData._key
-scala> autoMLBuildSpec.input_spec.response_column = "CAPSULE";
-scala> autoMLBuildSpec.build_control.loss = "AUTO"
-scala> autoMLBuildSpec.build_control.stopping_criteria.set_max_runtime_secs(5)
-scala> import java.util.Date;
-scala> val aml = AutoML.makeAutoML(Key.make(), new Date(), autoMLBuildSpec)
-scala> AutoML.startAutoML(aml)
-scala> aml.leader
-scala> aml.leaderboard
+import ai.h2o.automl.AutoML;
+import ai.h2o.automl.AutoMLBuildSpec
+import org.apache.spark.h2o._
+val h2oContext = H2OContext.getOrCreate(sc)
+import h2oContext._
+import java.io.File
+import h2oContext.implicits._
+import water.Key
+val prostateData = new H2OFrame(new File("/Users/avkashchauhan/src/github.com/h2oai/sparkling-water/examples/smalldata/prostate.csv"))
+val autoMLBuildSpec = new AutoMLBuildSpec()
+autoMLBuildSpec.input_spec.training_frame = prostateData.
+autoMLBuildSpec.input_spec.training_frame = prostateData._key
+autoMLBuildSpec.input_spec.response_column = "CAPSULE";
+autoMLBuildSpec.build_control.loss = "AUTO"
+autoMLBuildSpec.build_control.stopping_criteria.set_max_runtime_secs(5)
+import java.util.Date;
+val aml = AutoML.makeAutoML(Key.make(), new Date(), autoMLBuildSpec)
+AutoML.startAutoML(aml)
+aml.leader
+aml.leaderboard
 
 ```
 
