@@ -20,12 +20,13 @@
  
 ## 4. Data Ingest ##
  - Supported Data Types
+ - Supported file format
+ - Supported Data Source in H2O
  - Ingesting data in H2O
    - Uploading a File (FLOW | Python | R | Scala)
    - Importing a File (FLOW | Python | R | Scala)
    - Importing Multiple Files (FLOW | Python | R | Scala)
  - Ingesting data from SQL (Python | R)
- - Supported Data Source in H2O
  - Understanding Data distribution in memory
   
 ## 5. Data Manipultion ##
