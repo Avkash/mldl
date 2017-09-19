@@ -18,6 +18,7 @@
   - [Anomaly Detection Using H2O Deep Learning](https://dzone.com/articles/dive-deep-into-deep-learning-using-h2o-1)
   - [Anomaly Detection: Increasing Classification Accuracy with H2O's Autoencoder and R](http://amunategui.github.io/anomaly-detection-h2o/)
   - [Deep Learning session @ Statistical Learning and Data Mining IV course](https://github.com/ledell/sldm4-h2o/blob/master/sldm4-deeplearning-h2o.Rmd)
+  - [Autoencoders and anomaly detection with machine learning in fraud analytics](https://shiring.github.io/machine_learning/2017/05/01/fraud)
 
 ## H2O Deep Water Build Process ##
  - [H2O Deep Water Build Guide](https://github.com/Avkash/mldl/blob/master/h2o_deepwater_build.md)
