@@ -3,10 +3,10 @@
  - The code snippets will be in R, python, scala and java
 
 ### 1. Architecture ###
- - What is it
- - How it works
- - What you can do with it? 
-
+ - What is it?
+ - How it works?
+ - What you can do with H2O? 
+ 
 ### 2. Installation ###
  - On Premise
  - [Cluster](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_installation.md)
@@ -19,17 +19,28 @@
  - R
  
 ### 3. Data Ingest ###
- - Ingesting data (FLOW | Python | R | Scala)
- - Supported Data Source
-
-### Analyzing data in H2O ###
- - Understanding KV store
- - Distributed data in memory
+ - Ingesting data in H2O
+   - Uploading a File (FLOW | Python | R | Scala)
+   - Importing a File (FLOW | Python | R | Scala)
+   - Importing Multiple Files (FLOW | Python | R | Scala)
+ - Ingesting data from SQL (Python | R)
+ - Supported Data Source in H2O
+ - Understanding Data distribution in memory
   
 ### 4. Data Manipultion ###
-  - [Slicing the data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_data_man.md)
-  - 
-  - 
+ - Splitting Datasets into Training/Testing/Validating  (Python | R | Scala)
+ - H2O Pandas Dataframe and vice-versa (Python)
+ - Merging Two H2O Dataframes (Python | R | Scala)
+ - Group By operation on data frame (Python | R | Scala)
+ - Combining Columns from Two Data Frames (Python | R | Scala)
+ - Combining Rows from Two Data frames (Python | R | Scala)
+ - Slicing Rows from an H2O data frame (Python | R | Scala)
+ - Slicing Columns from an H2O data frame (Python | R | Scala)
+ - Fill NAs in H2O data frame (Python | R | Scala)
+ - Replacing Values in a H2O data frame (Python | R | Scala)
+ - Imputing values into H2O Data frame (Python | R | Scala)
+ - Pivoting data frames (Python | R | Scala)
+ - [Slicing the data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_data_man.md)
 
 ### 5. Machine Learning Algotithms with Code ###
   - Supervised 
@@ -57,19 +68,31 @@
 ### Sparkling Water ##
  - Installation
  - Launching Cluster (deploy mode - client vs cluster)
- - Machine Learning 
+ - Machine Learning in Sparkling Water
  - pysparkling
    - GBM Example
    - DRF Sample
  - rsparkling
    - GBM Example
    - DRF Sample
-  
+
+### pysparkling ###
+ - Installation
+ - Connection spark cluster
+ - Machine learning example (GBM | GLM)
+ 
+### rsparkling ###
+ - Installation
+ - Connection spark cluster
+ - Analyzing Job and data
+ - Machine learning example (GBM | GLM | Deep Learning)
+ 
 ### H2O on Hadoop Cluster ##
  - Launching Cluster 
- - using -disown
+ - using various parameters ( ip | port | disown)
 
 ### 6. H2O Models in Production ###
+ - Supported Scenarios
  - Exporting Models
    - Binary  (FLOW | Python | R | Scala)
    - POJO and MOJO models (FLOW | Python | R | Scala)
@@ -86,7 +109,7 @@
 
 ### H2O Performance ###
   - Cluster size approximation
-  - 
+  - Analyzing data in H2O memory
 
 ### Advance Concepts ###
   - Grid Search
