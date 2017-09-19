@@ -1,6 +1,7 @@
 # mldl - Machine Learning and Deep Learning #
 
-My Blog: [https://aichamp.wordpress.com/](https://aichamp.wordpress.com/) | My e-Books: [H2O - User Guide](https://github.com/Avkash/mldl/blob/master/code/h2o_ug_index.md)
+My Blog: [https://aichamp.wordpress.com/](https://aichamp.wordpress.com/) | My e-Books: [H2O - User Guide](https://github.com/Avkash/mldl/blob/master/code/h2o_ug_index.md) | Motivation: [Life & Career](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)
+
 
 ## Machine & Deep Learning Glossary ##
 [A](https://github.com/Avkash/mldl/blob/master/glossary/def_a.md) | [B](https://github.com/Avkash/mldl/blob/master/glossary/def_b.md) | [C](https://github.com/Avkash/mldl/blob/master/glossary/def_c.md) | [D](https://github.com/Avkash/mldl/blob/master/glossary/def_d.md) | [E](https://github.com/Avkash/mldl/blob/master/glossary/def_e.md) | [F](https://github.com/Avkash/mldl/blob/master/glossary/def_f.md) | [G](https://github.com/Avkash/mldl/blob/master/glossary/def_g.md) | [H](https://github.com/Avkash/mldl/blob/master/glossary/def_h.md) | [I](https://github.com/Avkash/mldl/blob/master/glossary/def_i.md) | [J](https://github.com/Avkash/mldl/blob/master/glossary/def_j.md) | [K](https://github.com/Avkash/mldl/blob/master/glossary/def_k.md) | [L](https://github.com/Avkash/mldl/blob/master/glossary/def_l.md) | [M](https://github.com/Avkash/mldl/blob/master/glossary/def_m.md) | [N](https://github.com/Avkash/mldl/blob/master/glossary/def_n.md) | [O](https://github.com/Avkash/mldl/blob/master/glossary/def_o.md) | [P](https://github.com/Avkash/mldl/blob/master/glossary/def_p.md) | [Q](https://github.com/Avkash/mldl/blob/master/glossary/def_q.md) | [R](https://github.com/Avkash/mldl/blob/master/glossary/def_r.md) | [S](https://github.com/Avkash/mldl/blob/master/glossary/def_s.md) | [T](https://github.com/Avkash/mldl/blob/master/glossary/def_t.md) | [U](https://github.com/Avkash/mldl/blob/master/glossary/def_u.md) | [V](https://github.com/Avkash/mldl/blob/master/glossary/def_v.md) | [W](https://github.com/Avkash/mldl/blob/master/glossary/def_w.md) | [X](https://github.com/Avkash/mldl/blob/master/glossary/def_x.md) | [Y](https://github.com/Avkash/mldl/blob/master/glossary/def_y.md) | [Z](https://github.com/Avkash/mldl/blob/master/glossary/def_z.md)
@@ -29,9 +30,6 @@ My Blog: [https://aichamp.wordpress.com/](https://aichamp.wordpress.com/) | My e
 | [Researchers](https://github.com/Avkash/mldl/blob/master/dllibs/master_personals.md) | [Newsletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)  | [All Books](https://github.com/Avkash/mldl/blob/master/pages/docs/books/README.md) |[Analytics Vidhya](https://www.analyticsvidhya.com/) |  [Pandas](https://github.com/Avkash/mldl/blob/master/pages/refcards-pandas.md) [numpy](https://github.com/Avkash/mldl/blob/master/pages/refcards-numpy.md) [Scipy](https://github.com/Avkash/mldl/blob/master/pages/refcards-scipy.md) 
 |1|[Industry Articles](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/README.md)|[Slide-Deck Collection](https://github.com/Avkash/mldl/blob/master/pages/docs/slidedecks/README.md)|[Datasets](https://github.com/Avkash/mldl/blob/master/pages/master_datasets.md)|[All things NLP](https://github.com/Avkash/mldl/blob/master/dllibs/master_nlp.md)|
 | 1|2 |3 |4 |[Awesome Deeplearning](https://github.com/ChristosChristofidis/awesome-deep-learning) |
-
-## Motivational Stuff in Life & Career ##
-[Life & Career Motivation](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)
 
 ## My (Projects & Presentations) ##
  - [Forecasting gas and electricity utilization using Facebook prophet](https://github.com/Avkash/mldl/blob/master/pages/forecasting-prophet.md)
