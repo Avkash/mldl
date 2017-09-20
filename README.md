@@ -7,8 +7,8 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ## All about AI ##
-| Algorithms    |     Programming    |  Deep Learning HOT  |    Organizations    |   Burning HOT AI     |
-| ------------- |:------------------:|:-------------------:|:-------------------:| -------------------:|
+| Algorithms    |     Programming    |  Deep Learning      |    Organizations    |   Burning HOT AI    |
+|:------------- |:------------------:|:-------------------:|:-------------------:| -------------------:|
 |[GLM](https://github.com/Avkash/mldl/blob/master/algos/algo_glm.md)    |[Python](https://github.com/Avkash/mldl/blob/master/pages/master_python.md)  |[Everything DL](https://github.com/Avkash/mldl/blob/master/master_dl.md)    |[Google](https://github.com/Avkash/mldl/blob/master/orgs/google/README.md)   | [Github - Top10](https://github.com/search?o=desc&q=Machine+Learning&s=stars&type=Repositories&utf8=%E2%9C%93)  |
 |[GBM](https://github.com/Avkash/mldl/blob/master/algos/algo_gbm.md)    | [R](https://github.com/Avkash/mldl/blob/master/dllibs/master_r.md)   |[Everything ML](https://github.com/Avkash/mldl/blob/master/master_ml.md)   |[Microsoft](https://github.com/Avkash/mldl/blob/master/orgs/microsoft/README.md)   |[KDNuggets- Top10](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)  |
 |[RandomForest](https://github.com/Avkash/mldl/blob/master/algos/algo_drf.md)    |[Java](https://github.com/Avkash/mldl/blob/master/dllibs/master_java.md)  |[Self-driving Autotech](https://github.com/Avkash/mldl/blob/master/driverless/README.md)   |[AWS](https://github.com/Avkash/mldl/blob/master/orgs/aws/README.md)   |[Awesome Deeplearning](https://github.com/ChristosChristofidis/awesome-deep-learning)  |
