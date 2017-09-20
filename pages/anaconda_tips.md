@@ -9,6 +9,9 @@
  - List Enviroment
    - $ conda list --envs
    - Note: This will list other environments along with python27 as well. 
+ - Running jupyter notebook:
+   - Be inside one of the environment
+   - $ jupypter notebook
  - Deactivate Environment
    - $ source deactivate python27
    - Note: This will stop the environment. Now the list command will still show the python27 listed because it is only stopped but not delete.
