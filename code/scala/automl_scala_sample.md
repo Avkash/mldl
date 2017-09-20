@@ -20,9 +20,11 @@ autoMLBuildSpec.build_control.stopping_criteria.set_max_runtime_secs(5)
 import java.util.Date;
 val aml = AutoML.makeAutoML(Key.make(), new Date(), autoMLBuildSpec)
 AutoML.startAutoML(aml)
+// Note: In some cases the above call is non-blocking
+// So using the following alternative function will block the next commmand, untill the exection of action command
+AutoML.startAutoML(autoMLBuildSpec).get()  ## This is forced blocking call
 aml.leader
 aml.leaderboard
-
 ```
 
 
