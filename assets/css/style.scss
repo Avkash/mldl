@@ -4,6 +4,14 @@
 @import "{{ site.theme }}";
 table, th, td {
   border: 1px solid black;
-  border-color: black;
-  
+  border-color: black; 
+  border-spacing: 2px; 
+  cellspacing: 2px;
+}
+
+th, td {
+  border: 1px solid black;
+  border-color: black; 
+  cellspacing: 2px;
+  cellpadding: 1px;
 }
