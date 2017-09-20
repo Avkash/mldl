@@ -2,13 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-table, th, td {
-  border: 1px solid black;
-  border-color: black; 
-  border-spacing: 1px; 
-}
 
-th, td {
+table, th, td {
   border: 1px solid black;
   border-color: black; 
 }
