@@ -24,6 +24,7 @@
 ## H2O Deep Water Build Process ##
  - [H2O Deep Water Build Guide](https://github.com/Avkash/mldl/blob/master/h2o_deepwater_build.md)
  - [A set of scikit-learn and h2o extension classes](https://github.com/tgsmith61591/skutil)
+ - [Tips building H2O and Deep Water Source Code](https://aichamp.wordpress.com/2017/04/21/tips-building-h2o-and-deep-water-source-code/)
 
 ## H2O Packages ##
  - [Conda Python Packages](https://anaconda.org/h2oai/h2o/files)
