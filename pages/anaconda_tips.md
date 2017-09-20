@@ -6,6 +6,10 @@
  - Activate Environment
    - $ source activate python27
    - Note: This will activate above environment name python27
+ - Installing package in each environment
+   - Be inside one of the environment
+   - You can use pip to install the package i.e.
+   - $ pip install h2o --user
  - List Enviroment
    - $ conda list --envs
    - Note: This will list other environments along with python27 as well. 
