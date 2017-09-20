@@ -21,7 +21,7 @@
 |   |[Time-Series](https://github.com/Avkash/mldl/blob/master/dllibs/timeseries.md)|   | [Berkeley AI Reseach](http://bair.berkeley.edu/blog/)  |   |
 
 
-## Learn by Training/Watching/Reading/Tailgating ##
+## All about learning - One things at a time ##
 
 | Videos        | Articles           |        Others       |  Competitive AI/ML  |      Cheatsheets    |
 | ------------- |:------------------:|:-------------------:|:-------------------:| -------------------:|
