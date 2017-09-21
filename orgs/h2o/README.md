@@ -31,4 +31,7 @@
 
 ## H2O Packages ##
  - [Conda Python Packages](https://anaconda.org/h2oai/h2o/files)
+   - To get a list of H2O package and their version at Conda visit link above.   
+   - To install latest H2O package from conda you need to run command as below:
+     - $ conda install -c h2oai h2o=3.14.0.2
  - [Pypi Python Packages](https://pypi.python.org/pypi/h2o)
