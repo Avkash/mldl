@@ -35,6 +35,9 @@
    - To install latest H2O package from conda you need to run command as below:
      - $ conda install -c h2oai h2o=3.14.0.2
  - [Pypi Python Packages](https://pypi.python.org/pypi/h2o)
+ - Samples in H2O Code Branch
+   - [Python Samples](https://github.com/h2oai/h2o-3/tree/c9e576170fb2d21fa928f39406593d0de9db072c/h2o-py/demos)
+ 
  
  ## Ingesting Data in H2O ##
   - Reading from Hive
