@@ -8,7 +8,7 @@
  - [Scoring using MOJO with Hive UDf Function](https://github.com/Avkash/mldl/blob/master/orgs/h2o/hive_udf_prostate.md)
  - [How to debug H2O with R]()
  - [rsparkling User Guide](https://github.com/Avkash/mldl/blob/master/code/R/rsparkling_guide.md)
- - [Creating H2O cluster of N machines using flatfile or multicate way](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_installation.md)
+ - [Creating H2O cluster of N machines using flatfile or multicast way](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_installation.md)
 
 ## AI/ML Solutions using H2O ##
  - [HR Employ Attrition - H2o AutoML](http://www.business-science.io/business/2017/09/18/hr_employee_attrition.html)
