@@ -18,4 +18,7 @@
 - [Spark_in_Action.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Spark_in_Action.pdf)
 - [theengineer-ElonMusk.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/theengineer-ElonMusk.pdf)
 - [Valve_Handbook_LowRes.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Valve_Handbook_LowRes.pdf)
+- [Apache KAFKA - The Definite Guide (PDF Local)]()
+  - [Apache KAFKA - The Definite Guide (Web)](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
+- []()
 
