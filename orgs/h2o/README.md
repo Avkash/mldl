@@ -24,6 +24,9 @@
   - [Anomaly Detection: Increasing Classification Accuracy with H2O's Autoencoder and R](http://amunategui.github.io/anomaly-detection-h2o/)
   - [Deep Learning session @ Statistical Learning and Data Mining IV course](https://github.com/ledell/sldm4-h2o/blob/master/sldm4-deeplearning-h2o.Rmd)
 
+## Machine learning Expert Advice ## 
+  - [Gradient Boosting, Decision Trees and XGBoost with CUDA](https://devblogs.nvidia.com/parallelforall/gradient-boosting-decision-trees-xgboost-cuda/)
+
 ## H2O Deep Water Build Process ##
  - [H2O Deep Water Build Guide](https://github.com/Avkash/mldl/blob/master/h2o_deepwater_build.md)
  - [A set of scikit-learn and h2o extension classes](https://github.com/tgsmith61591/skutil)
