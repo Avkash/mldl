@@ -59,7 +59,7 @@ df.select(flattenSchema(df.schema):_*).write.format("com.databricks.spark.csv").
 ```
 
 
-### Here is a working example for Spark 2.1 ##
+### [Here is a working example for Spark 2.1](#ExampleSpark21) ##
 
 ```
 ~/sw2/sparkling-water-2.1.14 -> bin/sparkling-shell                                                                                                                                                                             
@@ -139,7 +139,7 @@ scala> df.select(flattenSchema(df.schema):_*).write.format("com.databricks.spark
 
 ```
 
-### Here is a working example for Spark 1.6 ##
+### [Here is a working example for Spark 1.6](#ExampleSpark16) ##
 
 ```
 avkash@mr-0xd7-precise1:~/sparkling-water-1.6.8$ bin/sparkling-shell --packages com.databricks:spark-csv_2.10:1.5.0
