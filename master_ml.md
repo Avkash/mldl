@@ -1,4 +1,5 @@
 # All things Machine Learning #
+ - [Gradient Boosting, Decision Trees and XGBoost with CUDA](https://devblogs.nvidia.com/parallelforall/gradient-boosting-decision-trees-xgboost-cuda/)
  - [For the Starters - Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
 ## Machine Learning is Fun ##

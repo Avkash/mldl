@@ -10,6 +10,7 @@
 ## Articles ##
  - [Select Important Variables Boruta Package](https://www.analyticsvidhya.com/blog/2016/03/select-important-variables-boruta-package/)
  - [Python sample code to perform MOJO Scoring](https://github.com/Avkash/mldl/blob/master/code/python/python_mojo_score.md)
+ - [BUILDING GAME AI USING MACHINE LEARNING: WORKING WITH TENSORFLOW, KERAS, AND THE INTEL MKL IN PYTHON](https://www.activestate.com/blog/2017/05/building-game-ai-using-machine-learning-working-tensorflow-keras-and-intel-mkl-python)
 
 ## Data Visualization ##
  - [Datashader - Creating graphs from large datasets](http://datashader.readthedocs.io/en/latest/)
