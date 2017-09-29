@@ -1,0 +1,2 @@
+## Netezza Tips and Tricks ##
+
