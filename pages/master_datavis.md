@@ -6,14 +6,16 @@
  - [Facebook - VISDOM](https://github.com/facebookresearch/visdom)
  - [Display](https://github.com/szym/display)
 
-## Visualization Packages ##
- - [Wordnet Visualization](http://vialab.science.uoit.ca/portfolio/wordnet-visualization)
+## [Wordnet Visualization](http://vialab.science.uoit.ca/portfolio/wordnet-visualization) ##
  ![](https://github.com/Avkash/mldl/blob/master/images/wordnet-vis.png)
- - [PivotSlice](http://vialab.science.uoit.ca/portfolio/pivotslice)
+
+## [PivotSlice](http://vialab.science.uoit.ca/portfolio/pivotslice) ##
  ![](https://github.com/Avkash/mldl/blob/master/images/pivotslice.png)
- - [VEGA - Voyager](http://vega.github.io/voyager/)
+
+## [VEGA - Voyager](http://vega.github.io/voyager/) ##
  ![](https://github.com/Avkash/mldl/blob/master/images/voyger.png)
- - [Vega & Vega-Lite : VISUALIZATION GRAMMARS](https://vega.github.io/)
+ 
+## [Vega & Vega-Lite : VISUALIZATION GRAMMARS](https://vega.github.io/) ##
  ![](https://github.com/Avkash/mldl/blob/master/images/vega-tooklit.png)
 
 ## Examples ##
