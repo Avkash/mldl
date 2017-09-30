@@ -17,8 +17,10 @@ To build an autoencoder, you need three things: an encoding function, a decoding
 ### Activation Layer ###
 A neuron has the capacity to switch on or switch off based on certain consecutive sections of input data. We call this property of a neuron, activation.
 An activation is like a valve which opens when there is a good amount of pressure like a pressure cooker. When there is a certain kind of data, it makes an activation function turn true marks the neuron as active. 
-There are many activation functions, Tanh, Tanh with dropout, ReLu..
-but ReLu is the most famous of them. 
+There are many activation functions, Tanh, Tanh with dropout, ReLu.. but ReLu is the most famous of them. 
+Activation layers work exactly as in other neural networks, a value is passed through a function that squashes the value into a range. Here’s a bunch of common ones:
+
+The most used activation function in CNNs is the relu (Rectified Linear Unit). There are a bunch of reason that people like relus, but a big one is because they are really cheap to perform, if the number is negative: zero, else: the number. Being cheap makes it faster to train networks
 
 
 ## Credits/Resources ##
