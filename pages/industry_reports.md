@@ -25,6 +25,9 @@
 ## ING ##
 - [ING_Groep_NV_Investor_Day_2016_Accelerating_Think_Forward_by_Hamers.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/ING_Groep_NV_Investor_Day_2016_Accelerating_Think_Forward_by_Hamers.pdf)
 
+## TAMR ##
+ - [Getting Data Right](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/Getting_Data_Right_Tamr.pdf)
+
 ## Other ##
 - [Deep Learning: An AI Revolution Started For Courageous Enterprises](https://github.com/Avkash/mldl/blob/master/pages/docs/industry/deep-learning-forrester.pdf)
 - [fintech-funding-q3-2016.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/fintech-funding-q3-2016.pdf)
