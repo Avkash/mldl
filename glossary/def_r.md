@@ -1,6 +1,7 @@
 ## Machine Learning/Deep Learning Terminology(Glossary) - R ##
 L1 and L2 regularization | Difference between L1 and L2 regularization
 ___
+
 ## L1 and L2 regularization ##
 
 Regularization is a very important technique in machine learning to prevent overfitting. Mathematically speaking, it adds a regularization term in order to prevent the coefficients to fit so perfectly to overfit.  
