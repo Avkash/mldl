@@ -16,7 +16,7 @@
  ![](https://github.com/Avkash/mldl/blob/master/images/voyger.png)
  
 ## [Vega & Vega-Lite : VISUALIZATION GRAMMARS](https://vega.github.io/) ##
- ![](https://github.com/Avkash/mldl/blob/master/images/vega-tooklit.png)
+ ![](https://github.com/Avkash/mldl/blob/master/images/vega-toolkit.png)
 
 ## Examples ##
  - [Space, Time and Groceries](https://tech.instacart.com/space-time-and-groceries-a315925acf3a)
