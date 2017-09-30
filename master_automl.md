@@ -11,6 +11,7 @@
    - [Documentation](http://auto-ml.readthedocs.io/en/latest/)
  - [StackNet](https://github.com/kaz-Anova/StackNet)
    - [Introduction](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/)
+ - [H2O AutoML](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)  
 
 ## AutoML - Resources ##
  - [Stacking](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
