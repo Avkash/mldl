@@ -2,6 +2,7 @@
  
  ### General H2O Specific Details ###
  - [Understanding H2O Rapids and tracking APIs](https://github.com/Avkash/mldl/blob/master/orgs/h2o/rapids_api.md)
+ - [Key PR requests to learn the H2O Development](https://github.com/Avkash/mldl/blob/master/orgs/h2o/smart_pr.md)
  - [Working on a Pull Request (PR) to work on H2O source code and Merging into Master and Release Branch](https://github.com/Avkash/mldl/blob/master/orgs/h2o/pre_dev.md)
  - [Writing python code into H2O python API](https://github.com/Avkash/mldl/blob/master/orgs/h2o/python_dev.md)
  - [Python sample code to perform MOJO Scoring](https://github.com/Avkash/mldl/blob/master/code/python/python_mojo_score.md)
@@ -42,7 +43,7 @@
    - [Python Samples](https://github.com/h2oai/h2o-3/tree/c9e576170fb2d21fa928f39406593d0de9db072c/h2o-py/demos)
  
  
- ## Ingesting Data in H2O ##
+## Ingesting Data in H2O ##
   - Reading from Hive
     - The following command will give the hive table locaion on HDFS and use that location as data source to ingest file in H2O
        - hive > describe formatted <table_name>;
