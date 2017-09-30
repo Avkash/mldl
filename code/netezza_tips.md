@@ -1,5 +1,42 @@
 ## Netezza Tips and Tricks ##
 
+### CLI  ###
+
+This is how you can connect to Netezza database fron CLI
+```
+$ nzsql -u admin -pw password
+SYSTEM.ADMIN(ADMIN)=>
+```
+This is how you can connect to Netezza database fron CLI
+```
+$ nzsql -u avkash -pw password -d _database_name_to_create_
+
+Once you are logged into Netezza database you will see a prompt as below:
+DBNAME.ADMIN(ADMIN)=>
+```
+To change databsse you can run the command as below:
+```
+=> set catalog <db_name>;
+```
+To get a list all tables run following query:
+```
+=> SELECT TABLENAME,OWNER,CREATEDATE FROM _V_TABLE WHERE OBJTYPE='TABLE';
+```
+This is how you will create a new table:
+```
+=> CREATE TABLE allusers (id int, age int, name char(20));
+```
+This is how you will enter a record into table:
+```
+=> INSERT INTO allusers (id, age, name) values (1, 20, 'Jim');
+```
+This is how you will list all records from a table
+```
+=> select * from allusers;
+=> select * from allusers limit 1;
+```
+
+
 ### Connecting Netezza server from Python Sample ###
 
 Check out my [Ipython Jupyter Notebook with Python Sample](https://github.com/Avkash/mldl/blob/master/notebook/utils/Netezza-Connection-Demo.ipynb)
