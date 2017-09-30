@@ -50,7 +50,8 @@
  - [Using AI to Super Compress Images](http://www.kdnuggets.com/2017/08/ai-compress-images.html)
    - [An End-to-End Compression Framework Based on Convolutional Neural Networks](https://arxiv.org/pdf/1708.00838v1.pdf)
  - [Background removal with deep learning](https://medium.com/towards-data-science/background-removal-with-deep-learning-c4f2104b3157)
-  - [supervised-deep-learning-in-image-classification-for-noobs-part-1](https://hackernoon.com/supervised-deep-learning-in-image-classification-for-noobs-part-1-9f831b6d430d#.9hfys5ckg)
+  - [Supervised-deep-learning-in-image-classification-for-noobs-part-1](https://hackernoon.com/supervised-deep-learning-in-image-classification-for-noobs-part-1-9f831b6d430d#.9hfys5ckg)
+  - [Visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats](https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59)
  
 ## Deep Learning solutions ## 
  - [Introducing deep learning and long-short term memory networks](https://www.ibm.com/developerworks/analytics/library/iot-deep-learning-anomaly-detection-1/index.html)
