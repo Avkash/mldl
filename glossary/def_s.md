@@ -1,5 +1,5 @@
 ## Machine Learning/Deep Learning Terminology(Glossary) - S ##
-Skewed Data | Sparse Matrix
+Skewed Data | Sparse Matrix | Stochastic gradient descent (SGD) Optimization | 
 ___
 ### Skewed Data ###
 In probability theory and statistics, skewness is a measure of the asymmetry of the probability distribution of a real-valued random variable about its mean. The skewness value can be positive or negative, or undefined. The qualitative interpretation of the skew is complicated and unintuitive.
@@ -25,6 +25,9 @@ Ther are two 3 tpyes of matrix:
       - A matrics with high number of columns and very low number of rows is called wide matrix
     - Deep Matrix: 
       - A matrics with high number of rows and very low number of columns is called deep matrix
+
+## Stochastic gradient descent (SGD)###
+SGD optimization was successfully practiced in many other problems. The algorithm loops through all ratings in the training data in a random order, and for each known rating r, it makes a prediction r* (based on the dot product of vectors x and y) and computes prediction error e. Then we modify x and y by moving them in the opposite direction of the gradient, yielding certain update formulas for each of the features of x and y.
 
 
 ## Credits/Resources ##
