@@ -16,9 +16,10 @@
   - [Autoencoders and anomaly detection with machine learning in fraud analytics](https://shiring.github.io/machine_learning/2017/05/01/fraud)
   - [Social Machine Learning with H2O, Twitter, python](https://www.linkedin.com/pulse/social-machine-learning-h2o-twitter-python-marios-michailidis)
  
-### Presentations ###
+### Presentations & Books ###
  - [H2O Machine Learning on Hadoop ](https://github.com/Avkash/mldl/blob/master/pages/docs/slidedecks/H2O-Hadoop-Full-Demo.pdf)
  - [H2O Model Deployment with MOJO and POJO](https://github.com/Avkash/mldl/blob/master/pages/docs/slidedecks/Model-deployment-Final.pdf)
+ - [Practical Machine Learning with H2O  -  O'Reilly: Source Code and Datasets explained in the Book](https://github.com/DarrenCook/h2o)
  
 ### Deep Learning Algorithms ###
   - [Anomaly Detection Using H2O Deep Learning](https://dzone.com/articles/dive-deep-into-deep-learning-using-h2o-1)
