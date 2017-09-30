@@ -13,7 +13,7 @@ You must spent about 5 minutes every 4 working hours to read motivational conten
  - [Why EQ Matters More Than IQ](https://www.inc.com/justin-bariso/why-eq-matters-more-than-iq.html)
  - [How setting “anti-goals” can keep work from being miserable](https://qz.com/1055238/follow-warren-buffett-and-charlie-mungers-advice-and-set-anti-goals-to-keep-work-from-being-miserable/)
  - [Never, Ever Take A Job Before Asking These Ten Questions](https://www.forbes.com/sites/lizryan/2017/08/18/never-ever-take-a-job-before-asking-these-ten-questions/2/#51be7d693606)
- - []()
+ - [A 2×2 Matrix to Help You Prioritize the Skills to Learn Right Now](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
  
 ### Life ###
  - [11 Ways to beat procrastination](https://www.inc.com/travis-bradberry/11-ways-to-beat-procrastination.html)
