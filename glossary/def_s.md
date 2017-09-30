@@ -13,6 +13,7 @@ If data is skewed, its good to models in the following order and use grid search
  - 1. Generalized Linear Models
  - 2. Random Forest and GBM
  - 3. Multilayer perceptron
+![](https://github.com/Avkash/mldl/blob/master/images/skewed-data.png)
 
 
 ## Credits/Resources ##
