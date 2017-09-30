@@ -1,4 +1,7 @@
 ## Netezza Tips and Tricks ##
+### Netezza Books & Articles ###
+- [Netezza Database User Guide](https://github.com/Avkash/mldl/blob/master/pages/docs/books/NetezzaDatabaseUserGuilde.pdf)
+- [Netezza System Administration Guide](https://github.com/Avkash/mldl/blob/master/pages/docs/books/NetezzaSystemAdministratorGuide.pdf)
 
 ### CLI  ###
 
