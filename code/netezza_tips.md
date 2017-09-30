@@ -1,5 +1,49 @@
 ## Netezza Tips and Tricks ##
 
+### Connecting Netezza server from Python Sample ###
+
+Step 1: Importing python jaydebeapi library
+```
+import jaydebeapi
+```
+Step 2: Setting Database connection settings
+```
+dsn_database = "avkash"            
+dsn_hostname = "172.16.181.131" 
+dsn_port = "5480"                
+dsn_uid = "admin"        
+dsn_pwd = "password"      
+jdbc_driver_name = "org.netezza.Driver"
+jdbc_driver_loc = "/Users/avkashchauhan/learn/customers/netezza/nzjdbc3.jar"
+###jdbc:netezza://" + server + "/" + dbName ;
+connection_string='jdbc:netezza://'+dsn_hostname+':'+dsn_port+'/'+dsn_database
+url = '{0}:user={1};password={2}'.format(connection_string, dsn_uid, dsn_pwd)
+print("URL: " + url)
+print("Connection String: " + connection_string)
+```
+Step 3:Creating Database Connection
+```
+conn = jaydebeapi.connect("org.netezza.Driver", connection_string, {'user': dsn_uid, 'password': dsn_pwd},
+                         jars = "/Users/avkashchauhan/learn/customers/netezza/nzjdbc3.jar")
+curs = conn.cursor()
+```
+Step 4:Processing SQL Query
+```
+curs.execute("select * from allusers")
+result = curs.fetchall()
+print("Total records: " + str(len(result)))
+print(result[0])
+```
+Step 5: Printing all records
+```
+for i in range(len(result)):
+    print(result[i])
+```
+Step 6: Closing all connections
+```
+curs.close()
+conn.close()
+```
 
 ### Connecting Netezza server from Java Code Sample ###
 
