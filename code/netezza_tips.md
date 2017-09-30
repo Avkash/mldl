@@ -3,7 +3,8 @@
 
 ### Connecting Netezza server from Java Code Sample ###
 
-Step 1: Have the Netezza driver as nzjdbc3.jar in a foler.
+Step 1: Have the Netezza driver as nzjdbc3.jar in a folder.
+
 Step 2: Create netezzaJdbcMain.java as below in the same folder where nzjdbc3.jar is placed.
 
 ```
@@ -69,6 +70,7 @@ $ javac -cp nzjdbc3.jar -J-Xmx2g -J-XX:MaxPermSize=128m netezzaJdbcMin.java
 Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=128m; support was removed in 8.0
 ```
 Note: You should see your main class is compiled without any problem.
+
 Step 4: Run compiled class as below:
 
 ```
