@@ -2,6 +2,8 @@
 
 ### Connecting Netezza server from Python Sample ###
 
+Check out my [Ipython Jupyter Notebook with Python Sample](https://github.com/Avkash/mldl/blob/master/notebook/utils/Netezza-Connection-Demo.ipynb)
+
 Step 1: Importing python jaydebeapi library
 ```
 import jaydebeapi
