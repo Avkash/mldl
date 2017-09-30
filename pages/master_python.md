@@ -23,5 +23,9 @@
 ## Anaconda Tips ##
  - [Anaconda Tips](https://github.com/Avkash/mldl/blob/master/pages/anaconda_tips.md)
 
+## Jupyter Notebook Tips and Tricks ##
+ - [Jupyter Notebook Tips-Tricks](https://github.com/Avkash/mldl/blob/master/pages/jupyter_tips.md)
+
 ## Python and other programming languages integration ##
  - [pyjnius](https://pyjnius.readthedocs.io/en/latest/installation.html)
+
