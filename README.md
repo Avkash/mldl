@@ -18,7 +18,7 @@
 |[PCA](https://github.com/Avkash/mldl/blob/master/algos/algo_pca.md)    |[Database/RDBMS](https://github.com/Avkash/mldl/blob/master/code/db_programming.md)  |[Model Management](https://github.com/Avkash/mldl/blob/master/pages/master_model_mgmt.md)   |[AI2](http://allenai.org/)   |[ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch) |
 |[GLRM](https://github.com/Avkash/mldl/blob/master/algos/algo_glrm.md)    |[React](https://github.com/Avkash/mldl/blob/master/pages/react_css.md)  |[Reinforcement Learning](https://github.com/Avkash/mldl/blob/master/pages/rl_all.md)   |[Baidu Research](http://research.baidu.com/)   |[Cheatsheet - AI](https://github.com/kailashahirwar/cheatsheets-ai)|
 |[Ensembles](https://github.com/Avkash/mldl/blob/master/algos/algo_ensembles.md)    | [Docker & Containers](https://github.com/Avkash/mldl/blob/master/pages/containers_all.md) |[AnswerBots](https://github.com/Avkash/mldl/blob/master/pages/master_answerbot.md)   |[Partnership on AI](https://www.partnershiponai.org/)   |[Genetic Programming](https://github.com/Avkash/mldl/blob/master/dllibs/master_ga.md)    |
-|   |[Time-Series](https://github.com/Avkash/mldl/blob/master/dllibs/timeseries.md)|   | [Berkeley AI Reseach](http://bair.berkeley.edu/blog/)  |   |
+|   |[Linux Scripting](https://github.com/Avkash/mldl/blob/master/code/linux/README.md)|   | [Berkeley AI Reseach](http://bair.berkeley.edu/blog/)  |[Time-Series](https://github.com/Avkash/mldl/blob/master/dllibs/timeseries.md)   |
 
 
 ## All about learning - One thing at a time ##
