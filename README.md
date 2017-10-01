@@ -23,8 +23,8 @@
 
 ## All about learning - One thing at a time ##
 
-| Videos        | Articles           |        Industry     | Software Engineering |      Cheatsheets    |
-|:------------- |:------------------:|:-------------------:|:--------------------:| -------------------:|
+| Videos        | Articles           |        Industry     | SW Engineering |      Cheatsheets    |
+|:------------- |:------------------:|:-------------------:|:--------------:| -------------------:|
 | [YouTube Videos](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md) | [Blogs](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)          | [Industry Articles](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/README.md) | 11 | [Keras](https://github.com/Avkash/mldl/blob/master/pages/refcards-keras.md) ! [Scikit-learn](https://github.com/Avkash/mldl/blob/master/pages/refcards-scikit-learn.md) |
 | [Podcast](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md)        | [Newsletters](https://github.com/Avkash/mldl/blob/master/dllibs/master_blogs.md)  | [Industry Reports](https://github.com/Avkash/mldl/blob/master/pages/industry_reports.md) |55 | [Neural Networks Zoo](https://github.com/Avkash/mldl/blob/master/pages/refcards-nn-zoo.md) |
 | [Video Turotials](https://github.com/Avkash/mldl/blob/master/dllibs/master_videos.md)| [All Books](https://github.com/Avkash/mldl/blob/master/pages/docs/books/README.md) | [AI Companies](https://github.com/Avkash/mldl/blob/master/dllibs/enterprise_ai.md) |44  | [ggplot](https://github.com/Avkash/mldl/blob/master/pages/refcards-ggplot.md) ! [Matplotlib](https://github.com/Avkash/mldl/blob/master/pages/refcards-matplotlib.md)  |
