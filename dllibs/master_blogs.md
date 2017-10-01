@@ -29,33 +29,6 @@
 - [Avinash Hindupur](https://medium.com/@hindupuravinash) / Medium Writer
 
 
-# Quora AI Sections #
-
-- [Computer-Science](https://www.quora.com/topic/Computer-Science) (5.6M followers)
-- [Machine-Learning](https://www.quora.com/topic/Machine-Learning) (1.1M followers)
-- [Artificial-Intelligence](https://www.quora.com/topic/Artificial-Intelligence) (635K followers)
-- [Deep-Learning](https://www.quora.com/topic/Deep-Learning) (167K followers)
-- [Natural-Language-Processing](https://www.quora.com/topic/Natural-Language-Processing) (155K followers)
-- [Classification-machine-learning](https://www.quora.com/topic/Classification-machine-learning) (119K followers)
-- [Artificial-General-Intelligence](https://www.quora.com/topic/Artificial-General-Intelligence) (82K followers)
-- [Convolutional-Neural-Networks-CNNs](https://www.quora.com/topic/Convolutional-Neural-Networks-CNNs) (25K followers)
-- [Computational-Linguistics](https://www.quora.com/topic/Computational-Linguistics) (23K followers)
-- [Recurrent-Neural-Networks](https://www.quora.com/topic/Recurrent-Neural-Networks) (17.4K followers)
-
-
-# Reddit AI Sections #
-
-- [/r/MachineLearning](https://www.reddit.com/r/MachineLearning) (111K readers)
-- [/r/robotics/](https://www.reddit.com/r/robotics/)  (43K readers)
-- [/r/artificial](https://www.reddit.com/r/artificial)  (35K readers)
-- [/r/datascience](https://www.reddit.com/r/datascience)  (34K readers)
-- [/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning)  (11K readers)
-- [/r/computervision](https://www.reddit.com/r/computervision)  (11K readers)
-- [/r/MLQuestions](https://www.reddit.com/r/MLQuestions)  (8K readers)
-- [/r/LanguageTechnology](https://www.reddit.com/r/LanguageTechnology)  (7K readers)
-- [/r/mlclass](https://www.reddit.com/r/mlclass)  (4K readers)
-- [/r/mlpapers](https://www.reddit.com/r/mlpapers)  (4K readers)
-
 # Newsletters #
 
 - [The Exponential View](https://www.getrevue.co/profile/azeem)
