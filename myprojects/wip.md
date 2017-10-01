@@ -18,6 +18,10 @@
  - [Watson Analytics Use Case for HR: Retaining valuable employees](https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-for-hr-retaining-valuable-employees/)
  - [Dataset](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/)
 
+### Mathworks ###
+ - [Data-Driven Insights with MATLAB Analytics: An Energy Load Forecasting Case Study](https://www.mathworks.com/company/newsletters/articles/data-driven-insights-with-matlab-analytics-an-energy-load-forecasting-case-study.html)
+ - [Energy load data from the New York Independent System Operator (NYISO) website](http://mis.nyiso.com/public/)
+ 
 ### Integration of the following into DeepUtil ###
  - Libraries
    - [StackNet](https://github.com/kaz-Anova/StackNet)
