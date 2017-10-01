@@ -71,4 +71,7 @@ https://github.com/h2oai/h2o-3/pull/1497.patch
 https://github.com/h2oai/h2o-3/pull/1497.diff
 
 ```
-
+H2O K-LIME MOJO Addition into MLI
+```
+https://github.com/h2oai/mli/pull/92/files
+```
