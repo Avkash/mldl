@@ -45,7 +45,7 @@ Copyright (c) 2012 Cloudera, Inc. All rights reserved.
 
 ### Building : Herringbone source  ###
 
- - Clone git repo     :  $ git clone github.com/stripe/herringbone
+ - Clone git repo     :  $ git clone https://github.com/stripe/herringbone.git
  - go to folder       :  $ cd herringbone
  - Using mvn to build : $ mvn package
 
