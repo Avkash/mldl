@@ -11,6 +11,17 @@
  - [rsparkling User Guide](https://github.com/Avkash/mldl/blob/master/code/R/rsparkling_guide.md)
  - [Creating H2O cluster of N machines using flatfile or multicast way](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_installation.md)
 
+## Driverless AI ##
+ - [Feature Engineering](https://github.com/h2oai/h2o-tutorials/blob/master/training/driverless_ai/DriverlessAI_FeatureEngineering.pdf)
+ - [Experiment Settings and its impact](https://github.com/h2oai/h2o-tutorials/blob/master/training/driverless_ai/DriverlessAI_ExperimentSettings.md) 
+ - [DRAFT Early Data Transformation document](https://github.com/h2oai/h2o-tutorials/blob/master/training/driverless_ai/DriverlessAI_Transformations.md)
+ - [MLI Details](https://www.h2o.ai/wp-content/uploads/2017/09/MLI.pdf)
+ - [DriverlessAI General Documentation](https://www.h2o.ai/wp-content/uploads/2017/09/driverlessai/index.html)
+ - DriverlessAI Python Client Library
+   - We also have an early version of the client library and coming soon to the early builds. 
+
+
+
 ## AI/ML Solutions using H2O ##
  - [HR Employ Attrition - H2o AutoML](http://www.business-science.io/business/2017/09/18/hr_employee_attrition.html)
   - [Autoencoders and anomaly detection with machine learning in fraud analytics](https://shiring.github.io/machine_learning/2017/05/01/fraud)
