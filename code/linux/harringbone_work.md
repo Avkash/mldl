@@ -90,10 +90,11 @@ Here is the successful herringbone "mvn package" command log for your review:
 Note: You must have fiels on Hadoop, not on local file system
 
 Verify the file on Hadoop:
-~/herringbone$ hadoop fs -ls /user/avkash/TTS-XRE-test1.parquet
--rw-r--r--   3 avkash avkash    1463376 2017-09-13 16:56 /user/avkash/file-test1.parquet
 
-~/herringbone$ bin/herringbone flatten -i /user/avkash/file-test1.parquet
+ -  ~/herringbone$ hadoop fs -ls /user/avkash/file-test1.parquet
+ -  -rw-r--r--   3 avkash avkash    1463376 2017-09-13 16:56 /user/avkash/file-test1.parquet
+ -  ~/herringbone$ bin/herringbone flatten -i /user/avkash/file-test1.parquet
+ 
 ```
 SLF4J: Class path contains multiple SLF4J bindings.
 SLF4J: Found binding in [jar:file:/home/avkash/herringbone/herringbone-main/target/herringbone-0.0.1-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
@@ -127,8 +128,11 @@ SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further detail
 Now verify the file:
 
 ~/herringbone$ hadoop fs -ls /user/avkash/file-test1.parquet-flat
+
+```
 Found 2 items
 -rw-r--r--   3 avkash avkash          0 2017-10-06 12:07 /user/avkash/file-test1.parquet-flat/_SUCCESS
 -rw-r--r--   3 avkash avkash    2901311 2017-10-06 12:07 /user/avkash/file-test1.parquet-flat/part-m-00000.parquet
+```
 
 
