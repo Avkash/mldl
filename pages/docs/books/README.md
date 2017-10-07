@@ -13,6 +13,7 @@
 - [Genetic_algorithms_with_python sample](https://github.com/Avkash/mldl/tree/master/pages/docs/books/genetic_algorithms_with_python-sample.pdf)
 - [Image Search Engine Resource Guide](https://github.com/Avkash/mldl/tree/master/pages/docs/books/ImageSearchEngineResourceGuide.pdf)
 - [NCCL: ACCELERATED MULTI-GPU COLLECTIVE COMMUNICATIONS - NCCL-Woolley](https://github.com/Avkash/mldl/tree/master/pages/docs/books/NCCL-Woolley.pdf)
+- [Machine Learning Interpretability with H2O Driverless AI](https://github.com/Avkash/mldl/blob/master/pages/docs/books/MLI.pdf)
 
 ### Database, Data Management, & Graph Database ###
  - [Oreilly Graph Database 2nd Edition](https://github.com/Avkash/mldl/blob/master/pages/docs/books/OreillyGraphDatabases.pdf)
