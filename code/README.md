@@ -25,8 +25,9 @@
  - [rSparkling Install Guide](https://github.com/Avkash/mldl/blob/master/code/R/rsparkling_guide.md)
  - []()
 
-## Linux  and Libraries - Tips and Trics ##
+## Linux  and Libraries - Tips and Tricks ##
  - [Netezza Tips and Tricks](https://github.com/Avkash/mldl/blob/master/code/netezza_tips.md)
  - [postgresql Tips and Tricks](https://github.com/Avkash/mldl/blob/master/code/psql_utils.md)
  - [Herringbone: flatten nested parquet files on Hadoop](https://github.com/Avkash/mldl/blob/master/code/linux/harringbone_work.md)
+ - [OSX Command Line Tricks](https://github.com/Avkash/mldl/blob/master/code/linux/OSX_cli.md)
 
