@@ -12,6 +12,7 @@
 - [Gartner Peer Insights: Compare Platforms of all time](https://www.gartner.com/reviews/market/advanced-analytics-platforms/compare/H2O-ai-vs-google-vs-datascience)
 
 ## CB Insight ##
+- [Q3 - 2017 VC Global Report](https://github.com/Avkash/mldl/blob/master/pages/docs/industry/Q3-VC-Report.pdf)
 - [CB-Councils.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/CB-Councils.pdf)
 - [CB-Insights_AI-100-2017.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/CB-Insights_AI-100-2017.pdf)
 - [CB-Insights_MoneyTree-Report-Q1-2017.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/CB-Insights_MoneyTree-Report-Q1-2017.pdf)
