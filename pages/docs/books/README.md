@@ -26,7 +26,7 @@
  - [Databricks: Accelerating innovation through a unified Approcach to Analytics](https://github.com/Avkash/mldl/blob/master/pages/docs/books/Databricks-Unified-Analytics-Platform-eBook.pdf)
  - [Apache KAFKA - The Definite Guide (PDF Local)](https://github.com/Avkash/mldl/blob/master/pages/docs/books/confluent-kafka-definitive-guide-complete.pdf)
  - [Apache KAFKA - The Definite Guide (Web)](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
- - [Spark_in_Action](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Spark_in_Action.pdf)
+ - [Spark_in_Action - Github Samples](https://github.com/spark-in-action/first-edition)
  - [Getting Started with Kubernetes](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Getting-Started-with-Kubernetes.pdf)
  - [Mastering Apache Spark 2.0](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Mastering-Apache-Spark-2.0.pdf)
 
