@@ -1,5 +1,9 @@
 # Industry Reports #
 
+## PWC ##
+- [PWC: Artificial Intelligence and Robotics 2017](https://github.com/Avkash/mldl/blob/master/pages/docs/industry/artificial-intelligence-and-robotics-2017.pdf)
+- [PWC: Top Financial Services Issues 2017](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/pwc-top-financial-services-issues-2017.pdf)
+
 ## CrowdFlower ##
  - [CrowdFlower - A practical guide to image annotation for computer vision](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/image-annotation-guide-crowdflower.pdf)
 ## DZone ##
@@ -20,9 +24,6 @@
 
 ## Forester ##
 - [deep-learning-forrester.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/deep-learning-forrester.pdf)
-
-## PWC ##
-- [pwc-top-financial-services-issues-2017.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/pwc-top-financial-services-issues-2017.pdf)
 
 ## ING ##
 - [ING_Groep_NV_Investor_Day_2016_Accelerating_Think_Forward_by_Hamers.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/ING_Groep_NV_Investor_Day_2016_Accelerating_Think_Forward_by_Hamers.pdf)
