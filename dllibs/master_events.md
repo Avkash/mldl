@@ -13,7 +13,8 @@
  - [GeekWire Summit - Oct 9-11 Seattle](https://www.geekwire.com/events/geekwire-summit-2017/)
  - [DEEP LEARNING SUMMIT MONTREAL - 10 & 11 OCTOBER 2017](https://www.re-work.co/events/deep-learning-summit-montreal-canada-track1-2017)
  - [AI and Big Data Asia 2017 - October 30-31, Singapore](http://aiasiashow.com/index.html)
- 
+ - [Artificial Intelligence & Machine Learning 101 - October 23-24, 2017 Marines' Memorial Club | San Francisco, CA](https://www.insightxnetwork.com/artificial-intelligence-machine-learning-101.html)
+
 ## November ##
  - [AIFrontiers: Applied Deep Learning November 3-4, 2017, Santa Clara Convention Center](http://www.aifrontiers.com/)
  - [Inside Data Science - Nov 14-15 Monterey CA](https://www.insidedatascience.com/)
