@@ -29,6 +29,7 @@
  - [Spark_in_Action - Github Samples](https://github.com/spark-in-action/first-edition)
  - [Getting Started with Kubernetes](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Getting-Started-with-Kubernetes.pdf)
  - [Mastering Apache Spark 2.0](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Mastering-Apache-Spark-2.0.pdf)
+ - [DataBricks: Data Scientists Guide to Apache Spark](https://github.com/Avkash/mldl/blob/master/pages/docs/books/Data-Scientists-Guide-to-Apache-Spark.pdf)
 
 ### General and Fun Books ###
  - [The Engineer : Elon Musk](https://github.com/Avkash/mldl/tree/master/pages/docs/books/theengineer-ElonMusk.pdf)
