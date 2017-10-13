@@ -18,7 +18,7 @@
    - You can use pip to install the package i.e.
    - $ pip install h2o --user
  - List Enviroment
-   - $ conda list --envs
+   - $ conda info --envs
    - Note: This will list other environments along with python27 as well. 
  - Running jupyter notebook:
    - Be inside one of the environment
