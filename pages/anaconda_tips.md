@@ -1,5 +1,12 @@
 # Anaconda Tips #
 
+## Install ##
+ - Environment    > Make sure your environment has python 3.6 at the command line.
+ - Download conda > $ wget https://repo.continuum.io/archive/Anaconda3-5.0.0.1-Linux-x86_64.sh
+ - Install conda  > $ bash Anaconda3-5.0.0.1-Linux-x86_64.sh
+
+
+## Environment ##
  - Create Environment
    - $ conda create -n python27 python=2.7 anaconda
    - Note: Above environment name is python27 and python version is 2.7
