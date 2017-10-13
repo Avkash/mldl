@@ -60,3 +60,44 @@
     - The following command will give the hive table locaion on HDFS and use that location as data source to ingest file in H2O
        - hive > describe formatted <table_name>;
   
+## H2O Hadoop Driver ##
+
+The following is a successful Hadoop command to launch H2O Driver:
+
+  ```
+  avkash@my_server:~/h2o-3.14.0.2-cdh5.8$ hadoop jar h2odriver.jar -nodes 2 -mapperXmx 4g -output /user/avkash/007
+Determining driver host interface for mapper->driver callback...
+    [Possible callback IP address: x.x.x.x]
+    [Possible callback IP address: 127.0.0.1]
+Using mapper->driver callback IP address and port: x.x.x.x:51179
+(You can override these with -driverif and -driverport/-driverportrange.)
+Memory Settings:
+    mapreduce.map.java.opts: -Xms4g -Xmx4g -XX:PermSize=256m -verbose:gc -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -Dlog4j.defaultInitOverride=true
+    Extra memory percent: 10
+    mapreduce.map.memory.mb: 4505
+17/10/13 07:49:45 INFO client.RMProxy: Connecting to ResourceManager at my_hadoop_server.h2o.ai/x.x.x.x:8032
+17/10/13 07:49:46 INFO mapreduce.JobSubmitter: number of splits:2
+17/10/13 07:49:46 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1499294366934_0756
+17/10/13 07:49:46 INFO impl.YarnClientImpl: Submitted application application_1499294366934_0756
+17/10/13 07:49:46 INFO mapreduce.Job: The url to track the job: http://my_hadoop_server.h2o.ai:8088/proxy/application_1499294366934_0756/
+Job name 'H2O_8290' submitted
+JobTracker job ID is 'job_1499294366934_0756'
+For YARN users, logs command is 'yarn logs -applicationId application_1499294366934_0756'
+Waiting for H2O cluster to come up...
+H2O node 174.16.x.x:54323 requested flatfile
+H2O node 174.16.x.x:54321 requested flatfile
+Sending flatfiles to nodes...
+    [Sending flatfile to node 172.16.2.218:54323]
+    [Sending flatfile to node 172.16.2.212:54321]
+H2O node 174.16.x.x:54321 reports H2O cluster size 1
+H2O node 174.16.x.x:54323 reports H2O cluster size 1
+H2O node 174.16.x.x:54323 reports H2O cluster size 2
+H2O node 174.16.x.x:54321 reports H2O cluster size 2
+H2O cluster (2 nodes) is up
+(Note: Use the -disown option to exit the driver after cluster formation)
+
+Open H2O Flow in your web browser: http://x.x.x.x:54321
+
+(Press Ctrl-C to kill the cluster)
+Blocking until the H2O cluster shuts down...
+  ```
