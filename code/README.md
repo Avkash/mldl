@@ -33,4 +33,5 @@
  
 ## Hadoop Tips and Tricks ##
  - [Hadoop and HDFS Tips and Tricks](https://github.com/Avkash/mldl/blob/master/code/linux/hadoop_tricks.md)
+ - [H2O cluster launch issue due to missing h2odriver.jar file](https://github.com/Avkash/mldl/blob/master/code/linux/hadoop_error_1.md)
 
