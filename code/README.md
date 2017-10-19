@@ -6,9 +6,10 @@
  - [Pysparkling Full end to end test Script](https://github.com/Avkash/mldl/blob/master/code/python/pysparkling_test.md)
  - [Python sample code to perform MOJO Scoring](https://github.com/Avkash/mldl/blob/master/code/python/python_mojo_score.md)
  - [Sample Python Machine Learning Code](https://github.com/Avkash/mldl/blob/master/code/python/sample_python_ml.md)
- 
+ - [Saving H2O Model object into text file](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_model_save_txt.md)
+
 ## Pysparkling ##
- - [xx](H2O Pysparkling Exectuion with different port)
+ - [H2O Pysparkling Exectuion with different port](https://github.com/Avkash/mldl/blob/master/orgs/h2o/pysparkling_new_port.md)
  
 ## Scala ##
  - [H2O AutoML Sample](https://github.com/Avkash/mldl/blob/master/code/scala/automl_scala_sample.md)
