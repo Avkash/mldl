@@ -9,6 +9,7 @@
 ## DZone ##
  - [DZone - Guide To Big data Vol IV](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/5077701-dzone-guidetobigdata-voliv.pdf)
  - [Running Effective Offline Machine Learning Experiments - Shift Science](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/running-effective-offline-ml-experiments.pdf)
+ - [Dzone Guide Artificial Intelligence 2017](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/Dzone-guide-artificialintelligence-2017.pdf)
  
 ## Gartner ##
 - [magic_quadrant_for_data_science platforms.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/magic_quadrant_for_data_science_platforms.pdf)
