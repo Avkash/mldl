@@ -3,6 +3,11 @@
 - [Netezza Database User Guide](https://github.com/Avkash/mldl/blob/master/pages/docs/books/NetezzaDatabaseUserGuilde.pdf)
 - [Netezza System Administration Guide](https://github.com/Avkash/mldl/blob/master/pages/docs/books/NetezzaSystemAdministratorGuide.pdf)
 
+### Netezza Simulator VM ###
+ - The VM I Used is > NetezzaSoftwareEmulator_7.2.1.ova
+ - Base login >> root/netezza (This is the base VM access as root)
+ - Please use username “nz” and password “nz” to login directly to netezza instance
+ 
 ### CLI  ###
 
 This is how you can connect to Netezza database fron CLI
