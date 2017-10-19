@@ -33,8 +33,13 @@
  - [Mastering Apache Spark 2.0](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Mastering-Apache-Spark-2.0.pdf)
  - [DataBricks: Data Scientists Guide to Apache Spark](https://github.com/Avkash/mldl/blob/master/pages/docs/books/Data-Scientists-Guide-to-Apache-Spark.pdf)
 
+### Programing and Tools ###
+ - [Git Tutorials](https://github.com/Avkash/mldl/blob/master/pages/docs/books/git-tutorials.pdf)
+
+
 ### General and Fun Books ###
  - [The Engineer : Elon Musk](https://github.com/Avkash/mldl/tree/master/pages/docs/books/theengineer-ElonMusk.pdf)
  - [Valve_Handbook](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Valve_Handbook_LowRes.pdf)
  - [Pluralsight : The science behind forgetting & how to conquer it](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Pluralsight-The-science-behind-forgetting-and-how-to-conquer-it.pdf)
+
 
