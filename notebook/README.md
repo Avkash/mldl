@@ -2,5 +2,4 @@
 
 ### H2O ###
 
- - [rsparkling User Guide](https://github.com/Avkash/mldl/blob/master/code/R/rsparkling_guide.md)
- - [Creating H2O cluster of N machines using flatfile or multicast way](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_installation.md)
+ - [How R2 error is calculated in Generalized Linear Model](https://github.com/Avkash/mldl/blob/master/notebook/h2o/CALCULATING_GLM_MODEL_METRICS.ipynb)
