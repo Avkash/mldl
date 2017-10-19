@@ -6,7 +6,7 @@
  - [Pysparkling Full end to end test Script](https://github.com/Avkash/mldl/blob/master/code/python/pysparkling_test.md)
  - [Python sample code to perform MOJO Scoring](https://github.com/Avkash/mldl/blob/master/code/python/python_mojo_score.md)
  - [Sample Python Machine Learning Code](https://github.com/Avkash/mldl/blob/master/code/python/sample_python_ml.md)
- - [Saving H2O Model object into text file](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_model_save_txt.md)
+ - [Saving H2O Model object into text file](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O_Model_Output_Save_Local_Disk.ipynb)
  - [How R2 error is calculated in Generalized Linear Model](https://github.com/Avkash/mldl/blob/master/notebook/h2o/CALCULATING_GLM_MODEL_METRICS.ipynb)
 
 ## Pysparkling ##
