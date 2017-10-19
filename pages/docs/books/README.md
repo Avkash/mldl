@@ -9,10 +9,7 @@
 - [MATLAB: Machine Learning Books all 4 Parts](https://github.com/Avkash/mldl/blob/master/pages/docs/books/Matlab_Machine_Learning.pdf)
 - [Pyimage Search Gurus Syllabus](https://github.com/Avkash/mldl/tree/master/pages/docs/books/pyimagesearch-gurus-syllabus.pdf)
 - [python4ScientificComputing.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/python4ScientificComputing.pdf)
-- [Deep_learning_with_python_mini_course](https://github.com/Avkash/mldl/tree/master/pages/docs/books/deep_learning_with_python_mini_course.pdf)
 - [Genetic_algorithms_with_python sample](https://github.com/Avkash/mldl/tree/master/pages/docs/books/genetic_algorithms_with_python-sample.pdf)
-- [Image Search Engine Resource Guide](https://github.com/Avkash/mldl/tree/master/pages/docs/books/ImageSearchEngineResourceGuide.pdf)
-- [NCCL: ACCELERATED MULTI-GPU COLLECTIVE COMMUNICATIONS - NCCL-Woolley](https://github.com/Avkash/mldl/tree/master/pages/docs/books/NCCL-Woolley.pdf)
 - [Machine Learning Interpretability with H2O Driverless AI](https://github.com/Avkash/mldl/blob/master/pages/docs/books/MLI.pdf)
 
 ### Database, Data Management, & Graph Database ###
@@ -21,6 +18,11 @@
  - [Dzone Refcardz : An Overview of GraphQL](https://github.com/Avkash/mldl/blob/master/pages/docs/books/graphql-refcardz.pdf)
  - [The Art of Turning Data into Products by DJ Patil, Data Jujitsu](https://github.com/Avkash/mldl/tree/master/pages/docs/books/data-jujitsu.pdf)
 
+### GPU and Deep Learning ###
+ - [GPUs Data Analytics Book: Kinetica](https://github.com/Avkash/mldl/blob/master/pages/docs/books/GPUs_Data_Analytics_Book.pdf)
+- [Deep_learning_with_python_mini_course](https://github.com/Avkash/mldl/tree/master/pages/docs/books/deep_learning_with_python_mini_course.pdf)
+- [NCCL: ACCELERATED MULTI-GPU COLLECTIVE COMMUNICATIONS - NCCL-Woolley](https://github.com/Avkash/mldl/tree/master/pages/docs/books/NCCL-Woolley.pdf)
+- [Image Search Engine Resource Guide](https://github.com/Avkash/mldl/tree/master/pages/docs/books/ImageSearchEngineResourceGuide.pdf)
 
 ### Spark and Distributed Programming ###
  - [Databricks: Accelerating innovation through a unified Approcach to Analytics](https://github.com/Avkash/mldl/blob/master/pages/docs/books/Databricks-Unified-Analytics-Platform-eBook.pdf)
