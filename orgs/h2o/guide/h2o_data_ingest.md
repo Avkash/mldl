@@ -35,7 +35,24 @@ H2O also supports the following data sources with some external libraries:
 - Alluxio data storage source using Alluxio client library (alluxio-core-client-*-jar-with-dependencies.jar)
 
 ### Ingesting data in H2O ###
-
+ - Importing a File
+   - FLOW
+     
+   - Python
+      - import h2o
+      - h2o.import_file()
+   - R
+      - library(h2o)
+      - h2o.importFile()
+   - Scala
+ - Importing Multiple Files (FLOW | Python | R | Scala)
+   - FLOW
+   - python
+   - R
+     - 
+     - h2o.importFile()
+   - Scala
+ - Uploading a File (FLOW | Python | R | Scala)
 
 ### Uploading a File (FLOW | Python | R | Scala) ###
 
