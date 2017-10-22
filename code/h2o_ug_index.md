@@ -12,12 +12,19 @@
  - [Cluster](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_installation.md)
  - Hadoop
  - Spark
-
-## 3. Accessing H2O Cluster
- - Web Frontend (FLOW)
- - Python
- - R
  
+## 3. Accessing H2O library and Starting H2O Cluster
+ - Accessing H2O Library
+   - Web Frontend (FLOW)
+   - Python
+   - R
+   - Scala
+ - Starting H2O cluster
+   - FLOW
+   - Python
+   - R
+   - Scala
+   
 ## 4. [Data Ingest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md) ##
  - [Supported File Formats](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supportedfileformat)
  - [Supported Data Types](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supporteddatatypes)
