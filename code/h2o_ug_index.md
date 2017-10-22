@@ -18,9 +18,9 @@
  - Python
  - R
  
-## 4. Data Ingest ##
+## 4. [Data Ingest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md) ##
+ - [Supported File Formats](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supportedfileformat)
  - Supported Data Types
- - Supported file format
  - Supported Data Source in H2O
  - Ingesting data in H2O
    - Uploading a File (FLOW | Python | R | Scala)
