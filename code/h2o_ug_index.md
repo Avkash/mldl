@@ -126,9 +126,23 @@
   - Cross-Validation
   
 ## 14: Important Links ##
- - [Latest Download Page]
- - [Documentation]
- - [Github for ket projects]
- - [JIRA]
- - [Stackoverflow Tags]
+ - [H2O Website](https://www.h2o.ai/)
+ - [Latest Download Page](https://www.h2o.ai/download/)
+ - [Documentation](http://docs.h2o.ai/h2o/latest-stable/index.html)
+ - H2O Open Source Projects at Github
+   - [H2O-3](https://github.com/h2oai/h2o-3)
+   - [Sparkling Water](https://github.com/h2oai/sparkling-water)
+   - [H2O4GPU](https://github.com/h2oai/h2o4gpu)
+   - [H2O Meetups](https://github.com/h2oai/h2o-meetups)
+   - [H2O Tutotrials](https://github.com/h2oai/h2o-tutorials)
+ - [H2O Bugs and Open Issues]
+   - [H2O JIRA Dashboard](https://0xdata.atlassian.net/secure/Dashboard.jspa)
+   - [H2O-3 JIRA](https://0xdata.atlassian.net/projects/PUBDEV/issues)
+   - [Sparkling Water JIRA](https://0xdata.atlassian.net/projects/SW/issues)   
+ - [H2O StackOverflow Tags](https://stackoverflow.com/questions/tagged/h2o)
+ - [H2OStream Community Mailing List](h2ostream@googlegroups.com)
+ - H2O Enterprise Support
+   - [Support Website](https://support.h2o.ai)
+   - [Support Email](support@h2o.ai)
+ 
 
