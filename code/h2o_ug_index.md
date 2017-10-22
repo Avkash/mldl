@@ -23,9 +23,9 @@
  - [Supported Data Types](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supporteddatatypes)
  - [Supported Data Source](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supporteddatasources)
  - Ingesting data in H2O
-   - Uploading a File (FLOW | Python | R | Scala)
    - Importing a File (FLOW | Python | R | Scala)
    - Importing Multiple Files (FLOW | Python | R | Scala)
+   - Uploading a File (FLOW | Python | R | Scala)
  - Ingesting data from SQL (Python | R)
  - Understanding Data distribution in memory
   
