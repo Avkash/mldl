@@ -20,8 +20,8 @@
  
 ## 4. [Data Ingest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md) ##
  - [Supported File Formats](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supportedfileformat)
- - Supported Data Types
- - Supported Data Source in H2O
+ - [Supported Data Types](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supporteddatatypes)
+ - [Supported Data Source](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supporteddatasources)
  - Ingesting data in H2O
    - Uploading a File (FLOW | Python | R | Scala)
    - Importing a File (FLOW | Python | R | Scala)
