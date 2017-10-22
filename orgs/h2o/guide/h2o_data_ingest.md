@@ -1,6 +1,6 @@
 # H2O Data Ingest #
 
-### [Supported file format](#https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supportedfileformat) ###
+### [Supported file format](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supportedfileformat) ###
 H2O supports the following different file types:
  - CSV (delimited) files
  - ORC
@@ -18,7 +18,7 @@ H2O supports the following different file types:
 
 
 
-### [Supported Data Types](#https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supporteddatatypes) ###
+### [Supported Data Types](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supporteddatatypes) ###
 H2O supports the following data types:
 - Numeric
 - String
@@ -35,7 +35,7 @@ H2O will also mark some of the data as invalid or unknown if could not set any o
 
 
 
-### [Supported Data Source](#https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supporteddatasources) ###
+### [Supported Data Source](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supporteddatasources) ###
 H2O supports the following data types:
 - Numeric
 - String
