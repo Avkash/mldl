@@ -1,6 +1,6 @@
 # H2O Data Ingest #
 
-### Supported file format ###
+### <span style="color:blue">Supported file format</span> ###
 H2O supports the following different file types:
  - CSV (delimited) files
  - ORC
