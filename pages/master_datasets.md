@@ -15,3 +15,7 @@
  - [StackExchange Data Dump](https://archive.org/download/stackexchange)
  - [Yelp Dataset Access and Script](https://github.com/Yelp/dataset-examples)
  - [Twitter Data Set](http://followthehashtag.com/datasets/nasdaq-100-companies-free-twitter-dataset/)
+
+## Recommendation Systems and Clustering ##
+ - [Movielense Dataset](https://grouplens.org/datasets/movielens/)
+ - [LastFM Million Songs Dataset](https://labrosa.ee.columbia.edu/millionsong/lastfm)
