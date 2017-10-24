@@ -4,6 +4,7 @@
 
  - [Fast Python Collaborative Filtering for Implicit Datasets](https://github.com/benfred/implicit)
  - [pysyggest](https://code.google.com/archive/p/pysuggest/downloads)
+ - [Surprise](https://github.com/NicolasHug/Surprise)
 
 
 ## Tutorials ##
