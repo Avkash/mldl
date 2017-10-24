@@ -1,7 +1,12 @@
 ##  Recommendation Systems ##
 
+## Librarires:
+
+ - [Fast Python Collaborative Filtering for Implicit Datasets](https://github.com/benfred/implicit)
+ - [pysyggest](https://code.google.com/archive/p/pysuggest/downloads)
 
 
+## Tutorials ##
 
 ### [Stanford : Recommender Systems Tutorials](https://www.coursera.org/learn/machine-learning/lecture/f26nH/collaborative-filtering-algorithm) ###
 When you buy a product online, most websites automatically recommend other products that you may like. Recommender systems look at patterns of activities between different users and different products to produce these recommendations. In this module, we introduce recommender algorithms such as the collaborative filtering algorithm and low-rank matrix factorization.
@@ -24,6 +29,8 @@ When you buy a product online, most websites automatically recommend other produ
 ### Other articles on building Recommendation Systems ###
  - [How to Build a Recommender System](https://blogs.gartner.com/martin-kihn/how-to-build-a-recommender-system-in-python/) 
  - [Amazon.com Recommendation System Document](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/Amazon-Recommendations.pdf 
- - 
-
+ - [Collaborative Filtering with Python](http://www.salemmarafi.com/code/collaborative-filtering-with-python/)
+ - [Design Of Recommender Systems: SlideShare](https://www.slideshare.net/rashmi/design-of-recommender-systems)
+ - [Recommender Systems Collaborative Filtering: Domino Data Labs](https://blog.dominodatalab.com/recommender-systems-collaborative-filtering/)
+ - [Implementing your own recommender systems in Python](https://cambridgespark.com/content/tutorials/implementing-your-own-recommender-systems-in-Python/index.html)
 
