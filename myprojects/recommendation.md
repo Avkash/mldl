@@ -6,7 +6,6 @@
 ### [Stanford : Recommender Systems Tutorials](https://www.coursera.org/learn/machine-learning/lecture/f26nH/collaborative-filtering-algorithm) ###
 When you buy a product online, most websites automatically recommend other products that you may like. Recommender systems look at patterns of activities between different users and different products to produce these recommendations. In this module, we introduce recommender algorithms such as the collaborative filtering algorithm and low-rank matrix factorization.
 
-
 ### [Quick Guide to Build a Recommendation Engine in Python and Graphlab](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
 
 - Content based algorithms:
@@ -22,5 +21,9 @@ When you buy a product online, most websites automatically recommend other produ
      - **Item-Item Collaborative filtering:** It is quite similar to previous algorithm, but instead of finding customer look alike, we try finding item look alike. Once we have item look alike matrix, we can easily recommend alike items to customer who have purchased any item from the store. This algorithm is far less resource consuming than user-user collaborative filtering. Hence, for a new customer the algorithm takes far lesser time than user-user collaborate as we don’t need all similarity scores between customers. And with fixed number of products, product-product look alike matrix is fixed over time.
      - **Other simpler algorithms:** There are other approaches like [market basket analysis](https://www.analyticsvidhya.com/blog/2014/08/visualizing-market-basket-analysis/), which generally do not have high predictive power than the algorithms described above.
 
-### [How to Build a Recommender System](https://blogs.gartner.com/martin-kihn/how-to-build-a-recommender-system-in-python/)###
-### [Amazon.com Recommendation System Document]()
+### Other articles on building Recommendation Systems ###
+ - [How to Build a Recommender System](https://blogs.gartner.com/martin-kihn/how-to-build-a-recommender-system-in-python/) 
+ - [Amazon.com Recommendation System Document](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/Amazon-Recommendations.pdf 
+ - 
+
+
