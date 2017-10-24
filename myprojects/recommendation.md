@@ -28,7 +28,7 @@ When you buy a product online, most websites automatically recommend other produ
 
 ### Other articles on building Recommendation Systems ###
  - [How to Build a Recommender System](https://blogs.gartner.com/martin-kihn/how-to-build-a-recommender-system-in-python/) 
- - [Amazon.com Recommendation System Document](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/Amazon-Recommendations.pdf 
+ - [Amazon.com Recommendation System Document](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/Amazon-Recommendations.pdf)
  - [Collaborative Filtering with Python](http://www.salemmarafi.com/code/collaborative-filtering-with-python/)
  - [Design Of Recommender Systems: SlideShare](https://www.slideshare.net/rashmi/design-of-recommender-systems)
  - [Recommender Systems Collaborative Filtering: Domino Data Labs](https://blog.dominodatalab.com/recommender-systems-collaborative-filtering/)
