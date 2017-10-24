@@ -19,3 +19,4 @@
 ## Recommendation Systems and Clustering ##
  - [Movielense Dataset](https://grouplens.org/datasets/movielens/)
  - [LastFM Million Songs Dataset](https://labrosa.ee.columbia.edu/millionsong/lastfm)
+ - [TED Dataset at Kaggle](https://www.kaggle.com/rounakbanik/ted-data-analysis/data)
