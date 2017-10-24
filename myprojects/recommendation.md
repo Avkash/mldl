@@ -33,4 +33,5 @@ When you buy a product online, most websites automatically recommend other produ
  - [Design Of Recommender Systems: SlideShare](https://www.slideshare.net/rashmi/design-of-recommender-systems)
  - [Recommender Systems Collaborative Filtering: Domino Data Labs](https://blog.dominodatalab.com/recommender-systems-collaborative-filtering/)
  - [Implementing your own recommender systems in Python](https://cambridgespark.com/content/tutorials/implementing-your-own-recommender-systems-in-Python/index.html)
+ - [The easy guide for building python collaborative filtering recommendation system](https://medium.com/@m_n_malaeb/the-easy-guide-for-building-python-collaborative-filtering-recommendation-system-in-2017-d2736d2e92a8)
 
