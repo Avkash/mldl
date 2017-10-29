@@ -43,9 +43,22 @@ H2O run on Linux, Windows and OSX environment and can be set to run either singl
      - This is mostly untested code or mostly passed through automated code test run
      - Use at your own risk
  - Running on Windows/Linux/OSX:
-   - 
+   - Download H2O binaries on your machine
+   - Run > java -jar h2o.jar
  - Running from R
+   - Install H2O R Package on your R environment
+     - CMD> install.packages("h2o", type="source", repos="URL_TO_THE_H2O_VERSION_R_DOWNLOAD")
+   - Load Binaries
+     - CMD> library(h2o)
+   - Initialize H2O
+     - CMD> h2o.init()     
  - Running from Python
+   - Install H2O Python Package on your python environment
+     - CMD> pip install URL_TO_THE_H2O_VERSION_R_DOWNLOAD
+   - Load Binaries
+     - CMD> import h2o
+   - Initialize H2O
+     - CMD> h2o.init()     
  - Running from Hadoop cluster
  - Running from Spark Cluaster
 
