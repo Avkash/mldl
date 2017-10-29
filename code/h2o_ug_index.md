@@ -26,7 +26,7 @@
    - R
    - Scala
    
-## 5. [Data Ingest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md) ##
+## [5. Data Ingest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md) ##
  - Supported File Formats
  - Supported Data Types
  - Supported Data Source
