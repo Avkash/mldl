@@ -28,9 +28,9 @@ H2O run on Linux, Windows and OSX environment and can be set to run either singl
        - Machine 1: java -jar h2o.jar -flatfile flatfile.txt
        - Machine 2: java -jar h2o.jar -flatfile flatfile.txt
        - Machine n: java -jar h2o.jar -flatfile flatfile.txt              
- - On Hadoop Cluster as Hadoop MapReduce Job
+ - #### On Hadoop Cluster as Hadoop MapReduce Job ####
    - Download Hadoop distribution of H2O as h2odriver.jar
- - On Spark cluster as Spark Job managed by YARN
+ - #### On Spark cluster as Spark Job managed by YARN ####
    - Sparkling Water supports Spark 2.0, 2.1 and 2.2 along with older Spark 1.6  
    - Download Sparkling Water binaries baed on your Spark version as 
  
@@ -69,15 +69,6 @@ H2O run on Linux, Windows and OSX environment and can be set to run either singl
  
 ## Running from Spark Cluaster ##
 
-## Installing H2O 
-
-### On Premise ###
  
-
-### Cluster  ###
-
-### Hadoop  ###
-
-### Spark ###
 
 
