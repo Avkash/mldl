@@ -5,6 +5,7 @@
 ### [1. Architecture](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_arch.md) ###
  - What is it?
  - How it works?
+ - What Algorithms are supported with H2O?
  - What you can do with H2O? 
  
 ### [2. Installation](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_installation.md) ###
