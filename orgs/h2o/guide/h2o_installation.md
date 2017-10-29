@@ -35,7 +35,19 @@ H2O run on Linux, Windows and OSX environment and can be set to run either singl
    - Download Sparkling Water binaries baed on your Spark version as 
  
 ## Downloading H2O ##
-
+ - Home of H2O Download
+   - [https://www.h2o.ai/download/](https://www.h2o.ai/download/)
+   - When in doubt select the "Latest Stable Release"
+   - What is nightly build?
+     - H2O automated build process build source code in nightly basis with the latest code pushed by the team, a very common open source practice. 
+     - This is mostly untested code or mostly passed through automated code test run
+     - Use at your own risk
+ - Running on Windows/Linux/OSX:
+   - 
+ - Running from R
+ - Running from Python
+ - Running from Hadoop cluster
+ - Running from Spark Cluaster
 
 ## Installing H2O 
 
