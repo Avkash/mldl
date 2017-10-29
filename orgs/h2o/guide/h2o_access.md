@@ -45,6 +45,7 @@ You can access H2O from FLOW by
  https://IP_ADDRESS:PORT
 
 The default port for H2O is 54321 so you can access H2O from FLOW 
+![](https://github.com/Avkash/mldl/blob/master/images/flow-ui.png?raw=true)
 
 
 ## Python ##
