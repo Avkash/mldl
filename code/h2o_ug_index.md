@@ -14,22 +14,22 @@
  - Hadoop
  - Spark
  
-## [3. Accessing H2O library](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_access.md) ##
-   - Web Frontend (FLOW)
-   - Python
-   - R
-   - Scala
-
-## [4. Starting H2O cluster](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_start.md) ##
+## [3. Starting H2O cluster](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_start.md) ##
    - FLOW
    - Python
    - R
    - Scala
+
+## [4. Accessing H2O library](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_access.md) ##
+   - Web Frontend (FLOW)
+   - Python
+   - R
+   - Scala
    
-## 4. [Data Ingest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md) ##
- - [Supported File Formats](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supportedfileformat)
- - [Supported Data Types](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supporteddatatypes)
- - [Supported Data Source](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supporteddatasources)
+## 5. [Data Ingest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md) ##
+ - Supported File Formats
+ - Supported Data Types
+ - Supported Data Source
  - Ingesting data in H2O
    - Importing a File (FLOW | Python | R | Scala)
    - Importing Multiple Files (FLOW | Python | R | Scala)
