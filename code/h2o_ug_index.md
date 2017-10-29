@@ -13,13 +13,13 @@
  - Hadoop
  - Spark
  
-## 3. Accessing H2O library and Starting H2O Cluster
- - Accessing H2O Library
+## [3. Accessing H2O library](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_access.md) ##
    - Web Frontend (FLOW)
    - Python
    - R
    - Scala
- - Starting H2O cluster
+
+## [4. Starting H2O cluster](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_start.md) ##
    - FLOW
    - Python
    - R
