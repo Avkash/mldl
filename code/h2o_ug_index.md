@@ -2,7 +2,7 @@
 
  - The code snippets will be in R, python, scala and java
 
-### 1. Architecture ###
+### [1. Architecture](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_arch.md) ###
  - What is it?
  - How it works?
  - What you can do with H2O? 
