@@ -21,7 +21,7 @@
   - [Training](https://s3.amazonaws.com/h2o-public-test-data/bigdata/laptop/mnist/train.csv.gz)
   - [Test](https://s3.amazonaws.com/h2o-public-test-data/bigdata/laptop/mnist/test.csv.gz)
   
-## Loading any of the above dataset ##
+## Loading above dataset or any other dataset into H2O ##
 
 ### FLOW ###
 This is how you can import a file into H2O FLOW:
