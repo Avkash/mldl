@@ -102,4 +102,25 @@ h2o.init(string_version_check = False)
 Note: If you try to connect an H2O cluster which large version different you will get lots of error so its best to avoid using string_version_check parameter so make sure both H2O cluster and API have same version. 
 
 ## Accessing H2O EC2 Instance from your OSX/Windows Machine ##
-
+- Setup H2O in EC2 instance. It can be a single machine running H2O or a cluster of machine running H2O cluster
+- You need to make sure EC2 instance has security configuration opens IP address and port 54321/54323 (or other PORT configured to run H2O) so you can access from your windows or OSX machine
+- At your OSX/Windows machine start R/Python
+- Load H2O library
+```
+## R
+library(h2o)
+## Python
+import h2o
+```
+- Initalize H2O 
+```
+## R/python
+h2o.init(ip="ip address of EC2 istance where H2O is running", port = PORT_VALUE)
+```
+- Validate the H2O cluster details
+```
+## R
+h2o.clusterStatus()
+## Python
+h2o.cluster_status()
+```
