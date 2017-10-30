@@ -34,8 +34,14 @@
    - Importing a File (FLOW | Python | R | Scala)
    - Importing Multiple Files (FLOW | Python | R | Scala)
    - Uploading a File (FLOW | Python | R | Scala)
- - Ingesting data from SQL (Python | R)
- - Understanding Data distribution in memory
+
+## [6. Ingesting data from RDBS in Python and R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_sql_ingest.md) ##
+ - Supported Scenarios
+ - Python API
+ - R API
+
+
+- Understanding Data distribution in memory
   
 ## 5. Data Manipultion ##
  - Splitting Datasets into Training/Testing/Validating  (Python | R | Scala)
