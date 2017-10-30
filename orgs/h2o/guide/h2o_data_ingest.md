@@ -62,27 +62,27 @@ h2o.import_files(path="path to your files")
 
 
 ### Ingesting data in H2O ###
- - Importing a File
-   - FLOW
-      - In the FLOW cell type "importFiles" and select "SHIFT + ENTER" / Or click "RUN" button at the top MENU
-      - In the open cell insert the file name
-      - You can add multiple files with same data format into same cell
-      - The Actual PARSE action is two step
-      - First Step: Once all the files are selected you select "Parse all files" which just reads the header and other info
-      - Second Step: The actual parse action happens and files are read from the source and loaded into H2O memory
-      - This is how all the above steps looks like:
-      ![](https://github.com/Avkash/mldl/blob/master/images/flow-file-ingest.png?raw=true)
-   - Python
+FLOW
+ - In the FLOW cell type "importFiles" and select "SHIFT + ENTER" / Or click "RUN" button at the top MENU
+ - In the open cell insert the file name
+ - You can add multiple files with same data format into same cell
+ - The Actual PARSE action is two step
+ - First Step: Once all the files are selected you select "Parse all files" which just reads the header and other info
+ - Second Step: The actual parse action happens and files are read from the source and loaded into H2O memory
+ - This is how all the above steps looks like:
+ ![](https://github.com/Avkash/mldl/blob/master/images/flow-file-ingest.png?raw=true)
+
+Python
 ```  
 import h2o
 h2o.import_file()
 ``` 
-  - R
+R
 ```  
 library(h2o)
 h2o.importFile()
 ```      
-   - Scala
+Scala
 ```   
 val h2oContext = H2OContext.getOrCreate(sc)
 import h2oContext._
@@ -90,13 +90,14 @@ import h2oContext.implicits._
 val prostateData = new H2OFrame(new File("/Users/avkashchauhan/src/github.com/h2oai/sparkling-water/examples/smalldata/prostate.csv"))
 ```
 
-### Importing Multiple Files (FLOW | Python | R | Scala) ###
-   - FLOW
-   - python
-   - R
-     - 
-     - h2o.importFile()
-   - Scala
+### Importing Multiple Files ###
+FLOW
+python
+R
+```
+h2o.importFile()
+```
+Scala
    
 ### Uploading a File (FLOW | Python | R | Scala) ###
 
