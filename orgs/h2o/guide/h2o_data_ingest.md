@@ -80,7 +80,12 @@ h2o.import_file()
 R
 ```  
 library(h2o)
+## -- You can pass a file in the path of this API
 h2o.importFile()
+## -- You can pass a folder in the path of this API
+h2o.importFolder()
+## -- You can pass HDFS file name here in this API
+h2o.importHDFS()
 ```      
 Scala
 ```   
