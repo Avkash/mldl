@@ -1,4 +1,4 @@
- - My Blog: [https://aichamp.wordpress.com/](https://aichamp.wordpress.com/)  My e-Books: [H2O - User Guide](https://github.com/Avkash/mldl/blob/master/code/h2o_ug_index.md)
+ - My Blog: [https://aichamp.wordpress.com/](https://aichamp.wordpress.com/)  My e-Books: [H2O - User Guide](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/README.md)
  - Motivation: [Life & Career](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)  Events: [2017](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md) [2018](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md)
  - Me : [@stackoverflow](https://stackoverflow.com/users/1325423/avkashchauhan) ! [@dzone](https://dzone.com/users/1425729/Avkash.html) ! [@LinkedIn](https://www.linkedin.com/in/avkashchauhan/) ! [@Medium](https://medium.com/@avkashchauhan)
 
