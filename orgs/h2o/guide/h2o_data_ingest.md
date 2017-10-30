@@ -1,6 +1,6 @@
 # H2O Data Ingest #
 
-### [Supported file format](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supportedfileformat) ###
+### [Supported file format](#supportedfileformat) ###
 H2O supports the following different file types:
  - CSV (delimited) files
  - ORC
@@ -11,7 +11,7 @@ H2O supports the following different file types:
  - Avro version 1.8.0 (without multifile parsing or column type modification)
  - Parquet (Some of the complex nested parquet files may not be read properly)
 
-### [Supported Data Types](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supporteddatatypes) ###
+### [Supported Data Types](#supporteddatatypes) ###
 H2O supports the following data types:
 - Numeric
 - String
@@ -21,7 +21,7 @@ H2O supports the following data types:
 
 Note: H2O will also mark some of the data as invalid or unknown if could not set any of the above data type.
 
-### [Supported Data Source](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md#supporteddatasources) ###
+### [Supported Data Source](#supporteddatasources) ###
 H2O supports the following data source natively:
 - Local File System
 - Web based files hosted on https/https
@@ -34,7 +34,7 @@ H2O also supports the following data sources with some external libraries:
 - IBM Swift Object Storage using IBM HDFS Driver (hadoop-openstack.jar)
 - Alluxio data storage source using Alluxio client library (alluxio-core-client-*-jar-with-dependencies.jar)
 
-### File(s) Import in H2O ##
+### [File(s) Import in H2O](#filesimportinH2O) ##
 
 H2O has on single API to ingest all supported kinds of data format from all supported data source. In the following API, the path can be any of the following:
 - Local file system i.e.
@@ -63,7 +63,7 @@ h2o.import_files(path="path to your files", destination_frame=None, parse=True, 
 ```
 
 
-### Ingesting data in H2O ###
+### [Ingesting data in H2O](#IngestingDataInH2O) ###
 FLOW
  - In the FLOW cell type "importFiles" and select "SHIFT + ENTER" / Or click "RUN" button at the top MENU
  - In the open cell insert the file name
@@ -97,7 +97,7 @@ import java.io.File
 val prostateData = new H2OFrame(new File("/Users/avkashchauhan/src/github.com/h2oai/sparkling-water/examples/smalldata/prostate.csv"))
 ```
 
-### Importing Multiple Files ###
+### [Importing Multiple Files](#ImportingMultipleFiles) ###
  
 #### FLOW ####
 - First you will call importFiles command in the FLOW cell.
@@ -135,7 +135,7 @@ NEED AN EXAMPLE
 ```
 
    
-### Uploading a File ###
+### [Uploading a File](#UploadingFileInH2O) ###
 Sometime you may want to upload a file from local files system to H2O memory and for that reason you will use H2O file upload functionalties. 
 
 #### FLOW ####
@@ -153,7 +153,7 @@ h2o.upload_file(path, destination_frame=None, header=0, sep=None, col_names=None
 #### Scala ####
 You can use Scala/Java API to read files from local file system and then create H2O frame in memory.
 
-### Ingesting data from SQL (Python | R) ###
+### [Ingesting data from SQL in Python and R](#IngestingDataFromSQLInPythonAndR) ###
 
 ### Understanding Data distribution in memory ###
 
