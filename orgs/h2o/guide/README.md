@@ -40,7 +40,7 @@
  - Python API
  - R API
   
-## 5. Data Manipultion ##
+## [7. Data Manipultion] ##
  - Splitting Datasets into Training/Testing/Validating  (Python | R | Scala)
  - H2O Pandas Dataframe and vice-versa (Python)
  - Merging Two H2O Dataframes (Python | R | Scala)
@@ -55,7 +55,7 @@
  - Pivoting data frames (Python | R | Scala)
  - [Slicing the data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_data_man.md)
 
-## 6. Machine Learning Algotithms with Code ##
+## [8. Machine Learning Algotithms with Code] ##
   - Supervised 
     - GLM
       - Classification Example (FLOW | Python | R | Scala)
@@ -78,7 +78,7 @@
   - Miscellaneous 
     - Word2Vec (Python | R )
     
-## 7. Sparkling Water ##
+## [9. Sparkling Water] ##
  - Installation
  - Launching Cluster (deploy mode - client vs cluster)
  - Machine Learning in Sparkling Water
@@ -89,7 +89,7 @@
    - GBM Example
    - DRF Sample
 
-## 8. pysparkling ##
+## [10. pysparkling] ##
  - Installation
  - Connection spark cluster
  - Machine learning example (GBM | GLM)
