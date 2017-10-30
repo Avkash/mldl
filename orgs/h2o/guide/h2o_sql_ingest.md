@@ -1,11 +1,16 @@
 # [Ingesting data from SQL in H2O using Python and R](#IngestingDataFromSQLInPythonAndR) #
 
-### Supported Scenarios ### 
-You can use 
-- JDBC Driver 0.42 and above core
-- 
+Relational databases that include a JDBC (Java database connectivity) driver can be used as the source of data for machine learning in H2O. Currently supported SQL databases are MySQL, PostgreSQL, and MariaDB. Data from these SQL databases can be pulled into H2O using the import_sql_table and import_sql_select functions.
 
-### Python ###
+### Supported Scenarios ### 
+- JDBC Driver 0.42 and above core
+- Tested RDBMS
+  - Postgresql
+  - MySql
+  - SQL Server 2000
+  - Oracle
+
+### Python API ###
 Here are the H2O API you can use in Python to connect a support RDBMS using proper JDBC Driver:
 ```
 h2o.import_sql_select(connection_url, select_query, username, password, optimize=True)
@@ -61,7 +66,7 @@ curs.close()
 conn.close()
 ```
 
-### R ###
+### R API ###
 
 Here are the H2O API you can use in R to connect a support RDBMS using proper JDBC Driver:
 ```
@@ -89,6 +94,8 @@ h2o.init()
 payment = h2o.import_sql_table(connection_url = “jdbc:postgresql://localhost:5432/h2odb?&useSSL=false”, table= “payment”, username = “avkash”, password = “avkash”)
 payment
 ```
+### Other Helpful Articles ###
+
 Here are few helpful articles to assist you in accessing RDBMS tables in H2O:
  - [Setup postgresql database on OSX](https://aichamp.wordpress.com/2017/03/20/setup-postgresql-database-on-osx/)
  - [Restoring DVD rental database into postgresql](https://aichamp.wordpress.com/2017/03/20/restoring-dvd-rental-database-into-postgresql/)
