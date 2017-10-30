@@ -55,9 +55,11 @@ H2O has on single API to ingest all supported kinds of data format from all supp
 FLOW
 importFiles
 # R
-h2o.importFiles(path="path to your file")
+h2o.importFiles(path="path to your file", destination_frame = "", parse = TRUE, header = NA,
+  sep = "", col.names = NULL, col.types = NULL, na.strings = NULL,
+  decrypt_tool = NULL)
 # Python
-h2o.import_files(path="path to your files")
+h2o.import_files(path="path to your files", destination_frame=None, parse=True, header=0, sep=None, col_names=None, col_types=None, na_strings=None, pattern=None)
 ```
 
 
@@ -75,17 +77,16 @@ FLOW
 Python
 ```  
 import h2o
-h2o.import_file()
+h2o.import_file(path=None, destination_frame=None, parse=True, header=0, sep=None, col_names=None, col_types=None, na_strings=None, pattern=None)
 ``` 
 R
 ```  
 library(h2o)
 ## -- You can pass a file in the path of this API
-h2o.importFile()
+h2o.importFile(path, destination_frame = "", parse = TRUE, header = NA, sep = "", col.names = NULL, col.types = NULL, na.strings = NULL, decrypt_tool = NULL)
+
 ## -- You can pass a folder in the path of this API
-h2o.importFolder()
-## -- You can pass HDFS file name here in this API
-h2o.importHDFS()
+h2o.importFolder(path, pattern = "", destination_frame = "", parse = TRUE,  header = NA, sep = "", col.names = NULL, col.types = NULL,  na.strings = NULL, decrypt_tool = NULL)
 ```      
 Scala
 ```   
