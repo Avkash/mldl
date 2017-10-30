@@ -40,7 +40,7 @@
  - Python API
  - R API
   
-## [7. Data Manipultion] ##
+## [7. Data Manipultion]() ##
  - Splitting Datasets into Training/Testing/Validating  (Python | R | Scala)
  - H2O Pandas Dataframe and vice-versa (Python)
  - Merging Two H2O Dataframes (Python | R | Scala)
@@ -55,7 +55,7 @@
  - Pivoting data frames (Python | R | Scala)
  - [Slicing the data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_data_man.md)
 
-## [8. Machine Learning Algotithms with Code] ##
+## [8. Machine Learning Algotithms with Code]() ##
   - Supervised 
     - GLM
       - Classification Example (FLOW | Python | R | Scala)
@@ -78,7 +78,7 @@
   - Miscellaneous 
     - Word2Vec (Python | R )
     
-## [9. Sparkling Water] ##
+## [9. Sparkling Water]() ##
  - Installation
  - Launching Cluster (deploy mode - client vs cluster)
  - Machine Learning in Sparkling Water
@@ -89,22 +89,22 @@
    - GBM Example
    - DRF Sample
 
-## [10. pysparkling] ##
+## [10. pysparkling]() ##
  - Installation
  - Connection spark cluster
  - Machine learning example (GBM | GLM)
  
-## 9. rsparkling ##
+## [11. rsparkling]() ##
  - Installation
  - Connection spark cluster
  - Analyzing Job and data
  - Machine learning example (GBM | GLM | Deep Learning)
  
-## 10. H2O on Hadoop Cluster ##
+## [12. H2O on Hadoop Cluster]() ##
  - Launching Cluster 
  - using various parameters ( ip | port | disown)
 
-## 11. H2O Models in Production ##
+## [13. H2O Models in Production]() ##
  - Supported Scenarios
  - Exporting Models
    - Binary  (FLOW | Python | R | Scala)
@@ -120,11 +120,11 @@
    - Hive Scoring
      - Hive UDF Sample in Java
 
-## 12. H2O Performance ##
+## [14. H2O Performance]() ##
   - Cluster size approximation
   - Analyzing data in H2O memory
 
-## 13. Advance Concepts ##
+## [15. Advance Concepts]() ##
   - Grid Search
     - Classification Example (FLOW | Python | R | Scala)
     - Regression Example (FLOW | Python | R | Scala)
@@ -136,7 +136,7 @@
     - Regression Example (FLOW | Python | R | Scala)
   - Cross-Validation
   
-## 14: Important Links ##
+## [16: Important Links]() ##
  - [H2O Website](https://www.h2o.ai/)
  - [Latest Download Page](https://www.h2o.ai/download/)
  - [Documentation](http://docs.h2o.ai/h2o/latest-stable/index.html)
