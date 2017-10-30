@@ -66,6 +66,7 @@ h2o.import_files(path="path to your files")
    - FLOW
       - In the FLOW cell type "importFiles" and select "SHIFT + ENTER" / Or click "RUN" button at the top MENU
       - In the open cell insert the file name
+      ![](https://github.com/Avkash/mldl/blob/master/images/flow-file-ingest.png?raw=true)
    - Python
       - import h2o
       - h2o.import_file()
