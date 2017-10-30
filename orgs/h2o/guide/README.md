@@ -35,7 +35,7 @@
    - Importing Multiple Files (FLOW | Python | R | Scala)
    - Uploading a File (FLOW | Python | R | Scala)
 
-## [6. Ingesting data from RDBS in Python and R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_sql_ingest.md) ##
+## [6. Ingesting data from RDBS in Python and R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_sql_ingest.md) ##
  - Supported Scenarios
  - Python API
  - R API
