@@ -93,21 +93,47 @@ Scala
 val h2oContext = H2OContext.getOrCreate(sc)
 import h2oContext._
 import h2oContext.implicits._
+import java.io.File
 val prostateData = new H2OFrame(new File("/Users/avkashchauhan/src/github.com/h2oai/sparkling-water/examples/smalldata/prostate.csv"))
 ```
 
 ### Importing Multiple Files ###
-FLOW
-python
-R
+ 
+#### FLOW ####
+- First you will call importFiles command in the FLOW cell.
+- In the open input box, you can add multiple files
+- Select all the files you want to add into single data frame
+- You can set the dataframe key into ID input box
+- Now parse the files as you perform file input operation
+
+#### Python: ####
+You can use same h2o.import_file() API where you pass folder as path and patten to select type of files choosen from the given path. 
 ```
-h2o.importFile()
+h2o.import_file(path="/Users/avkashchauhan/learn/customers/",  pattern="prostate_/*.csv" )
+##
+Note: Above API will select all the files name prostate_*.csv from the give path. 
 ```
-Scala
+
+#### R ####
+```
+h2o.importFolder(path="/Users/avkashchauhan/learn/customers/",  pattern="prostate_/*.csv" )
+##
+Note: Above API will select all the files name prostate_*.csv from the give path. 
+
+```
+#### Scala ####
+You just need to Scala/Java support file filter to select the files from the folder and then create an H2O Dataframe.
+```
+val h2oContext = H2OContext.getOrCreate(sc)
+import h2oContext._
+import h2oContext.implicits._
+import java.io.File
+val prostateData = new H2OFrame(new File("/Users/avkashchauhan/learn/customers/prostate_*.csv"))
+##-----------
+NEED AN EXAMPLE
+##------------
+```
+
    
 ### Uploading a File (FLOW | Python | R | Scala) ###
-
-### Ingesting data from SQL (Python | R) ###
-
-### Understanding Data distribution in memory ###
 
