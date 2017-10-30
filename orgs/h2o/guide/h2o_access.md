@@ -100,3 +100,6 @@ h2o.init(string_version_check = False)
 h2o.init(string_version_check = False)
 ```
 Note: If you try to connect an H2O cluster which large version different you will get lots of error so its best to avoid using string_version_check parameter so make sure both H2O cluster and API have same version. 
+
+## Accessing H2O EC2 Instance from your OSX/Windows Machine ##
+
