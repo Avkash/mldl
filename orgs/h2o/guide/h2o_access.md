@@ -88,3 +88,15 @@ Sparkling Water Context:
   Open H2O Flow in browser: http://10.0.0.46:54321 (CMD + click in Mac OSX)
 ```
 After that you just connect to H2O from FLOW, R or Python, either way you want to. 
+
+## Connecting H2O from R/Python API ##
+First of all you must have H2O cluster version same as your R/Python API version so you can use H2O functions correctly however sometimes you may want to connect a little different H2O cluster from R/Python API. You can pass string_version_check with false in any of the H2O API to conenct with H2O with different version.
+### R ###
+```
+h2o.init(string_version_check = False)
+```
+### Python ###
+```
+h2o.init(string_version_check = False)
+```
+Note: If you try to connect an H2O cluster which large version different you will get lots of error so its best to avoid using string_version_check parameter so make sure both H2O cluster and API have same version. 
