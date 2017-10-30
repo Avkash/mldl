@@ -40,4 +40,6 @@ df_train = h2o.importFile("https://s3.amazonaws.com/h2o-public-test-data/bigdata
 df_test = h2o.importFile(""https://s3.amazonaws.com/h2o-public-test-data/bigdata/laptop/mnist/test.csv.gz")
 ```
 
-### Spark ###
+### Spark & Scala ###
+
+NEED SAMPLE
