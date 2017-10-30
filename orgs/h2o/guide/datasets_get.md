@@ -17,14 +17,15 @@
       - [Test Data](https://h2o-public-test-data.s3.amazonaws.com/bigdata/laptop/milsongs/milsongs-cls-test.csv.gz)
 - [Seeds Dataset](http://archive.ics.uci.edu/ml/datasets/seeds)
    - [http://s3.amazonaws.com/h2o-public-test-data/smalldata/flow_examples/seeds_dataset.txt](http://s3.amazonaws.com/h2o-public-test-data/smalldata/flow_examples/seeds_dataset.txt)
-- [MNIST Dataset]
+- [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
   - [Training](https://s3.amazonaws.com/h2o-public-test-data/bigdata/laptop/mnist/train.csv.gz)
   - [Test](https://s3.amazonaws.com/h2o-public-test-data/bigdata/laptop/mnist/test.csv.gz)
   
 ## Loading any of the above dataset ##
 
 ### FLOW ###
-
+This is how you can import a file into H2O FLOW:
+![](https://github.com/Avkash/mldl/blob/master/images/flow-import-file.png?raw=true)
 
 ### Python ###
 ```
