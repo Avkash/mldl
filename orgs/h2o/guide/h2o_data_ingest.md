@@ -135,5 +135,25 @@ NEED AN EXAMPLE
 ```
 
    
-### Uploading a File (FLOW | Python | R | Scala) ###
+### Uploading a File ###
+Sometime you may want to upload a file from local files system to H2O memory and for that reason you will use H2O file upload functionalties. 
+
+#### FLOW ####
+You just need to select the "Upload File" option from the "Data" menu in FLOW as shown below and select the file from local file system:
+![](https://github.com/Avkash/mldl/blob/master/images/flow-upload-file.png?raw=true)
+#### R ####
+```
+h2o.uploadFile(path, destination_frame = "", parse = TRUE, header = NA,  sep = "", col.names = NULL, col.types = NULL, na.strings = NULL,  progressBar = FALSE, parse_type = NULL, decrypt_tool = NULL)
+```
+
+#### Python ####
+```
+h2o.upload_file(path, destination_frame=None, header=0, sep=None, col_names=None, col_types=None, na_strings=None)
+```
+#### Scala ####
+You can use Scala/Java API to read files from local file system and then create H2O frame in memory.
+
+### Ingesting data from SQL (Python | R) ###
+
+### Understanding Data distribution in memory ###
 
