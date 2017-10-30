@@ -39,9 +39,6 @@
  - Supported Scenarios
  - Python API
  - R API
-
-
-- Understanding Data distribution in memory
   
 ## 5. Data Manipultion ##
  - Splitting Datasets into Training/Testing/Validating  (Python | R | Scala)
