@@ -15,16 +15,16 @@
  - Spark
  
 ## [3. Starting H2O cluster](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_start.md) ##
-   - FLOW
-   - Python
-   - R
-   - Scala
+ - FLOW
+ - Python
+ - R
+ - Scala
 
 ## [4. Accessing H2O library](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_access.md) ##
-   - Web Frontend (FLOW)
-   - Python
-   - R
-   - Scala
+ - Web Frontend (FLOW)
+ - Python
+ - R
+ - Scala
    
 ## [5. Data Ingest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md) ##
  - Supported File Formats
