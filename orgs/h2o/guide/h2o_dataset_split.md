@@ -26,6 +26,24 @@ The following screenshot shows how to create 3 splits from one dataset:
 ![](https://github.com/Avkash/mldl/blob/master/images/flow-split-3sets.png?raw=true)
 
 ## Spliting dataset in Python ##
+Loading dataset:
+```
+df = h2o.import_file("https://s3.amazonaws.com/h2o-airlines-unpacked/allyears2k.csv")
+print(df.shape)
+```
+Spliting dataset into 2 sets of training and validation sub datasets of 80/20 % distribution:
+```
+train, valid = df.split_frame(ratios=[.8])
+print(train.shape)
+print(valid.shape)
+```
+Spliting dataset into 3 sets of training, validation and test sub datasets of 70/15/15 % distribution:
+```
+train, valid, test = df.split_frame(ratios=[.75, .15])
+print(train.shape)
+print(valid.shape)
+print(test.shape)
+```
 
 ## Spliting dataset in R ##
 
