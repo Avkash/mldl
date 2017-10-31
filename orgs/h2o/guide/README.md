@@ -46,14 +46,20 @@
  - Loading datasets into H2O memory using Python API
  - Loading datasets into H2O memory using R API
 
-## [8. Spliting dataset in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_dataset_split.md) ##
+## [8. Create Test dataset with H2O of any size and and type](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_createframe.md) ##
+ - Why test datasets?
+ - FLOW
+ - Python
+ - R
+
+## [9. Spliting dataset in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_dataset_split.md) ##
  - Why spliting datasets
  - H2O Dataframe split in FLOW
  - H2O Dataframe split in Python
  - H2O Dataframe split in R
  - H2O Dataframe split in Spark/Scala
 
-## [9. Data Manipultion](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man.md) ##
+## [10. Data Manipultion](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man.md) ##
  - [H2O Pandas Dataframe and vice-versa (Python)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_pd_h2o.md)
  - [Merging Two H2O Dataframes (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_merge.md)
  - [Combining Columns from Two Data Frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest_cbind.md)
@@ -66,7 +72,7 @@
  - Group By operation on data frame (Python | R | Scala)
  - Pivoting data frames (Python | R | Scala)
 
-## [8. Machine Learning Algotithms with Code]() ##
+## [11. Machine Learning Algotithms with Code]() ##
   - Supervised 
     - GLM
       - Classification Example (FLOW | Python | R | Scala)
