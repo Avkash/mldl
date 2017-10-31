@@ -54,7 +54,6 @@
  - H2O Dataframe split in Spark/Scala
 
 ## [9. Data Manipultion]() ##
- - Splitting Datasets into Training/Testing/Validating  (Python | R | Scala)
  - H2O Pandas Dataframe and vice-versa (Python)
  - Merging Two H2O Dataframes (Python | R | Scala)
  - Group By operation on data frame (Python | R | Scala)
