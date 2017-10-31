@@ -66,7 +66,7 @@
  - [Combining Rows from Two Data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_rbind.md)
  - [Slicing Rows from an H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_rslice.md)
  - [Slicing Columns from an H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_cslice.md)
- - Fill NAs in H2O data frame (Python | R | Scala)
+ - [Fill NAs in H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_fillna.md)
  - Replacing Values in a H2O data frame (Python | R | Scala)
  - Imputing values into H2O Data frame (Python | R | Scala)
  - Group By operation on data frame (Python | R | Scala)
