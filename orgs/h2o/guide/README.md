@@ -65,7 +65,6 @@
  - Imputing values into H2O Data frame (Python | R | Scala)
  - Group By operation on data frame (Python | R | Scala)
  - Pivoting data frames (Python | R | Scala)
- - [Slicing the data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_data_man.md)
 
 ## [8. Machine Learning Algotithms with Code]() ##
   - Supervised 
