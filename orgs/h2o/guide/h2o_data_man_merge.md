@@ -107,7 +107,21 @@ Ravi	USA	nan	nan
 Result: Above you can see all the items from the right/second datasets are selected and for any missing item from second dataset which is not available into first, the nan is added. 
 
 ## R ##
-
+Here is the h2o.merge API description in R:
+```
+h2o.merge(x, y, by = intersect(names(x), names(y)), by.x = by, by.y = by, all = FALSE, all.x = all, all.y = all, method = "hash")
+```
+Parameters:
+  - x,y : H2OFrame objects
+  - by	 : columns used for merging by default the common names
+  - by.x:	x columns used for merging by name or number
+  - by.y: y columns used for merging by name or number
+  - all	 : TRUE includes all rows in x and all rows in y even if there is no match to the other
+  - all.x:	If all.x is true, all rows in the x will be included, even if there is no matching row in y, and vice-versa for    all.y.
+   - all.y: see all.x
+   - method:	 auto, radix, or hash (default)
+   
+   
 Lets load 2 dataset into H2O:
 
 #### Dataset 1 : users1 ####
