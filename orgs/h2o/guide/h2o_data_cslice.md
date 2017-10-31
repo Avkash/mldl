@@ -89,5 +89,52 @@ Name Age   Zip        City State
 users[,]
 Results Will have all the rows and columns
 ```
-### Case 2: Getting a particular Row by index: ###
+### Case 2: Getting a particular Column by Name: ###
+```
+users$Name
+Result will have all the rows from column "Name"
+
+users$Age
+Result will have all the rows from column "Age"
+```
+
+### Case 3: Getting a particular Column by index: ###
+```
+users[,1]
+Result will have very first column (Column index start from 1). If Index is greater then column count you will get empty results.
+
+users[,2]
+Result will have only 2nd column. 
+
+users[,1:2]
+Result will have very first and second column as the index is based on 1.
+
+users[,2:4]
+Result will have second, 3rd and 4th column as the index is based on 1.
+
+```
+### Case 4: Getting rows based on particular Column or Columns Names: ###
+```
+users[,'City']
+Result will have all the rows from column name "City".
+
+users[,c('City', 'Age')]
+Result will have all the rows from columns "City" and "Age".
+
+users[1:,c('Name','City', 'Age')]
+Result will have 1st row from columns "Name", "City" and "Age", row index starts from 1.
+
+users[4:,['Name','City', 'Age']]
+Result will have 4th row from columns "Name", "City" and "Age"
+```
+### Case 5: Getting rows based on particular Column Index or Column Range: ###
+```
+users[1,c('Name','Age')]
+Result will have only first row from columns "Name and Age"
+
+users[3,c('Name','Age', "State")]
+Result will have only 3rd row from columns "Name Age and State"
+
+users[2:4,c('Name','Age', "State")]
+Result will have only 2nd to 4th row (Total 3) based on Row Index 0 from columns "Name Age and State"
 ```
