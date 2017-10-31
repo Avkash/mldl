@@ -46,9 +46,10 @@
 
 ## [8. Spliting dataset in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_dataset_split.md) ##
  - Why spliting datasets
- - FLOW
- - R
- - Spark/Scala
+ - H2O Dataframe split in FLOW
+ - H2O Dataframe split in Python
+ - H2O Dataframe split in R
+ - H2O Dataframe split in Spark/Scala
 
 
 ## [9. Data Manipultion]() ##
