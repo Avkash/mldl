@@ -57,6 +57,18 @@ df = h2o.create_frame(rows=20,
 ```
 Result: The dataset will have 50% data missing.
 
+### Creating Dataframe with string and numeric data:
+```
+df = h2o.create_frame(rows=20,
+                      cols=5,
+                      real_fraction=0.2,
+                      real_range=100,
+                      string_fraction = 0.4,
+                      missing_fraction=0.1,
+                      seed=123)                      
+```
+Result: The dataset will have 50% data missing.
+
 ### Creating Dataframe with response column:
 ```
 df = h2o.create_frame(rows=10,
@@ -102,18 +114,15 @@ Parameters:
 ### Creating Dataframe with 50% of missing Data:
 ```
 df =  h2o.createFrame(rows = 100, cols = 10, 
-        missing_fraction = 0.5, randomize = TRUE, 
-        real)                      
+        missing_fraction = 0.5, randomize = TRUE)                      
 ```
 Result: The dataset will have 50% data missing.
 
 ### Creating Dataframe with string and numerics columns Data:
 ```
-df =  h2o.createFrame(rows = 100, cols = 10,real_fraction=0.1,
-                      real_range=100,real_range = 10, 
-        missing_fraction = 0.2, randomize = TRUE, 
-        
-        string_fraction = 0.1)                      
+df =  h2o.createFrame(rows = 100, cols = 10, 
+        missing_fraction = 0.2, randomize = TRUE, real_range=100,
+        string_fraction = 0.3)                      
 ```
 Result: The dataset will have 50% data missing.
 
