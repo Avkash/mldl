@@ -65,6 +65,13 @@ train = df[[1]]
 valid = df[[2]]
 test = df[[3]]
 ```
-
+Note: If you run the following listing command you will see the split frames with the frame keys as below:
+```
+> h2o.ls()
+                         key
+1                train_frame
+2                valid_frame
+3                test_frame
+```
 
 ## Spliting dataset in Spark/Scala ##
