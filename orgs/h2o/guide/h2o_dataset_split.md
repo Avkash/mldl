@@ -75,3 +75,41 @@ Note: If you run the following listing command you will see the split frames wit
 ```
 
 ## Spliting dataset in Spark/Scala ##
+Importing required libraries and creating H2O Context:
+```
+import org.apache.spark.h2o._
+val h2oContext = H2OContext.getOrCreate(sc)
+```
+Loading dataset from the local file system as below:
+```
+val airline_df = new H2OFrame(new File("/Users/avkashchauhan/Downloads/allyears2k.csv"))
+airline_df.numRows
+airline_df.numCols
+```
+Spliting dataset into 2 sets of training and validation sub datasets of 80/20 % distribution:
+```
+# Importing required libraries
+import water.{Key, MRTask}
+import _root_.hex.splitframe.ShuffleSplitFrame
+
+val keys = Array[String]("train.hex", "valid.hex").map(Key.make[Frame](_))
+val ratios = Array[Double](0.8, 0.2)
+val frames = ShuffleSplitFrame.shuffleSplitFrame(airline_df, keys, ratios, 1234567689L)
+
+val train = frames(0)
+val valid = frames(1)
+```
+Spliting dataset into 3 sets of training, validation and test sub datasets of 70/15/15 % distribution:
+```
+import water.{Key, MRTask}
+import _root_.hex.splitframe.ShuffleSplitFrame
+
+val keys = Array[String]("train.hex", "valid.hex", "test.hex").map(Key.make[Frame](_))
+val ratios = Array[Double](0.7, 0.15, 0.15)
+val frames = ShuffleSplitFrame.shuffleSplitFrame(airline_df, keys, ratios, 1234567689L)
+
+val train = frames(0)
+val valid = frames(1)
+val test = frames(2)
+```
+
