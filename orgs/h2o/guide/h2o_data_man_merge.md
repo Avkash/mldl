@@ -158,7 +158,7 @@ As you can see above, there is a common column as "Name" and mow we will merge t
 ### Case 1 ###
 Merging first dataset with second dataset where user1 dataset is the main(first/left) and user2 dataset is second(right):
 ```
-> resultA = h2o.merge(user1, user2, all.x = TRUE, by.x = c("Name")) 
+> resultA = h2o.merge(user1, user2, all.x = TRUE, by = c("Name")) 
 > resultA
   Name Age   Zip        City State Country
 1  Jim  24 94401   San Mateo    CA     USA
@@ -172,7 +172,7 @@ Result: You can see that all the columns from the both dataset are included and 
 ### Case 2 ###
 Merging user2(first/main/left) dataset with the users1(right/second) dataset:
 ```
-> resultB = h2o.merge(user2, user1, all.x = TRUE, by.x = c("Name")) 
+> resultB = h2o.merge(user2, user1, all.x = TRUE, by.y = c("Name")) 
 > resultB
   Name Country Age   Zip        City State
 1  Jim     USA  24 94401   San Mateo    CA
@@ -183,4 +183,31 @@ Merging user2(first/main/left) dataset with the users1(right/second) dataset:
 ```
 Result: You can see that all the columns from both datasets are used and all the common rows are included in the result dataset.
 
+### Case 3 ###
+Merging all the common rows from user1 dataset based on common column:
+```
+> resultC = h2o.merge(user2, user1, all = TRUE, by = c("Name")) 
+> resultC
+  Name Age   Zip        City State Country
+1  Jim  24 94401   San Mateo    CA     USA
+2 John  30 98001    Bellevue    WA     USA
+3  Tim  35 94402 Foster City    CA     USA
+4  Tom  25 98003     Redmond    WA     USA
+5 Tina  32 94401   San Mateo    CA    <NA>
+```
+Result: You can see that all the rows from user1 are included and missing values are imputed as <NA>.
 
+### Case 4 ###
+Merging all the common rows from user2 dataset based on common column:
+
+```
+> resultC = h2o.merge(user1, user2, all = TRUE, by = c("Name")) 
+> resultC
+  Name Country Age   Zip        City State
+1  Jim     USA  24 94401   San Mateo    CA
+2 John     USA  30 98001    Bellevue    WA
+3  Tim     USA  35 94402 Foster City    CA
+4  Tom     USA  25 98003     Redmond    WA
+5 Ravi     USA NaN   NaN        <NA>  <NA>
+```
+Result: You can see that all the rows from user2 are included  and missing values are imputed as <NA>.
