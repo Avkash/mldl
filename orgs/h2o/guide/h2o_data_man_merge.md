@@ -46,9 +46,10 @@ Tim	USA
 Tom	USA
 Ravi	USA
 ```
-Now we will merge these 2 datasets based on common column "Name": 
+As you can see above, there is a common column as "Name" and mow we will merge these 2 datasets based on common column "Name" with various cases.
+
 ### Case 1 ###
-Merge the first dataset into the second dataset. Note that only columns in common are merged 
+Merging first dataset with second dataset where user1 dataset is the main(first/left) and user2 dataset is second(right):
 ```
 resultsA = users1.merge(users2)
 resultsA.describe
@@ -58,10 +59,11 @@ Jim	USA	24	94401	San Mateo	CA
 John	USA	30	98001	Bellevue	WA
 Tim	USA	35	94402	Foster City	CA
 Tom	USA	25	98003	Redmond	WA
-
 ```
-### Case 2 ###
+Result: You can see that all the columns from the both dataset are included and all the rows which are common in both datasets are included. 
 
+### Case 2 ###
+Merging user2(first/main/left) dataset with the users1(right/second) dataset:
 ```
 resultsB = users2.merge(users1)
 resultsB.describe
@@ -71,11 +73,11 @@ Jim	24	94401	San Mateo	CA	USA
 John	30	98001	Bellevue	WA	USA
 Tim	35	94402	Foster City	CA	USA
 Tom	25	98003	Redmond	WA	USA
-
 ```
+Result: You can see that all the columns from both datasets are used and all the common rows are included in the result dataset.
 
 ### Case 3 ###
-
+Merging user1 (first/main/left) dataset with the user2 (second/right) dataset select all the items from the left/main dataset even when if second/right dataset does not include the common value:
 ```
 resultsC = users1.merge(users2, all_x=True)
 resultsC.describe
@@ -86,11 +88,11 @@ John	30	98001	Bellevue	WA	USA
 Tim	35	94402	Foster City	CA	USA
 Tom	25	98003	Redmond	WA	USA
 Tina	32	94401	San Mateo	CA	
-
 ```
+Result: Above you can see that all the items from the first dataset are included even when right side does not have a common. Also the empty value is used for the missing value for the select row. 
 
 ### Case 4 ###
-
+Merging user1 (first/main/left) dataset with the user2 (second/right) dataset select all the items from the right/second dataset even when if first/left dataset does not include the common value:
 ```
 resultsD = users1.merge(users2, all_y=True)
 resultsD.describe
@@ -102,6 +104,7 @@ Tim	USA	35	94402	Foster City	CA
 Tom	USA	25	98003	Redmond	WA
 Ravi	USA	nan	nan	
 ```
+Result: Above you can see all the items from the right/second datasets are selected and for any missing item from second dataset which is not available into first, the nan is added. 
 
 ## R ##
 
