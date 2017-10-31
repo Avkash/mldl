@@ -20,7 +20,7 @@ Note:
 Lets load 2 dataset into H2O
 #### Dataset 1 : users1 ####
 ```
-users1 = h2o.import_file("/Users/avkashchauhan/Downloads/users1.csv")
+users1 = h2o.import_file("/Users/avkashchauhan/Downloads/users1.csv", header = True)
 print(users1.col_names)
 users1['Name'] = users1['Name'].asfactor()
 users1.describe
