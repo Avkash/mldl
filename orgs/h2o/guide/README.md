@@ -56,7 +56,6 @@
 ## [9. Data Manipultion](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man.md) ##
  - [H2O Pandas Dataframe and vice-versa (Python)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_pd_h2o.md)
  - [Merging Two H2O Dataframes (Python | R | Scala)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_merge.md)
- - Group By operation on data frame (Python | R | Scala)
  - Combining Columns from Two Data Frames (Python | R | Scala)
  - Combining Rows from Two Data frames (Python | R | Scala)
  - Slicing Rows from an H2O data frame (Python | R | Scala)
@@ -64,6 +63,7 @@
  - Fill NAs in H2O data frame (Python | R | Scala)
  - Replacing Values in a H2O data frame (Python | R | Scala)
  - Imputing values into H2O Data frame (Python | R | Scala)
+ - Group By operation on data frame (Python | R | Scala)
  - Pivoting data frames (Python | R | Scala)
  - [Slicing the data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_data_man.md)
 
