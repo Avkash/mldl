@@ -101,7 +101,7 @@ Parameters:
 
 ### Creating Dataframe with 50% of missing Data:
 ```
-df =  h2o.createFrame(real_range = 10, response_factors = 2, has_response = TRUE, 
+df =  h2o.createFrame(real_range = 10, 
         missing_fraction = 0.5, randomize = TRUE, 
         string_fraction = 0.1)                      
 ```
@@ -109,13 +109,8 @@ Result: The dataset will have 50% data missing.
 
 ### Creating Dataframe with response column:
 ```
-df = h2o.createFrame(rows=10,
-                      cols=5,
-                      real_fraction=1.0,
-                      real_range=100,
-                      missing_fraction=0.5,
-                      has_response = True,
-                      response_factors = 2,
-                      seed=123) 
+df =  h2o.createFrame(real_range = 10, response_factors = 2, has_response = TRUE, 
+      missing_fraction = 0.5, randomize = TRUE, string_fraction = 0.1,
+      seed = 12345)
 ```
 Result: The dataset will have a column name response with 0 and 1. To add multiple responses set response_factors to desired value. 
