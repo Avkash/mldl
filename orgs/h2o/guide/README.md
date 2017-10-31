@@ -41,10 +41,17 @@
  - R API
   
 ## [7. Public Datasets available to try with H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/datasets_get.md) ##
-  - List of 25 Datasets
-  - Loading into FLOW, R and Python
-  
-## [8. Data Manipultion]() ##
+ - List of 25 Datasets
+ - Loading into FLOW, R and Python
+
+## [8. Spliting dataset in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_dataset_split.md) ##
+ - Why spliting datasets
+ - FLOW
+ - R
+ - Spark/Scala
+
+
+## [9. Data Manipultion]() ##
  - Splitting Datasets into Training/Testing/Validating  (Python | R | Scala)
  - H2O Pandas Dataframe and vice-versa (Python)
  - Merging Two H2O Dataframes (Python | R | Scala)
