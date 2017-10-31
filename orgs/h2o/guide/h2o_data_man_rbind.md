@@ -67,6 +67,7 @@ Result: As you can see the rows from dataset 1 are added into Dataset 2
 ## R ##
 Here is the rbind API in R:
 ```
+result = h2o.rbind(dataset1, dataset2)
 ```
 
 Loading Dataset 1:
