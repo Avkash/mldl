@@ -44,7 +44,14 @@ mask = users['Age'] > 30
 users[mask,:]
 The result will have all the rows with Age above 30
 ```
+### Case 6: Slicing rows based selected columns: ###
+```
+users[:,['Name','City', 'Age']]
+Result will have all the rows from columns "Name", "City" and "Age"
 
+users[4:,['Name','City', 'Age']]
+Result will have all the rows from 5th (row Index is 0) onwards from columns "Name", "City" and "Age"
+```
 ## R ##
 
 Loading Dataset 1:
