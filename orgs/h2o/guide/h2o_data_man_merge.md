@@ -108,3 +108,65 @@ Result: Above you can see all the items from the right/second datasets are selec
 
 ## R ##
 
+Lets load 2 dataset into H2O:
+
+#### Dataset 1 : users1 ####
+```
+user1 = h2o.importFile("/Users/avkashchauhan/Downloads/users1.csv",header = TRUE)
+user1$Name = as.factor(user1$Name)
+h2o.colnames(user1)
+user1
+## ------- This is how user1 dataset looks like
+  Name Age   Zip        City State
+1  Jim  24 94401   San Mateo    CA
+2 John  30 98001    Bellevue    WA
+3  Tim  35 94402 Foster City    CA
+4  Tom  25 98003     Redmond    WA
+5 Tina  32 94401   San Mateo    CA
+
+```
+#### Dataset 2 : users2 ####
+```
+user2 = h2o.importFile("/Users/avkashchauhan/Downloads/users2.csv",col.names = c("Name", "Country"))
+user2$Name = as.factor(user2$Name)
+h2o.colnames(user2)
+user2
+## ------- This is how user2 dataset looks like
+Name Country
+1  Jim     USA
+2 John     USA
+3  Tim     USA
+4  Tom     USA
+5 Ravi     USA
+```
+As you can see above, there is a common column as "Name" and mow we will merge these 2 datasets based on common column "Name" with various cases.
+
+### Case 1 ###
+Merging first dataset with second dataset where user1 dataset is the main(first/left) and user2 dataset is second(right):
+```
+> resultA = h2o.merge(user1, user2, all.x = TRUE, by.x = c("Name")) 
+> resultA
+  Name Age   Zip        City State Country
+1  Jim  24 94401   San Mateo    CA     USA
+2 John  30 98001    Bellevue    WA     USA
+3  Tim  35 94402 Foster City    CA     USA
+4  Tom  25 98003     Redmond    WA     USA
+5 Tina  32 94401   San Mateo    CA    <NA>
+```
+Result: You can see that all the columns from the both dataset are included and all the rows which are common in both datasets are included. 
+
+### Case 2 ###
+Merging user2(first/main/left) dataset with the users1(right/second) dataset:
+```
+> resultB = h2o.merge(user2, user1, all.x = TRUE, by.x = c("Name")) 
+> resultB
+  Name Country Age   Zip        City State
+1  Jim     USA  24 94401   San Mateo    CA
+2 John     USA  30 98001    Bellevue    WA
+3  Tim     USA  35 94402 Foster City    CA
+4  Tom     USA  25 98003     Redmond    WA
+5 Ravi     USA NaN   NaN        <NA>  <NA>
+```
+Result: You can see that all the columns from both datasets are used and all the common rows are included in the result dataset.
+
+
