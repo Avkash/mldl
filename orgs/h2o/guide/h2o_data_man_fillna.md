@@ -2,6 +2,8 @@
 
 Sometime you have a dataset which comes with lots of empty values and you may need to fill data with some of the approximation values. 
 
+Note: fill NA function does work with numric values, if you have string columns, it will give error. 
+
 ## Python ##
 API : It fills NA along a given axis and along a given direction with a maximum fill length
 ```
@@ -34,3 +36,28 @@ Result will have lots of values values filled.
 ```
 
 ## R ## 
+API:
+```
+h2o.fillna(x, method = "forward", axis = 1, maxlen = 1L)
+```
+Parameters:
+ - x	 : an H2OFrame
+ - method : A String: "forward" or "backward"
+ - axis : An Integer 1 for row-wise fill (default), 2 for column-wise fill
+ - maxlen: An Integer for maximum number of consecutive NA's to fill
+
+Lets create a Frame with lots of empty values:
+```
+df =  h2o.createFrame(real_range = 10, response_factors = 2, has_response = TRUE, missing_fraction = 0.5, 
+  randomize = TRUE)
+```
+Now we can fill "NA" with the values suited in the column
+```
+dfr = h2o.fillna(df)
+Result will have few values filled. 
+
+dfr = h2o.fillna(df, maxlen = 5L)
+Result will have lots of values values filled. 
+```
+
+
