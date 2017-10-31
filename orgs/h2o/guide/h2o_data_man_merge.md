@@ -50,9 +50,9 @@ Now we will merge these 2 datasets based on common column "Name":
 ### Case 1 ###
 Merge the first dataset into the second dataset. Note that only columns in common are merged 
 ```
-results1 = users1.merge(users2)
-results1.describe
-## ------ Result
+resultsA = users1.merge(users2)
+resultsA.describe
+## ------ Result Merged Dataset
 Name	Country	Age	Zip	City	State
 Jim	USA	24	94401	San Mateo	CA
 John	USA	30	98001	Bellevue	WA
@@ -60,12 +60,25 @@ Tim	USA	35	94402	Foster City	CA
 Tom	USA	25	98003	Redmond	WA
 
 ```
-
 ### Case 2 ###
 
 ```
-results2 = users1.merge(users2, all_x=True)
-results2.describe
+resultsB = users2.merge(users1)
+resultsB.describe
+## ------ Result Merged Dataset
+Name	Age	Zip	City	State	Country
+Jim	24	94401	San Mateo	CA	USA
+John	30	98001	Bellevue	WA	USA
+Tim	35	94402	Foster City	CA	USA
+Tom	25	98003	Redmond	WA	USA
+
+```
+
+### Case 3 ###
+
+```
+resultsC = users1.merge(users2, all_x=True)
+resultsC.describe
 ## ------ Result
 Name	Age	Zip	City	State	Country
 Jim	24	94401	San Mateo	CA	USA
@@ -76,11 +89,11 @@ Tina	32	94401	San Mateo	CA
 
 ```
 
-### Case 3 ###
+### Case 4 ###
 
 ```
-results3 = users1.merge(users2, all_y=True)
-results3.describe
+resultsD = users1.merge(users2, all_y=True)
+resultsD.describe
 ## ------ Result
 Name	Country	Age	Zip	City	State
 Jim	USA	24	94401	San Mateo	CA
