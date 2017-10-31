@@ -1,8 +1,12 @@
 # Merging 2 Datasets into one #
 
+Sometime you may have 2 datasets which have common columns and you want to merge these two datasets based on column name as key. H2O merge function performs a merge operation between two H2O datasets based on common column name. It combines two datasets that share a common column name. 
+
+- You must have at least one column in common with this frame, and all columns in common are used as the merge key.  
+- If you want to use only a subset of the columns in common, rename the other columns so the columns are unique in the merged result.
 
 ## Python ##
-Here is the Python API to merge 2 H2O Datasets based on Column Names. Merge function is used to combine two datasets that share a common column name. You must have at least one column in common with this frame, and all columns in common are used as the merge key.  If you want to use only a subset of the columns in common, rename the other columns so the columns are unique in the merged result.
+Here is the Python API to merge 2 H2O Datasets based on Column Names. 
 ```
 h2o_dataframe_left.merge(h2o_df_to_be_merged, all_x=False, all_y=False, by_x=None, by_y=None, method=u'auto')
 ```
@@ -10,17 +14,81 @@ h2o_dataframe_left.merge(h2o_df_to_be_merged, all_x=False, all_y=False, by_x=Non
 - h2o_df_to_be_merged will be merged into h2o_dataframe_main, unless new dataframe is 
 - all_x: If True, include all rows from the left/self frame
 - all_y: If True, include all rows from the right/other frame
-- by_x: list of columns in the current frame to use as a merge key.
-- by_y: list of columns in the ``other`` frame to use as a merge key. Should have the same number of
-    columns as in the ``by_x`` list.
+Note: 
+ - If all_x and all_y both parameters are given, only first parameter will be used
+ 
+Lets load 2 dataset into H2O
+#### Dataset 1 : users1 ####
+```
+users1 = h2o.import_file("/Users/avkashchauhan/Downloads/users1.csv")
+print(users1.col_names)
+users1['Name'] = users1['Name'].asfactor()
+users1.describe
+##----------- Result is as below --------
+Name	Age	Zip	City	State
+Jim	24	94401	San Mateo	CA
+John	30	98001	Bellevue	WA
+Tim	35	94402	Foster City	CA
+Tom	25	98003	Redmond	WA
+Tina	32	94401	San Mateo	CA
+```
+#### Dataset 2 : users2 ####
+```
+users2 = h2o.import_file("/Users/avkashchauhan/Downloads/users2.csv",col_names=["Name", "Country"])
+print(users2.col_names)
+users2['Name'] = users2['Name'].asfactor()
+users2.describe
 
+Name	Country
+Jim	USA
+John	USA
+Tim	USA
+Tom	USA
+Ravi	USA
+```
+Now we will merge these 2 datasets based on common column "Name": 
+### Case 1 ###
+Merge the first dataset into the second dataset. Note that only columns in common are merged 
+```
+results1 = users1.merge(users2)
+results1.describe
+## ------ Result
+Name	Country	Age	Zip	City	State
+Jim	USA	24	94401	San Mateo	CA
+John	USA	30	98001	Bellevue	WA
+Tim	USA	35	94402	Foster City	CA
+Tom	USA	25	98003	Redmond	WA
 
-# Merge the first dataset into the second dataset. Note that only columns in common are merged (i.e, values in df2 greater than 5 will not be merged).
-df3 = df2.merge(df1)
+```
 
-# Merge all of df2 into df1. Note that this will result in missing values for column A, which does not include values greater than 5.
-df4 = df2.merge(df1, all_x=True)
+### Case 2 ###
 
+```
+results2 = users1.merge(users2, all_x=True)
+results2.describe
+## ------ Result
+Name	Age	Zip	City	State	Country
+Jim	24	94401	San Mateo	CA	USA
+John	30	98001	Bellevue	WA	USA
+Tim	35	94402	Foster City	CA	USA
+Tom	25	98003	Redmond	WA	USA
+Tina	32	94401	San Mateo	CA	
+
+```
+
+### Case 3 ###
+
+```
+results3 = users1.merge(users2, all_y=True)
+results3.describe
+## ------ Result
+Name	Country	Age	Zip	City	State
+Jim	USA	24	94401	San Mateo	CA
+John	USA	30	98001	Bellevue	WA
+Tim	USA	35	94402	Foster City	CA
+Tom	USA	25	98003	Redmond	WA
+Ravi	USA	nan	nan	
+```
 
 ## R ##
 
