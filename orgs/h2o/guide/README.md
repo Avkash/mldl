@@ -42,7 +42,9 @@
   
 ## [7. Public Datasets available to try with H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/datasets_get.md) ##
  - List of 25 Datasets
- - Loading into FLOW, R and Python
+ - Loading datasets into H2O memory in FLOW
+ - Loading datasets into H2O memory using Python API
+ - Loading datasets into H2O memory using R API
 
 ## [8. Spliting dataset in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_dataset_split.md) ##
  - Why spliting datasets
@@ -50,7 +52,6 @@
  - H2O Dataframe split in Python
  - H2O Dataframe split in R
  - H2O Dataframe split in Spark/Scala
-
 
 ## [9. Data Manipultion]() ##
  - Splitting Datasets into Training/Testing/Validating  (Python | R | Scala)
