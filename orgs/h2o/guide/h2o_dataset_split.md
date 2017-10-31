@@ -46,5 +46,25 @@ print(test.shape)
 ```
 
 ## Spliting dataset in R ##
+Loading dataset:
+```
+df = h2o.importFile("https://s3.amazonaws.com/h2o-airlines-unpacked/allyears2k.csv")
+h2o.nrows(df)
+h2o.ncols(df)
+```
+Spliting dataset into 2 sets of training and validation sub datasets of 80/20 % distribution:
+```
+h2o.splitFrame(df, ratios = c(0.80), destination_frames = c("train_frame", "valid_frame"))
+train = df[[1]]
+valid = df[[2]]
+```
+Spliting dataset into 3 sets of training, validation and test sub datasets of 70/15/15 % distribution:
+```
+h2o.splitFrame(df, ratios = c(0.75,0.15), destination_frames = c("train_frame", "valid_frame", "test_frame"))
+train = df[[1]]
+valid = df[[2]]
+test = df[[3]]
+```
+
 
 ## Spliting dataset in Spark/Scala ##
