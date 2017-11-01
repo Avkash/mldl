@@ -8,7 +8,11 @@ Import has the following required parameters:
 - method: The type of imputation to perform. 
   - mean: mean replaces NAs with the column mean (group by column(s))
   - mode: mode replaces with the most common factor (applied for factor columns only) - (group by column(s))
-  - median: median replaces NAs with the column median based on Interpolate, Average, Low, High
+  - median: median replaces NAs with the column median based on:
+    - Interpolate
+    - Average
+    - Low
+    - High
 - by : group by columns
 - value : given value
 
