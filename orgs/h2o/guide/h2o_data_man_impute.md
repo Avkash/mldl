@@ -6,9 +6,9 @@ Import has the following required parameters:
 
 - column: A specific column to impute. The default of 0 specifies to impute the entire frame.
 - method: The type of imputation to perform. 
-  - mean: mean replaces NAs with the column mean
-  - median: median replaces NAs with the column median
-  - mode: mode replaces with the most common factor (applied for factor columns only)
+  - mean: mean replaces NAs with the column mean (group by column(s))
+  - mode: mode replaces with the most common factor (applied for factor columns only) - (group by column(s))
+  - median: median replaces NAs with the column median based on Interpolate, Average, Low, High
 - by : group by columns
 - value : given value
 
