@@ -70,7 +70,7 @@
  - [Replacing numeric values in H2O dataframe (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_replace.md)
  - Imputing values into H2O Data frame (Python | R | Scala)
  - [Group By operation on data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_groupby.md)
- - Pivoting data frames (Python | R | Scala)
+ - [Pivoting data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_pivot.md)
 
 ## [11. Machine Learning Algotithms with Code]() ##
   - Supervised 
