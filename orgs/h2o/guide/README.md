@@ -95,7 +95,7 @@
   - Miscellaneous 
     - Word2Vec (Python | R )
     
-## [9. Sparkling Water]() ##
+## [12. Sparkling Water]() ##
  - Installation
  - Launching Cluster (deploy mode - client vs cluster)
  - Machine Learning in Sparkling Water
@@ -106,22 +106,22 @@
    - GBM Example
    - DRF Sample
 
-## [10. pysparkling]() ##
+## [13. pysparkling]() ##
  - Installation
  - Connection spark cluster
  - Machine learning example (GBM | GLM)
  
-## [11. rsparkling]() ##
+## [14. rsparkling]() ##
  - Installation
  - Connection spark cluster
  - Analyzing Job and data
  - Machine learning example (GBM | GLM | Deep Learning)
  
-## [12. H2O on Hadoop Cluster]() ##
+## [15. H2O on Hadoop Cluster]() ##
  - Launching Cluster 
  - using various parameters ( ip | port | disown)
 
-## [13. H2O Models in Production]() ##
+## [16. H2O Models in Production]() ##
  - Supported Scenarios
  - Exporting Models
    - Binary  (FLOW | Python | R | Scala)
@@ -137,11 +137,11 @@
    - Hive Scoring
      - Hive UDF Sample in Java
 
-## [14. H2O Performance]() ##
+## [17. H2O Performance]() ##
   - Cluster size approximation
   - Analyzing data in H2O memory
 
-## [15. Advance Concepts]() ##
+## [18. Advance Concepts]() ##
   - Grid Search
     - Classification Example (FLOW | Python | R | Scala)
     - Regression Example (FLOW | Python | R | Scala)
@@ -153,7 +153,7 @@
     - Regression Example (FLOW | Python | R | Scala)
   - Cross-Validation
   
-## [16: Important Links]() ##
+## [19: Important Links] ##
  - [H2O Website](https://www.h2o.ai/)
  - [Latest Download Page](https://www.h2o.ai/download/)
  - [Documentation](http://docs.h2o.ai/h2o/latest-stable/index.html)
