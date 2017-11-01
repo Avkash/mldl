@@ -68,7 +68,7 @@
  - [Slicing Columns from an H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_cslice.md)
  - [Fill NAs in H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_fillna.md)
  - [Replacing numeric values in H2O dataframe (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_replace.md)
- - Imputing values into H2O Data frame (Python | R | Scala)
+ - [Imputing values into H2O Data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_impute.md)
  - [Group By operation on data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_groupby.md)
  - [Pivoting data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_pivot.md)
 
