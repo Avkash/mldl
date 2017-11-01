@@ -12,8 +12,18 @@ Import has the following required parameters:
 - by : group by columns
 - value : given value
 
-## Python ##
+Load the data: [Titanic Dataset](https://raw.githubusercontent.com/Avkash/mldl/master/data/titanic_list.csv)
 
+### FLOW ###
+Below you can see the titanic data set loaded into H2O, visible in FLOW UI:
+![](https://github.com/Avkash/mldl/blob/master/images/flow-titanitc-ds.png?raw=true)
+Above you can also see the "Age" has about 264 missing values comparative to dataset size of 1310 records. 
+
+The image blow shows how you can select a particular column and apply mean, mode, median imputation function to fill missing values:
+~[](https://github.com/Avkash/mldl/blob/master/images/flow-impute.png?raw=true)
+
+
+## Python ##
 
 
 ## R ## 
