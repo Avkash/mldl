@@ -104,6 +104,66 @@ age_impute = titanic.impute("age", method="median")
 age_impute
 Result: 28.0 value as mode will be placed into missing age value for each record
 ```
-Note: You can try and experiment the other way to import missing "Age" values and see how it helps.
 
 ## R ## 
+API
+```
+h2o.impute(data, column = 0, method = c("mean", "median", "mode"),  combine_method = c("interpolate", "average", "lo", "hi"), by = NULL,  groupByFrame = NULL, values = NULL)
+```
+Parameters:
+ - data	 :The dataset containing the column to impute.
+ - column: 	 A specific column to impute, default of 0 means impute the whole frame.
+ - method : "mean" replaces NAs with the column mean; "median" replaces NAs with the column median; "mode" replaces with the most common factor (for factor columns only);
+ - combine_method	: If method is "median", then choose how to combine quantiles on even sample sizes. This parameter is ignored in all other cases.
+ - by : group by columns
+ - groupByFrame	: Impute the column col with this pre-computed grouped frame.
+ - values	: A vector of impute values (one per column). NaN indicates to skip the column
+
+Loading Dataset:
+```
+titanic = h2o.importFile("https://raw.githubusercontent.com/Avkash/mldl/master/data/titanic_list.csv")
+> h2o.summary(titanic$age)
+ age              
+ Min.   : 0.1667  
+ 1st Qu.:20.9234  
+ Median :27.9487  
+ Mean   :29.8811  
+ 3rd Qu.:38.9657  
+ Max.   :80.0000  
+ NA's   :263     
+```
+Above you can see that Age Column has lots about 263 missing values (NA's) out of 1310 records. 
+
+### Imputing by mean ###
+```
+age_impute = h2o.impute(titanic, column = "age", method = "mean")
+age_impute
+Result: 29.881134512428304 value as mean will be placed into missing age value for each record
+```
+
+### Imputing by mean alogn with a group by column  ###
+```
+age_impute = h2o.impute(titanic, column = "age", method = "mean", by = c("pclass"))
+age_impute
+  pclass mean_age
+1      1 39.15992
+2      2 29.50670
+3      3 24.81637
+Result: All the age values will be imputed based on the class type. If class is 1 then 39.15, 2 then 29.5 and 3 then 24.8. 
+```
+
+### Imputing by mode ###
+```
+age_impute = h2o.impute(titanic, column = "age", method = "mode")
+age_impute
+Result: 24.0 value as mode will be placed into missing age value for each record
+```
+
+### Imputing by median ###
+```
+age_impute = h2o.impute(titanic, column = "age", method = "median")
+age_impute
+Result: 28.0 value as mode will be placed into missing age value for each record
+```
+Note: You can try and experiment the other way to import missing "Age" values and see how it helps.
+ 
