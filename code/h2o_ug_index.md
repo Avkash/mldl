@@ -1,5 +1,7 @@
 # H2O - User Guide #
 
+ - The code snippets will be in R, python, scala and java
+
 ## [1. Architecture](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_arch.md) ##
  - What is it?
  - How it works?
@@ -66,9 +68,9 @@
  - [Slicing Columns from an H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_cslice.md)
  - [Fill NAs in H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_fillna.md)
  - [Replacing numeric values in H2O dataframe (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_replace.md)
- - Imputing values into H2O Data frame (Python | R | Scala)
+ - [Imputing values into H2O Data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_impute.md)
  - [Group By operation on data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_groupby.md)
- - Pivoting data frames (Python | R | Scala)
+ - [Pivoting data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_pivot.md)
 
 ## [11. Machine Learning Algotithms with Code]() ##
   - Supervised 
@@ -93,7 +95,7 @@
   - Miscellaneous 
     - Word2Vec (Python | R )
     
-## [9. Sparkling Water]() ##
+## [12. Sparkling Water]() ##
  - Installation
  - Launching Cluster (deploy mode - client vs cluster)
  - Machine Learning in Sparkling Water
@@ -104,22 +106,22 @@
    - GBM Example
    - DRF Sample
 
-## [10. pysparkling]() ##
+## [13. pysparkling]() ##
  - Installation
  - Connection spark cluster
  - Machine learning example (GBM | GLM)
  
-## [11. rsparkling]() ##
+## [14. rsparkling]() ##
  - Installation
  - Connection spark cluster
  - Analyzing Job and data
  - Machine learning example (GBM | GLM | Deep Learning)
  
-## [12. H2O on Hadoop Cluster]() ##
+## [15. H2O on Hadoop Cluster]() ##
  - Launching Cluster 
  - using various parameters ( ip | port | disown)
 
-## [13. H2O Models in Production]() ##
+## [16. H2O Models in Production]() ##
  - Supported Scenarios
  - Exporting Models
    - Binary  (FLOW | Python | R | Scala)
@@ -135,11 +137,11 @@
    - Hive Scoring
      - Hive UDF Sample in Java
 
-## [14. H2O Performance]() ##
+## [17. H2O Performance]() ##
   - Cluster size approximation
   - Analyzing data in H2O memory
 
-## [15. Advance Concepts]() ##
+## [18. Advance Concepts]() ##
   - Grid Search
     - Classification Example (FLOW | Python | R | Scala)
     - Regression Example (FLOW | Python | R | Scala)
@@ -151,7 +153,7 @@
     - Regression Example (FLOW | Python | R | Scala)
   - Cross-Validation
   
-## [16: Important Links]() ##
+## [19: Important Links] ##
  - [H2O Website](https://www.h2o.ai/)
  - [Latest Download Page](https://www.h2o.ai/download/)
  - [Documentation](http://docs.h2o.ai/h2o/latest-stable/index.html)
