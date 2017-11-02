@@ -37,4 +37,10 @@
    - [Lightweight Image Processing](https://github.com/parambharat/CarND-helpers/blob/master/image_processing/Image_processing_tutorial.ipynb)
    - [Python Helper Functions](https://www.kaggle.com/gaborfodor/from-eda-to-the-top-lb-0-367)
 
+### Predict Customer Churn ###
+ - [Datascience.com: Predict Chrun Sample](https://github.com/datascienceinc/Predict-Churn)
+  
+### Model Intrepretation ###
+ - [Datascience.com: Skater - MLI](https://github.com/datascienceinc/Skater)
+
 http://www.jmlr.org/
