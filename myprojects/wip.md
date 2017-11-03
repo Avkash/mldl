@@ -13,6 +13,9 @@
  - [The PTB Diagnostic ECG Database](https://www.physionet.org/physiobank/database/ptbdb/)
  - [physionet - Dataset github](https://github.com/MIT-LCP/physionet)
 
+### ML Articles to underand and learn ###
+ - [Unfriendly Skies: Predicting Flight Cancellations Using Weather Data (Part 1)](https://dzone.com/articles/unfriendly-skies-predicting-flight-cancellations-u)
+ 
 ### HR Employ Attrition ###
  - [HR ANALYTICS: USING MACHINE LEARNING TO PREDICT EMPLOYEE TURNOVER](http://www.business-science.io/business/2017/09/18/hr_employee_attrition.html)
  - [Watson Analytics Use Case for HR: Retaining valuable employees](https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-for-hr-retaining-valuable-employees/)
