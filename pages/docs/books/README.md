@@ -11,6 +11,7 @@
 - [python4ScientificComputing.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/python4ScientificComputing.pdf)
 - [Genetic_algorithms_with_python sample](https://github.com/Avkash/mldl/tree/master/pages/docs/books/genetic_algorithms_with_python-sample.pdf)
 - [Machine Learning Interpretability with H2O Driverless AI](https://github.com/Avkash/mldl/blob/master/pages/docs/books/MLI.pdf)
+- [Image Annotation Guide](https://github.com/Avkash/mldl/blob/master/pages/docs/books/image-annotation-guide.pdf)
 
 ### Database, Data Management, & Graph Database ###
  - [Oreilly Graph Database 2nd Edition](https://github.com/Avkash/mldl/blob/master/pages/docs/books/OreillyGraphDatabases.pdf)
@@ -32,14 +33,16 @@
  - [Getting Started with Kubernetes](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Getting-Started-with-Kubernetes.pdf)
  - [Mastering Apache Spark 2.0](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Mastering-Apache-Spark-2.0.pdf)
  - [DataBricks: Data Scientists Guide to Apache Spark](https://github.com/Avkash/mldl/blob/master/pages/docs/books/Data-Scientists-Guide-to-Apache-Spark.pdf)
+ - [Hadoop Illuminated](https://github.com/Avkash/mldl/blob/master/pages/docs/books/HadoopIlluminated.pdf)
 
 ### Programing and Tools ###
  - [Git Tutorials](https://github.com/Avkash/mldl/blob/master/pages/docs/books/git-tutorials.pdf)
-
+ - [Google Analytics](https://github.com/Avkash/mldl/blob/master/pages/docs/books/GoogleAnalytics.pdf)
 
 ### General and Fun Books ###
  - [The Engineer : Elon Musk](https://github.com/Avkash/mldl/tree/master/pages/docs/books/theengineer-ElonMusk.pdf)
  - [Valve_Handbook](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Valve_Handbook_LowRes.pdf)
  - [Pluralsight : The science behind forgetting & how to conquer it](https://github.com/Avkash/mldl/tree/master/pages/docs/books/Pluralsight-The-science-behind-forgetting-and-how-to-conquer-it.pdf)
+ - [The little black book of Billionaires Scerets](https://github.com/Avkash/mldl/blob/master/pages/docs/books/Billionaires_Secrets.pdf)
 
 
