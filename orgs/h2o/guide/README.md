@@ -80,30 +80,32 @@
  - Ignore the features not needed in machine leaning
  - Feature Engineering 
 
-## [11. Machine Learning Algotithms with Code]() ##
-  - Supervised 
-    - GLM
-      - Classification Example (FLOW | Python | R | Scala)
-      - Regression Example (FLOW | Python | R | Scala)
-    - GBM 
-      - Binomial Classification Example (FLOW | Python | R | Scala)
-      - Regression Example (FLOW | Python | R | Scala)
-    - Distributed Random Forest
-      - Multinomial Classification Example (FLOW | Python | R | Scala)
-      - Regression Example (FLOW | Python | R | Scala)
-    - Deep Learning
-      - Classification Example (FLOW | Python | R | Scala)
-      - Regression Example (FLOW | Python | R | Scala)
-    - Naïve Bayes Classifier
-    - Stacked Ensembles
-  - Unsupervised 
-    - KMeans (FLOW | Python | R | Scala)
-    - PCA (FLOW | Python | R | Scala)
-    - GLRM (FLOW | Python | R | Scala)
-  - Miscellaneous 
-    - Word2Vec (Python | R )
+## [12. Supervised Machine Learning Algotithms]() ##
+   - GLM
+     - Classification Example (FLOW | Python | R | Scala)
+     - Regression Example (FLOW | Python | R | Scala)
+   - GBM 
+     - Binomial Classification Example (FLOW | Python | R | Scala)
+     - Regression Example (FLOW | Python | R | Scala)
+   - Distributed Random Forest
+     - Multinomial Classification Example (FLOW | Python | R | Scala)
+     - Regression Example (FLOW | Python | R | Scala)
+   - Deep Learning
+     - Classification Example (FLOW | Python | R | Scala)
+     - Regression Example (FLOW | Python | R | Scala)
+   - Naïve Bayes Classifier
+   - Stacked Ensembles
+## [13. Supervised Machine Learning Algotithms]() ##
+   - KMeans (FLOW | Python | R | Scala)
+   - PCA (FLOW | Python | R | Scala)
+   - GLRM (FLOW | Python | R | Scala)
+
+## [13. H2O Word2Vec Algotithm]() ##
+   - What is it and what it does?
+   - Python
+   - R
     
-## [12. Sparkling Water]() ##
+## [14. Sparkling Water]() ##
  - Installation
  - Launching Cluster (deploy mode - client vs cluster)
  - Machine Learning in Sparkling Water
@@ -114,22 +116,22 @@
    - GBM Example
    - DRF Sample
 
-## [13. pysparkling]() ##
+## [15. pysparkling]() ##
  - Installation
  - Connection spark cluster
  - Machine learning example (GBM | GLM)
  
-## [14. rsparkling]() ##
+## [16. rsparkling]() ##
  - Installation
  - Connection spark cluster
  - Analyzing Job and data
  - Machine learning example (GBM | GLM | Deep Learning)
  
-## [15. H2O on Hadoop Cluster]() ##
+## [17. H2O on Hadoop Cluster]() ##
  - Launching Cluster 
  - using various parameters ( ip | port | disown)
 
-## [16. H2O Models in Production]() ##
+## [18. H2O Models in Production]() ##
  - Supported Scenarios
  - Exporting Models
    - Binary  (FLOW | Python | R | Scala)
@@ -145,11 +147,11 @@
    - Hive Scoring
      - Hive UDF Sample in Java
 
-## [17. H2O Performance]() ##
+## [19. H2O Performance]() ##
   - Cluster size approximation
   - Analyzing data in H2O memory
 
-## [18. Advance Concepts]() ##
+## [20. Advance Concepts]() ##
   - Grid Search
     - Classification Example (FLOW | Python | R | Scala)
     - Regression Example (FLOW | Python | R | Scala)
@@ -161,7 +163,7 @@
     - Regression Example (FLOW | Python | R | Scala)
   - Cross-Validation
   
-## [19: Important Links] ##
+## [Appendix: Important Links] ##
  - [H2O Website](https://www.h2o.ai/)
  - [Latest Download Page](https://www.h2o.ai/download/)
  - [Documentation](http://docs.h2o.ai/h2o/latest-stable/index.html)
