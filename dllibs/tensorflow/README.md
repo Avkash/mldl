@@ -22,3 +22,8 @@
 ## Object Detection ## 
  - [Building a Real-Time Object Recognition App with Tensorflow and OpenCV](https://medium.com/towards-data-science/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32)
  - [How to train your own Object Detector with TensorFlow’s Object Detector API](https://medium.com/towards-data-science/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
+
+## Scoring with Tensorflow ##
+ - [https://tensorport.com/features/](https://tensorport.com/features/)
+ - [Tensorflow Serving](https://www.tensorflow.org/serving/)
+ - [Parl.ai](http://parl.ai/)
