@@ -43,4 +43,8 @@ This is how the plot looks like and you can expriment with specific fields to se
 
 
 ## R ##
+Follow the link below for detailed visualization strategy in R:
+
+- [Guide Data Visualization in R](https://www.analyticsvidhya.com/blog/2015/07/guide-data-visualization-r/)
+- [7 Visualizations You Should Learn in R](https://www.r-bloggers.com/7-visualizations-you-should-learn-in-r/)
 
