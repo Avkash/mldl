@@ -38,8 +38,9 @@ sns.set_context("notebook")
 sns.pairplot(df.as_data_frame(), vars=["AGE" , "RACE", "DPROS", "DCAPS"], hue="CAPSULE");
 plt.show()
 ```
-This is how the plot looks like:
+This is how the plot looks like and you can expriment with specific fields to see what you are looking for:
 ![](https://github.com/Avkash/mldl/blob/master/images/flow_prostate_seaborn_plot.png?raw=true)
+
 
 ## R ##
 
