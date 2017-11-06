@@ -77,7 +77,7 @@
  - [Group By operation on data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_groupby.md)
  - [Pivoting data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_pivot.md)
 
-## [12. Things we do with data before model building](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_before_ml.md)
+## [12. Things data scientists do with data before model building](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_before_ml.md)
  - Visaulize the input data
  - Check the features and correlation
  - Convert features to proper type i.e. num or enum
