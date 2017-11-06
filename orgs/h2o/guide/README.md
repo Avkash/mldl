@@ -81,7 +81,7 @@
  - Visaulize the input data
  - Check the features and correlation
  - Convert features to proper type i.e. num or enum
- - Impute missing values
+ - [Impute missing values](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_impute.md)
  - [Ignore the features not needed in machine leaning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_feature_ignore.md)
  - Feature Engineering 
 
