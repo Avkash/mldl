@@ -51,6 +51,11 @@
  - FLOW
  - Python
  - R
+ 
+## [9. Dataframe manipulation in Python and R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_frame_man.md) ##
+ - Dataframes in Python and R
+ - Pandas, numpy and H2O Dataframes
+ - H2O and R Dataframes
 
 ## [9. Spliting dataset in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_dataset_split.md) ##
  - Why spliting datasets
