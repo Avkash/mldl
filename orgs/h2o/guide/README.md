@@ -82,7 +82,7 @@
  - Check the features and correlation
  - Convert features to proper type i.e. num or enum
  - Impute missing values
- - Ignore the features not needed in machine leaning
+ - [Ignore the features not needed in machine leaning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_feature_ignore.md)
  - Feature Engineering 
 
 ## [13. Supervised Machine Learning Algotithms]() ##
