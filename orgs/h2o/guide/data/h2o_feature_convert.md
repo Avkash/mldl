@@ -31,6 +31,44 @@ Note:
 
 ### Convert to String type ###
 ```
+dataFrame$columnName = h2o.ascharacter(dataFrame$columnName)
+hdf['ColumnName'] = h2o.ascharacter(hdf['ColumnName')
+hdf[ColumnID] = h2o.ascharacter(hdf[ColumnID)
+```
+### Convert to Categorical or Factor or Enum type ###
+```
+dataFrame$columnName = h2o.asfactor(dataFrame$columnName)
+hdf['ColumnName'] = h2o.asfactor(hdf['ColumnName')
+hdf[ColumnID] = h2o.asfactor(hdf[ColumnID)
+```
+### Convert to Date type ###
+```
+dataFrame$columnName = h2o.as_date(dataFrame$columnName)
+hdf['ColumnName'] = h2o.as_date(hdf['ColumnName')
+hdf[ColumnID] = h2o.as_date(hdf[ColumnID)
+```
+### Convert to Numeric type ###
+```
+dataFrame$columnName = h2o.asnumeric(dataFrame$columnName)
+hdf['ColumnName'] = h2o.asnumeric(hdf['ColumnName')
+hdf[ColumnID] = h2o.asnumeric(hdf[ColumnID)
+```
+
+## R ##
+Here is the API to find the column type from the given H2O dataframe:
+```
+h2o.columns_by_type(object, coltype = col_type)
+```
+Parameters:
+- numeric     - Numeric, but not categorical or time
+- categorical - Integer, with a categorical/factor String mapping
+- string       - String column
+- time         - Long msec since the Unix Epoch - with a variety of display/parse options
+- uuid         - UUID
+- bad          - No none-NA rows (triple negative! all NAs or zero rows)
+
+ ### Convert to String type ###
+```
 df['Column_name'] = df['Column_name'].ascharacter()
 df[column_ID] = df[column_ID].ascharacter()
 ```
@@ -49,5 +87,4 @@ df[column_ID] = df[column_ID].as_date()
 df['Column_name'] = df['Column_name'].asnumeric()
 df[column_ID] = df[column_ID].asnumeric()
 ```
-## R ##
 
