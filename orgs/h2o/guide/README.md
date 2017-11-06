@@ -57,14 +57,14 @@
  - Pandas, numpy and H2O Dataframes
  - H2O and R Dataframes
 
-## [9. Spliting dataset in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_dataset_split.md) ##
+## [10. Spliting dataset in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_dataset_split.md) ##
  - Why spliting datasets
  - H2O Dataframe split in FLOW
  - H2O Dataframe split in Python
  - H2O Dataframe split in R
  - H2O Dataframe split in Spark/Scala
 
-## [10. Data Manipultion](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man.md) ##
+## [11. Data Manipultion](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man.md) ##
  - [H2O Pandas Dataframe and vice-versa (Python)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_pd_h2o.md)
  - [Merging Two H2O Dataframes (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_merge.md)
  - [Combining Columns from Two Data Frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest_cbind.md)
@@ -77,7 +77,7 @@
  - [Group By operation on data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_groupby.md)
  - [Pivoting data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_pivot.md)
 
-## [11. Things we do with data before model building](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_before_ml.md)
+## [12. Things we do with data before model building](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_before_ml.md)
  - Visaulize the input data
  - Check the features and correlation
  - Convert features to proper type i.e. num or enum
@@ -85,7 +85,7 @@
  - Ignore the features not needed in machine leaning
  - Feature Engineering 
 
-## [12. Supervised Machine Learning Algotithms]() ##
+## [13. Supervised Machine Learning Algotithms]() ##
    - GLM
      - Classification Example (FLOW | Python | R | Scala)
      - Regression Example (FLOW | Python | R | Scala)
@@ -100,17 +100,17 @@
      - Regression Example (FLOW | Python | R | Scala)
    - Naïve Bayes Classifier
    - Stacked Ensembles
-## [13. Supervised Machine Learning Algotithms]() ##
+## [14. Supervised Machine Learning Algotithms]() ##
    - KMeans (FLOW | Python | R | Scala)
    - PCA (FLOW | Python | R | Scala)
    - GLRM (FLOW | Python | R | Scala)
 
-## [13. H2O Word2Vec Algotithm]() ##
+## [15. H2O Word2Vec Algotithm]() ##
    - What is it and what it does?
    - Python
    - R
     
-## [14. Sparkling Water]() ##
+## [16. Sparkling Water]() ##
  - Installation
  - Launching Cluster (deploy mode - client vs cluster)
  - Machine Learning in Sparkling Water
@@ -121,22 +121,22 @@
    - GBM Example
    - DRF Sample
 
-## [15. pysparkling]() ##
+## [17. pysparkling]() ##
  - Installation
  - Connection spark cluster
  - Machine learning example (GBM | GLM)
  
-## [16. rsparkling]() ##
+## [18. rsparkling]() ##
  - Installation
  - Connection spark cluster
  - Analyzing Job and data
  - Machine learning example (GBM | GLM | Deep Learning)
  
-## [17. H2O on Hadoop Cluster]() ##
+## [19. H2O on Hadoop Cluster]() ##
  - Launching Cluster 
  - using various parameters ( ip | port | disown)
 
-## [18. H2O Models in Production]() ##
+## [20. H2O Models in Production]() ##
  - Supported Scenarios
  - Exporting Models
    - Binary  (FLOW | Python | R | Scala)
@@ -152,11 +152,11 @@
    - Hive Scoring
      - Hive UDF Sample in Java
 
-## [19. H2O Performance]() ##
+## [21. H2O Performance]() ##
   - Cluster size approximation
   - Analyzing data in H2O memory
 
-## [20. Advance Concepts]() ##
+## [22. Advance Concepts]() ##
   - Grid Search
     - Classification Example (FLOW | Python | R | Scala)
     - Regression Example (FLOW | Python | R | Scala)
