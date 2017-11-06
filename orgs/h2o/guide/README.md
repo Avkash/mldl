@@ -78,7 +78,7 @@
  - [Pivoting data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_pivot.md)
 
 ## [12. Things data scientists do with data before model building]() ##
- - Visaulize the input data
+ - [Visaulize the input data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_visualize.md)
  - Check the features and correlation
  - Convert features to proper type i.e. num or enum
  - [Impute missing values](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_impute.md)
