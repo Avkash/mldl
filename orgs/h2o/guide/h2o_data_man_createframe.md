@@ -82,6 +82,14 @@ df = h2o.create_frame(rows=10,
 ```
 Result: The dataset will have a column name response with 0 and 1. To add multiple responses set response_factors to desired value. 
 
+### Create Dataframe with binary, string, categorical, real and integer data types: ###
+Here is the script to create a dataframe with all kinds of supported datatype (besides UUID):
+```
+demo_df = h2o.create_frame(binary_fraction=0.2, categorical_fraction= 0.2, has_response=True, real_fraction=0.1,
+                 cols=10, string_fraction= 0.3, 
+                 time_fraction=0.1, 
+                 rows=20, integer_fraction=0.1)
+```
 
 ## R ##
 R createFrame API
