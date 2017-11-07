@@ -4,5 +4,5 @@
 - [A Simple Genetic Programming in Python](https://zhanggw.wordpress.com/2009/11/08/a-simple-genetic-programming-in-python-4/)
 - [A FIELD GUIDE TO GENETIC PROGRAMMING](http://www.gp-field-guide.org.uk/)
 - [Genetic Algorithms: Cool Name & Damn Simple](https://lethain.com/genetic-algorithms-cool-name-damn-simple/)
-- []()
+- [How evolution taught us the “genetic algorithm”: Was Darwin a Great Computer Scientist?](https://blog.sicara.com/getting-started-genetic-algorithms-python-tutorial-81ffa1dd72f9)
 
