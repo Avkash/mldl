@@ -86,9 +86,9 @@
  - [Feature Engineering: External libraries and articles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_feature_eng.md) 
 
 ## [13. Supervised Machine Learning Algotithms]() ##
-   - GLM
-     - Classification Example (FLOW | Python | R | Scala)
-     - Regression Example (FLOW | Python | R | Scala)
+   - [Generalized Linear Model (GLM)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm.md)
+     - Linear Regression Example (FLOW | Python | R | Scala)
+     - Logestic Regression (Classification) Example (FLOW | Python | R | Scala)
    - GBM 
      - Binomial Classification Example (FLOW | Python | R | Scala)
      - Regression Example (FLOW | Python | R | Scala)
