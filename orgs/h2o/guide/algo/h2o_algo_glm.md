@@ -4,11 +4,18 @@ Generalized Linear Models (GLM) estimate regression models for outcomes followin
 
 You can learn more about GLM in H2O [here](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/glm.html).
 
-Here is are the full GLM examples for logical regression in various 
+### GLM linear regression example in various lnguage: ### 
 
 - [FLOW]
 - [Python]
 - [R]
 - [Scala]
 
+
+### GLM logistic regression example in various lnguage: ### 
+
+- [FLOW]
+- [Python]
+- [R]
+- [Scala]
 
