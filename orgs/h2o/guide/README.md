@@ -92,12 +92,12 @@
    - [Gradient Boosting Machine (GBM)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_gbm.md) 
      - Regression Example (FLOW | Python | R | Scala)
      - Classification Example (FLOW | Python | R | Scala)
-   - [Distributed Random Forest]
+   - [Distributed Random Forest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_drf.md)
      - Regression Example (FLOW | Python | R | Scala)
      - Classification Example (FLOW | Python | R | Scala)
-   - Deep Learning
-     - Classification Example (FLOW | Python | R | Scala)
+   - [Deep Learning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_dl.md)
      - Regression Example (FLOW | Python | R | Scala)
+     - Classification Example (FLOW | Python | R | Scala)
    - Naïve Bayes Classifier
    - Stacked Ensembles
 ## [14. Supervised Machine Learning Algotithms]() ##
