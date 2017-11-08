@@ -15,6 +15,7 @@ plt.matshow(df.as_data_frame().corr())
 plt.show()
 ```
 This is how the plot looks like:
+
 ![](https://github.com/Avkash/mldl/blob/master/images/flow_plot_matshow.png?raw=true)
 
 This is how you can use seaborn library to plot correlation graph for your dataframe:
@@ -30,6 +31,7 @@ sns.heatmap(corr,
 plt.show()
 ```
 This is how the correlation plot looks like:
+
 ![](https://github.com/Avkash/mldl/blob/master/images/flow_seaborn_heatmap.png?raw=true)
 
 
