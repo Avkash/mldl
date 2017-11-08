@@ -58,5 +58,8 @@ This is how the heatmap looks like:
 
 ![](https://github.com/Avkash/mldl/blob/master/images/flow_sns_heapmap_numeric.png?raw=true)
 
+Helpful content:
+ - [Kaggle: Data Exploration Porto Seguro's Safe Driver Prediction](https://www.kaggle.com/neviadomski/data-exploration-porto-seguro-s-safe-driver)
+
 ## R ## 
 
