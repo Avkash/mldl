@@ -89,12 +89,12 @@
    - [Generalized Linear Model (GLM)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm.md)
      - Linear Regression Example (FLOW | Python | R | Scala)
      - Logestic Regression (Classification) Example (FLOW | Python | R | Scala)
-   - GBM 
-     - Binomial Classification Example (FLOW | Python | R | Scala)
+   - [Gradient Boosting Machine (GBM)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_gbm.md) 
      - Regression Example (FLOW | Python | R | Scala)
-   - Distributed Random Forest
-     - Multinomial Classification Example (FLOW | Python | R | Scala)
+     - Classification Example (FLOW | Python | R | Scala)
+   - [Distributed Random Forest]
      - Regression Example (FLOW | Python | R | Scala)
+     - Classification Example (FLOW | Python | R | Scala)
    - Deep Learning
      - Classification Example (FLOW | Python | R | Scala)
      - Regression Example (FLOW | Python | R | Scala)
