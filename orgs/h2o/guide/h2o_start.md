@@ -23,6 +23,8 @@
    - Output folder (set -output parameter with a folder name on HDFS which does not exist, will be created at runtime)
  - Run the command as below from one of the node:
    - $ hadoop jar h2odriver.jar -nodes 1 -mapperXmx 6g -output hdfsOutputDirName 
+ - You can also set the log levels for your Hadoop job as below:
+   - $ hadoop jar h2odriver.jar -nodes 3 -JJ '-Dai.h2o.log_level=WARN' -mapperXmx 3g -output tmp/to1
  
 ## Starting H2O from Spark Cluaster ##
  - You must have Spark (desired version) accessible on the machine where you want to run Sparkling Water
