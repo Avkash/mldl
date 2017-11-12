@@ -40,7 +40,7 @@
  - R
  - Scala
    
-## [7. Data Ingest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest.md) ##
+## [7. Data Ingest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_ingest.md) ##
  - Supported File Formats
  - Supported Data Types
  - Supported Data Source
@@ -60,7 +60,7 @@
  - Loading datasets into H2O memory using Python API
  - Loading datasets into H2O memory using R API
 
-## [10. Create Test dataset with H2O of any size and and type](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_createframe.md) ##
+## [10. Create Test dataset with H2O of any size and and type](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_createframe.md) ##
  - Why test datasets?
  - FLOW
  - Python
@@ -78,26 +78,26 @@
  - H2O Dataframe split in R
  - H2O Dataframe split in Spark/Scala
 
-## [13. Data Manipultion](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man.md) ##
- - [H2O Pandas Dataframe and vice-versa (Python)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_pd_h2o.md)
- - [Merging Two H2O Dataframes (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_merge.md)
- - [Combining Columns from Two Data Frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_ingest_cbind.md)
- - [Combining Rows from Two Data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_rbind.md)
- - [Slicing Rows from an H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_rslice.md)
- - [Slicing Columns from an H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_cslice.md)
- - [Fill NAs in H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_fillna.md)
- - [Replacing numeric values in H2O dataframe (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_replace.md)
- - [Imputing values into H2O Data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_impute.md)
- - [Group By operation on data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_groupby.md)
- - [Pivoting data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_pivot.md)
+## [13. Data Manipultion](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man.md) ##
+ - [H2O Pandas Dataframe and vice-versa (Python)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_pd_h2o.md)
+ - [Merging Two H2O Dataframes (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_merge.md)
+ - [Combining Columns from Two Data Frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guidedata//h2o_data_ingest_cbind.md)
+ - [Combining Rows from Two Data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_rbind.md)
+ - [Slicing Rows from an H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_rslice.md)
+ - [Slicing Columns from an H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_cslice.md)
+ - [Fill NAs in H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_fillna.md)
+ - [Replacing numeric values in H2O dataframe (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_replace.md)
+ - [Imputing values into H2O Data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_impute.md)
+ - [Group By operation on data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_groupby.md)
+ - [Pivoting data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_pivot.md)
 
 ## [14. Things data scientists do with data before model building]() ##
- - [Visaulize the input data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_visualize.md)
- - [Finding correlation among features](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_correlation.md)
+ - [Visaulize the input data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/data/h2o_data_visualize.md)
+ - [Finding correlation among features](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/data/h2o_data_correlation.md)
  - [Convert features to proper type i.e. num or enum](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_feature_convert.md)
- - [Impute missing values](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_data_man_impute.md)
+ - [Impute missing values](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_impute.md)
  - [Ignore the features not needed in machine leaning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_feature_ignore.md)
- - [Feature Engineering: External libraries and articles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_feature_eng.md) 
+ - [Feature Engineering: External libraries and articles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/data/h2o_data_feature_eng.md) 
 
 ## [15. Supervised Machine Learning Algotithms]() ##
    - [Generalized Linear Model (GLM)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm.md)
