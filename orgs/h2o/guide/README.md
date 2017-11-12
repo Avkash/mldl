@@ -97,7 +97,7 @@
  - [Convert features to proper type i.e. num or enum](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_feature_convert.md)
  - [Impute missing values](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_impute.md)
  - [Ignore the features not needed in machine leaning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_feature_ignore.md)
- - [Feature Engineering: External libraries and articles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/data/h2o_data_feature_eng.md) 
+ - [Feature Engineering: External libraries and articles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_feature_eng.md) 
 
 ## [15. Supervised Machine Learning Algotithms]() ##
    - [Generalized Linear Model (GLM)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm.md)
