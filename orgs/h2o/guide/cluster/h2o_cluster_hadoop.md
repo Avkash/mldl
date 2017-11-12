@@ -12,7 +12,7 @@ H2O supports the following Hadoop platforms:
  - Based on the H2O version you choose ( Choose latest if you can), visit H2O download page
    - https://www.h2o.ai/download/   
  - Download proper H2O driver package (ZIP file) depending on your Hadoop version
- - ![](?raw=true)
+ - ![](https://github.com/Avkash/mldl/blob/master/images/flow-hadoop-download.png?raw=true)
  - You just need to download the H2O driver ZIP on one of the Datanode where you have permission 
  - Once zip file is availalbe, please unzip it
  - You must see h2odriver.jar file along with other files. 
