@@ -33,5 +33,22 @@ H2O supports the following Hadoop platforms:
 ``` 
    - $ hadoop jar h2odriver.jar -nodes 3 -JJ '-Dai.h2o.log_level=WARN' -mapperXmx 3g -output tmp/to1
 ```
+ - Once Hadoop job is running H2O cluster will up with the following info:
+ ```
+ H2O node 165.10.1.109:54321 reports H2O cluster size 2
+H2O cluster (1 nodes) is up
+H2O cluster (2 nodes) is up
+(Note: Use the -disown option to exit the driver after cluster formation)
 
+Open H2O Flow in your web browser: http://165.10.1.109:54321
+
+(Press Ctrl-C to kill the cluster)
+Blocking until the H2O cluster shuts down...
+ ```
+ - You just need to visit browser and open H2O FLOW using the above IP address.
+ 
 ### Cluster Setting ####
+ - When H2O cluster started on Hadoop using command line option, you must need to keep the commoand windows or terminal shell open for the H2O to keep running. 
+ - You can pass the "-disown" option with the command like which will let you close command window or terminal shell after job is started. You can use H2O API to close the H2O cluster as needed. 
+ - 
+
