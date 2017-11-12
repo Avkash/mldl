@@ -2,19 +2,19 @@
 
  - The code snippets will be in R, python, scala and java
 
-## [1. Architecture](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_arch.md) ##
+## [1. Architecture](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/cluster/h2o_arch.md) ##
  - What is it?
  - How it works?
  - What Algorithms are supported with H2O?
  - What you can do with H2O? 
  
-## [2. Installation](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_installation.md) ##
+## [2. Installation](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/cluster/h2o_installation.md) ##
  - On Premise
- - [Cluster](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_installation.md)
+ - Cluster
  - Hadoop
  - Spark
  
-## [3. Starting H2O cluster](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_start.md) ##
+## [3. Starting H2O cluster](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/cluster/h2o_start.md) ##
  - FLOW
  - Python
  - R
