@@ -250,5 +250,25 @@ glm_model_from_R_or_FLOW
 ```
 glm_model_from_R_or_FLOW.model_performance().r2()
 ```
+#: Accessing H2O Model details from JSON 
+```
+# Full H2O Model JSON data 
+glm_model_with_training_and_validtion._model_json
+#  Coefficients Table from model JSON
+glm_model_with_training_and_validtion._model_json['output']['coefficients_table']
+# All the feature names from the model JSON
+glm_model_with_training_and_validtion._model_json['output']['names']
+# If mode has CV then look for cross validation predictions (This model does not have)
+glm_model_with_training_and_validtion._model_json['output']['cross_validation_predictions']
+# If mode has CV then look for cross validation predictions (This model has CV)
+glm_model_with_training_and_cv._model_json['output']['cross_validation_predictions']
+# Model training metrics from JSON
+glm_model_with_training_and_cv._model_json['output']['training_metrics']
+# Specific MSE metric from the MODEL JSON
+glm_model_with_training_and_cv._model_json['output']['training_metrics']['MSE']
+# Specific R2 or r^2 metric from the MODEL JSON
+glm_model_with_training_and_cv._model_json['output']['training_metrics']['R^2']
+```
+
 
 That's it!!
