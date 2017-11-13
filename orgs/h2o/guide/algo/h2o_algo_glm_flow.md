@@ -96,57 +96,70 @@ test_df['medv'].hist()
 ```
 #: Understanding object types
 ```
-class(train_df)
-class(train_df['medv'])
-class(train_df$medv)
+type(train_df)
+type(train_df['medv'])
+```
+#: Importing H2O H2OGeneralizedLinearEstimator to build GLM Model
+```
+from h2o.estimators.glm import H2OGeneralizedLinearEstimator
 ```
 #: Building linear regression model (GLM) only with training dataframe
 ```
-glm_model_with_training_only =  h2o.glm(x = features, y = response, training_frame = train_df)
+glm_model_with_training_only = H2OGeneralizedLinearEstimator()
+glm_model_with_training_only.train(x= features, y = response, training_frame= train_df)
 glm_model_with_training_only
 ```
 #: Building linear regression model (GLM)  with cross validation
 ```
-glm_model_with_training_and_cv = h2o.glm(x = features, y = response, training_frame = train_df, nfolds = 5)
+glm_model_with_training_and_cv = H2OGeneralizedLinearEstimator(nfolds=5)
+glm_model_with_training_and_cv.train(x = features, y = response, training_frame=train_df)
 glm_model_with_training_and_cv
 ```
 #: Building linear regression model (GLM)  with training and validation data and for that reason we need to split training dataset 
 ```
-house_data_splits = h2o.splitFrame(train_df, ratios = c(0.9), destination_frames = c("df_house_train", "df_house_valid"))
-```
-#: understanding the total splits lists 
-```
-length(house_data_splits)
+df_house_train, df_house_valid = train_df.split_frame(ratios=[0.9])
 ```
 #: Displaying split object
 ```
-house_data_splits[1]
+df_house_train
 ```
 #: Displaying split object
 ```
-house_data_splits[[1]]
+df_house_valid
 ```
 #: Understanding types of split object
 ```
-class(house_data_splits[1])
-class(house_data_splits[[1]])
-```
-#: setting split object to proper dataframes for further usages
-```
-df_house_train = house_data_splits[[1]]
-df_house_valid = house_data_splits[[2]]
+type(df_house_train)
+type(df_house_valid)
 ```
 #: understanding the row count into original andsplit object
 ```
-nrow(train_df)
-nrow(df_house_train)
-nrow(df_house_valid)
+print(train_df.shape)
+print(df_house_train.shape)
+print(df_house_valid.shape)
 ```
 #: Building linear regression model (GLM)  with training and validation data now
 ```
-glm_model_with_training_and_validtion = h2o.glm(x = features, y = response, training_frame = df_house_train, validation_frame = df_house_valid, 
-                                                model_id = "glm_model_with_training_and_validtion_R")
-glm_model_with_training_and_validtion
+glm_model_with_training_and_validtion = H2OGeneralizedLinearEstimator()
+glm_model_with_training_and_validtion.train(x = features, y = response, 
+                                            training_frame=df_house_train, 
+                                            validation_frame=df_house_valid,
+                                           model_id = "glm_model_with_training_and_validtion_python")
+glm_model_with_training_and_validtion                                           
+```
+#: Performing predictions with one of the above model 
+```
+glm_predictions = glm_model_with_training_and_validtion.predict(test_df)
+print(glm_predictions)
+print(type(glm_predictions))
+```
+#: Understanding/Validating predictions based on prediction results historgram 
+```
+glm_predictions.hist()
+```
+#: Looking again at the test dataframe target columns values historgram 
+```
+test_df['medv'].hist()
 ```
 
 #: Here we can select the best model based on accuracy among all of above models we have created
@@ -166,19 +179,6 @@ h2o.mse(glm_model_with_training_and_validtion,valid = TRUE)
 ```
 h2o.rmse(glm_model_with_training_and_cv, xval = TRUE)
 h2o.rmse(glm_model_with_training_and_validtion,valid = TRUE)
-```
-#: Performing predictions with one of the above model 
-```
-glm_predictions = h2o.predict(glm_model_with_training_and_validtion,newdata =  test_df)
-glm_predictions
-```
-#: Understanding/Validating predictions based on prediction results historgram 
-```
-h2o.hist(glm_predictions)
-```
-#: Looking again at the test dataframe target columns values historgram 
-```
-h2o.hist(test_df$medv)
 ```
 #: Understanding model performance based on various types of dataframe used while building models
 ```
