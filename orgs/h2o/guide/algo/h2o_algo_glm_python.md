@@ -1,4 +1,4 @@
-# H2O GLM - Python Sample #
+# H2O GLM (Generialized Linear Regression) - Linear Regression in Python#
 
 ## Datasets ##
 The dataset used in this example can be obtained from here:
