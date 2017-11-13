@@ -219,13 +219,14 @@ glm_model_with_training_and_cv.cross_validation_predictions()
 ```
 #: Looking at cross validation predictions for all CV models
 ```
-length(all_cv_predictions)
-all_cv_predictions[[1]]
-all_cv_predictions[[2]]
+len(glm_model_with_training_and_cv.cross_validation_predictions())
+glm_model_with_training_and_cv.cross_validation_predictions()[0]
+glm_model_with_training_and_cv.cross_validation_predictions()[1]
+## You can use index 0 to n depending on the length of CV results array
 ```
 #: Getting model ID from an H2O Model
 ```
-glm_model_with_training_and_cv['model_id']
+glm_model_with_training_and_validtion.model_id
 ```
 #: List of H2O objects (all in memory)
 ```
@@ -233,24 +234,21 @@ h2o.ls()
 ```
 #: Getting the ID of an H2O Object
 ```
-h2o.getId(glm_model_with_training_and_cv)
+glm_model_with_training_and_cv.model_id
 ```
 #: Finding the type of an H2O Object
 ```
-class(glm_model_with_training_and_cv)
+type(glm_model_with_training_and_cv)
 ```
-#: Getting the ID of an H2O Dataframe
+#: Getting the model object in Python,by passing the H2O model ID
 ```
-h2o.getId(train_df)
-```
-#: Getting the model object in R,by passing the H2O model ID
-```
-glm_model_from_python = h2o.getModel("glm_model_with_training_and_validtion_python")
-glm_model_from_python
+## For example the id of a model trained into FLOW is - glm_model_with_training_and_validtion_in_flow
+glm_model_from_R_or_FLOW = h2o.get_model("glm_model_with_training_and_validtion_in_flow")
+glm_model_from_R_or_FLOW
 ```
 #: Getting model metrics from a local python object as H2O Model
 ```
-h2o.r2(glm_model_from_python)
+glm_model_from_R_or_FLOW.model_performance().r2()
 ```
 
 That's it!!
