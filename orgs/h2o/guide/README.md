@@ -34,10 +34,9 @@
  - Launching Cluster (deploy mode - client vs cluster)
  - Machine Learning in Sparkling Water
 
-## [6. pysparkling]() ##
+## [6. pysparkling](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/pysparkling/h2o_pysparkling.md) ##
  - Installation
  - Connection spark cluster
- - Machine learning example (GBM | GLM)
  - pysparkling
    - GBM Example
    - DRF Sample
@@ -46,7 +45,6 @@
  - Installation
  - Connection spark cluster
  - Analyzing Job and data
- - Machine learning example (GBM | GLM | Deep Learning)
  - rsparkling
    - GBM Example
    - DRF Sample
