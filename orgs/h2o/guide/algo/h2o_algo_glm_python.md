@@ -7,6 +7,10 @@ The dataset used in this example can be obtained from here:
 
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
 
+## Get the Sample Python Notebook ##
+  - [H2O_GLM_house_price notebook](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O-GLM-TX-House-Price-all-regression.ipynb)
+  
+
 ## Sample Code in Python ##
 
 #: Loading H2O Library
