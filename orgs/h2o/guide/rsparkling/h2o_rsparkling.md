@@ -64,6 +64,22 @@ h2o_flow(sc)
 h2o_flow(sc, strict_version_check = FALSE)
 ```
 
+### rsparkling: Copy data from H2O to Spark Dataframe ###
+```
+packageVersion("sparklyr")
+sc <- spark_connect(master = "local")
+### Note:  A new spark tab will be visible in Rstudio
+sc 
+### Note: You will get a report on various sc details
+> iris_tbl <- copy_to(sc, iris)
+### Note: Above will create a folder name /tmp/hive in the machine where this command runs.
+### - You can launch Spark UI
+### - You will also see data frame 
+### - If hit permission error with /tmp/hive
+### - Remove the folder /tmp/hive
+### - Rerun above command
+```
+
 ### H2O GBM Sample with rsparkling and sparklyR ###
 ```
 options(rsparkling.sparklingwater.location = "/tmp/sparkling-water-assembly_2.11-2.1.7-all.jar")
