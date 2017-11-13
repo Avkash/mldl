@@ -6,10 +6,10 @@ You can learn more about GLM in H2O [here](http://docs.h2o.ai/h2o/latest-stable/
 
 ### GLM linear regression example in various lnguage: ### 
 
-- [FLOW]
-- [Python]
-- [R]
-- [Scala]
+- [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_flow.md)
+- [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_python.md)
+- [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_r.md)
+- [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_scala.md)
 
 
 ### GLM logistic regression example in various lnguage: ### 
