@@ -1,4 +1,4 @@
-# H2O GLM - R Sample #
+# H2O GLM (Generialized Linear Regression) - Linear Regression in R #
 
 ## Datasets ##
 The dataset used in this example can be obtained from here:
