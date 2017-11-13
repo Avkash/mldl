@@ -1,4 +1,4 @@
-# H2O GLM (Generialized Linear Regression) - Linear Regression in FLOW#
+# H2O GLM (Generialized Linear Regression) - Linear Regression in FLOW #
 
 ### Datasets ###
 The dataset used in this example can be obtained from here:
