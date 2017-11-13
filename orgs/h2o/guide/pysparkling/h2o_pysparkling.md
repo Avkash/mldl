@@ -60,3 +60,5 @@ SET PYSPARK_DRIVER_PYTHON_OPTS=notebook
 bin/pysparkling
 ```
 
+### Samples ###
+ - [H2O Pysparkling GBM Sample](https://github.com/h2oai/h2o-tutorials/tree/master/tutorials/pysparkling)
