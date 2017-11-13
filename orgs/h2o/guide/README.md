@@ -34,13 +34,30 @@
  - Launching Cluster (deploy mode - client vs cluster)
  - Machine Learning in Sparkling Water
 
-## [6. Accessing H2O library](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_access.md) ##
+## [6. pysparkling]() ##
+ - Installation
+ - Connection spark cluster
+ - Machine learning example (GBM | GLM)
+ - pysparkling
+   - GBM Example
+   - DRF Sample
+ 
+## [7. rsparkling]() ##
+ - Installation
+ - Connection spark cluster
+ - Analyzing Job and data
+ - Machine learning example (GBM | GLM | Deep Learning)
+ - rsparkling
+   - GBM Example
+   - DRF Sample
+
+## [8. Accessing H2O library](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_access.md) ##
  - Web Frontend (FLOW)
  - Python
  - R
  - Scala
    
-## [7. Data Ingest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_ingest.md) ##
+## [9. Data Ingest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_ingest.md) ##
  - Supported File Formats
  - Supported Data Types
  - Supported Data Source
@@ -49,36 +66,36 @@
    - Importing Multiple Files (FLOW | Python | R | Scala)
    - Uploading a File (FLOW | Python | R | Scala)
 
-## [8. Ingesting data from RDBS in Python and R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_sql_ingest.md) ##
+## [10. Ingesting data from RDBS in Python and R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_sql_ingest.md) ##
  - Supported Scenarios
  - Python API
  - R API
   
-## [9. Public Datasets available to try with H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/datasets_get.md) ##
+## [11. Public Datasets available to try with H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/datasets_get.md) ##
  - List of 25 Datasets
  - Loading datasets into H2O memory in FLOW
  - Loading datasets into H2O memory using Python API
  - Loading datasets into H2O memory using R API
 
-## [10. Create Test dataset with H2O of any size and and type](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_createframe.md) ##
+## [12. Create Test dataset with H2O of any size and and type](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_createframe.md) ##
  - Why test datasets?
  - FLOW
  - Python
  - R
  
-## [11. Dataframe manipulation in Python and R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_frame_man.md) ##
+## [13. Dataframe manipulation in Python and R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_frame_man.md) ##
  - Dataframes in Python and R
  - Pandas, numpy and H2O Dataframes
  - H2O and R Dataframes
 
-## [12. Spliting dataset in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_dataset_split.md) ##
+## [14. Spliting dataset in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_dataset_split.md) ##
  - Why spliting datasets
  - H2O Dataframe split in FLOW
  - H2O Dataframe split in Python
  - H2O Dataframe split in R
  - H2O Dataframe split in Spark/Scala
 
-## [13. Data Manipultion](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man.md) ##
+## [15. Data Manipultion](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man.md) ##
  - [H2O Pandas Dataframe and vice-versa (Python)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_pd_h2o.md)
  - [Merging Two H2O Dataframes (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_merge.md)
  - [Combining Columns from Two Data Frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guidedata//h2o_data_ingest_cbind.md)
@@ -91,7 +108,7 @@
  - [Group By operation on data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_groupby.md)
  - [Pivoting data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_pivot.md)
 
-## [14. Things data scientists do with data before model building]() ##
+## [16. Things data scientists do with data before model building]() ##
  - [Visaulize the input data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/data/h2o_data_visualize.md)
  - [Finding correlation among features](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/data/h2o_data_correlation.md)
  - [Convert features to proper type i.e. num or enum](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_feature_convert.md)
@@ -99,7 +116,7 @@
  - [Ignore the features not needed in machine leaning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_feature_ignore.md)
  - [Feature Engineering: External libraries and articles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_feature_eng.md) 
 
-## [15. Supervised Machine Learning Algotithms]() ##
+## [17. Supervised Machine Learning Algotithms]() ##
    - [Generalized Linear Model (GLM)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm.md)
      - Linear Regression Example (FLOW | Python | R | Scala)
      - Logestic Regression (Classification) Example (FLOW | Python | R | Scala)
@@ -114,33 +131,16 @@
      - Classification Example (FLOW | Python | R | Scala)
    - Naïve Bayes Classifier
    - Stacked Ensembles
-## [16. Supervised Machine Learning Algotithms]() ##
+## [18. Supervised Machine Learning Algotithms]() ##
    - KMeans (FLOW | Python | R | Scala)
    - PCA (FLOW | Python | R | Scala)
    - GLRM (FLOW | Python | R | Scala)
 
-## [17. H2O Word2Vec Algotithm]() ##
+## [19. H2O Word2Vec Algotithm]() ##
    - What is it and what it does?
    - Python
    - R
-    
-## [18. pysparkling]() ##
- - Installation
- - Connection spark cluster
- - Machine learning example (GBM | GLM)
- - pysparkling
-   - GBM Example
-   - DRF Sample
- 
-## [19. rsparkling]() ##
- - Installation
- - Connection spark cluster
- - Analyzing Job and data
- - Machine learning example (GBM | GLM | Deep Learning)
- - rsparkling
-   - GBM Example
-   - DRF Sample
- 
+     
 ## [20. H2O Models in Production]() ##
  - Supported Scenarios
  - Exporting Models
