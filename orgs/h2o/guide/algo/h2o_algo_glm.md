@@ -22,7 +22,7 @@ Note: Use "wget" and above links to pull the the data locally or use the URL abo
 ### GLM logistic regression example in various lnguage: ### 
 
 - [FLOW]
-- [Python]
-- [R]
+- [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_python.md)
+- [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_R.md)
 - [Scala]
 
