@@ -41,7 +41,7 @@
    - GBM Example
    - DRF Sample
  
-## [7. rsparkling]() ##
+## [7. rsparkling](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/rsparkling/h2o_rsparkling.md) ##
  - Installation
  - Connection spark cluster
  - Analyzing Job and data
