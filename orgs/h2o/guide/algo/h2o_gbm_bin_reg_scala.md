@@ -11,7 +11,12 @@ Note: Use "wget" and above links to pull the the data locally or use the URL abo
 Importing key classes specific to H2O:
 ```
 import org.apache.spark.h2o._
+import org.apache.spark.SparkFiles
+import org.apache.spark.examples.h2o._
+import org.apache.spark.sql.{DataFrame, SQLContext}
 import water.Key
+import water.support.SparkContextSupport.addFiles
+import water.support.H2OFrameSupport._
 import java.io.File
 ```
 
@@ -38,12 +43,28 @@ Creating GLM Linear Regression Model using prostate data ingested previously:
 ```
 val gbmParams = new GBMParameters()
 gbmParams._train = prostateData
+```
+Setting response ("CAPSULE") column to categorical or enum for classification type model:
+```
+withLockAndUpdate(prostateData){ fr => fr.replace(1, fr.vec("CAPSULE").toCategoricalVec)}
 gbmParams._response_column = 'CAPSULE
+```
+Setting GBM distribution family to bernoulli for 2-class classification:
+```
+import _root_.hex.genmodel.utils.DistributionFamily
+gbmParams._distribution = DistributionFamily.bernoulli
+```
+Setting remaining GBM Parameters:
+```
 gbmParams._nfolds = 5
 gbmParams._seed = 1111
 gbmParams._keep_cross_validation_predictions = true;
-val gbm = new GBM(gbmParams,Key.make("gbmProstateLinearModel.hex"))
+val gbm = new GBM(gbmParams,Key.make("gbmProstateClassificationModel.hex"))
 val gbmProstateModel = gbm.trainModel().get()
+```
+Getting Model Details built in previous step:
+```
+gbmProstateModel
 ```
 Getting GBM Model Summary:
 ```
@@ -65,16 +86,14 @@ Variable Importance Summary of GBM Model:
 ```
 gbmProstateModel._output._varimp.summary
 ```
-Getting Model Details built in previous step:
-```
-gbmProstateModel
-```
-
 Getting GBM Model metrics MSE (mean square error):
 ```
 gbmProstateModel.mse
 ```
-
+Getting GBM Model metrics AUC (Area under the curve):
+```
+gbmProstateModel.auc
+```
 Getting GBM Model metrics loss (LOSS):
 ```
 gbmProstateModel.loss
