@@ -1,6 +1,8 @@
-# H2O GBM (Gradient Boosting Machine) - Classification  in FLOW #
+# H2O GBM (Gradient Boosting Machine) - Classification Model in FLOW #
 
 If the response column is numeric or string and set as enum or categorical, then GBM will build a classification model. For the 2 classes in response, it will be "Binomial Classification" and classes more then 2 will be "Multinomial Classification". If the response column is real or integer number the GBM will build "Linear Regression" model.
+
+To build Classification Model with GBM, make sure your response column is set to enum or categorical.
 
 ## Datasets ##
 The dataset used in this example can be obtained from here:
