@@ -58,3 +58,7 @@
   
 ## Starting H2O from Spark Cluaster ##
   - Visit [here](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/cluster/h2o_cluster_spark.md)
+  
+## Tips and Tricks ##
+ - Its best to have the H2O cluster size should be small in terms of node count however each machine or node should have maximum available memory available to H2O process. This cloud design helps keeping less network overhead, and data is kept together to speed.
+  - Providing more cores per node helps tree algorithms i.e. GBM to perform fast machine learning process.
