@@ -119,3 +119,8 @@ GBM Model Domain (Features if enum) list (null represents numeric features)
 ```
 gbmProstateModel._output._domains
 ```
+## Performing Prediction using GBM Model ##
+```
+val predH2OFrame = gbmProstateModel.score(prostateData)('predict)
+val predFromModel = asRDD[DoubleHolder](predH2OFrame).collect.map(_.result.getOrElse(Double.NaN))
+```
