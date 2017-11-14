@@ -63,12 +63,19 @@ Getting GLM Model metrics MSE (mean square error):
 ```
 glmProstateModel.mse
 ```
-
 Getting GLM Model metrics loss (LOSS):
 ```
 glmProstateModel.loss
 ```
 
+GLM Model scoring history:
+```
+glmProstateModel._output._scoring_history
+```
+GLM Model classes or levels in the response feature:
+```
+glmProstateModel._output.classNames
+```
 Getting the list of features used in GLM:
 ```
 glmProstateModel.names
