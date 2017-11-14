@@ -7,13 +7,13 @@ You can learn more about GBM in H2O [here](http://docs.h2o.ai/h2o/latest-stable/
 ### GBM examples for linear regression in various language: ###
 
  - [FLOW]
- - [Python]
+ - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_python.md)
  - [R]
  - [Scala]
 
 ### GBM examples for logistic regression (Classification) in various language: ###
 
  - [FLOW]
- - [Python]
+ - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_python.md)
  - [R]
  - [Scala]
