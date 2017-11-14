@@ -6,7 +6,7 @@ The dataset used in this example can be obtained from here:
 
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
 
-## Sample Code in Scala ##
+## Linear Regression Sample Code in Scala ##
 
 Importing key classes specific to H2O:
 ```
@@ -27,10 +27,15 @@ Importing prostate data from a file stored on local file system:
 val prostateData = new H2OFrame(new File("/Users/avkashchauhan/examples/prostate.csv"))
 ```
 
-Creating GLM Linear Regression Model using prostate data ingested previously:
+Importing GLM Linear Regression Model specific libraries:
 ```
 import _root_.hex.glm.GLM
+import _root_.hex.glm.GLMModel
 import _root_.hex.glm.GLMModel.GLMParameters
+```
+
+Creating GLM Linear Regression Model using prostate data ingested previously:
+```
 val glmParams = new GLMParameters()
 glmParams._train = prostateData
 glmParams._response_column = 'CAPSULE
