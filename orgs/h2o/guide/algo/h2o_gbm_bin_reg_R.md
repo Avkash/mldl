@@ -10,6 +10,9 @@ The dataset used in this example can be obtained from here:
 
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
 
+## Get the Sample File ##
+  - [H2O_GBM_Prostate_Classification.R](https://github.com/Avkash/mldl/blob/master/code/R/H2O_GBM_Prostate_Classification.R)
+
 ## Sample Code in R ##
 
 #: Loading H2O Library
