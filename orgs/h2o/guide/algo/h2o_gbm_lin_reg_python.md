@@ -46,14 +46,14 @@ gbm_model_with_training_and_cv.train(x = features, y = response, training_frame=
 ```
 Splitting dataset into multiple subsets for training and validation:
 ```
-df_house_train, df_house_valid = train_df.split_frame(ratios=[0.9])
+df_gbm_train, df_gbm_valid, df_gbm_test = train_df.split_frame(ratios=[0.8,0.1])
 ```
 Building GBM model only with training Data and validation data:
 ```
 gbm_model_with_training_and_validtion = H2OGradientBoostingEstimator()
 gbm_model_with_training_and_validtion.train(x = features, y = response, 
-                                            training_frame=df_house_train, 
-                                            validation_frame=df_house_valid,
+                                            training_frame=df_gbm_train, 
+                                            validation_frame=df_gbm_valid,
                                            model_id = "glm_model_with_training_and_validtion_python")
 ```
 Building GBM model only configured parameters and training with cross-validation:
@@ -67,12 +67,12 @@ gbm_model_with_training_cv_config = H2OGradientBoostingEstimator(distribution="A
                                       keep_cross_validation_predictions=True,
                                       seed=1)
 gbm_model_with_training_cv_config.train(x = features, y = response, 
-                                            training_frame=df_house_train, 
+                                            training_frame=df_gbm_train, 
                                            model_id = "glm_model_with_training_and_validtion_python")
 ```                                           
 Performing Predictions with GBM model:
 ```
-gbm_predictions = gbm_model_with_training_cv_config.predict(test_df)
+gbm_predictions = gbm_model_with_training_cv_config.predict(df_gbm_test)
 ```
 Printing GBM Model metrics:
 ```
