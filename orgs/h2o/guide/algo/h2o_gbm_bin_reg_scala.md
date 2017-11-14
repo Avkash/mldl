@@ -1,4 +1,4 @@
-# H2O GBM (Gradient Boosting Machine) - Logistic Regression in Scala #
+# H2O GBM (Gradient Boosting Machine) - Logistic Classification in Scala #
 
 ## Datasets ##
 The dataset used in this example can be obtained from here:
