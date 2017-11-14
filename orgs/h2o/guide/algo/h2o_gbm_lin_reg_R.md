@@ -143,7 +143,7 @@ nrow(train_df)
 nrow(df_house_train)
 nrow(df_house_valid)
 ```
-#: Building linear regression model (GLM)  with training and validation data now
+#: Building Gradient Boosting Machine (GBM) Regression Model  with training and validation data now
 ```
 gbm_model_with_training_and_validtion = h2o.gbm(x = features, y = response, training_frame = df_house_train, validation_frame = df_house_valid,model_id = "gbm_model_with_training_and_validtion_R")
 gbm_model_with_training_and_validtion
@@ -233,6 +233,6 @@ all_cv_predictions[[2]]
 ```
 #: Getting model ID from an H2O Model
 ```
-glm_model_with_training_and_cv['model_id']
+gbm_model_with_training_and_cv['model_id']
 ```
 
