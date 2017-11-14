@@ -2,12 +2,11 @@
 
 ## Datasets ##
 The dataset used in this example can be obtained from here:
- - [house_price_train.csv](https://raw.githubusercontent.com/Avkash/mldl/master/data/house_price_train.csv)
- - [house_price_test.csv](https://raw.githubusercontent.com/Avkash/mldl/master/data/house_price_test.csv)
+ - [prostate.csv](https://raw.githubusercontent.com/Avkash/mldl/master/data/prostate.csv)
 
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
 
-## Sample Code in Python ##
+## Sample Code in Scala ##
 
 Importing key classes specific to H2O:
 ```
@@ -25,7 +24,7 @@ import h2oContext.implicits._
 
 Importing prostate data from a file stored on local file system:
 ```
-val prostateData = new H2OFrame(new File("/Users/avkashchauhan/src/github.com/h2oai/sparkling-water/examples/smalldata/prostate.csv"))
+val prostateData = new H2OFrame(new File("/Users/avkashchauhan/examples/prostate.csv"))
 ```
 
 Creating GLM Linear Regression Model using prostate data ingested previously:
@@ -46,4 +45,21 @@ Getting Model Details built in previous step:
 ```
 glmProstateModel
 ```
+
+Getting GLM Model metrics MSE (mean square error):
+```
+glmProstateModel.mse
+```
+
+Getting GLM Model metrics loss (LOSS):
+```
+glmProstateModel.loss
+```
+
+Getting the list of features used in GLM:
+```
+glmProstateModel.names
+```
+
+
 
