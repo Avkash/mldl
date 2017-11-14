@@ -116,8 +116,8 @@
 
 ## [17. Supervised Machine Learning Algotithms]() ##
    - [Generalized Linear Model (GLM)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm.md)
-     - Linear Regression Example (FLOW | Python | R | Scala)
-     - Logestic Regression (Classification) Example (FLOW | Python | R | Scala)
+     - Linear Regression Example ([FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_flow.md) | [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_python.md) | [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_r.md) | [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_scala.md))
+     - Logestic Regression (Classification) Example ([FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_flow.md) | [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_python.md) | [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_R.md) | [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_scala.md))
    - [Gradient Boosting Machine (GBM)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_gbm.md) 
      - Regression Example (FLOW | Python | R | Scala)
      - Classification Example (FLOW | Python | R | Scala)
