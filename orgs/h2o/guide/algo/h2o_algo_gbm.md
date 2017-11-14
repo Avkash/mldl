@@ -9,11 +9,11 @@ You can learn more about GBM in H2O [here](http://docs.h2o.ai/h2o/latest-stable/
  - [FLOW]
  - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_python.md)
  - [R]
- - [Scala]
+ - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_scala.md)
 
 ### GBM examples for logistic regression (Classification) in various language: ###
 
  - [FLOW]
  - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_python.md)
  - [R]
- - [Scala]
+ - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_scala.md)
