@@ -3,6 +3,7 @@
 You can use H2O Sparkling Water from PySpark and the H2O Sparkling Water integration with Python, Pyspark and Spark is called PySparkling.
 
 ### Installing pyspark from pipy ###
+Pypi Source: [https://pypi.python.org/pypi/h2o_pysparkling_2.2](https://pypi.python.org/pypi/h2o_pysparkling_2.2)
 There are multiple PySparkling packages, each is intended to be used with different Spark version.
 
 - h2o_pysparkling_2.2 - for Spark 2.2.x
@@ -32,7 +33,7 @@ $ bin/pysparkling
 ```
 This pysparkling shell accepts common pyspark arguments.
 ```
-Initialize H2OContext
+#: -- Initialize H2OContext
 from pysparkling import *
 import h2o
 hc = H2OContext.getOrCreate(spark)
