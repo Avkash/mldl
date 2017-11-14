@@ -12,13 +12,13 @@ Looking at the "getFrames" command in FLOW cell should show you the following da
  - house_price_train.csv
  - house_price_test.csv
 
-~[](https://github.com/Avkash/mldl/blob/master/images/flow_house_train_test.png?raw=true)
+![](https://github.com/Avkash/mldl/blob/master/images/flow_house_train_test.png?raw=true)
 
 ### Building GBM model with training and cross validation in FLOW ###
-~[](https://github.com/Avkash/mldl/blob/master/images/flow_gbm_lin_model.png?raw=true)
+![](https://github.com/Avkash/mldl/blob/master/images/flow_gbm_lin_model.png?raw=true)
 
 ### GBM Logistics Regression model in FLOW ###
-~[](https://github.com/Avkash/mldl/blob/master/images/flow_gbm_lin_details.png?raw=true)
+![](https://github.com/Avkash/mldl/blob/master/images/flow_gbm_lin_details.png?raw=true)
 
 ### Prediction with GBM Logistics Regression model in FLOW ###
-~[](https://github.com/Avkash/mldl/blob/master/images/flow_gbm_lin_pred.png?raw=true)
+![](https://github.com/Avkash/mldl/blob/master/images/flow_gbm_lin_pred.png?raw=true)
