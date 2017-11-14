@@ -1,4 +1,4 @@
-# H2O GBM (Gradient Boosting Machine) - Logistic Classification in Scala #
+# H2O GBM (Gradient Boosting Machine) - Logistic Classification (Binomial) in Scala #
 
 ## Datasets ##
 The dataset used in this example can be obtained from here:
@@ -6,7 +6,7 @@ The dataset used in this example can be obtained from here:
 
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
 
-## Logistic Regression Sample Code in Scala ##
+## Binomial Classification Sample Code in Scala ##
 
 Importing key classes specific to H2O:
 ```
