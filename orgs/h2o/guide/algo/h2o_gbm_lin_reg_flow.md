@@ -1,5 +1,9 @@
 # H2O GBM (Gradient Boosting Machine) - Linear Regression in FLOW #
 
+If the response column is numeric or string and set as enum or categorical, then GBM will build a classification model. For the 2 classes in response, it will be "Binomial Classification" and classes more then 2 will be "Multinomial Classification". If the response column is real or integer number the GBM will build "Linear Regression" model.
+
+To build Linear Regression model with GBM, make sure your response column is either interger or real number. 
+
 ## Datasets ##
 The dataset used in this example can be obtained from here:
  - [house_price_train.csv](https://raw.githubusercontent.com/Avkash/mldl/master/data/house_price_train.csv)
