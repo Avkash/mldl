@@ -73,3 +73,19 @@ Getting the list of features used in GLM:
 ```
 glmProstateModel.names
 ```
+Getting domains for the model:
+```
+glmProstateModel._output._domains
+```
+Getting Training Metrics from GLM Model:
+```
+glmProstateModel._output._training_metrics
+```
+Getting cross validation metrics from GLM Model:
+```
+glmProstateModel._output._cross_validation_metrics
+```
+Getting cross validation metrics summary from GLM Model:
+```
+glmProstateModel._output._cross_validation_metrics_summary
+```
