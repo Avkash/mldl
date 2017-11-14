@@ -109,3 +109,11 @@ Printing GBM model scoring plot:
 ```
 gbm_model_with_training_and_cv.plot()
 ```
+Printing GBM model scoring plot with AUC metrics:
+```
+gbm_model_with_training_and_cv.plot(metric='auc',server=False)
+```
+Printing GBM model Confusion Metrics:
+```
+gbm_model_with_training_and_cv.confusion_matrix()
+```
