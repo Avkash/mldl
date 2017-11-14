@@ -31,7 +31,8 @@ train_df = h2o.importFile("https://raw.githubusercontent.com/Avkash/mldl/master/
 ```
 #: Making sure response column has either 0/1 binomial values or 2-class categoricals for H2O GLM logistic regression
 ```
-h2o.levels(h2o.asfactor(train_df$CAPSULE))
+train_df$CAPSULE = h2o.asfactor(train_df$CAPSULE)
+h2o.levels(train_df$CAPSULE)
 ```
 #: Settings response or target variable for supervised machine learning
 ```
