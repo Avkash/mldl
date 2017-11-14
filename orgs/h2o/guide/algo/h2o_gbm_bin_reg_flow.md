@@ -6,23 +6,22 @@ To build Classification Model with GBM, make sure your response column is set to
 
 ## Datasets ##
 The dataset used in this example can be obtained from here:
- - [house_price_train.csv](https://raw.githubusercontent.com/Avkash/mldl/master/data/house_price_train.csv)
- - [house_price_test.csv](https://raw.githubusercontent.com/Avkash/mldl/master/data/house_price_test.csv)
+ - [prostate.csv](https://raw.githubusercontent.com/Avkash/mldl/master/data/prostate.csv)
 
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
 
-### Make sure you have both the above datasets loaded into FLOW ###
+### Make sure you have above datasets loaded into FLOW ###
 Looking at the "getFrames" command in FLOW cell should show you the following dataframes loaded into H2O memory:
- - house_price_train.csv
- - house_price_test.csv
+ - prostate.csv
 
-![](https://github.com/Avkash/mldl/blob/master/images/flow_house_train_test.png?raw=true)
+Your response column also set to be enum or categorical to build a classification model. 
+![](https://github.com/Avkash/mldl/blob/master/images/flow_prostate_enum.png?raw=true)
 
 ### Building GBM model with training and cross validation in FLOW ###
-![](https://github.com/Avkash/mldl/blob/master/images/flow_gbm_lin_model.png?raw=true)
+![](https://github.com/Avkash/mldl/blob/master/images/flow_gbm_classification.png?raw=true)
 
-### GBM Logistics Regression model in FLOW ###
-![](https://github.com/Avkash/mldl/blob/master/images/flow_gbm_lin_details.png?raw=true)
+### GBM classification model in FLOW ###
+![](https://github.com/Avkash/mldl/blob/master/images/flow_gbm_bin_info.png?raw=true)
 
-### Prediction with GBM Logistics Regression model in FLOW ###
-![](https://github.com/Avkash/mldl/blob/master/images/flow_gbm_lin_pred.png?raw=true)
+### Prediction with GBM classification model in FLOW ###
+![](https://github.com/Avkash/mldl/blob/master/images/flow_gbm_prostate_pred.png?raw=true)
