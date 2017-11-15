@@ -18,7 +18,7 @@ Note: Use "wget" and above links to pull the the data locally or use the URL abo
 ```python
 import h2o
 ```
-### : Initializing h2O
+###: Initializing h2O
 ```python
 h2o.init()
 ```
