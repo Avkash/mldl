@@ -15,3 +15,12 @@ Note: Use "wget" and above links to pull the the data locally or use the URL abo
 ## Sample Code in Python ##
 
 Importing H2O library and initializing H2O:
+
+```python
+###: Getting model performance based on cross validation
+```
+
+
+```python
+iris_gbm.model_performance(xval=True)
+```
