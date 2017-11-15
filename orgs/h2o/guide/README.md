@@ -114,32 +114,56 @@
  - [Ignore the features not needed in machine leaning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_feature_ignore.md)
  - [Feature Engineering: External libraries and articles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_feature_eng.md) 
 
-## [17. Supervised Machine Learning Algotithms]() ##
-   - [Generalized Linear Model (GLM)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm.md)
-     - Linear Regression Example ([FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_flow.md) | [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_python.md) | [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_r.md) | [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_scala.md))
-     - Logestic Regression (Classification) Example ([FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_flow.md) | [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_python.md) | [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_R.md) | [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_scala.md))
-   - [Gradient Boosting Machine (GBM)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_gbm.md) 
-     - Regression Example ([FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_flow.md) | [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_python.md) | [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_R.md) | [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_scala.md))
-     - Classification Example ([FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_flow.md) | [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_python.md) | [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_R.md) | [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_scala.md))
-   - [Distributed Random Forest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_drf.md)
-     - Regression Example (FLOW | Python | R | Scala)
-     - Classification Example (FLOW | Python | R | Scala)
-   - [Deep Learning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_dl.md)
-     - Regression Example (FLOW | Python | R | Scala)
-     - Classification Example (FLOW | Python | R | Scala)
-   - Naïve Bayes Classifier
-   - Stacked Ensembles
-## [18. Supervised Machine Learning Algotithms]() ##
-   - KMeans (FLOW | Python | R | Scala)
-   - PCA (FLOW | Python | R | Scala)
-   - GLRM (FLOW | Python | R | Scala)
+## [17. Supervised Machine Learning Algotithm : GLM (Generalized Linear Model)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm.md) ##
+  - Linear Regression Example
+    - [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_flow.md)
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_python.md)
+    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_r.md)
+    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_scala.md)
+  - Logestic Regression (Binomial Classification)
+    - [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_flow.md)
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_python.md)
+    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_R.md)
+    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_scala.md))
 
-## [19. H2O Word2Vec Algotithm]() ##
+## [18. Supervised Machine Learning Algotithm : GBM (Gradient Boosting Machine)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_gbm.md) ##
+  - Regression Example
+    - [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_flow.md)
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_python.md)
+    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_R.md)
+    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_scala.md)
+  - Classification Example
+    - [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_flow.md)
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_python.md)
+    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_R.md)
+    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_scala.md)
+     
+ ## [19. Supervised Machine Learning Algotithm : DRF (Distributed Random Forest)]   (https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_drf.md) ##
+  - Regression Example (FLOW | Python | R | Scala)
+  - Classification Example (FLOW | Python | R | Scala)
+
+ ## [20. Supervised Machine Learning Algotithm : Deep Learning]   (https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_drf.md) ##
+  - Regression Example (FLOW | Python | R | Scala)
+  - Classification Example (FLOW | Python | R | Scala)
+
+ ## [21. Supervised Machine Learning Algotithm : Stacked Ensembles]   (https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_drf.md) ##
+  - FLOW
+  - Python
+  - R
+  - Scala
+
+## [22. Supervised Machine Learning Algotithms - K-MEANS]() ##
+   - FLOW
+   - Python
+   - R 
+   - Scala
+
+## [23. H2O Word2Vec Algotithm]() ##
    - What is it and what it does?
    - Python
    - R
      
-## [20. H2O Models in Production]() ##
+## [24. H2O Models in Production]() ##
  - Supported Scenarios
  - Exporting Models
    - Binary  (FLOW | Python | R | Scala)
@@ -155,11 +179,11 @@
    - Hive Scoring
      - Hive UDF Sample in Java
 
-## [21. H2O Performance]() ##
+## [25. H2O Performance]() ##
   - Cluster size approximation
   - Analyzing data in H2O memory
 
-## [22. Advance Concepts]() ##
+## [26. Advance Concepts]() ##
   - Grid Search
     - Classification Example (FLOW | Python | R | Scala)
     - Regression Example (FLOW | Python | R | Scala)
