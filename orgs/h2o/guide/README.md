@@ -132,11 +132,14 @@
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_python.md)
     - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_R.md)
     - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_scala.md)
-  - Classification Example
+  - Biomial Classification Example
     - [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_flow.md)
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_python.md)
     - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_R.md)
     - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_scala.md)
+  - Multinomial Classification Example
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_multi_python.md)
+    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_multi_R.md)
      
  ## [19. Supervised Machine Learning Algotithm : DRF (Distributed Random Forest)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_drf.md) ##
   - Regression Example (FLOW | Python | R | Scala)
