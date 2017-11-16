@@ -5,16 +5,16 @@ H2O’s Deep Learning is based on a multi-layer feedforward artificial neural ne
 ### Deep Learning linear regression example in various lnguage: ### 
 
 - [FLOW]
-- [Python]
-- [R]
+- [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_lin_reg_auto_python.md)
+- [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_regression_autompg_R.md)
 - [Scala]
 
 
 ### Deep Learning Binomial Classification example in various lnguage: ### 
 
 - [FLOW]
-- [Python]
-- [R]
+- [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_classification_titanic_python.md)
+- [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_classification_titanic_R.md)
 - [Scala]
 
 
