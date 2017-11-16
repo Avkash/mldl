@@ -126,7 +126,7 @@
     - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_R.md)
     - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_scala.md))
 
-## [18. Supervised Machine Learning Algotithm : GBM (Gradient Boosting Machine)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_gbm.md) ##
+## [18. Supervised Machine Learning Algotithm : GBM (Gradient Boosting Machine)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/gbm/README.md) ##
   - Regression Example
     - [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_flow.md)
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_python.md)
