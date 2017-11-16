@@ -1,4 +1,4 @@
-# H2O Deep Learning - Linear Regression in Python # 
+# H2O Deep Learning - Linear Regression in R # 
 
 H2O Deep Learning successfully perform linear regression when the response column/feature is numeric based on Neural Network mode. 
 
