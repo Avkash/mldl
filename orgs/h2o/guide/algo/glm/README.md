@@ -26,3 +26,10 @@ Note: Use "wget" and above links to pull the the data locally or use the URL abo
 - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/glm/h2o_algo_glm_log_R.md)
 - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/glm/h2o_algo_glm_log_scala.md)
 
+
+Helpful Links:
+- [Efficiently Building GLMs: Part 1](https://colinpriest.com/2015/07/10/efficiently-building-glms-part-1/)
+- [Efficiently Building GLMs: Part 2](https://colinpriest.com/2015/07/17/efficiently-building-glms-part-2/)
+- [Efficiently Building GLMs: Part 3](https://colinpriest.com/2015/07/31/efficiently-building-glms-part-3-2/)
+- [Efficiently Building GLMs: Part 4](https://colinpriest.com/2015/08/08/efficiently-building-glms-part-4-2/)
+- [Efficiently Building GLMs: Part 5](https://colinpriest.com/2015/08/19/efficiently-building-glms-part-5/)
