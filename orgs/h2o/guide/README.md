@@ -156,12 +156,12 @@
  ## [20. Supervised Machine Learning Algotithm : Deep Learning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_algo_deeplearning.md) ##
   - Regression Example
     - FLOW
-    - Python
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_lin_reg_auto_python.md)
     - R
     - Scala
   - Classification Example
     - FLOW
-    - Python
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_classification_titanic_python.md)
     - R
     - Scala
 
