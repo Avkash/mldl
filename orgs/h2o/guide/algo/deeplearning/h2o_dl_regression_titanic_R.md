@@ -76,7 +76,7 @@ features = setdiff(features, response)
 print(features)
 ```
 
-## Ignoring columns from test dataset
+###: Ignoring columns from test dataset
 ```
 features = setdiff(features, c('name', 'ticket', 'home.dest'))
 print(features)
@@ -184,7 +184,7 @@ h2o.scoreHistory(dl_titanic_tuned)
 h2o.auc(dl_titanic_cv,xval = TRUE)
 h2o.auc(dl_titanic_tuned,xval= TRUE)
 ```
-
+### Performing Prediction ###
 
 ###: Creating a test data frame to perform prediction
 ```
