@@ -5,15 +5,17 @@ Gradient Boosting Machine (for Regression and Classification) is a forward learn
 You can learn more about GBM in H2O [here](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/gbm.html).
 
 ### GBM examples for linear regression in various language: ###
+  - [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/gbm/h2o_gbm_lin_reg_flow.md)
+  - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/gbm/h2o_gbm_lin_reg_python.md)
+  - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/gbm/h2o_gbm_lin_reg_R.md)
+  - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/gbm/h2o_gbm_lin_reg_scala.md)
 
- - [FLOW]
- - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_python.md)
- - [R]
- - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_lin_reg_scala.md)
+### GBM examples for Binomial Classification in various language: ###
+  - [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/gbm/h2o_gbm_bin_reg_flow.md)
+  - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/gbm/h2o_gbm_bin_reg_python.md)
+  - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/gbm/h2o_gbm_bin_reg_R.md)
+  - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/gbm/h2o_gbm_bin_reg_scala.md)
 
-### GBM examples for logistic regression (Classification) in various language: ###
-
- - [FLOW]
- - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_python.md)
- - [R]
- - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_bin_reg_scala.md)
+### GBM examples for Multinomial Classification in various language: ###
+  - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/gbm/h2o_gbm_multi_python.md)
+  - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/gbm/h2o_gbm_multi_R.md)
