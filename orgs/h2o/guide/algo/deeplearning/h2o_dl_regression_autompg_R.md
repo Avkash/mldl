@@ -176,6 +176,8 @@ h2o.r2(dl_auto_cv,xval = TRUE)
 h2o.r2(dl_auto_tuned,xval= TRUE)
 ```
 
+### Performing Prediction ###
+
 ###: Getting first few rows of original data
 ```
 h2o.head(df,2)
