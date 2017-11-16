@@ -13,16 +13,16 @@ Note: Use "wget" and above links to pull the the data locally or use the URL abo
 
 ### GLM linear regression example in various lnguage: ### 
 
-- [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_flow.md)
-- [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_python.md)
-- [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_r.md)
-- [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_scala.md)
+- [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/glm/h2o_algo_glm_flow.md)
+- [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/glm/h2o_algo_glm_python.md)
+- [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/glm/h2o_algo_glm_r.md)
+- [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/glm/h2o_algo_glm_scala.md)
 
 
 ### GLM logistic regression example in various lnguage: ### 
 
-- [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_flow.md)
-- [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_python.md)
-- [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_R.md)
-- [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_log_scala.md)
+- [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/glm/h2o_algo_glm_log_flow.md)
+- [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/glm/h2o_algo_glm_log_python.md)
+- [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/glm/h2o_algo_glm_log_R.md)
+- [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/glm/h2o_algo_glm_log_scala.md)
 
