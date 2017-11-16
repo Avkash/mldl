@@ -18,13 +18,13 @@ Note: Use "wget" and above links to pull the the data locally or use the URL abo
 ```
 library(h2o)
 ```
-### : Initializing h2O
+###: Initializing h2O
 ```
 h2o.init()
 ```
 
 
-### : Getting Cluster Status
+###: Getting Cluster Status
 ```
 h2o.clusterStatus()
 ```
