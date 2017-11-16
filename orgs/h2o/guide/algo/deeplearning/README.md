@@ -22,3 +22,4 @@ H2O’s Deep Learning is based on a multi-layer feedforward artificial neural ne
 Helpful Links:
  - [H2O Deep Learning Performance Tuning](https://blog.h2o.ai/2015/08/deep-learning-performance-august/)
  - [How many hidden layers should I use?(ftp://ftp.sas.com/pub/neural/FAQ3.html#A_hl)]
+ - [How To Improve Deep Learning Performance](https://machinelearningmastery.com/improve-deep-learning-performance/)
