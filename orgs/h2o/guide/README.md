@@ -141,7 +141,7 @@
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_multi_python.md)
     - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_gbm_multi_R.md)
      
- ## [19. Supervised Machine Learning Algotithm : DRF (Distributed Random Forest)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_drf.md) ##
+ ## [19. Supervised Machine Learning Algotithm : DRF (Distributed Random Forest)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/README.md) ##
   - Regression Example
     - FLOW
     - Python
