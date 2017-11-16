@@ -8,6 +8,9 @@ The dataset used in this example can be obtained from here:
 
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
   
+## Get the Sample Python Notebook ##
+  - [H2O_Deep Learning Classification with Titanic Dataset Notebook](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O_DeepLearning_Classification_titanic.ipynb)
+  
 ## Binomial Classification Sample Code in Python ##
 
 ###: Importing H2O Library
@@ -219,36 +222,4 @@ dl_titanic_cv_tuned.scoring_history()
 ```
 
 
-### PERFORMING PREDICTIONS USING a TEST DATA SET ###
-
-###: listing features used for model building from the original data set
-```python
-features
-```
-
-
-###: listing first 3 rows from the original data set
-```python
-df.head(3).describe()
-```
-
-
-###: creating test data set based on features used for building model
-```python
-df_test = h2o.H2OFrame.from_python({"pclass":2, "sex" : 'male', "age" : 28, 
-                                    "sibsp" : 1, "parch" : 2, "fare" : 321.9, "boat": 2, 'body' : 123,
-                                   "embarked" : 'S', "cabin": "B5"})
-type(df_test)
-```
-
-
-###: Performing prediction using one of the best deep learning model we built earlier
-```python
-dl_titanic_cv_tuned.predict(df_test)
-```
-
-
-###: Looking at the histogram of response variable from original data set
-```python
-df[response].asnumeric().hist()
-```
+### PERFORMING PREDICTIONS USING a T
