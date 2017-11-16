@@ -22,34 +22,27 @@ library(h2o)
 ```
 h2o.init()
 ```
-
-
 ###: Getting Cluster Status
 ```
 h2o.clusterStatus()
 ```
-
 ###: Importing Dataset
 ```
 df = h2o.importFile(path = "https://raw.githubusercontent.com/Avkash/mldl/master/data/auto_mpg.csv")
 df = h2o.importFile("/Users/avkashchauhan/src/github.com/avkash/mldl/data/auto_mpg.csv")
 ```
-
 ###: Understanding Dataset
 ```
 h2o.summary(df)
 ```
-
 ###: Understanding Dataset
 ```
 h2o.describe(df)
 ```
-
 ###: Getting the list of columns
 ```
 h2o.colnames(df)
 ```
-
 ###: Getting the list of columns by their types
 ```
 h2o.columns_by_type(df)
