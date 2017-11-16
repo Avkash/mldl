@@ -114,7 +114,7 @@
  - [Ignore the features not needed in machine leaning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_feature_ignore.md)
  - [Feature Engineering: External libraries and articles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_feature_eng.md) 
 
-## [17. Supervised Machine Learning Algotithm : GLM (Generalized Linear Model)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm.md) ##
+## [17. Supervised Machine Learning Algotithm : GLM (Generalized Linear Model)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/glm/README.md) ##
   - Linear Regression Example
     - [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_flow.md)
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_glm_python.md)
