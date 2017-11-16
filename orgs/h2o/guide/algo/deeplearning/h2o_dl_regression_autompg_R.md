@@ -47,37 +47,30 @@ h2o.colnames(df)
 ```
 h2o.columns_by_type(df)
 ```
-
 ###: Setting Response column
 ```
 response = "mpg"
 ```
-
 ###: understand the response column through histogram (apply to numeric column)
 ```
 h2o.hist(df$mpg)
 ```
-
 ###: Getting the list of classes in the response column (Temporary factorizing response column)
 ```
 h2o.levels(h2o.asfactor(df$mpg))
 ```
-
 ###: Settings all features for model building
 ```
 features= h2o.colnames(df)
 features = setdiff(features, response)
 print(features)
 ```
-
 ###: Ignoring columns from test dataset
 ###: You can padd a list of column names you want to ignore during feature building
 ```
 features = setdiff(features, c('name_a', 'name_b'))
 print(features)
 ```
-
-
 ###: Training H2O Deep Learning Classification model with default configuration
 ```
 dl_auto_basic = h2o.deeplearning(x = features,
@@ -87,6 +80,7 @@ dl_auto_basic = h2o.deeplearning(x = features,
 ###: Understanding H2O Deep Learning Classification model details
 ```
 dl_auto_basic
+```
 
 ###: Getting H2O Deep Learning Classification model performance
 ```
