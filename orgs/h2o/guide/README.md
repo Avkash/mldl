@@ -153,7 +153,7 @@
     - R
     - Scala
 
- ## [20. Supervised Machine Learning Algotithm : Deep Learning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_drf.md) ##
+ ## [20. Supervised Machine Learning Algotithm : Deep Learning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_algo_deeplearning.md) ##
   - Regression Example
     - FLOW
     - Python
