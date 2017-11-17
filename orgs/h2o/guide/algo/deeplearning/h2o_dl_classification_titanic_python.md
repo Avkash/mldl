@@ -1,4 +1,4 @@
-# H2O Deep Learning - Binomial Classification Regression in Python # 
+# H2O Deep Learning - Binomial Classification in Python # 
 
 H2O Deep Learning successfully perform binomial classification when the response column/feature is categorical or enum based on Neural Network algorithm. 
 
