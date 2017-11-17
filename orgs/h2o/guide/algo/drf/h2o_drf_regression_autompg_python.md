@@ -9,7 +9,7 @@ The dataset used in this example can be obtained from here:
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
   
 ## Get the Sample Python Notebook ##
-  - [H2O Distributed Random Forest Regression with Autompg Dataset Notebook](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O_DeepLearning_Regression_autompg.ipynb)
+  - [H2O Distributed Random Forest Regression with Autompg Dataset Notebook](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O_DRF_Regression_autompg.ipynb)
   
   
 ## Linear Regression Sample Code in Python ##
