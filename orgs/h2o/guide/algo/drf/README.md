@@ -5,15 +5,15 @@ You can learn more about DRF in H2O [here](http://docs.h2o.ai/h2o/latest-stable/
 ### DRF linear regression example in various lnguage: ### 
 
 - [FLOW]
-- [Python]
-- [R]
+- [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_regression_autompg_python.md)
+- [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_regression_autompg_R.md)
 - [Scala]
 
 
 ### DRF logistic regression example in various lnguage: ### 
 
 - [FLOW]
-- [Python]
-- [R]
+- [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_classification_titanic_python.md)
+- [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_classification_titanic_R.md)
 - [Scala]
 
