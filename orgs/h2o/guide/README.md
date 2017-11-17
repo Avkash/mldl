@@ -144,13 +144,13 @@
  ## [19. Supervised Machine Learning Algotithm : DRF (Distributed Random Forest)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/README.md) ##
   - Regression Example
     - FLOW
-    - Python
-    - R
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_regression_autompg_python.md)
+    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_regression_autompg_R.md)
     - Scala
   - Classification Example
     - FLOW
-    - Python
-    - R
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_classification_titanic_python.md)
+    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_classification_titanic_R.md)
     - Scala
 
  ## [20. Supervised Machine Learning Algotithm : Deep Learning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/README.md) ##
