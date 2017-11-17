@@ -15,5 +15,5 @@ You can learn more about DRF in H2O [here](http://docs.h2o.ai/h2o/latest-stable/
 - [FLOW]
 - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_classification_titanic_python.md)
 - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_classification_titanic_R.md)
-- [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_classification_titanic_scala.md_
+- [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_classification_titanic_scala.md)
 
