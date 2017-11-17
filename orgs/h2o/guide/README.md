@@ -151,19 +151,19 @@
     - FLOW
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_classification_titanic_python.md)
     - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_classification_titanic_R.md)
-    - Scala
+    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/drf/h2o_drf_classification_titanic_scala.md)
 
  ## [20. Supervised Machine Learning Algotithm : Deep Learning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/README.md) ##
   - Regression Example
     - FLOW
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_lin_reg_auto_python.md)
-    - R
+    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_regression_autompg_R.md)
     - Scala
   - Classification Example
     - FLOW
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_classification_titanic_python.md)
-    - R
-    - Scala
+    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_classification_titanic_R.md)
+    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_classification_titanic_scala.md)
 
  ## [21. Supervised Machine Learning Algotithm : Stacked Ensembles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_drf.md) ##
   - FLOW
