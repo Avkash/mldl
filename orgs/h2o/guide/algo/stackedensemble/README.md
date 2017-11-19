@@ -13,5 +13,5 @@ Learn more about stacked ensemble in H2O [here](http://docs.h2o.ai/h2o/latest-st
     
   - Classification Example
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2o_se_classification_titanic_python.md)
-    - [R]
+    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2o_se_classification_titanic_R.md)
     - [Scala]
