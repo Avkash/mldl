@@ -8,7 +8,7 @@ Learn more about stacked ensemble in H2O [here](http://docs.h2o.ai/h2o/latest-st
 
   - Regression Example
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2o_se_regression_houseprice_python.md)
-    - [R]
+    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2o_se_regression_autompg_R.md)
     - [Scala]
     
   - Classification Example
