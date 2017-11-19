@@ -158,7 +158,7 @@
     - FLOW
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_lin_reg_auto_python.md)
     - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_regression_autompg_R.md)
-    - Scala
+    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_regression_autompg_scala.md)
   - Classification Example
     - FLOW
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_classification_titanic_python.md)
