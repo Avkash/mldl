@@ -167,11 +167,11 @@
 
  ## [21. Supervised Machine Learning Algotithm : Stacked Ensembles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/README.md) ##
   - Regression Example
-    - [Python]
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2o_se_regression_houseprice_python.md)
     - [R]
     - [Scala]
   - Classification Example
-    - [Python]
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2o_se_classification_titanic_python.md)
     - [R]
     - [Scala]
 
