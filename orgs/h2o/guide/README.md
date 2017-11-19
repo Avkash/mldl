@@ -165,11 +165,15 @@
     - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_classification_titanic_R.md)
     - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_classification_titanic_scala.md)
 
- ## [21. Supervised Machine Learning Algotithm : Stacked Ensembles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/h2o_algo_drf.md) ##
-  - FLOW
-  - Python
-  - R
-  - Scala
+ ## [21. Supervised Machine Learning Algotithm : Stacked Ensembles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/README.md) ##
+  - Regression Example
+    - [Python]
+    - [R]
+    - [Scala]
+  - Classification Example
+    - [Python]
+    - [R]
+    - [Scala]
 
 ## [22. Supervised Machine Learning Algotithms - K-MEANS]() ##
    - FLOW
