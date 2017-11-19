@@ -1,4 +1,4 @@
-///### Importing key libraries:
+//### Importing key libraries:
 import org.apache.spark.h2o._
 import org.apache.spark.SparkFiles
 import org.apache.spark.examples.h2o._
@@ -15,7 +15,7 @@ import h2oContext.implicits._
 
 
 //### Importing titanic data from a file stored on local file system:
-val titanicData = new H2OFrame(new File("/Users/avkashchauhan/learn/customers/titanic_list.csv"))
+val autoMpgData = new H2OFrame(new File("/Users/avkashchauhan/examples/auto_mpg.csv"))
 
 //### Importing Distributed Random Forest specific libraries:
 import _root_.hex.tree.drf.DRF
@@ -25,12 +25,11 @@ import _root_.hex.tree.drf.DRFModel.DRFParameters
 
 //### Creating Distributed Random Forest Classification Model using titanic data ingested previously:
 val drfParams = new DRFParameters()
-drfParams._train = titanicData
+drfParams._train = autoMpgData
 
+//### Setting response as "mpg" column which is numeric so it will be regression model type:
+drfParams._response_column = 'mpg
 
-//### Setting response ("survived") column to categorical or enum for classification type model:
-withLockAndUpdate(titanicData){ fr => fr.replace(1, fr.vec("survived").toCategoricalVec)}
-drfParams._response_column = 'survived
 
 //### Setting distribution parameter to Bernoulli:
 import _root_.hex.genmodel.utils.DistributionFamily
@@ -42,39 +41,39 @@ drfParams._seed= 123445
 drfParams._keep_cross_validation_predictions = true
 drfParams._ntrees = 100
 drfParams._max_depth = 10
-drfParams._sample_rate = 0.9
-drfParams._col_sample_rate_per_tree=0.8
+drfParams._sample_rate = 0.75
+drfParams._col_sample_rate_per_tree=0.75
 
 
 //### Creating Distributed Random Forest Model 
-//### val drf = new DRF(drfParams, Key.make("drfTitanicClassificationModel.hex"))
+//### val drf = new DRF(drfParams, Key.make("drfAutoMpgRegressionModel.hex"))
 val drf = new DRF(drfParams)
-val drfTitanicModel = drf.trainModel.get()
+val drfAutoMpgModel = drf.trainModel.get()
 
 //### Getting Model Details built in previous step:
-drfTitanicModel
+drfAutoMpgModel
 
 //### Getting Model summary, training metrics and varialbe importance
-drfTitanicModel._output._model_summary
-drfTitanicModel._output._training_metrics
-drfTitanicModel._output._variable_importances
+drfAutoMpgModel._output._model_summary
+drfAutoMpgModel._output._training_metrics
+drfAutoMpgModel._output._variable_importances
 
 //### Getting Model Metrics
-drfTitanicModel.auc
-drfTitanicModel.mse
-drfTitanicModel.loss
+drfAutoMpgModel.rmsle
+drfAutoMpgModel.mse
+drfAutoMpgModel.loss
 
 //### Getting Model features and classes
-drfTitanicModel._output.nfeatures
-drfTitanicModel._output.nclasses
+drfAutoMpgModel._output.nfeatures
+drfAutoMpgModel._output.nclasses
 
 //### Getting Model classes, domains and checking if it is supervised or not
-drfTitanicModel._output.isSupervised
-drfTitanicModel._output.classNames
-drfTitanicModel._output._domains
+drfAutoMpgModel._output.isSupervised
+drfAutoMpgModel._output.classNames
+drfAutoMpgModel._output._domains
 
 //### Performing Predictions with the Model built earlier
-val predH2OFrame = drfTitanicModel.score(titanicData)('predict)
+val predH2OFrame = drfAutoMpgModel.score(autoMpgData)('predict)
 val predFromModel = asRDD[DoubleHolder](predH2OFrame).collect.map(_.result.getOrElse(Double.NaN))
 
 
