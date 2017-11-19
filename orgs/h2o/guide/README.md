@@ -165,7 +165,21 @@
     - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_classification_titanic_R.md)
     - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_classification_titanic_scala.md)
 
- ## [21. Supervised Machine Learning Algotithm : Stacked Ensembles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/README.md) ##
+## [21. Supervised Machine Learning Algotithms - K-MEANS](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/README.md) ##
+   - FLOW
+   - Python
+   - R 
+   - Scala
+
+## [22. Hyperparameters and Grid Search in H2O]() ##
+   - Classification Example
+     - FLOW
+     - Python
+     - R 
+     - Scala
+   - Regression Example (FLOW | Python | R | Scala)
+
+## [23. Supervised Machine Learning Algotithm : Stacked Ensembles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/README.md) ##
   - Regression Example
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2o_se_regression_houseprice_python.md)
     - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2o_se_regression_autompg_R.md)
@@ -175,18 +189,16 @@
     - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2o_se_classification_titanic_R.md)
     - [Scala]
 
-## [22. Supervised Machine Learning Algotithms - K-MEANS]() ##
-   - FLOW
-   - Python
-   - R 
-   - Scala
+## [24. AutoML in H2O]() ##
+  - Classification Example (FLOW | Python | R | Scala)
+  - Regression Example (FLOW | Python | R | Scala)
 
-## [23. H2O Word2Vec Algotithm]() ##
+## [25. H2O Word2Vec Algotithm]() ##
    - What is it and what it does?
    - Python
    - R
      
-## [24. H2O Models in Production]() ##
+## [26. H2O Models in Production]() ##
  - Supported Scenarios
  - Exporting Models
    - Binary  (FLOW | Python | R | Scala)
@@ -202,21 +214,9 @@
    - Hive Scoring
      - Hive UDF Sample in Java
 
-## [25. H2O Performance]() ##
+## [27. H2O Performance]() ##
   - Cluster size approximation
   - Analyzing data in H2O memory
-
-## [26. Advance Concepts]() ##
-  - Grid Search
-    - Classification Example (FLOW | Python | R | Scala)
-    - Regression Example (FLOW | Python | R | Scala)
-  - Hpyerparameters 
-    - Classification Example (FLOW | Python | R | Scala)
-    - Regression Example (FLOW | Python | R | Scala)
-  - AutoML
-    - Classification Example (FLOW | Python | R | Scala)
-    - Regression Example (FLOW | Python | R | Scala)
-  - Cross-Validation
   
 ## [Appendix: Important Links] ##
  - [H2O Website](https://www.h2o.ai/)
