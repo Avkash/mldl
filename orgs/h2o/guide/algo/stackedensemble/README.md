@@ -7,9 +7,10 @@ H2O’s Stacked Ensemble method is supervised ensemble machine learning algorith
 Learn more about stacked ensemble in H2O [here](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/stacked-ensembles.html).
 
   - Regression Example
-    - [Python]
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2o_se_regression_houseprice_python.md)
     - [R]
     - [Scala]
+    
   - Classification Example
     - [Python]
     - [R]
