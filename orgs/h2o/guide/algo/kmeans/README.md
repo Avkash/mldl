@@ -8,7 +8,7 @@ H2O has 3 key unsupervised algorithms implemented, i.e. K-Means, PCA and GLRM. T
 
 ## K-means Examples in various examples ##
  - FLOW
- - Python 
+ - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/h2o_kmeans_driverspeed_python.md) 
  - R
  - Scala
 
