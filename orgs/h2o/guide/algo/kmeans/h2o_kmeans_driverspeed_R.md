@@ -8,6 +8,9 @@ H2O has 3 key unsupervised algorithms implemented, i.e. K-Means, PCA and GLRM. T
 
 #### Datasource: The data for this example is taken from this article: [https://www.datascience.com/blog/k-means-clustering](https://www.datascience.com/blog/k-means-clustering) ####
 
+## Get the Sample R Source Code ##
+  - [H2O_Kmeans with Driver-Delivery-Speed Dataset in R](https://github.com/Avkash/mldl/blob/master/code/R/H2O-Kmeans-DriverDeliverySpeed.R)
+
 ## K-means Examples in R ##
 
 ###: Importing h2o and other required libraries
