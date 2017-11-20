@@ -189,16 +189,22 @@
     - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2o_se_classification_titanic_R.md)
     - [Scala]
 
-## [24. AutoML in H2O]() ##
+## [24. XGBoost with H2O]() ##
+   - What is it and what it does?
+   - Python
+   - R
+   - Scala
+
+## [25. AutoML in H2O]() ##
   - Classification Example (FLOW | Python | R | Scala)
   - Regression Example (FLOW | Python | R | Scala)
 
-## [25. H2O Word2Vec Algotithm]() ##
+## [26. H2O Word2Vec Algorithm]() ##
    - What is it and what it does?
    - Python
    - R
      
-## [26. H2O Models in Production]() ##
+## [27. H2O Models in Production]() ##
  - Supported Scenarios
  - Exporting Models
    - Binary  (FLOW | Python | R | Scala)
@@ -214,7 +220,7 @@
    - Hive Scoring
      - Hive UDF Sample in Java
 
-## [27. H2O Performance]() ##
+## [28. H2O Performance]() ##
   - Cluster size approximation
   - Analyzing data in H2O memory
   
