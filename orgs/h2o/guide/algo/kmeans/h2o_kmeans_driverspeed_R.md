@@ -10,10 +10,6 @@ H2O has 3 key unsupervised algorithms implemented, i.e. K-Means, PCA and GLRM. T
 
 ## K-means Examples in R ##
 
-# Datasource: The data for this example is taken from the article below:
-# URL: https://www.datascience.com/blog/k-means-clustering
-
-
 ###: Importing h2o and other required libraries
 ```
 library(h2o)
