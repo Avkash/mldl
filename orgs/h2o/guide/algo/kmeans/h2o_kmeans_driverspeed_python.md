@@ -60,7 +60,7 @@ pl.show()
 ###: Plotting all the points into scatter-plot to understand the distribution
 ```python
 plt.figure(figsize=(20,10))
-plt.plot(hdf.as_data_frame().Distance_Feature,df.Speeding_Feature,'ko')
+plt.plot(hdf.as_data_frame().Distance_Feature,hdf.as_data_frame()['Speeding_Feature'],'ko')
 plt.ylabel('Speeding Feature')
 plt.xlabel('Distance Feature')
 plt.ylim(0,100)
