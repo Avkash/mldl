@@ -168,7 +168,7 @@
 ## [21. Un-supervised Machine Learning Algotithms - K-MEANS](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/README.md) ##
    - FLOW
    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/h2o_kmeans_driverspeed_python.md)
-   - R 
+   - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/h2o_kmeans_driverspeed_R.md) 
    - Scala
 
 ## [22. Hyperparameters and Grid Search in H2O]() ##
