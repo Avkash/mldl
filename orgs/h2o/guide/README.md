@@ -1,4 +1,5 @@
-# Applied Machine Learning with H2O - (From 0 to 100 in few days) #
+# Applied Machine Learning with H2O #
+### (From 0 to 100 in few days) ###
 
 ## [1. Architecture](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/cluster/h2o_arch.md) ##
  - What is it?
