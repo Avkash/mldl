@@ -9,7 +9,7 @@ The dataset used in this example can be obtained from here:
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
   
 ## Get the Sample Scala Code ##
-  - [H2O Stacked Ensemble Classification with Titanic Dataset Scala](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O-StackEnsembles-Titanic.ipynb)
+  - [H2O Stacked Ensemble Classification with Titanic Dataset Scala Sample](https://github.com/Avkash/mldl/blob/master/code/scala/H2O-StackedEnsemble-Titanic.scala)
   
 ## Stacked Ensemble Binomial Classification Sample Code in Scala ##
 
