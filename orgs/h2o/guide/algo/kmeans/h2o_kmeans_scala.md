@@ -9,7 +9,7 @@ H2O has 3 key unsupervised algorithms implemented, i.e. K-Means, PCA and GLRM. T
 #### Datasource: The data for this example is taken from this article: [https://www.datascience.com/blog/k-means-clustering](https://www.datascience.com/blog/k-means-clustering) ####
 
 ## Get the Scala Sample Code ##
-  - [H2O Kmeans with Driver-Delivery-Speed Dataset in Scala](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O-Kmeans-DriverDeliverySpeed.ipynb)
+  - [H2O Kmeans with Driver-Delivery-Speed Dataset in Scala](https://github.com/Avkash/mldl/blob/master/code/scala/H2O-KMeans-DriverSpeed.scala)
 
 ## K-means Examples in Scala ##
 
