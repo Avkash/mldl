@@ -19,7 +19,9 @@
 ## November ##
  - [AIFrontiers: Applied Deep Learning November 3-4, 2017, Santa Clara Convention Center](http://www.aifrontiers.com/)
  - [Inside Data Science - Nov 14-15 Monterey CA](https://www.insidedatascience.com/)
+ - [IOT Data and AI Summit Nov 28-29 (Palo Alto CA)](https://tmt.knect365.com/iot-data-analytics/)
  - [AI Expo North America - November 29-30, Santa Clara Convention Center, San Jose](https://www.ai-expo.net/northamerica/)
+
 ## December ##
 
 # Events in 2018 #
