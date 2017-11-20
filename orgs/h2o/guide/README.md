@@ -223,6 +223,12 @@
 ## [28. H2O Performance]() ##
   - Cluster size approximation
   - Analyzing data in H2O memory
+
+## [29. Advance and Expert Machine Learning with H2O]() ##
+  - Partial Dependency Plots
+  - Partial Dependency Plots with Global Quantiles
+  - Confidence Internal for Prediction
+
   
 ## [Appendix: Important Links] ##
  - [H2O Website](https://www.h2o.ai/)
