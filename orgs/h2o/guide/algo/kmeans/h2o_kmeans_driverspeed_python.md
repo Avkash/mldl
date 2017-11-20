@@ -35,9 +35,11 @@ hdf.describe()
 ```
 
 ###: This dataset has 3 columns
-# Driver ID
-# Distance_Feature: mean distance driven per day
-# Speeding_Feature: mean percentage of time a driver was >5 mph over the speed limit.
+###: Driver ID 
+###: Distance_Feature: mean distance driven per day
+###: Speeding_Feature: mean percentage of time a driver was >5 mph over the speed limit.
+
+###: Looking at the first 5 rows of data:
 ```python
 hdf.head(5)
 ```
