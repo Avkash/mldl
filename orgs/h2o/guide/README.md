@@ -168,7 +168,7 @@
    - FLOW
    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/h2o_kmeans_driverspeed_python.md)
    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/h2o_kmeans_driverspeed_R.md) 
-   - Scala
+   - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/h2o_kmeans_scala.md)
 
 ## [22. Hyperparameters and Grid Search in H2O]() ##
    - Classification Example
