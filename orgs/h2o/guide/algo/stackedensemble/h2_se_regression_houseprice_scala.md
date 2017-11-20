@@ -10,7 +10,7 @@ The dataset used in this example can be obtained from here:
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
   
 ## Get the Sample Scala Code ##
-  - [H2O Stacked Ensemble Regression with House Price Dataset Notebook](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O-StackEnsembles-HousePrice.ipynb)
+  - [H2O Stacked Ensemble Regression with House Price Dataset Scala Scala](https://github.com/Avkash/mldl/blob/master/code/scala/H2O-StackedEnsemble-HousePrice.scala)
   
   
 ## Stacked Ensemble Linear Regression Sample Code in Scala ##
