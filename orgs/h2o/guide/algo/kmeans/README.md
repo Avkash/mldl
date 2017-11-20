@@ -11,6 +11,6 @@ You can learn more about K-Means in H2O [here](http://docs.h2o.ai/h2o/latest-sta
 ## K-means Examples in various examples ##
  - FLOW
  - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/h2o_kmeans_driverspeed_python.md)
- - R
+ - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/h2o_kmeans_driverspeed_R.md)
  - Scala
 
