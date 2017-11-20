@@ -165,7 +165,7 @@
     - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_classification_titanic_R.md)
     - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/deeplearning/h2o_dl_classification_titanic_scala.md)
 
-## [21. Supervised Machine Learning Algotithms - K-MEANS](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/README.md) ##
+## [21. Un-supervised Machine Learning Algotithms - K-MEANS](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/README.md) ##
    - FLOW
    - Python
    - R 
