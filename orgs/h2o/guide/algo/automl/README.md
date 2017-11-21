@@ -10,10 +10,10 @@ You can learn more about H2O AutoML [here](http://docs.h2o.ai/h2o/latest-stable/
    - FLOW
    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_classification_python.md)
    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_classification_titanic_R.md)
-   - Scala
+   - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_titanic_scala.md)
  - Regression Example
    - FLOW
    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_regression_houseprice_python.md)
    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_regression_houseprice_R.md)
-   - Scala
+   - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_houseprice_scala.md)
 
