@@ -199,12 +199,12 @@
    - FLOW
    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_classification_python.md)
    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_classification_titanic_R.md)
-   - Scala
+   - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_titanic_scala.md)
  - Regression Example
    - FLOW
    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_regression_houseprice_python.md)
    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_regression_houseprice_R.md)
-   - Scala
+   - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_titanic_scala.md)
 
 ## [26. H2O Word2Vec Algorithm]() ##
    - What is it and what it does?
