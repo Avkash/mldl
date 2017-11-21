@@ -195,8 +195,16 @@
    - Scala
 
 ## [25. AutoML in H2O]() ##
-  - Classification Example (FLOW | Python | R | Scala)
-  - Regression Example (FLOW | Python | R | Scala)
+  - Classification Example
+    - FLOW
+    - Python
+    - R 
+    - Scala
+  - Regression Example
+    - FLOW
+    - Python
+    - R
+    - Scala
 
 ## [26. H2O Word2Vec Algorithm]() ##
    - What is it and what it does?
