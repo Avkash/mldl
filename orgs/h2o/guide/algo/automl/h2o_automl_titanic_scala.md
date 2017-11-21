@@ -9,7 +9,7 @@ The dataset used in this example can be obtained from here:
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
   
 ## Get the Scala Source Code ##
-  - [H2O AutoML Classification with Titanic Dataset Scala Code](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O_AutoML_Classification_titanic.ipynb)
+  - [H2O AutoML Classification with Titanic Dataset Scala Code](https://github.com/Avkash/mldl/blob/master/code/scala/H2O_AutoML_Titanic.scala)
   
 ## H2O AutoML Binomial Classification Sample Code in Scala ##
 
@@ -31,7 +31,6 @@ import h2oContext.implicits._
 ###: Importing titanic data from a file stored on local file system:
 ```
 val titanicData = new H2OFrame(new File("/Users/avkashchauhan/examples/titanic_list.csv"))
-val titanicData = new H2OFrame(new File("/Users/avkashchauhan/learn/customers/titanic_list.csv"))
 ```
 
 ###: Importing AutoML specific libraries:
