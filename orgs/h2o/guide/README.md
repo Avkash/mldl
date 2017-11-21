@@ -188,8 +188,7 @@
     - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2o_se_classification_titanic_R.md)
     - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2_se_regression_houseprice_scala.md)
 
-## [24. XGBoost with H2O]() ##
-   - What is it and what it does?
+## [24. XGBoost in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/README.md) ##
    - Python
    - R
    - Scala
