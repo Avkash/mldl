@@ -4,7 +4,7 @@ XGBoost is an optimized distributed gradient boosting library designed to be hig
 
 ## Dataset ##
 The dataset used in this example can be obtained from here:
- - [titanic_list.csv](https://raw.githubusercontent.com/Avkash/mldl/master/data/prostate.csv)
+ - [prostate.csv](https://raw.githubusercontent.com/Avkash/mldl/master/data/prostate.csv)
 
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
   
