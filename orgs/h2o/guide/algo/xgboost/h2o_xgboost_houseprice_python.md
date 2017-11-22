@@ -9,7 +9,7 @@ The dataset used in this example can be obtained from here:
 
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
   
-## Get the R Source Code ##
+## Get the Python Source Code ##
   - [H2O XGBoost Regression with House Price Dataset Python Notebook](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O_XGBoost_Regression_HousePrice.ipynb)
   
 ## Regression with H2O XGBoost in Python ##
