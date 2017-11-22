@@ -9,17 +9,21 @@ You can learn more about H2O XGBoost details [here](http://docs.h2o.ai/h2o/lates
 ## XGBoost Samples in H2O ##
 
 - Classification
-  - [FLOW]
-  - [Python (Titanic Dataset)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgb_titanic_python.md)
-  - [Python (Prostate Dataset)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_prostate_python.md)
-  - [R (Titanic Dataset)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_titanic_R.md)
-  - [R (Prostate Dataset)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_prostate_R.md)
-  - [Scala]
+  - Titanic Dataset
+    - [FLOW]
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgb_titanic_python.md)
+    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_titanic_R.md)
+    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_titanic_scala.md)
+  - Prostate Dataset
+    - [FLOW]
+    - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_prostate_python.md)
+    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_prostate_R.md)
+    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_prostate_scala.md)
 - Regression
   - [FLOW]
   - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_houseprice_python.md)
   - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_houseprice_R.md)
-  - [Scala]
+  - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_houseprice_scala.md)
  
  ## Important Facts ##
   - Your response columnd must not contain empty fields:
