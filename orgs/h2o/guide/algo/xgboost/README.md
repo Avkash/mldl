@@ -21,6 +21,11 @@ You can learn more about H2O XGBoost details [here](http://docs.h2o.ai/h2o/lates
   - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_houseprice_R.md)
   - [Scala]
  
+ ## Important Facts ##
+  - Your response columnd must not contain empty fields:
+    - Details: ERRR on field: _response_column: Response contains missing values (NAs) - not supported by XGBoost.
+  - 
+ 
  ## Articles ##
   - [Blog: XGBoost in H2O](https://blog.h2o.ai/2017/06/xgboost-in-h2o-machine-learning-platform/)
   - [XGBoost Documentation in H2O](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/xgboost.html)
