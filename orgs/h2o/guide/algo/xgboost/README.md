@@ -29,4 +29,5 @@ You can learn more about H2O XGBoost details [here](http://docs.h2o.ai/h2o/lates
  ## Articles ##
   - [Blog: XGBoost in H2O](https://blog.h2o.ai/2017/06/xgboost-in-h2o-machine-learning-platform/)
   - [XGBoost Documentation in H2O](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/xgboost.html)
+  - [XGBoost Test Code in H2O[(https://github.com/h2oai/h2o-3/blob/master/h2o-extensions/xgboost/src/test/java/hex/tree/xgboost/XGBoostTest.java)
 
