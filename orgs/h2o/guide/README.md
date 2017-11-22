@@ -169,7 +169,7 @@
    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/h2o_kmeans_driverspeed_R.md) 
    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/h2o_kmeans_scala.md)
 
-## [22. Hyperparameters and Grid Search in H2O]() ##
+## [22. Hyperparameters and Grid Search in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/README.md) ##
    - Classification Example
      - FLOW
      - Python
@@ -218,7 +218,7 @@
    - Python
    - R
      
-## [27. H2O Models in Production]() ##
+## [27. H2O Models in Production](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/README.md) ##
  - Supported Scenarios
  - Exporting Models
    - Binary  (FLOW | Python | R | Scala)
