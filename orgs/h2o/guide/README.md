@@ -189,10 +189,17 @@
     - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2_se_regression_houseprice_scala.md)
 
 ## [24. XGBoost in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/README.md) ##
-   - Python
-   - R
-   - Scala
-
+ - Classification
+   - [FLOW]
+   - [Python]
+   - [R]
+   - [Scala]
+ - Classification
+   - [FLOW]
+   - [Python]
+   - [R]
+   - [Scala]
+ 
 ## [25. AutoML in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/README.md) ##
  - Classification Example
    - FLOW
