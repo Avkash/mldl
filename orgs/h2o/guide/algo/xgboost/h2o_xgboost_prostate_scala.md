@@ -4,12 +4,12 @@ XGBoost is an optimized distributed gradient boosting library designed to be hig
 
 ## Dataset ##
 The dataset used in this example can be obtained from here:
- - [titanic_list.csv](https://raw.githubusercontent.com/Avkash/mldl/master/data/prostate.csv)
+ - [prostate.csv](https://raw.githubusercontent.com/Avkash/mldl/master/data/prostate.csv)
 
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
   
-## Get the Source Code ##
-  - [H2O XGBoost Classification with Prostate Dataset Scala](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O_XGBoost_Classification_prostate.ipynb)
+## Get the Scala Source Code ##
+  - [H2O XGBoost Classification with Prostate Dataset Scala](https://github.com/Avkash/mldl/blob/master/code/scala/H2O_XGBoost_Prostate.scala)
   
 ## Classification with H2O XGBoost in Scala ##
 
