@@ -10,13 +10,15 @@ You can learn more about H2O XGBoost details [here](http://docs.h2o.ai/h2o/lates
 
 - Classification
   - [FLOW]
-  - [Python]
-  - [R]
+  - [Python (Titanic Dataset)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgb_titanic_python.md)
+  - [Python (Prostate Dataset)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_prostate_python.md)
+  - [R (Titanic Dataset)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_titanic_R.md)
+  - [R (Prostate Dataset)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_prostate_R.md)
   - [Scala]
-- Classification
+- Regression
   - [FLOW]
-  - [Python]
-  - [R]
+  - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_houseprice_python.md)
+  - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/xgboost/h2o_xgboost_houseprice_R.md)
   - [Scala]
  
  
