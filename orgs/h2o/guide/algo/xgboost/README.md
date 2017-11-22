@@ -9,14 +9,14 @@ You can learn more about H2O XGBoost details [here](http://docs.h2o.ai/h2o/lates
 ## XGBoost Samples in H2O ##
 
 - Classification
- - [FLOW]
- - [Python]
- - [R]
- - [Scala]
+  - [FLOW]
+  - [Python]
+  - [R]
+  - [Scala]
 - Classification
- - [FLOW]
- - [Python]
- - [R]
- - [Scala]
+  - [FLOW]
+  - [Python]
+  - [R]
+  - [Scala]
  
  
