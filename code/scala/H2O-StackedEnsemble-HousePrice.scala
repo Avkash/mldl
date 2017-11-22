@@ -26,7 +26,7 @@ import _root_.hex.deeplearning.DeepLearningModel
 import _root_.hex.deeplearning.DeepLearningModel.DeepLearningParameters
 
 
-//### Creating Deep Learning Classification Model using titanic data ingested previously:
+//### Creating Deep Learning Regression Model using titanic data ingested previously:
 val dlParams = new DeepLearningParameters()
 dlParams._train = housePriceData
 
