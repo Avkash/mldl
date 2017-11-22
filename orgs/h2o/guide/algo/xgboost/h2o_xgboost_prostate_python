@@ -8,8 +8,8 @@ The dataset used in this example can be obtained from here:
 
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
   
-## Get the Scala Source Code ##
-  - [H2O XGBoost Classification with Prostate Dataset Python Notebook](https://github.com/Avkash/mldl/blob/master/code/scala/H2O_AutoML_Titanic.scala)
+## Get the Python Source Code ##
+  - [H2O XGBoost Classification with Prostate Dataset Python Notebook](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O_XGBoost_Classification_prostate.ipynb)
   
 ## Classification with H2O XGBoost in Python ##
 
