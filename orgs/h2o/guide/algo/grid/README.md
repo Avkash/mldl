@@ -11,10 +11,18 @@ The set of all combinations of values for these knobs is called the hyperparamet
 Learn more about gird search in H2O [here](https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/tutorials/random%20hyperparmeter%20search%20and%20roadmap.md). 
 
 ## Grid Search Examples in H2O ##
- - GLM
- - GBM
- - Random Forest
- - Deep Learning
+ - Classification
+   - Python Samples with Titanic Dataset
+     - [GLM](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_titanic_glm.md)
+     - [GBM](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_titanic_gbm.md)
+     - [Random Forest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_titanic_drf.md)
+     - [Deep Learning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_titanic_deeplearning.md)
+ - Regression 
+   - Python Samples with House Price Dataset
+     - [GLM](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_houseprice_glm.md)
+     - [GBM](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_houseprice_gbm.md)
+     - [Random Forest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_houseprice_drf.md)
+     - [Deep Learning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_houseprice_deeplearning.md)
  - KMeans
  - XGBoost
  
