@@ -195,6 +195,16 @@ glm_grid.train(x=features, y=response, training_frame=train_df)
 len(glm_grid)
 ```
 
+###: Looking at the GLM grid
+```
+glm_grid
+```
+
+###: Getting H2O Grid from the grid ID Object ()
+```
+grid_object = h2o.get_grid(grid_id="titnaic_glm_grid_python")
+```
+
 ###: Defining a function to find the best model from the grid based on r2 or auc
 ```python
 def find_best_model_from_grid(h2o_grid, test_parameter):    
