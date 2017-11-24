@@ -224,7 +224,6 @@
    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_titanic_scala.md)
 
 ## [26. H2O Word2Vec Algorithm](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/README.md) ##
-   - What is it and what it does?
    - Python
    - R
    - Scala
