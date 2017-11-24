@@ -21,7 +21,7 @@ Learn more about gird search in H2O [here](https://github.com/h2oai/h2o-3/blob/m
    - Samples with House Price Dataset
      - [GLM in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_glm_houseprice_python.md)  | [GLM in R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_glm_houseprice_R.md)
      - [GBM in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_gbm_houseprice_python.md) | [GBM in R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_gbm_houseprice_R.md)
-     - [Random Forest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_houseprice_drf.md)
+     - [Random Forest in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_drf_houseprice_python.md) | [Random Forest in R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_drf_houseprice_R.md)
      - [Deep Learning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_houseprice_deeplearning.md)
  - KMeans
  - XGBoost
