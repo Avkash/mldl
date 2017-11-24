@@ -227,6 +227,7 @@
    - What is it and what it does?
    - Python
    - R
+   - Scala
      
 ## [27. H2O Models in Production](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/README.md) ##
  - Supported Scenarios
