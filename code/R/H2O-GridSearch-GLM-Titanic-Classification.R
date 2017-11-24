@@ -43,7 +43,7 @@ features = setdiff(features, c('name', 'ticket', 'home.dest'))
 print(features)    
 
 ###: Understanding response variable values as historgram in Training data
-h2o.hist(h2o.asnumeric(train_df[response].asnumeric())
+h2o.hist(h2o.asnumeric(train_df[response]))
 
 ###:Training classification model with cross validation
 glm_model_with_cv = h2o.glm(nfolds=5, 
