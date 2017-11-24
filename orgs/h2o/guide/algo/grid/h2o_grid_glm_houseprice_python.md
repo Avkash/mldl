@@ -10,7 +10,7 @@ The dataset used in this example can be obtained from here:
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
   
 ## Get the Sample Python Notebook ##
-  - [H2O GLM Regression with House Price Dataset Notebook](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O_DeepLearning_Classification_titanic.ipynb)
+  - [H2O GLM Regression with House Price Dataset Notebook](https://github.com/Avkash/mldl/blob/master/notebook/h2o/H2O-GridSearch-GLM-HousePrice-Regression.ipynb)
   
 ## GLM Regression Grid Search Sample in Python ##
 
