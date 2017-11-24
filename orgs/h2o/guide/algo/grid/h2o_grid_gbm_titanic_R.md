@@ -206,8 +206,8 @@ max_max_depth = as.numeric(max(max_depth_values))
 ###: Now we can retrain the model based on selected alpha and lambda values above
 ###: This is how you will set the updated GLM grid parameters based on grid search hyperparameter and retrain the grid
 ```python
-glm_hyper_params = list(alpha = seq(min_learn_rate,max_learn_rate,1), 
-                        lambda =  seq(min_max_depth, max_max_depth, 1))
+glm_hyper_params = list(learn_rate = seq(min_learn_rate,max_learn_rate,1), 
+                        max_depth =  seq(min_max_depth, max_max_depth, 1))
 ```
 
 ###: Getting the 5 best model from the grid
