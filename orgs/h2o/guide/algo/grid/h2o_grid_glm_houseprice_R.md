@@ -131,7 +131,7 @@ glm_grid = h2o.grid(
 
 ###: Finally getting the grid details based on AUC metric,  from ascending to descending sorted order
 ```python
-result_grid = h2o.getGrid("titnaic_glm_grid_R", sort_by = "r2", decreasing = TRUE)
+result_grid = h2o.getGrid("houseprice_glm_grid_R", sort_by = "r2", decreasing = TRUE)
 ```
 
 ###: understanding grid
