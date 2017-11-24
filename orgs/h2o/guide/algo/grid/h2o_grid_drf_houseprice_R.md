@@ -223,7 +223,7 @@ h2o.hist(model_predictions)
 h2o.scoreHistory(best_model)
 ```
 
-###: Getting GBM model variable importance 
+###: Getting model variable importance 
 ```python
 h2o.varimp(best_model)
 ```
