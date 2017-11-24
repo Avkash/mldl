@@ -183,12 +183,12 @@ def find_best_model_from_grid(h2o_grid, test_parameter):
 
 ###: Applying the function to get the best model from the grid
 ```python
-best_glm_model = find_best_model_from_grid(house_price_glm_grid, "r2")
+best_model = find_best_model_from_grid(house_price_glm_grid, "r2")
 ```
 
 ###: Getting the best model performance on test data
 ```python
-best_glm_model.model_performance(valid=True,test_data=test_df).r2()
+best_model.model_performance(valid=True,test_data=test_df).r2()
 ```
 
 ###: Performing predictions with one of the above model
