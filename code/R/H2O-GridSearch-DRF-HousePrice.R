@@ -33,7 +33,7 @@ print(features)
 h2o.hist(h2o.asnumeric(train_df[response]))
 
 ###:Training classification model with cross validation
-drf_model_with_cv = h2o.gbm(nfolds=5, 
+drf_model_with_cv = h2o.randomForest(nfolds=5, 
                             x = features, y = response, training_frame=train_df)
 
 ###: Getting model performance
@@ -41,7 +41,7 @@ h2o.performance(drf_model_with_cv, xval = TRUE)
 h2o.r2(drf_model_with_cv, xval = TRUE)
 
 ###:Training classification model with cross validation and key parameters configuration
-drf_model_cv_config = h2o.gbm(nfolds=5,
+drf_model_cv_config = h2o.randomForest(nfolds=5,
                               keep_cross_validation_predictions=TRUE,
                               fold_assignment="Modulo",
                               seed=12345,
