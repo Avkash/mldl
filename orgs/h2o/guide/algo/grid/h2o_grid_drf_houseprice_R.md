@@ -9,7 +9,7 @@ The dataset used in this example can be obtained from here:
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
   
 ## Get the Sample R Code ##
-  - [H2O Random Forest Classification with Titanic Dataset R Code]()
+  - [H2O Random Forest Classification with Titanic Dataset R Code](https://github.com/Avkash/mldl/blob/master/code/R/H2O-GridSearch-DRF-HousePrice.R)
   
 ## Random Forest Binomial Classification Grid Search Sample in R ##
 
@@ -68,7 +68,7 @@ h2o.hist(h2o.asnumeric(train_df[response]))
 
 ###:Training classification model with cross validation
 ```python
-drf_model_with_cv = h2o.gbm(nfolds=5, 
+drf_model_with_cv = h2o.randomForest(nfolds=5, 
                             x = features, y = response, training_frame=train_df)
 ```
 
@@ -80,7 +80,7 @@ h2o.r2(drf_model_with_cv, xval = TRUE)
 
 ###:Training classification model with cross validation and key parameters configuration
 ```python
-drf_model_cv_config = h2o.gbm(nfolds=5,
+drf_model_cv_config = h2o.randomForest(nfolds=5,
                               keep_cross_validation_predictions=TRUE,
                               fold_assignment="Modulo",
                               seed=12345,
