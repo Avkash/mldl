@@ -71,7 +71,7 @@ grid_search_criteria = list( 'strategy'= "RandomDiscrete",
 glm_grid = h2o.grid(
                      hyper_params=glm_hyper_params,
                      search_criteria=grid_search_criteria,
-                     grid_id="titnaic_glm_grid_R",
+                     grid_id="houseprice_glm_grid_R",
                      algorithm = "glm"  ,
                      nfolds=5,
                      keep_cross_validation_predictions=TRUE,
@@ -82,7 +82,7 @@ glm_grid = h2o.grid(
                     )
 
 ###: Finally getting the grid details based on AUC metric,  from ascending to descending sorted order
-result_grid = h2o.getGrid("titnaic_glm_grid_R", sort_by = "r2", decreasing = TRUE)
+result_grid = h2o.getGrid("houseprice_glm_grid_R", sort_by = "r2", decreasing = TRUE)
 
 ###: understanding grid
 result_grid
