@@ -15,8 +15,8 @@ Learn more about gird search in H2O [here](https://github.com/h2oai/h2o-3/blob/m
    - Samples with Titanic Dataset
      - [GLM in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_glm_titanic_python.md) | [GLM in R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_glm_titanic_R.md) 
      - [GBM in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_gbm_titanic_python.md) | [GBM in R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_gbm_titanic_R.md)
-     - [Random Forest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_titanic_drf.md)
-     - [Deep Learning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_titanic_deeplearning.md)
+     - [Random Forest in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_drf_titanic_python.md) | [Random Forest in R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_drf_titanic_R.md)
+     - [Deep Learning in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_dl_titanic_python.md) | [Deep Learning in R]()
  - Regression 
    - Python Samples with House Price Dataset
      - [GLM](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_houseprice_glm.md)
