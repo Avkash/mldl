@@ -185,7 +185,7 @@ auc_list = result_grid@summary_table['auc'][[1]]
 max(auc_list)
 ```
 
-###: Getting Top 5 alpha values based on AUC sorted list, and then findings min and max of alpha from the top 5 AUC results
+###: Getting Top 5 learn_rate values based on r2 sorted list, and then findings min and max of learn_rate from the top 5 r2 results
 ```python
 learn_rate_values = result_grid@summary_table$learn_rate[1:5]
 learn_rate_values
@@ -194,7 +194,7 @@ min_learn_rate = as.numeric(min(learn_rate_values))
 max_learn_rate = as.numeric(max(learn_rate_values))
 ```
 
-###: Getting Top 5 Lambda values based on AUC sorted list, and then findings min and max of Lambda from the top 5 AUC results
+###: Getting Top 5 max_depth values based on r2 sorted list, and then findings min and max of max_depth from the top 5 r2 results
 ```python
 max_depth_values = result_grid@summary_table$max_depth[1:5]
 max_depth_values
@@ -203,10 +203,10 @@ min_max_depth = as.numeric(min(max_depth_values))
 max_max_depth = as.numeric(max(max_depth_values))
 ```
 
-###: Now we can retrain the model based on selected alpha and lambda values above
-###: This is how you will set the updated GLM grid parameters based on grid search hyperparameter and retrain the grid
+###: Now we can retrain the model based on selected learn_rate and max_depth values above
+###: This is how you will set the updated GBM grid parameters based on grid search hyperparameter and retrain the grid
 ```python
-glm_hyper_params = list(learn_rate = seq(min_learn_rate,max_learn_rate,1), 
+gbm_hyper_params = list(learn_rate = seq(min_learn_rate,max_learn_rate,1), 
                         max_depth =  seq(min_max_depth, max_max_depth, 1))
 ```
 
