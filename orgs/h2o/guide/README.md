@@ -170,21 +170,19 @@
    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/kmeans/h2o_kmeans_scala.md)
 
 ## [22. Hyperparameters and Grid Search in H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/README.md) ##
-   - Classification
-     - Python Samples with Titanic Dataset
-       - [GLM](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_titanic_glm.md)
-       - [GBM](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_titanic_gbm.md)
-       - [Random Forest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_titanic_drf.md)
-       - [Deep Learning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_titanic_deeplearning.md)
-   - Regression 
-     - Python Samples with House Price Dataset
-       - [GLM](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_houseprice_glm.md)
-       - [GBM](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_houseprice_gbm.md)
-       - [Random Forest](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_houseprice_drf.md)
-       - [Deep Learning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_houseprice_deeplearning.md)
-   - KMeans
-   - XGBoost
- 
+ - Classification
+   - Samples with Titanic Dataset
+     - [GLM in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_glm_titanic_python.md) | [GLM in R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_glm_titanic_R.md) 
+     - [GBM in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_gbm_titanic_python.md) | [GBM in R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_gbm_titanic_R.md)
+     - [Random Forest in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_drf_titanic_python.md) | [Random Forest in R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_drf_titanic_R.md)
+     - [Deep Learning in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_dl_titanic_python.md) | [Deep Learning in R]()
+ - Regression 
+   - Samples with House Price Dataset
+     - [GLM in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_glm_houseprice_python.md)  | [GLM in R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_glm_houseprice_R.md)
+     - [GBM in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_gbm_houseprice_python.md) | [GBM in R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_gbm_houseprice_R.md)
+     - [Random Forest in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_drf_houseprice_python.md) | [Random Forest in R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_drf_houseprice_R.md)
+     - [Deep Learning in Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_dl_houseprice_python.md) | [Deep Learning in R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/grid/h2o_grid_dl_houseprice_R.md)
+
 ## [23. Supervised Machine Learning Algotithm : Stacked Ensembles](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/README.md) ##
   - Regression Example
     - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/stackedensemble/h2o_se_regression_houseprice_python.md)
