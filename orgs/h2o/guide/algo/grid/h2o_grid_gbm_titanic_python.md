@@ -177,7 +177,7 @@ gbm_grid = H2OGridSearch(model=H2OGradientBoostingEstimator(
                                                     seed=12345),
                      hyper_params=gbm_hyper_params,
                      search_criteria=grid_search_criteria,
-                     grid_id="titnaic_gbm_grid")
+                     grid_id="titnaic_gbm_grid_python")
 ```
 
 ###: Finally training H2O Grid with data 
