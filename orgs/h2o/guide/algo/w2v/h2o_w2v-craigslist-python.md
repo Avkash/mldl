@@ -9,7 +9,7 @@ The dataset used in this example can be obtained from here:
 Note: Use "wget" and above links to pull the the data locally or use the URL above directly to load data into H2O.
 
 ## Get the Sample R  Code ##
-  - [H2O Word2Vec Sample in R](https://github.com/Avkash/mldl/blob/master/code/R/H2O-GridSearch-GLM-Titanic-Classification.R)
+  - [H2O Word2Vec Sample in R](https://github.com/Avkash/mldl/blob/master/code/R/H2O-Word2Vec-CraigslistTitles.R)
 
 ## Sample code in R ## 
 
