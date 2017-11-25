@@ -6,5 +6,5 @@ Note: This Word2vec implementation is written in Java and is not compatible with
 
 ## Word2Vec Sample Code ##
  - [Python]
- - [R]
+ - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/h2o_w2v-craigslist-python.md)
  - [Scala]
