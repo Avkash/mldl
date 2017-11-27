@@ -33,7 +33,7 @@ h2o.init()
 df = h2o.import_file("https://raw.githubusercontent.com/Avkash/mldl/master/data/titanic_list.csv")
 ```
 
-### Understanding the dataset
+###: Understanding the dataset
 ```python
 df.describe()
 ```
