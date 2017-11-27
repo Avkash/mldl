@@ -258,6 +258,7 @@
  - [H2O Website](https://www.h2o.ai/)
  - [Latest Download Page](https://www.h2o.ai/download/)
  - [Documentation](http://docs.h2o.ai/h2o/latest-stable/index.html)
+ - [H2O Python Demos](https://github.com/h2oai/h2o-3/tree/master/h2o-py/demos)
  - H2O Open Source Projects at Github
    - [H2O-3](https://github.com/h2oai/h2o-3)
    - [Sparkling Water](https://github.com/h2oai/sparkling-water)
