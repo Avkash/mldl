@@ -5,6 +5,6 @@ The Word2vec algorithm takes a text corpus as an input and produces the word vec
 Note: This Word2vec implementation is written in Java and is not compatible with other implementations that, for example, are written in C++. In addition, importing models in binary format is not supported.
 
 ## Word2Vec Sample Code ##
- - [Python]
- - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/h2o_w2v-craigslist-python.md)
+ - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/h2o-w2v-craigslistjobs-python.md)
+ - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/h2o-w2v-craigslistjobs-R.md)
  - [Scala]
