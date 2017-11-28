@@ -1,6 +1,6 @@
 # All Articles ##
 
-### Machine Learning ###
+### Machine Learning and AI ###
 - [Machine Learning Raises Security Teams to Next Level - (451 Research)](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/ML-SecurityNxtLevel.pdf)
 - [Machine Learning Logistics](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/Machine-learning-logistics-final.pdf)
 - [2016_12_15_H2O_Meetup_Kaggle_Tips](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/2016_12_15_H2O_Meetup_Kaggle_Tips.pdf)
@@ -19,7 +19,7 @@
  - [Predictive Analytics for Travel & Transport Industry - By Unisys](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/PredictiveAnalytics-TravelTransport.pdf)
  
 ### Cheatsheets and RefCards ###
-- [Getting Started with Tensorflow]()
+- [Getting Started with Tensorflow](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/gettingstartedwithtensorflow.pdf)
 - [Conda Cheatsheet](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/conda-cheatsheet.pdf)
 - [DASK Cheatsheet](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/daskcheatsheet.pdf)
 - [Data_Scientist_Cheat_Sheet](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/Data_Scientist_Cheat_Sheet.pdf)
