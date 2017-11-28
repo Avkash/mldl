@@ -5,13 +5,17 @@
 - [Andy Field Discovering Statistics using SPSS 3rd Edition](https://github.com/Avkash/mldl/tree/master/pages/docs/books/andy-field-discovering-statistics-using-spss-third-edition-20091.pdf)
 - [Introduction to Statistical Learning - ISLR First Printing](https://github.com/Avkash/mldl/tree/master/pages/docs/books/ISLR_First_printing.pdf)
 
-### Machine Learning, Deep Learning and  Python ###
+### Machine Learning & Deep Learning ###
 - [MATLAB: Machine Learning Books all 4 Parts](https://github.com/Avkash/mldl/blob/master/pages/docs/books/Matlab_Machine_Learning.pdf)
 - [Pyimage Search Gurus Syllabus](https://github.com/Avkash/mldl/tree/master/pages/docs/books/pyimagesearch-gurus-syllabus.pdf)
-- [python4ScientificComputing.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/python4ScientificComputing.pdf)
-- [Genetic_algorithms_with_python sample](https://github.com/Avkash/mldl/tree/master/pages/docs/books/genetic_algorithms_with_python-sample.pdf)
+(https://github.com/Avkash/mldl/tree/master/pages/docs/books/genetic_algorithms_with_python-sample.pdf)
 - [Machine Learning Interpretability with H2O Driverless AI](https://github.com/Avkash/mldl/blob/master/pages/docs/books/MLI.pdf)
 - [Image Annotation Guide](https://github.com/Avkash/mldl/blob/master/pages/docs/books/image-annotation-guide.pdf)
+
+### Python Programming ###
+- [Genetic_algorithms_with_python sample]- [python4ScientificComputing.pdf](https://github.com/Avkash/mldl/tree/master/pages/docs/books/python4ScientificComputing.pdf)
+- [Python Programming Cookbook by Sebastian Vinci](https://github.com/Avkash/mldl/blob/master/pages/docs/books/PythonProgrammingCookbook.pdf)
+- [Dive into Python by Mark Pligrim (APress)](https://github.com/Avkash/mldl/blob/master/pages/docs/books/DiveIntoPython.pdf)
 
 ### Database, Data Management, & Graph Database ###
  - [Oreilly Graph Database 2nd Edition](https://github.com/Avkash/mldl/blob/master/pages/docs/books/OreillyGraphDatabases.pdf)
