@@ -1,6 +1,8 @@
 # All Articles ##
 
 ### Machine Learning ###
+- [Machine Learning Raises Security Teams to Next Level - (451 Research)](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/ML-SecurityNxtLevel.pdf)
+- [Machine Learning Logistics](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/Machine-learning-logistics-final.pdf)
 - [2016_12_15_H2O_Meetup_Kaggle_Tips](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/2016_12_15_H2O_Meetup_Kaggle_Tips.pdf)
 - [A_Non-Technical_Introduction_to_Machine_Learning](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/A_Non-Technical_Introduction_to_Machine_Learning)
 - [AdvancedR ](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/advancedR.pdf)
@@ -13,7 +15,11 @@
 - [H2O_Takeaways__Democratizing_AI](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/H2O_Takeaways__Democratizing_AI.pdf)
 - [Linear algebra cheat sheet for deep learning](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/Linear_algebra_cheat_sheet_for_deep_learning.pdf)
 
+### Analytics and Big Data ###
+ - [Predictive Analytics for Travel & Transport Industry - By Unisys](https://github.com/Avkash/mldl/blob/master/pages/docs/articles/PredictiveAnalytics-TravelTransport.pdf)
+ 
 ### Cheatsheets and RefCards ###
+- [Getting Started with Tensorflow]()
 - [Conda Cheatsheet](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/conda-cheatsheet.pdf)
 - [DASK Cheatsheet](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/daskcheatsheet.pdf)
 - [Data_Scientist_Cheat_Sheet](https://github.com/Avkash/mldl/tree/master/pages/docs/industry/Data_Scientist_Cheat_Sheet.pdf)
