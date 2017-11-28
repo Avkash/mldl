@@ -46,4 +46,9 @@
 ### Model Intrepretation ###
  - [Datascience.com: Skater - MLI](https://github.com/datascienceinc/Skater)
 
+### The Serial Killer Detector ###
+ - [MurderDataBase](http://www.murderdata.org/)
+ - [The Serial-Killer Detector](https://www.newyorker.com/magazine/2017/11/27/the-serial-killer-detector)
+ 
+
 http://www.jmlr.org/
