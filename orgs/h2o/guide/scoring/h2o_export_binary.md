@@ -5,7 +5,7 @@
 
 ## Python ##
 
-### Export model ###
+### Exporting H2O Binary model ###
 For example if you have GBM model as below:
 ```
 from h2o.estimators.gbm import H2OGradientBoostingEstimator
@@ -23,6 +23,7 @@ Above:
  - force : If True then the model file will be overwritten
  
 ### Importing H2O Binary model ###
+
 For example if model is saved at the location below, you can load into H2O as below:
 ```
 model_path = "/Users/avkashchauhan/Downloads/GBM_model_python_1511810189311_2237"
@@ -31,6 +32,9 @@ h2o_gbm_model.model_performance(xval=True).r2()
 ```
 
 ## R ##
+
+### Exporting H2O Binary model ###
+
 For example if you have GBM model as below:
 ```
 h2o_gbm  = h2o.gbm(nfolds = 5, x = features, y = response, training_frame= train)
