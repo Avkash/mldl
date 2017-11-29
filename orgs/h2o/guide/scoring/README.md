@@ -9,20 +9,26 @@ After your model is ready to meet your business need, you can export those H2O m
 2. POJO
 3. MOJO
 
-### [Exporting and Importing (Binary Only) Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_exporting_models.md) ## 
+### Binary Model ###
+This is in-cluster scoring method means you must need exact verion of H2O cluster up and running to score with H2O Binary Models. You can export binary models and import back to H2O as long as both the export and import H2O cluser version are exactly the same. 
+
+### [Exporting and Importing (Binary Only) Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_exporting_models.md) ### 
    - FLOW
    - Python
    - R
    - Scala
-
-### Binary Model ###
-This is in-cluster scoring method means you must need exact verion of H2O cluster up and running to score with H2O Binary Models. You can export binary models and import back to H2O as long as both the export and import H2O cluser version are exactly the same. 
 
 ### POJO Model ###
 A POJO (Plain Old Java Object) model is Java code which has everything needed for a H2O model to score without H2O runtine. It compiled as java code and runs like Java code. You can embedd it into your full Java project and use score as a function.  POJO models are supported for Deep Learning, DRF, GBM, GLM, GLRM, K-Means, PCAA, and Stacked Ensembles.
 
 ### MOJO Model ###
 A MOJO (Model Object, Optimized) is much improved version of POJO in compact foramt and can be used as as alternative to POJO model. MOJO models are supported for Deep Learning, DRF, GBM, GLM, GLRM, K-Means, Stacked Ensembles, SVM, Word2vec, and XGBoost algorithms. 
+
+### [Exporting POJO and MOJO Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_exporting_pojo_mojo.md) ### 
+   - FLOW
+   - Python
+   - R
+   - Scala
 
 ### [Scoring (in-cluster)with Binary Model](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_incluster.md) ### 
    - FLOW
