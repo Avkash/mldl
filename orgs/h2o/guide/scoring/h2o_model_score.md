@@ -9,7 +9,7 @@ POJO and MOJO models allow users to build a model using H2O and then deploy the 
    - Scala
 
 ### [Scoring (out-cluster) with POJO and MOJO Model](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_outcluster.md) ### 
-   - [Scoring with POJO: Classification & Regression Sample in Java]
+   - [Scoring with POJO: Classification & Regression Sample in Java](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_pojo_java.md)
    - [Scoring with MOJO: Classification & Regression Sample in Java](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_mojo_java.md) 
    - Hive Scoring
      - Hive UDF Sample in Java
