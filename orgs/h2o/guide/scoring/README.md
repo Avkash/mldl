@@ -21,3 +21,4 @@ A MOJO (Model Object, Optimized) is much improved version of POJO in compact for
 ### Additional Resources ###
  - [H2O MOJO into a Servlet](https://github.com/h2oai/app-mojo-servlet)
  - [POJO and MOJO Java Docs](http://docs.h2o.ai/h2o/latest-stable/h2o-genmodel/javadoc/index.html)
+ - [Developing and Operationalizing H2O.ai Models with Azure](https://blogs.technet.microsoft.com/machinelearning/2017/11/28/developing-and-operationalizing-h2o-ai-models-with-azure/)
