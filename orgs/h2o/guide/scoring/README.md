@@ -15,22 +15,9 @@ A POJO (Plain Old Java Object) model is Java code which has everything needed fo
 ### 3: MOJO Model ###
 A MOJO (Model Object, Optimized) is much improved version of POJO in compact foramt and can be used as as alternative to POJO model. MOJO models are supported for Deep Learning, DRF, GBM, GLM, GLRM, K-Means, Stacked Ensembles, SVM, Word2vec, and XGBoost algorithms. 
 
-### [Scoring (in-cluster)with Binary Model](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_incluster.md) ### 
-   - FLOW
-   - Python
-   - R
-   - Scala
-
-### [Scoring (out-cluster) with POJO and MOJO Model](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_outcluster.md) ### 
-   - POJO Scoring
-     - Classification Sample in Java | Scala
-     - Regression Sample in Java | Scala
-   - MOJO Scoring
-     - Classification Sample in Java | Scala
-     - Regression Sample in Java | Scala
-   - Hive Scoring
-     - Hive UDF Sample in Java
-     
+ - [Exporting H2O models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_model_export.md)
+ - [Scoring with H2O Model]()
+      
 ### Additional Resources ###
  - [H2O MOJO into a Servlet](https://github.com/h2oai/app-mojo-servlet)
  - [POJO and MOJO Java Docs](http://docs.h2o.ai/h2o/latest-stable/h2o-genmodel/javadoc/index.html)
