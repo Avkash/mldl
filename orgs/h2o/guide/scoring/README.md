@@ -9,6 +9,12 @@ After your model is ready to meet your business need, you can export those H2O m
 2. POJO
 3. MOJO
 
+### [Exporting Models]() ## 
+   - FLOW
+   - Python
+   - R
+   - Scala
+
 ### Binary Model ###
 This is in-cluster scoring method means you must need exact verion of H2O cluster up and running to score with H2O Binary Models. You can export binary models and import back to H2O as long as both the export and import H2O cluser version are exactly the same. 
 
@@ -18,9 +24,24 @@ A POJO (Plain Old Java Object) model is Java code which has everything needed fo
 ### MOJO Model ###
 A MOJO (Model Object, Optimized) is much improved version of POJO in compact foramt and can be used as as alternative to POJO model. MOJO models are supported for Deep Learning, DRF, GBM, GLM, GLRM, K-Means, Stacked Ensembles, SVM, Word2vec, and XGBoost algorithms. 
 
+### [In Cluster Scoring with Binary Model]() ### 
+   - FLOW
+   - Python
+   - R
+   - Scala
+
+### [Out Cluster Scoring with POJO and MOJO Model]() ### 
+   - POJO Scoring
+     - Classification Sample in Java | Scala
+     - Regression Sample in Java | Scala
+   - MOJO Scoring
+     - Classification Sample in Java | Scala
+     - Regression Sample in Java | Scala
+   - Hive Scoring
+     - Hive UDF Sample in Java
+     
 ### Using genmodel.jar by passing model, input csv and output csv (all commandline) ### 
 java -ea -cp h2o-genmodel.jar:gbm_model_dir -Xmx4g -XX:MaxPermSize=256m -XX:ReservedCodeCacheSize=256m hex.genmodel.tools.PredictCsv --header --model GBM_model_R_1508436572991_1 --input /Users/nidhimehta/Downloads/data2.csv --output output.csv --decimal
-
 
 ### Additional Resources ###
  - [H2O MOJO into a Servlet](https://github.com/h2oai/app-mojo-servlet)
