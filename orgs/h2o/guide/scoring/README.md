@@ -12,7 +12,7 @@ After your model is ready to meet your business need, you can export those H2O m
 ### Binary Model ###
 This is in-cluster scoring method means you must need exact verion of H2O cluster up and running to score with H2O Binary Models. You can export binary models and import back to H2O as long as both the export and import H2O cluser version are exactly the same. 
 
-### [Exporting and Importing (Binary Only) Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_exporting_models.md) ### 
+### [Exporting and Importing (Binary Only) Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_export_binary.md) ### 
    - FLOW
    - Python
    - R
