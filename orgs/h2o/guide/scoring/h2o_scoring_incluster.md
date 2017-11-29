@@ -1,13 +1,13 @@
 # Scoring with H2O Binary Models #
 
-With binary models you can score 
+Once H2O model is loaded into H2O memory you can perform the scoring depending on the environment you have. 
 
-## Exporting Model  ###
+## Scoring in FLOW  ###
 
-Python
-```
-h2o.predict()
-```
+## Scoring in Python  ###
 
-## Importing Model ##
+## Scoring in R  ###
+
+## Scoring in SCala  ###
+
 
