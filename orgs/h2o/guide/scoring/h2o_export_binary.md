@@ -7,17 +7,13 @@ Once your algorithm is done and the result model is ready to meet your need you 
 - With POJO and MOJO you must export h2o-genmodel.jar also and keep it together with exported models
 - POJO models are in plan code so you can read and understand the code however MOJO models are compressed and in zip ormat so not human readable
 
-## FLOW (Import model | Export model) ##
-
-### Exporting H2O Binary model ###
+### FLOW: Exporting H2O Binary model ###
 ![](https://github.com/Avkash/mldl/blob/master/images/h2o_flow_model_export.png?raw=true)
 
-### Importing H2O Binary model ###
+### FLOW: Importing H2O Binary model ###
 ![](https://github.com/Avkash/mldl/blob/master/images/h2o_flow_model_import.png?raw=true)
 
-## Python ##
-
-### Exporting H2O Binary model ###
+### Python: Exporting H2O Binary model ###
 For example if you have GBM model as below:
 ```
 from h2o.estimators.gbm import H2OGradientBoostingEstimator
@@ -34,7 +30,7 @@ Above:
  - path  : The fully qualified path where you want to save the model
  - force : If True then the model file will be overwritten
  
-### Importing H2O Binary model ###
+### Python: Importing H2O Binary model ###
 
 For example if model is saved at the location below, you can load into H2O as below:
 ```
@@ -43,9 +39,7 @@ h2o_gbm_model = h2o.load_model(model_path)
 h2o_gbm_model.model_performance(xval=True).r2()
 ```
 
-## R ##
-
-### Exporting H2O Binary model ###
+### R: Exporting H2O Binary model ###
 
 For example if you have GBM model as below:
 ```
@@ -61,7 +55,7 @@ Above:
  - path  : The fully qualified path where you want to save the model
  - force : If True then the model file will be overwritten
  
-### Importing H2O Binary model ###
+### R: Importing H2O Binary model ###
 For example if model is saved at the location below, you can load into H2O as below:
 ```
 model_path = "/Users/avkashchauhan/Downloads/GBM_model_python_1511810189311_2237"
@@ -69,5 +63,6 @@ h2o_gbm_model = h2o.loadModel(model_path)
 h2o.performance(h2o_gbm_model,xval=TRUE)
 ```
 
-## Scala (Import model | Export model) ##
+### Scala: Exporting H2O Binary model ###
+### Scala: Importing H2O Binary model ###
 
