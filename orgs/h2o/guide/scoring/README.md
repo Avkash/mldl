@@ -30,7 +30,7 @@ A MOJO (Model Object, Optimized) is much improved version of POJO in compact for
    - R
    - Scala
 
-### [Scoring (out-cluster) with POJO and MOJO Model]() ### 
+### [Scoring (out-cluster) with POJO and MOJO Model](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_outcluster.md) ### 
    - POJO Scoring
      - Classification Sample in Java | Scala
      - Regression Sample in Java | Scala
@@ -40,9 +40,6 @@ A MOJO (Model Object, Optimized) is much improved version of POJO in compact for
    - Hive Scoring
      - Hive UDF Sample in Java
      
-### Using genmodel.jar by passing model, input csv and output csv (all commandline) ### 
-java -ea -cp h2o-genmodel.jar:gbm_model_dir -Xmx4g -XX:MaxPermSize=256m -XX:ReservedCodeCacheSize=256m hex.genmodel.tools.PredictCsv --header --model GBM_model_R_1508436572991_1 --input /Users/nidhimehta/Downloads/data2.csv --output output.csv --decimal
-
 ### Additional Resources ###
  - [H2O MOJO into a Servlet](https://github.com/h2oai/app-mojo-servlet)
  - [POJO and MOJO Java Docs](http://docs.h2o.ai/h2o/latest-stable/h2o-genmodel/javadoc/index.html)
