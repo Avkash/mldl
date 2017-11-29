@@ -4,7 +4,10 @@ One of the top advantage of H2O is to export H2O models as POJO (Plain Old Java 
 
 H2O does provide h2o-genmodel.jar as the only compile and runtime dependency for POJO and MOJO. For POJO you must use the exact same version of h2o-genmodel.jar however MOJO is compatible with any version of h2o-genmodel.jar. 
 
-After your model is ready to meet your business need, you can export those H2O models to 3 different formats: 
+ - [Exporting H2O models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_model_export.md)
+ - [Scoring with H2O Model](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_model_score.md)
+
+H2O supported following 3 different type of models: 
 
 ### 1: Binary Model ###
 This is in-cluster scoring method means you must need exact verion of H2O cluster up and running to score with H2O Binary Models. You can export binary models and import back to H2O as long as both the export and import H2O cluser version are exactly the same. 
@@ -14,9 +17,6 @@ A POJO (Plain Old Java Object) model is Java code which has everything needed fo
 
 ### 3: MOJO Model ###
 A MOJO (Model Object, Optimized) is much improved version of POJO in compact foramt and can be used as as alternative to POJO model. MOJO models are supported for Deep Learning, DRF, GBM, GLM, GLRM, K-Means, Stacked Ensembles, SVM, Word2vec, and XGBoost algorithms. 
-
- - [Exporting H2O models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_model_export.md)
- - [Scoring with H2O Model](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_model_score.md)
       
 ### Additional Resources ###
  - [H2O MOJO into a Servlet](https://github.com/h2oai/app-mojo-servlet)
