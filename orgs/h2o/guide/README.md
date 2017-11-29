@@ -223,12 +223,18 @@
    - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_regression_houseprice_R.md)
    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_titanic_scala.md)
 
-## [26. H2O Word2Vec Algorithm](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/README.md) ##
+## [26. Anomaly detection using H2O Deep Learning Auto Encoder](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/encoder/README.md) ##
+  - [Python]()
+  - [R]()
+  - [Scala]()
+
+## [27. H2O Word2Vec Algorithm](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/README.md) ##
   - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/h2o-w2v-craigslistjobs-python.md)
   - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/h2o-w2v-craigslistjobs-R.md)
   - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/h2o-w2v-craigslistjobs-scala.md)
      
-## [27. H2O Models in Production](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/README.md) ##
+
+## [28. H2O Models in Production](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/README.md) ##
  - Supported Scenarios
  - Exporting Models
    - Binary  (FLOW | Python | R | Scala)
@@ -244,11 +250,11 @@
    - Hive Scoring
      - Hive UDF Sample in Java
 
-## [28. H2O Performance]() ##
+## [29. H2O Performance]() ##
   - Cluster size approximation
   - Analyzing data in H2O memory
 
-## [29. Advance and Expert Machine Learning with H2O]() ##
+## [30. Advance and Expert Machine Learning with H2O]() ##
   - Partial Dependency Plots
   - Partial Dependency Plots with Global Quantiles
   - Confidence Internal for Prediction
