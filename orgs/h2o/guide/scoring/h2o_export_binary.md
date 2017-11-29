@@ -4,11 +4,9 @@
 ## FLOW (Import model | Export model) ##
 
 ### Exporting H2O Binary model ###
-
-~[](https://github.com/Avkash/mldl/blob/master/images/h2o_flow_model_export.png?raw=true)
+![](https://github.com/Avkash/mldl/blob/master/images/h2o_flow_model_export.png?raw=true)
 
 ### Importing H2O Binary model ###
-
 ![](https://github.com/Avkash/mldl/blob/master/images/h2o_flow_model_import.png?raw=true)
 
 ## Python ##
