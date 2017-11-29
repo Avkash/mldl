@@ -9,7 +9,7 @@ After your model is ready to meet your business need, you can export those H2O m
 2. POJO
 3. MOJO
 
-### [Exporting Models]() ## 
+### [Exporting and Importing (Binary Only) Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_exporting_models.md) ## 
    - FLOW
    - Python
    - R
