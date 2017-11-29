@@ -5,24 +5,21 @@ One of the top advantage of H2O is to export H2O models as POJO (Plain Old Java 
 H2O does provide h2o-genmodel.jar as the only compile and runtime dependency for POJO and MOJO. For POJO you must use the exact same version of h2o-genmodel.jar however MOJO is compatible with any version of h2o-genmodel.jar. 
 
 After your model is ready to meet your business need, you can export those H2O models to 3 different formats: 
-1. Binary Model
-2. POJO
-3. MOJO
 
-### Binary Model ###
+### 1: Binary Model ###
 This is in-cluster scoring method means you must need exact verion of H2O cluster up and running to score with H2O Binary Models. You can export binary models and import back to H2O as long as both the export and import H2O cluser version are exactly the same. 
+
+### 2: POJO Model ###
+A POJO (Plain Old Java Object) model is Java code which has everything needed for a H2O model to score without H2O runtine. It compiled as java code and runs like Java code. You can embedd it into your full Java project and use score as a function.  POJO models are supported for Deep Learning, DRF, GBM, GLM, GLRM, K-Means, PCAA, and Stacked Ensembles.
+
+### 3: MOJO Model ###
+A MOJO (Model Object, Optimized) is much improved version of POJO in compact foramt and can be used as as alternative to POJO model. MOJO models are supported for Deep Learning, DRF, GBM, GLM, GLRM, K-Means, Stacked Ensembles, SVM, Word2vec, and XGBoost algorithms. 
 
 ### [Exporting and Importing (Binary Only) Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_export_binary.md) ### 
    - FLOW
    - Python
    - R
    - Scala
-
-### POJO Model ###
-A POJO (Plain Old Java Object) model is Java code which has everything needed for a H2O model to score without H2O runtine. It compiled as java code and runs like Java code. You can embedd it into your full Java project and use score as a function.  POJO models are supported for Deep Learning, DRF, GBM, GLM, GLRM, K-Means, PCAA, and Stacked Ensembles.
-
-### MOJO Model ###
-A MOJO (Model Object, Optimized) is much improved version of POJO in compact foramt and can be used as as alternative to POJO model. MOJO models are supported for Deep Learning, DRF, GBM, GLM, GLRM, K-Means, Stacked Ensembles, SVM, Word2vec, and XGBoost algorithms. 
 
 ### [Exporting POJO and MOJO Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_exporting_pojo_mojo.md) ### 
    - FLOW
