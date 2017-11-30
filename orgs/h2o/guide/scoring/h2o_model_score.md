@@ -33,5 +33,8 @@ Compiling MOJO with Java 1.8
 ``` 
 
 ## Running the code ##
-
+You just need to use the h2o-genmodel.jar into class path (and any other class you need)  and just use the main class (i.e. main.java was our main class in above code) to run the code as below:
+```
+$ java -cp .:h2o-genmodel.jar main
+```
 
