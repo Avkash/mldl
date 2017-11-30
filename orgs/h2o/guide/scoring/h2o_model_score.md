@@ -13,3 +13,25 @@ POJO and MOJO models allow users to build a model using H2O and then deploy the 
    - [Scoring with MOJO: Classification & Regression Sample in Java](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_mojo_java.md) 
    - Hive Scoring
      - Hive UDF Sample in Java
+
+## Compiling the Java code with POJO and MOJO models ##
+Compiling POJO with Java 1.7 
+```   
+ $ javac -cp h2o-genmodel.jar -J-Xmx2g -J-XX:MaxPermSize=128m  your_pojo_model.java main.java
+``` 
+Compiling MOJO with Java 1.7 
+```   
+ $ javac -cp h2o-genmodel.jar -J-Xmx2g -J-XX:MaxPermSize=128m  main.java
+``` 
+Compiling POJO with Java 1.8 
+```   
+ $ javac -cp h2o-genmodel.jar -J-Xmx2g your_pojo_model.java  main.java
+``` 
+Compiling MOJO with Java 1.8
+```   
+ $ javac -cp h2o-genmodel.jar -J-Xmx2g main.java
+``` 
+
+## Running the code ##
+
+
