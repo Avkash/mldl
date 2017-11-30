@@ -2,13 +2,13 @@
 
 POJO and MOJO models allow users to build a model using H2O and then deploy the model to score in real-time, using the POJO and MOJO model or a REST API call to a scoring server.
 
-### [Scoring (in-cluster)with Binary Model](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_incluster.md) ### 
-   - FLOW
-   - Python
-   - R
-   - Scala
+### Scoring (in-cluster)with Binary Model ### 
+   - [FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_incluster.md)
+   - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_incluster.md)
+   - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_incluster.md)
+   - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_incluster.md)
 
-### [Scoring (out-cluster) with POJO and MOJO Model](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_outcluster.md) ### 
+### Scoring (out-cluster) with POJO and MOJO Model ### 
    - [Scoring with POJO: Classification & Regression Sample in Java](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_pojo_java.md)
    - [Scoring with MOJO: Classification & Regression Sample in Java](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_mojo_java.md) 
    - Hive Scoring
@@ -38,3 +38,8 @@ You just need to use the h2o-genmodel.jar into class path (and any other class y
 $ java -cp .:h2o-genmodel.jar main
 ```
 
+## Command-Line Scoring with POJO/MOJO models and data as CSV ##
+Using genmodel.jar by passing model, input csv and output csv (all commandline)
+```
+java -ea -cp h2o-genmodel.jar:gbm_model_dir -Xmx4g -XX:MaxPermSize=256m -XX:ReservedCodeCacheSize=256m hex.genmodel.tools.PredictCsv --header --model GBM_model_R_1508436572991_1 --input /Downloads/data2.csv --output output.csv --decimal
+```
