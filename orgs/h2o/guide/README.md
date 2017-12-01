@@ -235,26 +235,25 @@
      
 
 ## [28. H2O Models in Production](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/README.md) ##
- - Supported Scenarios
- - Exporting Models
-   - Binary  (FLOW | Python | R | Scala)
-   - POJO and MOJO models (FLOW | Python | R | Scala)
- - Scoring Model
-   - in-cluster scoring (FLOW | Python | R )
-   - POJO Scoring
-     - Classification Sample in Java | Scala
-     - Regression Sample in Java | Scala
-   - MOJO Scoring
-     - Classification Sample in Java | Scala
-     - Regression Sample in Java | Scala
+ - [Exporting H2O models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_model_export.md)
+    - [Exporting and Importing (Binary Only) Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_export_binary.md)
+    - [Exporting POJO and MOJO Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_exporting_pojo_mojo.md)
+ - [Scoring with H2O Model](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_model_score.md)
+    - [Scoring (in-cluster)with Binary Model](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_incluster.md)
+    - Scoring (out-cluster) with POJO and MOJO Model
+      - [Scoring with POJO: Classification & Regression Sample in Java](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_pojo_java.md)
+      - [Scoring with MOJO: Classification & Regression Sample in Java](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_mojo_java.md) 
    - Hive Scoring
-     - Hive UDF Sample in Java
+     - [Hive UDF Sample in Java]
+   - Scoring in Spark with Spark UDF
+     - [Spark UDF]
 
 ## [29. H2O Performance]() ##
   - Cluster size approximation
   - Analyzing data in H2O memory
 
 ## [30. Advance and Expert Machine Learning with H2O]() ##
+  - Checkpoint Models in H2O
   - Partial Dependency Plots
   - Partial Dependency Plots with Global Quantiles
   - Confidence Internal for Prediction
