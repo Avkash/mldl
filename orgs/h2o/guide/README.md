@@ -243,10 +243,13 @@
     - Scoring (out-cluster) with POJO and MOJO Model
       - [Scoring with POJO: Classification & Regression Sample in Java](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_pojo_java.md)
       - [Scoring with MOJO: Classification & Regression Sample in Java](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_mojo_java.md) 
-   - Hive Scoring
-     - [Scoring using MOJO with Hive UDf Function](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_hive_udf_prostate.md)
-   - Scoring in Spark with Spark UDF
-     - [Spark UDF Scroing with H2O MOJO Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_spark_udf.md)
+ - Hive Scoring with POJO and MOJO models
+   - [Hive UDF POJO Template Sample](https://github.com/h2oai/h2o-tutorials/tree/master/tutorials/hive_udf_template/hive_udf_pojo_template)
+   - [Hive UDF MOJO Template Sample](https://github.com/h2oai/h2o-tutorials/tree/master/tutorials/hive_udf_template/hive_udf_mojo_template)
+   - [Hive UDF Multi-MOJO Template Sample](https://github.com/h2oai/h2o-tutorials/tree/master/tutorials/hive_udf_template/hive_multimojo_udf_template)
+   - [Scoring using MOJO with Hive UDf Function](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_hive_udf_prostate.md)
+ - Scoring in Spark with Spark UDF
+   - [Spark UDF Scroing with H2O MOJO Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_spark_udf.md)
 
 ## [29. H2O Performance]() ##
   - Cluster size approximation
