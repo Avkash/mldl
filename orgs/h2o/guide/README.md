@@ -62,6 +62,7 @@
    - Importing a File (FLOW | Python | R | Scala)
    - Importing Multiple Files (FLOW | Python | R | Scala)
    - Uploading a File (FLOW | Python | R | Scala)
+ - [Ingest data from S3 & export to S3N/S3A](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_ingest_s3_general.md)
  - [Ingesting Data from S3 from Java API](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_ingest_s3_java.md)
  
 ## [10. Ingesting data from RDBS in Python and R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/h2o_sql_ingest.md) ##
