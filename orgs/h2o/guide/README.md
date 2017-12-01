@@ -244,9 +244,9 @@
       - [Scoring with POJO: Classification & Regression Sample in Java](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_pojo_java.md)
       - [Scoring with MOJO: Classification & Regression Sample in Java](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_mojo_java.md) 
    - Hive Scoring
-     - [Hive UDF Sample in Java]
+     - [Scoring using MOJO with Hive UDf Function](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_scoring_hive_udf_prostate.md)
    - Scoring in Spark with Spark UDF
-     - [Spark UDF]
+     - [Spark UDF Scroing with H2O MOJO Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_spark_udf.md)
 
 ## [29. H2O Performance]() ##
   - Cluster size approximation
