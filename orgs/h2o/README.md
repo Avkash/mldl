@@ -6,7 +6,6 @@
  - [Working on a Pull Request (PR) to work on H2O source code and Merging into Master and Release Branch](https://github.com/Avkash/mldl/blob/master/orgs/h2o/pre_dev.md)
  - [Writing python code into H2O python API](https://github.com/Avkash/mldl/blob/master/orgs/h2o/python_dev.md)
  - [Python sample code to perform MOJO Scoring](https://github.com/Avkash/mldl/blob/master/code/python/python_mojo_score.md)
- - [Scoring using MOJO with Hive UDf Function](https://github.com/Avkash/mldl/blob/master/orgs/h2o/hive_udf_prostate.md)
  - [How to debug H2O with R]()
  - [rsparkling User Guide](https://github.com/Avkash/mldl/blob/master/code/R/rsparkling_guide.md)
  - [Creating H2O cluster of N machines using flatfile or multicast way](https://github.com/Avkash/mldl/blob/master/orgs/h2o/h2o_installation.md)
