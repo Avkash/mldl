@@ -45,7 +45,7 @@ train_ecg = h2o.import_file("https://raw.githubusercontent.com/Avkash/mldl/maste
 test_ecg = h2o.import_file("https://raw.githubusercontent.com/Avkash/mldl/master/data/ecg_discord_test.csv")
 ```
 
-###: transpose the frame to have the time serie as a single colum to plot
+###: transpose the frame to have the time series as a single column to plot
 ```
 train_ecg.as_data_frame().T.plot(legend=False, title="ECG Train Data", color='blue'); # don't display the legend
 ```
