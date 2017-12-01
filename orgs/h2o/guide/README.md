@@ -31,6 +31,7 @@
  - Installation on Spark Cluster
  - Launching Cluster (deploy mode - client vs cluster)
  - Machine Learning in Sparkling Water
+ - Converting pyspark.sql.dataframe.DataFrame to H2O Data Frame
 
 ## [6. pysparkling](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/pysparkling/h2o_pysparkling.md) ##
  - Installation
