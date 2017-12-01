@@ -224,9 +224,9 @@
    - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/automl/h2o_automl_titanic_scala.md)
 
 ## [26. Anomaly detection using H2O Deep Learning Auto Encoder](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/encoder/README.md) ##
-  - [Python]()
-  - [R]()
-  - [Scala]()
+  - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/encoder/h2o_encoder_ecg_python.md)
+  - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/encoder/h2o_encoder_ecg_R.md)
+  - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/encoder/h2o_encoder_ecg_scala.md)
 
 ## [27. H2O Word2Vec Algorithm](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/README.md) ##
   - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/h2o-w2v-craigslistjobs-python.md)
