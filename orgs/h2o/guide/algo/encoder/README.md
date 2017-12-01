@@ -14,9 +14,9 @@ The dataset is an ECG time series of heartbeats and the goal is to determine whi
  - [Test Dataset: ecg_discord_test.csv](https://raw.githubusercontent.com/Avkash/mldl/master/data/ecg_discord_test.csv)
 
 ## Samples in various languages ##
- - Python
- - R
- - Scala
+ - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/encoder/h2o_encoder_ecg_python.md)
+ - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/encoder/h2o_encoder_ecg_R.md)
+ - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/encoder/h2o_encoder_ecg_scala.md)
 
 ## Articles and Resources ##
  - [Anomaly Heart Beats Detection](https://github.com/h2oai/h2o-3/blob/master/examples/deeplearning/notebooks/deeplearning_anomaly_detection.ipynb)
