@@ -23,3 +23,4 @@ Helpful Links:
  - [H2O Deep Learning Performance Tuning](https://blog.h2o.ai/2015/08/deep-learning-performance-august/)
  - [How many hidden layers should I use?(ftp://ftp.sas.com/pub/neural/FAQ3.html#A_hl)]
  - [How To Improve Deep Learning Performance](https://machinelearningmastery.com/improve-deep-learning-performance/)
+ - [H2O Deep Learning Turorial and Tuning](https://github.com/h2oai/h2o-tutorials/tree/master/tutorials/deeplearning)
