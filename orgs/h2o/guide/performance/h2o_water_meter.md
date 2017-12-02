@@ -3,14 +3,14 @@
 ## Note: Only Supported into H2O cluster running on Linux ##
 
 ### You can launch H2O Watermeter view from Admin > Water Meter (CPU Meter) as below:
-![](?raw=true)
+![](https://github.com/Avkash/mldl/blob/master/images/h2o_flow_watermeter_launch.png?raw=true)
 
 ### A busy H2O cluster looks like as below: ###
-![](?raw=true)
+![](https://github.com/Avkash/mldl/blob/master/images/h2o_flow_watermeter_busy.png?raw=true)
 
 
 ### A melo/not-so-busy H2O cluster looks like as below: ###
-![](?raw=true)
+![](https://github.com/Avkash/mldl/blob/master/images/h2o_flow_watermeter_melo.png?raw=true)
 
 
 Note:
