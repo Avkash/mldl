@@ -255,8 +255,11 @@
    - [Spark UDF Scroing with H2O MOJO Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_spark_udf.md)
 
 ## [29. H2O Performance](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/README.md) ##
-  - Cluster size approximation
-  - Analyzing data in H2O memory
+ - [Cluster size and node type/count approximation](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/h2o_perf_cluster_size.md)
+ - [Data ingest performance into H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/h2o_perf_data_ingest.md)
+ - [Analyzing data/objects into H2O memory](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/h2o_perf_objects_memory.md)
+ - [Visualizing and Understanding Dataset Distribution into H2O memory from FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/h2o_data_view_flow.md)
+ - [Understanding CPU utilization in H2O cluster](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/h2o_water_meter.md) 
 
 ## [30. Advance and Expert Machine Learning with H2O]() ##
   - Checkpoint Models in H2O
