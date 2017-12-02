@@ -15,4 +15,16 @@
  - For H2O cluster in Hadoop and/or spark, its best to provide as much memory as possible, and reduce the number of node count.
  - For Deep learning, you need as many as CPUs you can provide in your cluster. Add more CPUs will help you to achieve faster training time. 
  
+## Data Ingest ##
+ - For large datasets, you should be using h2o.import_file
+ - Please make sure that as.h2o API is mostly for small datasets
+ - Please use upload_file/uploadFile API to move data from your local file system to H2O memory directly.
+ - If ingesting data into H2O from a multinode H2O (standalone) cluster, you must copy the file on all the nodes otherwise use distributed file system i.e. Hadoop/HDFS. 
+
+
 ## Analyzing data in H2O memory ##
+ - Once data is ingested into H2O memory you can always look at the data distribution into H2O memory at dataset level. 
+ - Use FLOW to see the distribution of dataset into all the nodes based on records and data size.
+ - This should help you to understand if data was evenly distributed among all the nodes. An even distribution helps faster training time on given dataset.
+ - In the FLOW UI will will see how the data is compressed into H2O memory and how it is distributed in chunks and vecs.
+ 
