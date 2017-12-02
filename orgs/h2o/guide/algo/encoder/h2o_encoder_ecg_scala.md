@@ -12,7 +12,7 @@ The dataset is an ECG time series of heartbeats and the goal is to determine whi
  - [Test Dataset: ecg_discord_test.csv](https://raw.githubusercontent.com/Avkash/mldl/master/data/ecg_discord_test.csv)
 
 ## Get Scala Sample Code ##
- -[Scala Code Sample]() 
+ - [Scala Code Sample](https://github.com/Avkash/mldl/blob/master/code/scala/H2O-AutoEncoder-ECG.scala) 
 
 ## Anomaly Detection samples in Scala ##
 
