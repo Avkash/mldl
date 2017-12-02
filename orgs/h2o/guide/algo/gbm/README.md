@@ -19,3 +19,7 @@ You can learn more about GBM in H2O [here](http://docs.h2o.ai/h2o/latest-stable/
 ### GBM examples for Multinomial Classification in various language: ###
   - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/gbm/h2o_gbm_multi_python.md)
   - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/gbm/h2o_gbm_multi_R.md)
+
+
+### Resources and Articles ##
+ - [GBM R function: Getting variable importance separately for each class](https://stackoverflow.com/questions/29637145/gbm-r-function-get-variable-importance-separately-for-each-class)
