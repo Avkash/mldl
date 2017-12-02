@@ -1,4 +1,4 @@
-# Analyzing Data into H2O memory from FLOW #
+# Visualizing and Understanding Dataset Distribution into H2O memory from FLOW #
 
 I have uploaded the following file from HDFS to "3 nodes H2O cluster":
 ```
