@@ -254,7 +254,7 @@
  - Scoring in Spark with Spark UDF
    - [Spark UDF Scroing with H2O MOJO Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_spark_udf.md)
 
-## [29. H2O Performance]() ##
+## [29. H2O Performance](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/README.md) ##
   - Cluster size approximation
   - Analyzing data in H2O memory
 
