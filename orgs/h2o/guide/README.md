@@ -271,6 +271,8 @@
   - Partial Dependency Plots with Global Quantiles
   - Confidence Internal for Prediction
 
+## [32. Various Tips and Tricks while using H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/guidance/README.md)
+  - [Creating Variable Importance table in Python from an H2O Model]()
   
 ## [Appendix: Important Links] ##
  - [H2O Website](https://www.h2o.ai/)
