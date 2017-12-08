@@ -19,6 +19,6 @@ model_in_python
 ```
 
 ## Model details ##
- - [R]
+ - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/model/h2o_model_details_r.md)
  - [Python](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/model/h2o_model_python.md)
- - [Scala]
+ - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/model/h2o_model_details_scala.md)
