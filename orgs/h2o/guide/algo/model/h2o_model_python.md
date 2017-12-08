@@ -2,6 +2,7 @@
 
 If you want to access H2O model json output, try as below:
 ```
+gbm_model_cv._model_json
 gbm_model_cv._model_json['output']
 gbm_model_cv._model_json['output']['variable_importances']
 ```
