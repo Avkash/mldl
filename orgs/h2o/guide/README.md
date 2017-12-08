@@ -236,12 +236,12 @@
   - [R](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/h2o-w2v-craigslistjobs-R.md)
   - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/h2o-w2v-craigslistjobs-scala.md)
      
-## [Model Details from R, Python & Scala API](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/model/README.md) ##     
+## [28. Model Details from R, Python & Scala API](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/model/README.md) ##     
   - Python API for model details
   - R API for model details
   - Scala API for Model details
   
-## [28. H2O Models in Production](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/README.md) ##
+## [29. H2O Models in Production](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/README.md) ##
  - [Exporting H2O models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_model_export.md)
     - [Exporting and Importing (Binary Only) Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_export_binary.md)
     - [Exporting POJO and MOJO Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_exporting_pojo_mojo.md)
@@ -258,14 +258,14 @@
  - Scoring in Spark with Spark UDF
    - [Spark UDF Scroing with H2O MOJO Models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_score_spark_udf.md)
 
-## [29. H2O Performance](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/README.md) ##
+## [30. H2O Performance](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/README.md) ##
  - [Cluster size and node type/count approximation](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/h2o_perf_cluster_size.md)
  - [Data ingest performance into H2O](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/h2o_perf_data_ingest.md)
  - [Analyzing data/objects into H2O memory](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/h2o_perf_objects_memory.md)
  - [Visualizing and Understanding Dataset Distribution into H2O memory from FLOW](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/h2o_data_view_flow.md)
  - [Understanding CPU utilization in H2O cluster](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/performance/h2o_water_meter.md) 
 
-## [30. Advance and Expert Machine Learning with H2O]() ##
+## [31. Advance and Expert Machine Learning with H2O]() ##
   - Checkpoint Models in H2O
   - Partial Dependency Plots
   - Partial Dependency Plots with Global Quantiles
