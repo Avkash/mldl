@@ -237,9 +237,9 @@
   - [Scala](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/w2v/h2o-w2v-craigslistjobs-scala.md)
      
 ## [28. Model Details from R, Python & Scala API](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/model/README.md) ##     
-  - Python API for model details
-  - R API for model details
-  - Scala API for Model details
+  - [Python API for model details](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/model/h2o_model_python.md)
+  - [R API for model details](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/model/h2o_model_details_r.md)
+  - [Scala API for Model details](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/algo/model/h2o_model_details_scala.md)
   
 ## [29. H2O Models in Production](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/README.md) ##
  - [Exporting H2O models](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/scoring/h2o_model_export.md)
