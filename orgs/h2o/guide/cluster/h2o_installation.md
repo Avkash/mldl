@@ -51,3 +51,9 @@ H2O run on Linux, Windows and OSX environment and can be set to run either singl
    - Install H2O Python Package on your python environment
      - CMD> pip install URL_TO_THE_H2O_VERSION_R_DOWNLOAD
 
+## H2O Install on Conda (Python) ##
+  - Location of H2O Conda Packages
+    - https://anaconda.org/h2oai/h2o/files
+  - Install Command
+    - $ conda install h2o 
+
