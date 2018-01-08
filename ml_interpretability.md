@@ -6,6 +6,7 @@
  - [FairML: Auditing Black-Box Predictive Models](http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html)
  - [ChaLearn AutoML challenge ](http://automl.chalearn.org/)
  - [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
+ - [SHAP (SHapley Additive exPlanations) - Explain the output of any machine learning model using expectations and Shapley values](https://github.com/slundberg/shap)
  - [H2O MLI Resources](https://github.com/h2oai/mli-resources)
 
 ## Source Code/Jupyter Notebook ##
