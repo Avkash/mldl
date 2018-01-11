@@ -17,3 +17,4 @@
  - [Interpreting Random Forest](http://blog.datadive.net/interpreting-random-forests/)
  - [Look Who's Fighting Our Algorithmic Overlords](https://www.bloomberg.com/view/articles/2017-08-30/look-who-s-fighting-our-algorithmic-overlords)
  - [How AI detectives are cracking open the black box of deep learning](http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning)
+ - [Interpretability in conversation with Patrick Hall and Sameer Singh](http://blog.fastforwardlabs.com/2017/09/11/interpretability-webinar.html)
