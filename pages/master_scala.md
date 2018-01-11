@@ -10,3 +10,4 @@
 
 ### Articles ### 
   - [Creating Decision Trees into Scala](https://dzone.com/articles/decision-trees-in-apache-spark?)
+  - [Top 15 Scala Libraries for Data Science in 2018](https://medium.com/activewizards-machine-learning-company/top-15-scala-libraries-for-data-science-in-2018-4b2cb5c5367e)
