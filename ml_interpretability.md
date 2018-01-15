@@ -8,7 +8,9 @@
  - [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
  - [SHAP (SHapley Additive exPlanations) - Explain the output of any machine learning model using expectations and Shapley values](https://github.com/slundberg/shap)
  - [H2O MLI Resources](https://github.com/h2oai/mli-resources)
-
+ - [ExploreKit: Java based ML Explanation](https://github.com/giladkatz/ExploreKit)
+ - [XGBoost Decision Paths](https://github.com/MLWave/black-boxxy#xgboost-decision-paths)
+ 
 ## Source Code/Jupyter Notebook ##
  - [LIME Test](https://github.com/DustinVerzal/lime/blob/master/doc/notebooks/Lime%20%20-%20H2O%20Example.ipynb)
 
