@@ -6,6 +6,7 @@
  
 ## Timeseries Datasets ##
  - [OPower Datasets for electricity usage in various US cities/counties/installations](http://en.openei.org/datasets/dataset/commercial-and-residential-hourly-load-profiles-for-all-tmy3-locations-in-the-united-states/resource/b341f6c6-ab5a-4976-bd07-adc68a2239c4)
+ - [UCR Time Series Classification Archive](http://www.cs.ucr.edu/~eamonn/time_series_data/)
  
 ## Medical/Pharam Datasets ##
  - [The PTB Diagnostic ECG Database](https://www.physionet.org/physiobank/database/ptbdb/)
