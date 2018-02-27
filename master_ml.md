@@ -1,4 +1,18 @@
-# All things Machine Learning #
+## Top Machine Learning Algorithms ##
+- [Linear regression](https://lnkd.in/gZsqvir)
+- [Logistic regression](https://lnkd.in/guQ9upd)
+- [SVM](https://lnkd.in/g3NxzjC)
+- [Random forest](https://lnkd.in/gMrNiRR)
+- [Gradient boosting](https://lnkd.in/ggmktnB)
+- [PCA](https://lnkd.in/gj_f4mp)
+- [K-means clustering](https://lnkd.in/g9FZFfk)
+- [Collaborative filtering](https://lnkd.in/gtE5HRB)
+- [kNN](https://lnkd.in/gUvEqsR)
+- [ARIMA](https://lnkd.in/grwBJNd)
+- [Neural networks](https://lnkd.in/gqJkD6Z)
+- Great course  for [learning machine learning](https://lnkd.in/gutByCN)
+
+## All things Machine Learning ##
  - [Gradient Boosting, Decision Trees and XGBoost with CUDA](https://devblogs.nvidia.com/parallelforall/gradient-boosting-decision-trees-xgboost-cuda/)
  - [For the Starters - Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
