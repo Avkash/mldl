@@ -1,6 +1,23 @@
 # Open AI Challanges - Worldwide #
  - [Functional Map of the World Challenge](https://www.iarpa.gov/challenges/fmow.html)
 
+# ML/AI Events in 2018 #
+## Febryary ##
+ - [Fairness, Accountability, and Transparency in Machine Learning - Feb 23-24 NYU, NYC](http://www.fatml.org/)
+## March ##
+## April ##
+## May ##
+## June ##
+ - [AIParis.fr](https://aiparis.fr/)
+   - 11/12 June,  The City of Fashion and Design, 34 Quai d'Austerlitz, 75013 Paris
+## July ##
+## August ##
+## September ##
+## October ##
+## November ##
+## December ##
+
+
 # ML/AI Events in 2017 #
 
 ## August ##
@@ -24,10 +41,3 @@
 
 ## December ##
 
-# Events in 2018 #
-
-## January ##
-
-## Febryary ##
- - [Fairness, Accountability, and Transparency in Machine Learning - Feb 23-24 NYU, NYC](http://www.fatml.org/)
-## March ##
