@@ -11,7 +11,7 @@
 ## June ##
  - [AIParis.fr](https://aiparis.fr/)
    - 11/12 June,  The City of Fashion and Design, 34 Quai d'Austerlitz, 75013 Paris
- - Chief Data Officer, Financial Services, West
+ - [Chief Data Officer](https://coriniumintelligence.com/chiefdataofficerfinancialwest/), Financial Services, West
    - San Francisco, June 19-20, 2018
 ## July ##
 ## August ##
