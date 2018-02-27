@@ -1,4 +1,5 @@
 # Open AI Challanges - Worldwide #
+ - [DIUx xView 2018 Detection Challenge](http://www.xviewdataset.org/)
  - [Functional Map of the World Challenge](https://www.iarpa.gov/challenges/fmow.html)
 
 # ML/AI Events in 2018 #
