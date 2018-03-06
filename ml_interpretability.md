@@ -1,6 +1,7 @@
 # All things Model Interpretability (MLI) #
 
 ## Model Interpretability Projects ##
+ - [CriticalML: Resources for FAT/MLI](https://github.com/rockita/criticalML)
  - [DataScience: Skater](https://github.com/datascienceinc/Skater)
  - [Lime](https://github.com/marcotcr/lime)
  - [FairML: Auditing Black-Box Predictive Models](http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html)
