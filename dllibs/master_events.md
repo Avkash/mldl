@@ -15,6 +15,8 @@
    - 11/12 June,  The City of Fashion and Design, 34 Quai d'Austerlitz, 75013 Paris
  - [Chief Data Officer](https://coriniumintelligence.com/chiefdataofficerfinancialwest/), Financial Services, West
    - San Francisco, June 19-20, 2018
+ - [Sensor Expo and conference](https://www.sensorsexpo.com/)
+   - JUNE 26-28, 2018 (EXPO: JUNE 27-28) | SAN JOSE, CA
 ## July ##
 ## August ##
 ## September ##
