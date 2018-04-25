@@ -9,6 +9,8 @@
 ## April ##
 ## May ##
 ## June ##
+ - [Founders Embassy: Borderless Summit](https://www.foundersembassy.com/borderless-summit/)
+   - THE FIRST SUMMIT DESIGNED TO ELEVATE INTERNATIONAL AND IMMIGRANT ENTREPRENEURS
  - [AIParis.fr](https://aiparis.fr/)
    - 11/12 June,  The City of Fashion and Design, 34 Quai d'Austerlitz, 75013 Paris
  - [Chief Data Officer](https://coriniumintelligence.com/chiefdataofficerfinancialwest/), Financial Services, West
