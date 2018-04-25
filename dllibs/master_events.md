@@ -9,6 +9,8 @@
 ## April ##
 ## May ##
 ## June ##
+ - [Machine Learning and AI Developer Conference](http://mldevcon.com/)
+   - June 5 & 6, 2018 - Now co-located with the IoT DevCon -> Santa Clara Convention Center
  - [Founders Embassy: Borderless Summit](https://www.foundersembassy.com/borderless-summit/)
    - THE FIRST SUMMIT DESIGNED TO ELEVATE INTERNATIONAL AND IMMIGRANT ENTREPRENEURS
  - [AIParis.fr](https://aiparis.fr/)
