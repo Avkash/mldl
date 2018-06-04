@@ -108,8 +108,8 @@
  - [Pivoting data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_pivot.md)
 
 ## [16. Things data scientists do with data before model building]() ##
- - [Visaulize the input data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/data/h2o_data_visualize.md)
- - [Finding correlation among features](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/data/h2o_data_correlation.md)
+ - [Visaulize the input data](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_visualize.md)
+ - [Finding correlation among features](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_correlation.md)
  - [Convert features to proper type i.e. num or enum](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_feature_convert.md)
  - [Impute missing values](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_impute.md)
  - [Ignore the features not needed in machine leaning](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_feature_ignore.md)
