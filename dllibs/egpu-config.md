@@ -11,6 +11,10 @@ Understand OSX eGPU:
 https://egpu.io/forums/mac-setup/guide-troubleshooting-egpus-on-macos/
 
 
-eGPU Setup:
+eGPU Setup with purge-wrangler:
+https://egpu.io/forums/mac-setup/script-enable-egpu-on-tb1-2-macs-on-macos-10-13-4/
+
+
+https://egpu.io/forums/mac-setup/nvidia-workaround-for-high-sierra-egpu-acceleration/paged/1/
 
 https://egpu.io/forums/mac-setup/script-enable-egpu-on-tb1-2-macs-on-macos-10-13-4/
