@@ -1,5 +1,8 @@
 
 
+Nvidia 387.10.10.x Web Driver:
+
+https://images.nvidia.com/mac/pkg/387/WebDriver-387.10.10.10.40.105.pkg
 
 CUDA 9.0 OSX:
 https://www.nvidia.com/object/macosx-cuda-9.0.197-driver.html
