@@ -29,3 +29,5 @@
 ## Python and other programming languages integration ##
  - [pyjnius](https://pyjnius.readthedocs.io/en/latest/installation.html)
 
+## Python Random Errors & Solution
+ - [Errors and solution](https://github.com/Avkash/mldl/blob/master/pages/python_errors.md)
