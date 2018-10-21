@@ -75,6 +75,19 @@ total 3876
 pi@raspberrypi:~ $ ln -s /usr/local/lib/python2.7/site-packages/cv2.so  ~/.virtualenvs/cvp2/lib/python2.7/site-packages/cv2.so
 ```
 
+## Verifying Python2 in Virtual Environment ##
+
+```
+(cvp2) pi@raspberrypi:~ $ python
+Python 2.7.13 (default, Sep 26 2018, 18:42:22)
+[GCC 6.3.0 20170516] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import cv2
+>>> cv2.__version__
+'3.3.0'
+>>> quit()
+```
+
 ## copying (symlink) cv2.so inside virtual environment name cvp3 ##
 
 ```
