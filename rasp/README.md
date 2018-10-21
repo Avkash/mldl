@@ -25,7 +25,7 @@
  List of Problem:
  
  1. Segmentation Fault on some commands > Reflash is best option
- 2. 
+ 2. [All commands fail with error - "Input/output error"](https://github.com/Avkash/mldl/blob/master/rasp/raspbian-error-nospace.md)
  
  
  
