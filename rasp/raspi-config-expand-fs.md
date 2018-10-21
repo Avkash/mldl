@@ -1,9 +1,10 @@
 
 
-** Here is the output of raspi-config when expaning the disk to 64GB **
+## Here is the output of raspi-config when expaning the disk to 64GB ##
 
 $ sudo raspi-config
 
+```
 Welcome to fdisk (util-linux 2.29.2).
 Changes will remain in memory only, until you decide to write them.
 Be careful before using the write command.
@@ -48,5 +49,7 @@ Re-reading the partition table failed.: Device or resource busy
 
 The kernel still uses the old table. The new table will be used at the next reboot or after you run partprobe(8) or kpartx(8).
 
-Connection to 10.0.0.37 closed by remote host.
-Connection to 10.0.0.37 closed.
+```
+
+REBOOT
+
