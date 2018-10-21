@@ -17,12 +17,17 @@ make[2]: *** [modules/features2d/CMakeFiles/opencv_test_features2d.dir/test/ocl/
 CMakeFiles/Makefile2:10740: recipe for target 'modules/features2d/CMakeFiles/opencv_test_features2d.dir/all' failed
 make[1]: *** [modules/features2d/CMakeFiles/opencv_test_features2d.dir/all] Error 2
 make[1]: *** Waiting for unfinished jobs....
-[ 57%] Building CXX object modules/features2d/CMakeFiles/opencv_perf_features2d.dir/perf/opencl/perf_brute_force_matcher.cpp.o
-[ 57%] Building CXX object modules/features2d/CMakeFiles/opencv_perf_features2d.dir/perf/opencl/perf_feature2d.cpp.o
-[ 57%] Building CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/BING/CmFile.cpp.o
-[ 57%] Building CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/BING/CmShow.cpp.o
-[ 57%] Building CXX object modules/line_descriptor/CMakeFiles/opencv_line_descriptor.dir/src/binary_descriptor.cpp.o
-[ 57%] Building CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/BING/FilterTIG.cpp.o
+- [ 57%] Building CXX object modules/features2d/CMakeFiles/opencv_perf_features2d.dir/perf/opencl/perf_brute_force_matcher.cpp.o
+
+- [ 57%] Building CXX object modules/features2d/CMakeFiles/opencv_perf_features2d.dir/perf/opencl/perf_feature2d.cpp.o
+
+- [ 57%] Building CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/BING/CmFile.cpp.o
+
+- [ 57%] Building CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/BING/CmShow.cpp.o
+
+- [ 57%] Building CXX object modules/line_descriptor/CMakeFiles/opencv_line_descriptor.dir/src/binary_descriptor.cpp.o
+
+- [ 57%] Building CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/BING/FilterTIG.cpp.o
 [ 57%] Building CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/BING/ValStructVec.cpp.o
 [ 57%] Building CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/BING/objectnessBING.cpp.o
 [ 57%] Building CXX object modules/line_descriptor/CMakeFiles/opencv_line_descriptor.dir/src/binary_descriptor_matcher.cpp.o
