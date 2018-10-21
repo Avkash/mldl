@@ -1,4 +1,4 @@
-** Successfull OpenCV Build with 3.3.0 **
+## Successfull OpenCV Build with 3.3.0 ##
 
 
 [ 99%] Linking CXX executable ../../bin/cpp-tutorial-Sobel_Demo
@@ -54,7 +54,7 @@ Scanning dependencies of target tutorial_HoughCircle_Demo
 [100%] Built target opencv_python3
 
 
-** Verifying cv2.so ready:  **
+## Verifying cv2.so ready:  ##
 
 - pi@raspberrypi:~/opencv-3.3.0/build $ ls -l /usr/local/lib/python2.7/site-packages/
 - total 3880
