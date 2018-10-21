@@ -2,8 +2,11 @@
 
  
 1. [Get RaspberryPi Working for OpenCV](https://github.com/Avkash/mldl/blob/master/rasp/device-ready.md)
-2. [Installing OpenCV 3.x on RaspBerry PI with Python2.7 and Python 3.5 (Both Python are in Raspbian as default)](https://github.com/Avkash/mldl/blob/master/rasp/opencv-in-raspberrypi.md)
+2. [Installing OpenCV 3.x on RaspBerryPi with Python2.7 and Python 3.5 (Both Python are in Raspbian as default)](https://github.com/Avkash/mldl/blob/master/rasp/opencv-in-raspberrypi.md)
 3. Verify OpenCV with Python2 and Python2  
+4. Tensorflow on RaspberryPi
+5. [Face Recognition on RaspberryPi with OpenCV and Tensorflow](https://github.com/Avkash/mldl/blob/master/rasp/data/face-recog-tf-cv.md)
+
  
 
 
