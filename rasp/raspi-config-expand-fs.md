@@ -53,3 +53,17 @@ The kernel still uses the old table. The new table will be used at the next rebo
 
 REBOOT
 
+
+### Here is the output of disk space with 64GB SD Card ###
+```
+pi@raspberrypi:~ $ df -h
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        58G  7.6G   48G  14% /
+devtmpfs        460M     0  460M   0% /dev
+tmpfs           464M     0  464M   0% /dev/shm
+tmpfs           464M   13M  452M   3% /run
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           464M     0  464M   0% /sys/fs/cgroup
+/dev/mmcblk0p1   44M   23M   22M  52% /boot
+tmpfs            93M     0   93M   0% /run/user/1000
+```
