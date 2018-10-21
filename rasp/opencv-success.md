@@ -68,3 +68,15 @@ pi@raspberrypi:~/opencv-3.3.0/build $ ls -l /usr/local/lib/python3.5/site-packag
 total 3876
 -rw-r--r-- 1 root staff 3968472 Oct 20 22:03 cv2.cpython-35m-arm-linux-gnueabihf.so
 ```
+
+## copying (symlink) cv2.so inside virtual environment name cvp2 ##
+
+```
+pi@raspberrypi:~ $ ln -s /usr/local/lib/python2.7/site-packages/cv2.so  ~/.virtualenvs/cvp2/lib/python2.7/site-packages/cv2.so
+```
+
+## copying (symlink) cv2.so inside virtual environment name cvp3 ##
+
+```
+pi@raspberrypi:~ $ ln -s /usr/local/lib/python3.5/site-packages/cv2.so  ~/.virtualenvs/cvp3/lib/python3.5/site-packages/cv2.so
+```
