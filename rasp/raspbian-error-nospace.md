@@ -1,7 +1,8 @@
-** Problems when there is no space in the disk **
+## Problems when there is no space in the disk ##
 
+Here are various variants of problems:
 
-
+```
 $ sudo apt-get upgrade
 -bash: /usr/bin/sudo: Input/output error
 pi@raspberrypi:~ $
@@ -18,10 +19,11 @@ pi@raspberrypi:~ $ ls -l
 -bash: /bin/ls: Input/output error
 pi@raspberrypi:~ $ sudo reboot
 -bash: /usr/bin/sudo: Input/output error
+```
 
 
 
+### Root Cause ##
 
->
-
-there is no disk space available in your device.
+- There is no disk space available in your device.
+- Make space and get back on.
