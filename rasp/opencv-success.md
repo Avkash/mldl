@@ -75,7 +75,7 @@ total 3876
 pi@raspberrypi:~ $ ln -s /usr/local/lib/python2.7/site-packages/cv2.so  ~/.virtualenvs/cvp2/lib/python2.7/site-packages/cv2.so
 ```
 
-## Verifying Python2 in Virtual Environment ##
+## Verifying OpenCV (cv2) in Python2 Virtual Environment ##
 
 ```
 (cvp2) pi@raspberrypi:~ $ python
@@ -92,4 +92,18 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ```
 pi@raspberrypi:~ $ ln -s /usr/local/lib/python3.5/site-packages/cv2.so  ~/.virtualenvs/cvp3/lib/python3.5/site-packages/cv2.so
+```
+
+## Verifying OpenCV (cv2) in Python3 Virtual Environment ##
+
+```
+(cvp3) pi@raspberrypi:~ $ python
+Python 3.5.3 (default, Sep 27 2018, 17:25:39)
+[GCC 6.3.0 20170516] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import numpy
+>>> import cv2
+>>> cv2.__version__
+'3.3.0'
+>>> quit()
 ```
