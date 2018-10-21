@@ -9,8 +9,9 @@
 
 
 A list of Problems with their solution in your journey: 
- 1. Segmentation Fault on some commands > Reflash is best option
- 2. [All commands fail with error - "Input/output error"](https://github.com/Avkash/mldl/blob/master/rasp/raspbian-error-nospace.md)
+ 1. Segmentation Fault on some commands 
+ 2. [ERROR with "make -j4" with OpenCV >>> c++: internal compiler error: Segmentation fault (program cc1plus)](https://github.com/Avkash/mldl/blob/master/rasp/data/build-error-01.md)
+ 3. [All commands fail with error - "Input/output error"](https://github.com/Avkash/mldl/blob/master/rasp/raspbian-error-nospace.md)
  
  
  
