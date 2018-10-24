@@ -1,4 +1,4 @@
-## Installing OpenCV in OSX ##
+## Installing OpenCV in OSX with Python 2.7 ##
 
 ###  Have xcode tools installed ###
 ```
