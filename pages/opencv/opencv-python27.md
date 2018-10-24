@@ -93,6 +93,28 @@ $ cmake -D CMAKE_BUILD_TYPE=RELEASE \
 ```
 Note: Please make sure the path to opencv_contrib is correct above. 
 
+The above command will finalize the configuration as below:
+```
+--   Python 2:
+--     Interpreter:                 /Users/avkashchauhan/anaconda2/bin/python2.7 (ver 2.7.15)
+--     Libraries:                   NO
+--     numpy:                       /Users/avkashchauhan/anaconda2/lib/python2.7/site-packages/numpy/core/include (ver 1.15.1)
+--     packages path:               lib/python2.7/site-packages
+--
+--   Python (for build):            /Users/avkashchauhan/anaconda2/bin/python2.7
+--     Pylint:                      /Users/avkashchauhan/anaconda2/envs/python35cv/bin/pylint (ver: 1.8.2, checks: 159)
+--
+--   Java:
+--     ant:                         NO
+--     JNI:                         /System/Library/Frameworks/JavaVM.framework/Headers /System/Library/Frameworks/JavaVM.framework/Headers /System/Library/Frameworks/JavaVM.framework/Headers
+--     Java wrappers:               NO
+--     Java tests:                  NO
+--
+--   Matlab:                        NO
+--
+--   Install to:                    /usr/local
+```
+
 ```
 $ make -jN
 ```
