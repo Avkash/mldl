@@ -20,7 +20,7 @@ Now Make sure you have:
 ### Verify Python Environment ###
 ```
 $ source activate python35cv
-(python35cv) ┌─(/work/src/tools/opencv/opencv3.4.3/build)─────────────────────────────────────────────────────────────────────────────
+(python35cv) ┌─(/work/src/tools/opencv/opencv3.4.3/build)───
 └─(21:37:23)──> python                                                                                                         Python 3.5.4 |Anaconda, Inc.| (default, Nov  8 2017, 18:11:28)
 [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
