@@ -19,6 +19,7 @@ Python 3.5
 
 #### Python 2.7 ####
 
+```
 $ source activate python27cv
 $ python
 Python 2.7.15 |Anaconda custom (64-bit)| (default, May  1 2018, 18:37:05)
@@ -28,9 +29,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> cv2.__version__
 '3.4.2'
 >>>
+```
 
 #### Python 3.5 ####
-
+```
 $ source activate python27cv
 $ python
 Python 3.5.4 |Anaconda custom (64-bit)| (default, Nov  8 2017, 18:11:28)
@@ -40,5 +42,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> cv2.__version__
 '3.1.0'
 >>>
+```
 
 
