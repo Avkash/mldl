@@ -122,22 +122,35 @@ Note: Above N is the value of the CPU core you would want to use during make pro
 
 ### Successful Build Scenario (Luck works here!!) ###
 ```
-Scanning dependencies of target example_cpp_select3dobj
-[100%] Built target example_cpp_kalman
-[100%] Building CXX object samples/cpp/CMakeFiles/example_cpp_select3dobj.dir/select3dobj.cpp.o
-[100%] Linking CXX executable ../../bin/example_cpp_warpPerspective_demo
-[100%] Linking CXX executable ../../bin/example_cpp_matchmethod_orb_akaze_brisk
-[100%] Built target example_cpp_warpPerspective_demo
+[ 98%] Built target example_cpp_cloning_demo
+[ 98%] Built target example_tutorial_interoperability_with_OpenCV_1
+[ 98%] Built target example_tutorial_introduction_to_pca
+[ 98%] Built target example_cpp_intelperc_capture
+[ 98%] Built target example_cpp_autofocus
+[ 98%] Built target example_tutorial_core_reduce
+[ 99%] Built target example_tutorial_EqualizeHist_Demo
+[ 99%] Built target example_cpp_filestorage
+[ 99%] Linking CXX executable ../../bin/example_cpp_npr_demo
+[ 99%] Linking CXX executable ../../bin/example_cpp_facedetect
+[ 99%] Linking CXX executable ../../bin/example_cpp_3calibration
+[ 99%] Linking CXX executable ../../bin/example_cpp_matchmethod_orb_akaze_brisk
+[ 99%] Linking CXX executable ../../bin/example_cpp_kalman
+[ 99%] Linking CXX executable ../../bin/example_cpp_warpPerspective_demo
+[ 99%] Linking CXX executable ../../bin/example_cpp_edge
+[ 99%] Linking CXX executable ../../bin/example_cpp_lkdemo
+[ 99%] Built target example_cpp_facedetect
+[ 99%] Built target example_cpp_npr_demo
 [100%] Built target example_cpp_matchmethod_orb_akaze_brisk
-[100%] Linking CXX executable ../../bin/example_cpp_lkdemo
-[100%] Built target example_cpp_lkdemo
-[100%] Linking CXX executable ../../bin/example_tutorial_video-write
+[100%] Built target example_cpp_3calibration
+[100%] Built target example_cpp_kalman
 [100%] Linking CXX executable ../../bin/example_cpp_connected_components
+[100%] Linking CXX executable ../../bin/example_tutorial_video-write
+[100%] Built target example_cpp_edge
+[100%] Built target example_cpp_warpPerspective_demo
+[100%] Built target example_cpp_lkdemo
+[100%] Linking CXX executable ../../bin/example_cpp_select3dobj
 [100%] Built target example_tutorial_video-write
 [100%] Built target example_cpp_connected_components
-[100%] Linking CXX executable ../../bin/example_cpp_3calibration
-[100%] Built target example_cpp_3calibration
-[100%] Linking CXX executable ../../bin/example_cpp_select3dobj
 [100%] Built target example_cpp_select3dobj
 ```
 Note: Not out of woods yet. We still need to make installer as well as next step.
@@ -166,6 +179,12 @@ $ sudo make install
 -- Installing: /usr/local/share/OpenCV/samples/python/watershed.py
 ```
 
+### Final Output ### 
+
+Based on above your final cv2.so file will be located into the following folder:
+```
+/usr/local/lib/python2.7/site-packages/
+```
 
 
 
