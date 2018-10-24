@@ -140,5 +140,5 @@ $ sudo make install
 
 Based on above your final cv2.so file will be located into the following folder:
 ```
-/usr/local/lib/python2.7/site-packages/
+/usr/local/lib/python3.5/site-packages/
 ```
