@@ -7,17 +7,20 @@ sudo xcode-select --install
 ```
 Note: You must have brew installed in OSX your machine to get further. To install brew visit [here](https://brew.sh/)
 
-### Have Python3 as your base python on OSX ###
+### Have Python (2.7) as your base python on OSX ###
 ```
-$ brew install pyenv
-$ pyenv install 3.5.0
-$ which python3
-/usr/local/bin/python3
+$ python                                                                                                               ──(Tue,Oct23)─┘
+Python 2.7.15 |Anaconda, Inc.| (default, May  1 2018, 18:37:05)
+[GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+$ which python
+/Users/avkashchauhan/anaconda2/bin/python
 $ where python3
-/usr/local/bin/python3
+/Users/avkashchauhan/anaconda2/bin/python
+/usr/local/bin/python
+/usr/bin/python
 ```
-
-
 
 
 ### Python Environment ###
@@ -32,15 +35,14 @@ Now Make sure you have:
 
 ### Verify Python Environment ###
 ```
-$ source activate python35cv
-(python35cv) ┌─(/work/src/tools/opencv/opencv3.4.3/build)───
-└─(21:37:23)──> python
-Python 3.5.4 |Anaconda, Inc.| (default, Nov  8 2017, 18:11:28)
+$ source activate python27cv
+(python27cv) ─> python
+Python 2.7.15 |Anaconda, Inc.| (default, May  1 2018, 18:37:05)
 [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import numpy
 >>> numpy.__version__
-'1.14.0'
+'1.15.0'
 >>>
 ```
 
@@ -76,10 +78,14 @@ $ mkdir build
 $ cd build
 $ cmake -D CMAKE_BUILD_TYPE=RELEASE \
 -D CMAKE_INSTALL_PREFIX=/usr/local \
--D INSTALL_PYTHON_EXAMPLES=ON \
 -D BUILD_opencv_java=OFF \
+-D BUILD_opencv_python2=ON \
+-D BUILD_opencv_python3=OFF \
+-D INSTALL_PYTHON_EXAMPLES=ON \
 -D INSTALL_C_EXAMPLES=OFF \
 -D OPENCV_EXTRA_MODULES_PATH=/work/src/tools/opencv/opencv_contrib-3.4.3/modules \
+-D PYTHON2_LIBRARY=/Users/avkashchauhan/anaconda2/lib/libpython2.7.dylib \
+-D PYTHON2_INCLUDE_DIR=/Users/avkashchauhan/anaconda2/include/python2.7/ \
 -D BUILD_EXAMPLES=ON \
 -D WITH_CUDA=OFF \
 -D BUILD_TESTS=OFF \
