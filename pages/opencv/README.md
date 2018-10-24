@@ -60,6 +60,13 @@ $ wget -O opencv.zip https://github.com/opencv/opencv/archive/3.4.3.zip
 $ wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/3.4.3.zip
 
 ```
+### Finding Python header and Library ###
+
+```
+Library dylib:  /Users/avkashchauhan/anaconda2/lib/libpython2.7.dylib
+Header:  /Users/avkashchauhan/anaconda2/include/python2.7/Python.h
+```
+
 
 ### Lets Configure opencv ###
 
