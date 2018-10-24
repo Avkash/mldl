@@ -18,6 +18,7 @@ Python 3.5
 ### Testing opencv on OSX ###
 
 #### Python 2.7 ####
+Below python27cv is the anaconda environment based on Python 2.7.
 
 ```
 $ source activate python27cv
@@ -32,8 +33,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 #### Python 3.5 ####
+Below python35cv is the anaconda environment based on Python 3.5.
+
 ```
-$ source activate python27cv
+$ source activate python35cv
 $ python
 Python 3.5.4 |Anaconda custom (64-bit)| (default, Nov  8 2017, 18:11:28)
 [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
