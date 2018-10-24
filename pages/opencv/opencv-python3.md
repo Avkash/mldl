@@ -18,8 +18,6 @@ $ where python3
 ```
 
 
-
-
 ### Python Environment ###
 
 Note: 
@@ -138,6 +136,9 @@ $ sudo make install
 -- Installing: /usr/local/share/OpenCV/samples/python/watershed.py
 ```
 
+### Final Output ###
 
-
-
+Based on above your final cv2.so file will be located into the following folder:
+```
+/usr/local/lib/python2.7/site-packages/
+```
