@@ -7,6 +7,19 @@ sudo xcode-select --install
 ```
 Note: You must have brew installed in OSX your machine to get further. To install brew visit [here](https://brew.sh/)
 
+### Have Python3 as your base python on OSX ###
+```
+$ brew install pyenv
+$ pyenv install 3.5.0
+$ which python3
+/usr/local/bin/python3
+$ where python3
+/usr/local/bin/python3
+```
+
+
+
+
 ### Python Environment ###
 
 Note: 
@@ -71,6 +84,53 @@ Note: Please make sure the path to opencv_contrib is correct above.
 $ make -jN
 ```
 Note: Above N is the value of the CPU core you would want to use during make process.
+
+### Successful Build Scenario (Luck works here!!) ###
+```
+Scanning dependencies of target example_cpp_select3dobj
+[100%] Built target example_cpp_kalman
+[100%] Building CXX object samples/cpp/CMakeFiles/example_cpp_select3dobj.dir/select3dobj.cpp.o
+[100%] Linking CXX executable ../../bin/example_cpp_warpPerspective_demo
+[100%] Linking CXX executable ../../bin/example_cpp_matchmethod_orb_akaze_brisk
+[100%] Built target example_cpp_warpPerspective_demo
+[100%] Built target example_cpp_matchmethod_orb_akaze_brisk
+[100%] Linking CXX executable ../../bin/example_cpp_lkdemo
+[100%] Built target example_cpp_lkdemo
+[100%] Linking CXX executable ../../bin/example_tutorial_video-write
+[100%] Linking CXX executable ../../bin/example_cpp_connected_components
+[100%] Built target example_tutorial_video-write
+[100%] Built target example_cpp_connected_components
+[100%] Linking CXX executable ../../bin/example_cpp_3calibration
+[100%] Built target example_cpp_3calibration
+[100%] Linking CXX executable ../../bin/example_cpp_select3dobj
+[100%] Built target example_cpp_select3dobj
+```
+Note: Not out of woods yet. We still need to make installer as well as next step.
+
+### Making Installer after the make success ###
+```
+$ sudo make install
+```
+
+### Successful "make install" ###
+```
+....
+....
+-- Installing: /usr/local/share/OpenCV/samples/python/opt_flow.py
+-- Installing: /usr/local/share/OpenCV/samples/python/peopledetect.py
+-- Installing: /usr/local/share/OpenCV/samples/python/plane_ar.py
+-- Installing: /usr/local/share/OpenCV/samples/python/plane_tracker.py
+-- Installing: /usr/local/share/OpenCV/samples/python/squares.py
+-- Installing: /usr/local/share/OpenCV/samples/python/stereo_match.py
+-- Installing: /usr/local/share/OpenCV/samples/python/texture_flow.py
+-- Installing: /usr/local/share/OpenCV/samples/python/tst_scene_render.py
+-- Installing: /usr/local/share/OpenCV/samples/python/turing.py
+-- Installing: /usr/local/share/OpenCV/samples/python/video.py
+-- Installing: /usr/local/share/OpenCV/samples/python/video_threaded.py
+-- Installing: /usr/local/share/OpenCV/samples/python/video_v4l2.py
+-- Installing: /usr/local/share/OpenCV/samples/python/watershed.py
+```
+
 
 
 
