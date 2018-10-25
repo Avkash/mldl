@@ -8,13 +8,23 @@
 
 ## Get dlib sourge from git ##
 
+You can dlib source as below:
+```
+$ git clone https://github.com/davisking/dlib.git
+```
 
 ## Start Build Process ## 
+
+Lets get into the dlib source and following the command:
 
 ```
 $ cd dlib
 $ mkdir build
 $ cd build
+```
+#### Configuing the build process ####
+
+```
 $ cmake ..
 ...
 ...
@@ -27,7 +37,10 @@ CUDA_TOOLKIT_ROOT_DIR not found or specified
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /work/src/tools/dlib/build
+```
 
+#### Now making the build libraries ####
+```
 $ cmake --build .
 
 Scanning dependencies of target dlib
@@ -41,11 +54,14 @@ Scanning dependencies of target dlib
 [ 99%] Building CXX object dlib/CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.o
 [100%] Linking CXX static library libdlib.a
 [100%] Built target dlib
+```
+#### Now installing the dlib with python (3.5) ####
 
+```
 $ cd ..
 $ python
 
-$ python setup.pu install
+$ python setup.py install
 
 running install
 running bdist_egg
@@ -92,6 +108,9 @@ Finished processing dependencies for dlib==19.16.99
 
 ## Make sure build & install is sucessful ##
 
+Here we are starting python (3.5) and importing dlib:
+
+```
 $ python                                                                                                                     Python 3.5.4 |Anaconda custom (64-bit)| (default, Nov  8 2017, 18:11:28)
 [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
@@ -99,7 +118,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> dlib.__version__
 '19.16.99'
 >>>
-
+```
 
 
 
