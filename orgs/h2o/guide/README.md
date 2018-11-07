@@ -97,7 +97,7 @@
 ## [15. Data Manipultion](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man.md) ##
  - [H2O Pandas Dataframe and vice-versa (Python)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_pd_h2o.md)
  - [Merging Two H2O Dataframes (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_merge.md)
- - [Combining Columns from Two Data Frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guidedata//h2o_data_ingest_cbind.md)
+ - [Combining Columns from Two Data Frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_ingest_cbind.md)
  - [Combining Rows from Two Data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_rbind.md)
  - [Slicing Rows from an H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_rslice.md)
  - [Slicing Columns from an H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_cslice.md)
