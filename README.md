@@ -36,7 +36,7 @@
  - [Artistic Design with Deep Learning](https://github.com/Avkash/mldl/blob/master/pages/master_art.md)
  - [Visualizing H2O GBM and Random Forest MOJO Models Trees in python](https://github.com/Avkash/mldl/tree/master/myprojects/h2o_mojo_tree_visualization)
  - [Deep Learning with Tensorflow on RaspberryPi](https://github.com/Avkash/mldl/blob/master/rasp/README.md)
- - [Computer Vision and Deep Learning Project](https://github.com/Avkash/mldl/blob/master/myprojects/cv%2Bdl/README.md)     
+ - [Computer Vision and Deep Learning Project](https://github.com/Avkash/mldl/blob/master/myprojects/dl_with_cv/README.md)     
      
      
 ### Disclaimer ###
