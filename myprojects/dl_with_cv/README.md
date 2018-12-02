@@ -9,7 +9,9 @@ Our Work:
 - More to come...
 
 Team:
-- Avkash Chauhan
-- Murari Akshai
+- [Avkash Chauhan](https://avkash.github.io/mldl/)
+- [Murari Akshai](https://github.com/akshai9899)
 - Shubham Debnath
+- If you would like to participate please contact me directly at [LinkedIn](https://www.linkedin.com/in/avkashchauhan/) 
+
 
