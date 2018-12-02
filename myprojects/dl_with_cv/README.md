@@ -5,7 +5,7 @@ Getting Started:
 
 
 Our Work:
-- [Project Details](https://github.com/Avkash/mldl/blob/master/myprojects/dl_with_cv/pr-details.md)
+- [Project Details](https://github.com/Avkash/mldl/blob/master/myprojects/dl_with_cv/pr_details.md)
 - More to come...
 
 Team:
