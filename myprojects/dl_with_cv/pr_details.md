@@ -1,6 +1,6 @@
 # Project Details #
 
-## Deep Learning to detect blood cells infected with Maleria ## 
+## Detecting blood cells infection with Maleria using Deep Learning ## 
 
 ### Project Steps ###
 - Get Dataset  [Information from Maleria from NIH]((https://ceb.nlm.nih.gov/repositories/malaria-datasets/)
