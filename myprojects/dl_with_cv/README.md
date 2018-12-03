@@ -5,7 +5,7 @@ Getting Started:
 
 
 Our Work:
-- [Project Details](https://github.com/Avkash/mldl/blob/master/myprojects/dl_with_cv/pr_details.md)
+- [Detecting blood cells infection with Maleria using Deep Learning](https://github.com/Avkash/mldl/blob/master/myprojects/dl_with_cv/pr_details.md)
 - More to come...
 
 Team:
