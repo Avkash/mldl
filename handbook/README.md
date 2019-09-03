@@ -36,6 +36,11 @@
   - **Objective Function**
   - 
   
+
+## Popular Tutorials ##
+  - [fast.ai ML Tutorials](http://course18.fast.ai/ml)
+
+  
   
 ## Github Repos ##
 
@@ -44,9 +49,11 @@
 - **NLP**
   - [Huggingfaces](https://github.com/huggingface)
   - [Facebook EL5](https://github.com/facebookresearch/ELI5)
-  
+- **Object Counting**
+  - [TensorFlow Object Counting](https://github.com/Avkash/tensorflow_object_counting_api)
 - **ROS (Robot OS) & Autonomous Driving**
   - [DIDI Competition](https://github.com/udacity/didi-competition)
 - **Microscopic Image Analysis**
   - [DeepTrack](https://github.com/softmatterlab/DeepTrack)
-  
+- **Data Visualization**
+  - [Bubble graph animated graph](https://github.com/IBM-Cloud/election-insights)
