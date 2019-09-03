@@ -39,7 +39,7 @@
 
 ## Popular Tutorials ##
   - [fast.ai ML Tutorials](http://course18.fast.ai/ml)
-
+  - [Datacamp](https://www.datacamp.com)
   
   
 ## Github Repos ##
