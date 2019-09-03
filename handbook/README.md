@@ -28,5 +28,13 @@
   - []
 - Loss Function
   - Loss function is a method of evaluating how well your algorithm models your dataset. If your predictions are totally off, your loss function will output a higher number.
-  - [What is Loss Function](https://blog.algorithmia.com/introduction-to-loss-functions/)
+  - [What is Loss Function](https://blog.algorithmia.com/introduction-to-loss-functions/) 
+- Optimization 
+  - It is a process of understanding information effectively. In ML/AI we use ML/AI algorithms and optimization functions inside it to learn from data. 
+  - **Variable**
+  - **Constraints**
+  - **Objective Function**
+  - 
+  
+  
  
