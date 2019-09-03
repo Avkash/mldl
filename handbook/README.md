@@ -34,7 +34,13 @@
   - **Variable**
   - **Constraints**
   - **Objective Function**
-  - 
+- Generalization [Article](https://towardsdatascience.com/what-are-overfitting-and-underfitting-in-machine-learning-a96b30864690)
+  - Generalization is the model’s ability to give sensible outputs to sets of input that it has never seen before.
+- Overfitting
+  - When algorithms does not generalize to data well, capture lots of noice, and learn everything (even not essential) from data
+- Underfitting
+  - When algorithm does not even learn key important patterns from the data, and possibly not even capture the dominant trend.
+  
   
 
 ## Popular Tutorials ##
