@@ -3,6 +3,9 @@
 ## Algorithms ##
  - K-Means
     - [How does k-means works?](https://towardsdatascience.com/how-does-k-means-clustering-in-machine-learning-work-fdaaaf5acfa0)
+ - Graph Algorithms
+    - [5 Graph Algorithms](https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
+    
 
 ## Time Series ##
  - Time-series Dataset
