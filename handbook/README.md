@@ -39,8 +39,14 @@
   
 ## Github Repos ##
 
- - **NLP**
+- **GAN**
+  - [Face Generator](https://github.com/gsurma/face_generator)
+- **NLP**
   - [Huggingfaces](https://github.com/huggingface)
+  - [Facebook EL5](https://github.com/facebookresearch/ELI5)
   
- - 
- 
+- **ROS (Robot OS) & Autonomous Driving**
+  - [DIDI Competition](https://github.com/udacity/didi-competition)
+- **Microscopic Image Analysis**
+  - [DeepTrack](https://github.com/softmatterlab/DeepTrack)
+  
