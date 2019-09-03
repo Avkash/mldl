@@ -1,5 +1,8 @@
 ## Introduction ##
 
+## Algorithms ##
+ - K-Means
+    - [How does k-means works?](https://towardsdatascience.com/how-does-k-means-clustering-in-machine-learning-work-fdaaaf5acfa0)
 
 ## Time Series ##
  - Time-series Dataset
