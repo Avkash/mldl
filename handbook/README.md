@@ -41,7 +41,10 @@
 - Underfitting
   - When algorithm does not even learn key important patterns from the data, and possibly not even capture the dominant trend.
   
-  
+**Labeling in Computer Vision**
+- Picture + label for training classifiers (ResNets)
+- Bounding box + label for detectors (YOLOv3, Faster R-CNN…)
+- Polygon + label for segmentation applications (Mask R-CNN)  
 
 ## Popular Tutorials ##
   - [fast.ai ML Tutorials](http://course18.fast.ai/ml)
