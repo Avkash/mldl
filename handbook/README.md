@@ -73,7 +73,9 @@
   - [Resemble-ai](https://github.com/resemble-ai)
   - [Resemblyzer](https://github.com/resemble-ai/Resemblyzer)
     - Resemblyzer allows you to derive a high-level representation of a voice through a deep learning model
-  - Next
+- **Medicine & Drug Discovery**
+  - [Insilico Medicine](https://github.com/insilicomedicine): Artificial Intelligence for drug discovery, biomarker development and aging research.
+      
 
 ## Github Projects ## 
 - [WeatherCollector](https://github.com/CorentinJ/WeatherCollector) 
