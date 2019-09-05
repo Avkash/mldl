@@ -63,3 +63,14 @@
   - [DeepTrack](https://github.com/softmatterlab/DeepTrack)
 - **Data Visualization**
   - [Bubble graph animated graph](https://github.com/IBM-Cloud/election-insights)
+- **Transfer Learning (Audio)**
+  - [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+  - [Resemble-ai](https://github.com/resemble-ai)
+  - [Resemblyzer](https://github.com/resemble-ai/Resemblyzer)
+    - Resemblyzer allows you to derive a high-level representation of a voice through a deep learning model
+  - Next
+
+## Github Projects ## 
+- [WeatherCollector](https://github.com/CorentinJ/WeatherCollector) 
+  - A python script to collect daily weather data from anywhere in the world within any time range
+- Next  
