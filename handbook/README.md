@@ -50,6 +50,8 @@
   
 ## Github Repos ##
 
+- **Visual Annotation**
+  - [Top Open Source Annotation Tools](https://github.com/topics/annotation-tool)
 - **GAN**
   - [Face Generator](https://github.com/gsurma/face_generator)
 - **NLP**
