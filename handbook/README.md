@@ -81,3 +81,9 @@
 - [WeatherCollector](https://github.com/CorentinJ/WeatherCollector) 
   - A python script to collect daily weather data from anywhere in the world within any time range
 - Next  
+
+
+## AI/ML Fellowship ##
+- [Fellowship.ai](https://fellowship.ai/)
+- [XEN.ai](https://www.xen.ai/)
+- [Silo.ai](https://silo.ai/)
