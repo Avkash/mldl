@@ -75,6 +75,8 @@
     - Resemblyzer allows you to derive a high-level representation of a voice through a deep learning model
 - **Medicine & Drug Discovery**
   - [Insilico Medicine](https://github.com/insilicomedicine): Artificial Intelligence for drug discovery, biomarker development and aging research.
+- **AI/ML Games/Code**
+  - [Google Chrome Dino Game AI](https://github.com/Code-Bullet/Google-Chrome-Dino-Game-AI)
       
 
 ## Github Projects ## 
