@@ -6,6 +6,14 @@
  - Graph Algorithms
     - [5 Graph Algorithms](https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
     
+## DS/ML/AI Working Terminology ##
+ - Domain Expertise
+ - EDA (Exploratory Data Analysis) 
+ - Blending
+ - Feature Engineering
+ - Ensembles
+ - Meta Feature Generation (MFG)
+    
 
 ## Time Series ##
  - Time-series Dataset
