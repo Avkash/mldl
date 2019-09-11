@@ -13,7 +13,8 @@
  - Feature Engineering
  - Ensembles
  - Meta Feature Generation (MFG)
-    
+ - [Densely connected GNN](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106347#latest-613652)
+ - [Graph CNN](https://www.kaggle.com/c/champs-scalar-coupling/discussion/93972#latest-602628)   
 
 ## Time Series ##
  - Time-series Dataset
@@ -85,7 +86,8 @@
   - [Insilico Medicine](https://github.com/insilicomedicine): Artificial Intelligence for drug discovery, biomarker development and aging research.
 - **AI/ML Games/Code**
   - [Google Chrome Dino Game AI](https://github.com/Code-Bullet/Google-Chrome-Dino-Game-AI)
-      
+- **AI in Chemistry**
+  - [Atomistic Machine Learning SchNet](https://github.com/atomistic-machine-learning/SchNet)
 
 ## Github Projects ## 
 - [WeatherCollector](https://github.com/CorentinJ/WeatherCollector) 
