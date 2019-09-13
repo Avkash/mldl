@@ -62,6 +62,8 @@
   
 ## Github Repos ##
 
+- **Face Analysis**
+  - [Face Classification](https://github.com/oarriaga/face_classification/)
 - **Visual Annotation**
   - [Top Open Source Annotation Tools](https://github.com/topics/annotation-tool)
 - **GAN**
