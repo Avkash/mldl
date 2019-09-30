@@ -1,3 +1,8 @@
+# ML/AI Events in 2019 #
+ - [Tech Crunch Disrupt San Francisco October 2-4 2019](https://techcrunch.com/events/disrupt-sf-2019/)
+ - [ROBOBUSINESS October 1st - 3rd, 2019](https://www.robobusiness.com/)
+ - [AI NEXTCon '19 - San Francisco Oct 8 - 11](http://aisf19.xnextcon.com/)
+
 # Open AI Challanges - Worldwide #
  - [DIUx xView 2018 Detection Challenge](http://www.xviewdataset.org/)
  - [Functional Map of the World Challenge](https://www.iarpa.gov/challenges/fmow.html)
