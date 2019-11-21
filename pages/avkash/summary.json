@@ -1,0 +1,171 @@
+{
+  "allItems": [
+    {
+      "name": "DataScientist",
+      "code": "DS",
+      "skills": [
+        {"keyword": "TensorFlow", "rank":1},
+        {"keyword": "H2O", "rank":2},
+        {"keyword": "Turi", "rank" : 0.5},
+        {"keyword": "PyTorch", "rank":1},
+        {"keyword": "mxnet", "rank":1},
+        {"keyword": "Machine Learning", "rank":1},
+        {"keyword": "Deep Learning", "rank":1},
+        {"keyword": "Keras", "rank":2},
+        {"keyword": "Computer Vision", "rank":2},
+        {"keyword": "Python", "rank":1},
+        {"keyword": "Java", "rank":1},
+        {"keyword": "Scala", "rank":1},
+        {"keyword": "xgboost", "rank":1},
+        {"keyword": "lightgbm", "rank":1},
+        {"keyword": "scipy", "rank":1},
+        {"keyword": "nltk", "rank":1}
+      ],
+      "experience": [
+        {"keyword": "Model", "rank":1},
+        {"keyword": "Production", "rank":2},
+        {"keyword": "Image Analysis", "rank":2},
+        {"keyword": "NLP", "rank":2},
+        {"keyword": "Natural Language Processing", "rank":2},
+        {"keyword": "Interpretability", "rank":1},
+        {"keyword": "transformation", "rank":1},
+        {"keyword": "AutoML", "rank":1},
+        {"keyword": "Ensembles", "rank":1},
+        {"keyword": "feature engineering", "rank":1},
+        {"keyword": "ONNX", "rank":1},
+        {"keyword": "tensorrt", "rank":1},
+        {"keyword": "scalable", "rank":1},
+        {"keyword": "realtime", "rank":1},
+        {"keyword": "real-time", "rank":1}
+      ]
+    },
+    {
+      "name": "Manager",
+      "code": "MGR",
+      "skills": [
+        {"keyword": "PMP", "rank":1},
+        {"keyword": "Manager", "rank":1},
+        {"keyword": "Director", "rank":1},
+        {"keyword": "Chief", "rank":1},
+        {"keyword": "Principal", "rank":1}
+      ],
+      "experience": [
+        {"keyword": "Success", "rank":1},
+        {"keyword": "Collaboration", "rank":1},
+        {"keyword": "Communication", "rank":1},
+        {"keyword": "cross", "rank":1},
+        {"keyword": "Engaged", "rank":1},
+        {"keyword": "Inclusive", "rank":1},
+        {"keyword": "Positivity", "rank":1},
+        {"keyword": "Listening", "rank":1},
+        {"keyword": "Intelligence", "rank":1},
+        {"keyword": "Delegation", "rank":1},
+        {"keyword": "Develop", "rank":1},
+        {"keyword": "manage", "rank":1},
+        {"keyword": "leader", "rank":1},
+        {"keyword": "share", "rank":1},
+        {"keyword": "Sharing", "rank":1}
+      ]
+    },
+    {
+      "name": "Social",
+      "code": "SOCIAL",
+      "skills": [
+        {"keyword": "github", "rank":1},
+        {"keyword": "medium", "rank":1},
+        {"keyword": "twitter", "rank":1},
+        {"keyword": "facebook.", "rank":1},
+        {"keyword": "instagram", "rank":1},
+        {"keyword": "wordpress", "rank":1},
+        {"keyword": "blogspot", "rank":1},
+        {"keyword": "stackoverflow", "rank":1},
+        {"keyword": "quora", "rank":1},
+        {"keyword": "youtube", "rank":1}
+      ],
+      "experience": [
+        {"keyword": "blog", "rank":1},
+        {"keyword": "article", "rank":1},
+        {"keyword": "social networking", "rank":1},
+        {"keyword": "reader", "rank":1},
+        {"keyword": "Videos", "rank":1}
+      ]
+    },    {
+      "name": "JavaDeveloper",
+      "code": "JDEV",
+      "skills": [
+        {"keyword": "SOAP", "rank":1},
+        {"keyword": "REST", "rank":1},
+        {"keyword": "AWT", "rank":1},
+        {"keyword": "OOP", "rank":1},
+        {"keyword": "Struts", "rank":1},
+        {"keyword": "Spring", "rank":1},
+        {"keyword": "JSP", "rank":1},
+        {"keyword": "servlets", "rank":1},
+        {"keyword": "Constructors", "rank":1},
+        {"keyword": "Collections", "rank":1},
+        {"keyword": "Generics", "rank":1},
+        {"keyword": "JVM", "rank":1},
+        {"keyword": "XML", "rank":1},
+        {"keyword": "JSON", "rank":1},
+        {"keyword": "Abstract", "rank":1},
+        {"keyword": "synchronization", "rank":1},
+        {"keyword": "Multithreading", "rank":1},
+        {"keyword": "kubernetes", "rank":1}
+      ],
+      "experience": [
+        {"keyword": "Blockchain", "rank":1},
+        {"keyword": "serverside", "rank":1},
+        {"keyword": "distributed", "rank":1},
+        {"keyword": "mpp", "rank":1},
+        {"keyword": "big data", "rank":1},
+        {"keyword": "Artificial Intelligence", "rank":1},
+        {"keyword": "Machine Learning", "rank":1},
+        {"keyword": "microservices", "rank":1},
+        {"keyword": "Analysis", "rank":1},
+        {"keyword": "scalable", "rank":1},
+        {"keyword": "realtime", "rank":1},
+        {"keyword": "real-time", "rank":1}
+      ]
+    },
+    {
+      "name": "PythonDeveloper",
+      "code": "PYDEV",
+      "skills": [
+        {"keyword": "SOAP", "rank":1},
+        {"keyword": "REST", "rank":1},
+        {"keyword": "Core", "rank":1},
+        {"keyword": "OOP", "rank":1},
+        {"keyword": "NumPy", "rank":1},
+        {"keyword": "MapPlotLib", "rank":1},
+        {"keyword": "Scikit", "rank":1},
+        {"keyword": "sql", "rank":1},
+        {"keyword": "Constructors", "rank":1},
+        {"keyword": "Collections", "rank":1},
+        {"keyword": "Generators", "rank":1},
+        {"keyword": "JSON", "rank":1},
+        {"keyword": "XML", "rank":1},
+        {"keyword": "JSON", "rank":1},
+        {"keyword": "Iterators", "rank":1},
+        {"keyword": "synchronization", "rank":1},
+        {"keyword": "Multithreading", "rank":1},
+        {"keyword": "kubernetes", "rank":1}
+      ],
+      "experience": [
+        {"keyword": "Model", "rank":1},
+        {"keyword": "statistics", "rank":1},
+        {"keyword": "serverside", "rank":1},
+        {"keyword": "distributed", "rank":1},
+        {"keyword": "mpp", "rank":1},
+        {"keyword": "big data", "rank":1},
+        {"keyword": "wrangler", "rank":1},
+        {"keyword": "Artificial Intelligence", "rank":1},
+        {"keyword": "Machine Learning", "rank":1},
+        {"keyword": "microservices", "rank":1},
+        {"keyword": "Visualization", "rank":1},
+        {"keyword": "scalable", "rank":1},
+        {"keyword": "realtime", "rank":1},
+        {"keyword": "real-time", "rank":1}
+      ]
+    }
+  ]
+}
