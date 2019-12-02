@@ -50,7 +50,10 @@
 |[Handwritten Deep Learning Notes](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/ml-art.pdf)|Handwritten notes in Deep Learning|
 |[Interpretable Machine Learning By Christoph Molnar](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/interpretable-machine-learning.pdf)|A Guide for Making Black Box Models Explainable - Book|
 |[DZone AI Research Guide 2018](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/Dzone2018-AI-Researchguide.pdf)|A Report from Dzone on AI research|
-
+|[Driving Digital Transformation Using AI and Machine Learning - TDWI](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/TDWI_BPReport_Q319_web.pdf)|A Report by TDWI|
+|[Data Scientist Rerport by Figure Eight](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/Data-Scientist-Report-Figure8.pdf)|Figure Eight Report|
+|[Launching AI Project - Figure8](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/Launching_AI_Figure_Eight.pdf)|A Figure 8 Report|
+|[A Book on Churn](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/ChurnEbookFinal.pdf)|A Report by Price Intelligently|
      
 ### Disclaimer ###
 This site is a collection of resources from all over the internet. Some of the content is mine however most of the content is created by others and by no means I am claiming it to be mine. I try my best to add proper links as needed however if I have missed something it is just a mistake. 
