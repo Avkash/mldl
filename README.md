@@ -41,6 +41,12 @@
  - [Deep Learning with Tensorflow on RaspberryPi](https://github.com/Avkash/mldl/blob/master/rasp/README.md)
  - [Computer Vision and Deep Learning Project](https://github.com/Avkash/mldl/blob/master/myprojects/dl_with_cv/README.md)     
      
+ ## Books, Reports, Documents (PDF) ##
+| Title         | What is in it?      |  
+|:-------------:|:------------------:|
+|AI4ALL| - 1) AI 101 CheatSheet: http://montreal.ai/ai4all.pdf |
+| | |
+
      
 ### Disclaimer ###
 This site is a collection of resources from all over the internet. Some of the content is mine however most of the content is created by others and by no means I am claiming it to be mine. I try my best to add proper links as needed however if I have missed something it is just a mistake. 
