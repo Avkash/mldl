@@ -44,8 +44,12 @@
  ## Books, Reports, Documents (PDF) ##
 | Title         | What is in it?      |  
 |:-------------:|:------------------:|
-|AI4ALL| - 1) AI 101 CheatSheet: http://montreal.ai/ai4all.pdf |
-| | |
+|[AI4ALL](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/ai4all.pdf)| - 1) AI 101 CheatSheet: http://montreal.ai/ai4all.pdf |
+|[Computer vision Resoucres](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/Computer-Vision-Resources.pdf)| By Satya Malik https://learnopencv.com |
+|[Deep Learning Visual Cheatsheat](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/Deep%20Learning%20Visual.pdf)| - Collection of various cheat sheet collection|
+|[Handwritten Deep Learning Notes](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/ml-art.pdf)|Handwritten notes in Deep Learning|
+|[Interpretable Machine Learning By Christoph Molnar](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/interpretable-machine-learning.pdf)|A Guide for Making Black Box Models Explainable - Book|
+|[DZone AI Research Guide 2018](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/Dzone2018-AI-Researchguide.pdf)|A Report from Dzone on AI research|
 
      
 ### Disclaimer ###
