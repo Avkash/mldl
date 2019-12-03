@@ -6,6 +6,7 @@
 [Read It](https://github.com/Avkash/mldl/blob/master/handbook/README.md)
 
 ## AI, Deep Learning, OpenCV ##
+
 | Visit Everyday| You get..          |  
 |:-------------:|:------------------:|
 |[OpenCV.org](https://opencv.org/)|AI Courses by OpenCV|
@@ -49,6 +50,7 @@
  - [Computer Vision and Deep Learning Project](https://github.com/Avkash/mldl/blob/master/myprojects/dl_with_cv/README.md)     
      
  ## Books, Reports, Documents (PDF) ##
+ 
 | Title         | What is in it?     |  
 |:-------------:|:------------------:|
 |[Dive into Deep Learning - NDArray](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/d2l-en-ndarray.pdf)|Deep Learning with NDArray -  https://classic.d2l.ai/|
