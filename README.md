@@ -9,7 +9,7 @@
 | Visit Everyday| You get..          |  
 |:-------------:|:------------------:|
 |[OpenCV.org](https://opencv.org/)|AI Courses by OpenCV|
-|[DeepAO.org](https://deepai.org/)|Build with AI: Add cutting-edge functionality to your apps with machine learning|
+|[DeepAI.org](https://deepai.org/)|Build with AI: Add cutting-edge functionality to your apps with machine learning|
 |[D2L.ai](https://d2l.ai/)|Dive into Deep Learning - An interactive deep learning book with NumPy and NDArray|
 
 ## Machine & Deep Learning Glossary ##
