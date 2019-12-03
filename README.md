@@ -46,10 +46,10 @@
  - [Visualizing H2O GBM and Random Forest MOJO Models Trees in python](https://github.com/Avkash/mldl/tree/master/myprojects/h2o_mojo_tree_visualization)
  - [Deep Learning with Tensorflow on RaspberryPi](https://github.com/Avkash/mldl/blob/master/rasp/README.md)
  - [Computer Vision and Deep Learning Project](https://github.com/Avkash/mldl/blob/master/myprojects/dl_with_cv/README.md)     
-     
+
 ## Books, Reports, Documents (PDF) ##
  
-| Title         | What is in it?     |  
+| Title         | What is in it?     |
 |:-------------:|:------------------:|
 |[Dive into Deep Learning - NDArray](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/d2l-en-ndarray.pdf)|Deep Learning with NDArray -  https://classic.d2l.ai/|
 |[Dive into Deep Learning - NumPy](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/d2l-en-numpy.pdf)|Deep Learning with NumPy -  https://d2l.ai/|
