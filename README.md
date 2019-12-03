@@ -2,8 +2,13 @@
  - Motivation: [Life & Career](https://github.com/Avkash/mldl/blob/master/pages/motivational.md)  Events: [2017](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md) [2018](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md) [2019](https://github.com/Avkash/mldl/blob/master/dllibs/master_events.md)
  - Me : [@stackoverflow](https://stackoverflow.com/users/1325423/avkashchauhan) ! [@dzone](https://dzone.com/users/1425729/Avkash.html) ! [@LinkedIn](https://www.linkedin.com/in/avkashchauhan/) ! [@Medium](https://medium.com/@avkashchauhan)
  
-## Handbook of Artificial Intelligence and Machine Learning ##
+## Handbook of Artificial Intelligence and Machine Learning - @avkashchauhan ##
 [Read It](https://github.com/Avkash/mldl/blob/master/handbook/README.md)
+| Visit Everyday| You get..          |  
+|:-------------:|:------------------:|
+|[OpenCV.org](https://opencv.org/)|AI Courses by OpenCV|
+|[DeepAO.org](https://deepai.org/)|Build with AI: Add cutting-edge functionality to your apps with machine learning|
+|[D2L.ai](https://d2l.ai/)|Dive into Deep Learning - An interactive deep learning book with NumPy and NDArray|
 
 ## Machine & Deep Learning Glossary ##
 | [A](https://github.com/Avkash/mldl/blob/master/glossary/def_a.md) | [B](https://github.com/Avkash/mldl/blob/master/glossary/def_b.md) | [C](https://github.com/Avkash/mldl/blob/master/glossary/def_c.md) | [D](https://github.com/Avkash/mldl/blob/master/glossary/def_d.md) | [E](https://github.com/Avkash/mldl/blob/master/glossary/def_e.md) | [F](https://github.com/Avkash/mldl/blob/master/glossary/def_f.md) | [G](https://github.com/Avkash/mldl/blob/master/glossary/def_g.md) | [H](https://github.com/Avkash/mldl/blob/master/glossary/def_h.md) | [I](https://github.com/Avkash/mldl/blob/master/glossary/def_i.md) | [J](https://github.com/Avkash/mldl/blob/master/glossary/def_j.md) | [K](https://github.com/Avkash/mldl/blob/master/glossary/def_k.md) | [L](https://github.com/Avkash/mldl/blob/master/glossary/def_l.md) | [M](https://github.com/Avkash/mldl/blob/master/glossary/def_m.md) | [N](https://github.com/Avkash/mldl/blob/master/glossary/def_n.md) | [O](https://github.com/Avkash/mldl/blob/master/glossary/def_o.md) | [P](https://github.com/Avkash/mldl/blob/master/glossary/def_p.md) | [Q](https://github.com/Avkash/mldl/blob/master/glossary/def_q.md) | [R](https://github.com/Avkash/mldl/blob/master/glossary/def_r.md) | [S](https://github.com/Avkash/mldl/blob/master/glossary/def_s.md) | [T](https://github.com/Avkash/mldl/blob/master/glossary/def_t.md) | [U](https://github.com/Avkash/mldl/blob/master/glossary/def_u.md) | [V](https://github.com/Avkash/mldl/blob/master/glossary/def_v.md) | [W](https://github.com/Avkash/mldl/blob/master/glossary/def_w.md) | [X](https://github.com/Avkash/mldl/blob/master/glossary/def_x.md) | [Y](https://github.com/Avkash/mldl/blob/master/glossary/def_y.md) | [Z](https://github.com/Avkash/mldl/blob/master/glossary/def_z.md)
@@ -42,7 +47,7 @@
  - [Computer Vision and Deep Learning Project](https://github.com/Avkash/mldl/blob/master/myprojects/dl_with_cv/README.md)     
      
  ## Books, Reports, Documents (PDF) ##
-| Title         | What is in it?      |  
+| Title         | What is in it?     |  
 |:-------------:|:------------------:|
 |[Dive into Deep Learning - NDArray](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/d2l-en-ndarray.pdf)|Deep Learning with NDArray -  https://classic.d2l.ai/|
 |[Dive into Deep Learning - NumPy](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/d2l-en-numpy.pdf)|Deep Learning with NumPy -  https://d2l.ai/|
