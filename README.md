@@ -44,6 +44,8 @@
  ## Books, Reports, Documents (PDF) ##
 | Title         | What is in it?      |  
 |:-------------:|:------------------:|
+|[Dive into Deep Learning - NDArray](https://d2l.ai/)|Deep Learning with NDArray -  https://classic.d2l.ai/|
+|[Dive into Deep Learning - NumPy](https://d2l.ai/)|Deep Learning with NumPy -  https://d2l.ai/|
 |[AI4ALL](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/ai4all.pdf)| - 1) AI 101 CheatSheet: http://montreal.ai/ai4all.pdf |
 |[Computer vision Resoucres](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/Computer-Vision-Resources.pdf)| By Satya Malik https://learnopencv.com |
 |[Deep Learning Visual Cheatsheat](https://github.com/Avkash/mldl/blob/master/pages/docs/2020/Deep%20Learning%20Visual.pdf)| - Collection of various cheat sheet collection|
