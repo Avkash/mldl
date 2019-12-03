@@ -3,12 +3,10 @@
  - Me : [@stackoverflow](https://stackoverflow.com/users/1325423/avkashchauhan) ! [@dzone](https://dzone.com/users/1425729/Avkash.html) ! [@LinkedIn](https://www.linkedin.com/in/avkashchauhan/) ! [@Medium](https://medium.com/@avkashchauhan)
  
 ## Handbook of Artificial Intelligence and Machine Learning - @avkashchauhan ##
-[Read It](https://github.com/Avkash/mldl/blob/master/handbook/README.md)
-
-## AI, Deep Learning, OpenCV ##
 
 | Visit Everyday| You get..          |  
 |:-------------:|:------------------:|
+|[By @avkashchauhan](https://github.com/Avkash/mldl/blob/master/handbook/README.md)|Collection of content|
 |[OpenCV.org](https://opencv.org/)|AI Courses by OpenCV|
 |[DeepAI.org](https://deepai.org/)|Build with AI: Add cutting-edge functionality to your apps with machine learning|
 |[D2L.ai](https://d2l.ai/)|Dive into Deep Learning - An interactive deep learning book with NumPy and NDArray|
@@ -49,7 +47,7 @@
  - [Deep Learning with Tensorflow on RaspberryPi](https://github.com/Avkash/mldl/blob/master/rasp/README.md)
  - [Computer Vision and Deep Learning Project](https://github.com/Avkash/mldl/blob/master/myprojects/dl_with_cv/README.md)     
      
- ## Books, Reports, Documents (PDF) ##
+## Books, Reports, Documents (PDF) ##
  
 | Title         | What is in it?     |  
 |:-------------:|:------------------:|
