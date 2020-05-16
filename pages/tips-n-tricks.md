@@ -10,6 +10,8 @@ Step 1: Add multiple ssh keys to your local folder i.e
   - ~/.ssh/work_ssh.pub
 
 Step 2: Create new file name config into your .ssh folder as below:
+
+```
 # Work Account
 Host github.com-work_git_name
 	HostName github.com
@@ -24,13 +26,14 @@ Host github.com-personal_git_name
 	PreferredAuthentications publickey
 	User git
 	IdentityFile ~/.ssh/personal_ssh
+```
 
 Step Accessing repos:
 - Public Repo
-  $ git clone git@github.com-personal_git_name:Avkash/mldl.git
+  - $ git clone git@github.com-personal_git_name:Avkash/mldl.git
 
 - Work Repo
-  $ git clone git@github.com-work_git_name:WorkGit/repo_name.git
+  - $ git clone git@github.com-work_git_name:WorkGit/repo_name.git
 
 
   
