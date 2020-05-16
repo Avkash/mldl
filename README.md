@@ -47,6 +47,10 @@
  - [Deep Learning with Tensorflow on RaspberryPi](https://github.com/Avkash/mldl/blob/master/rasp/README.md)
  - [Computer Vision and Deep Learning Project](https://github.com/Avkash/mldl/blob/master/myprojects/dl_with_cv/README.md)     
 
+## Tips and Trics ##
+- [zsh on OSX](https://github.com/Avkash/mldl/blob/pages/tips-n-tricks.md)
+- [Multiple Git Accounts with SSH](https://github.com/Avkash/mldl/blob/pages/tips-n-tricks.md)
+
 ## Books, Reports, Documents (PDF) ##
  
 | Title         | What is in it?     |
