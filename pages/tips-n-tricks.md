@@ -35,5 +35,5 @@ Step Accessing repos:
 - Work Repo
   - $ git clone git@github.com-work_git_name:WorkGit/repo_name.git
 
-
+Note: Make sure to match the "Host" value from .ssh/config file while cloning the work vs personal repo. 
   
