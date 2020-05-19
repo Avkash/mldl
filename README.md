@@ -50,6 +50,7 @@
 ## Tips and Trics ##
 - [zsh on OSX](https://github.com/Avkash/mldl/blob/master/pages/tips-n-tricks.md)
 - [Multiple Git Accounts with SSH](https://github.com/Avkash/mldl/blob/master/pages/tips-n-tricks.md)
+- [Adding Proxy Setting in React CoreUI to connect backend](https://github.com/Avkash/mldl/blob/master/pages/setupProxy.md)
 
 ## Books, Reports, Documents (PDF) ##
  
