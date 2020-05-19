@@ -51,3 +51,29 @@ function parseJSON(response) {
 const PostRestObject = { PostRestRequest };
 export default PostRestObject;
 ```
+
+In the specific java scrpipt page now you can call the API as below:
+
+```
+GetRequestedDetails = (varId) => {
+        let { RequestJsonKey } = this.state;      
+        RequestJsonKey.keyType = 'INFO';
+        RequestJsonKey.keyFilters['keyInfo'].values = [];
+        RequestJsonKey.keyFilters['keyInfo'].values.push(varId);
+        this.setState({
+          RequestJsonKey: RequestJsonKey,
+        })    
+        var postData = {
+          RequestType: 'API',
+          RequestJson: this.state.RequestJsonKey
+        }    
+        PostRestObject.PostRestRequest(`api/v1/[END_POINT_NAME]/`, postData, postResultObj => {
+          if (postResultObj.resultCode === "SUCCESS") {
+            this.setState({
+              renferenceObject:postResultObj.resultData,
+            }, () => {
+            });
+          } 
+        });
+    }
+ ```
