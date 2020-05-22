@@ -98,3 +98,24 @@ GetRequestedDetails = (varId) => {
         });
     }
  ```
+  (Update) Few variations to setup API
+ ```
+ if server has api PATH as 
+  @Path("/v1")
+  public class HelloWorld {
+  
+  @Path("/Hello")
+  public .....
+  
+  }
+ 
+ Then the UI setup can have:
+ 
+  Update in setupProxy.js
+  app.use(
+    '/v1',
+    
+  And the actual function call can be as below:
+  postObject.postRequest(`/v1/Hello`, postData, postResultObj =>
+  
+ ```
