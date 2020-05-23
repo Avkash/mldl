@@ -73,5 +73,7 @@
 This site is a collection of resources from all over the internet. Some of the content is mine however most of the content is created by others and by no means I am claiming it to be mine. I try my best to add proper links as needed however if I have missed something it is just a mistake. 
 
 Please visit [here](https://github.com/Avkash/mldl/blob/master/pages/individual-res.md) for individual resources collection links. 
-  
+ 
+-----
+ 
   
