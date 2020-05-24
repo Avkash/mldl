@@ -52,6 +52,7 @@
 - [Multiple Git Accounts with SSH](https://github.com/Avkash/mldl/blob/master/pages/tips-n-tricks.md)
 - [Adding Proxy Setting in React CoreUI to connect backend](https://github.com/Avkash/mldl/blob/master/pages/setupProxy.md)
 - [GitHub - Tips & Tricks](https://github.com/Avkash/mldl/blob/master/pages/githubTipsTricks.md)
+- [Setting PostgreSQL in Docker](https://github.com/Avkash/mldl/blob/master/pages/postgresql-docker.md)
 
 ## Books, Reports, Documents (PDF) ##
  
