@@ -1,7 +1,14 @@
 ## High Sierra 13.0 on Virtual Box
 
-## Get sierra.iso
+## Get sierra.iso (You need to get the installer first)
+- Create installer to ISO
+ - [Visit this link to create ](https://github.com/geerlingguy/macos-virtualbox-vm)
+ - [prepare-iso.sh](https://github.com/geerlingguy/macos-virtualbox-vm/blob/master/prepare-iso.sh) 
+ - $ chmod +x prepare-iso.sh
+ - $ ./prepare-iso.sh Install macOS Sierra.app
+ - Note: This will generate sierra.iso at your Desktop
 
+# Create ISO
 
 ## get VM with name as HighSierra13x64 and run the following command to set things up:
 - Note: There will be no output for the any of the following commands:
@@ -13,6 +20,8 @@
 - $ VBoxManage setextradata HighSierra13x64 "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
 - $ VBoxManage setextradata HighSierra13x64 "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
 
+# Setup your Virtual Box Config and start the VM creation:
+
 ## Setup sierra.iso as boot drive and start installations
  - Display memory 128mb
  - Choose VDI and use fixed disk size 30-40 GB
@@ -20,14 +29,17 @@
  - Enable Audio, Drag and Drop (Host to Guest), Clipboard (bidirectional)
  - Get the installations going
 
-# Start Now
+# Now boot the VM first time:
+
 ##  Remove sierra.iso from the boot list and set HDD as boot 
-After VM is working, chainging > resolution (Note: did not work)
-$ VBoxManage setextradata HighSierra13x64 "VBoxInternal2/EfiGopMode" 5
+After VM is working, chainging > resolution:
+- $ VBoxManage setextradata HighSierra13x64 VBoxInternal2/EfiGraphicsResolution 1920x1080
+- Youur options are as below:
 - 1  800×600
 - 2 1024×768
 - 3 1280×1024
 - 4 1440×900
 - 5 1920×1200
 
-## Happy cracking....
+# Enjoy using it.
+@avkashchauhan
