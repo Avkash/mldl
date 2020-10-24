@@ -53,6 +53,8 @@
 - [Adding Proxy Setting in React CoreUI to connect backend](https://github.com/Avkash/mldl/blob/master/pages/setupProxy.md)
 - [GitHub - Tips & Tricks](https://github.com/Avkash/mldl/blob/master/pages/githubTipsTricks.md)
 - [Setting PostgreSQL in Docker](https://github.com/Avkash/mldl/blob/master/pages/postgresql-docker.md)
+- [Python Tips and Tricks](https://github.com/Avkash/mldl/blob/master/pages/pythontipstricks.md)
+
 
 ## Books, Reports, Documents (PDF) ##
  
