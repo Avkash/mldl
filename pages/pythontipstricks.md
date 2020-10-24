@@ -7,5 +7,8 @@
    - $ python -m SimpleHTTPServer
    - Note: default port will be 8000, to run server on desired port do the following:
    - $ python -m SimpleHTTPServer 8888
+ - Note: Please access the server over HTTP://* only, with HTTPS:// you will get error 400
+ 
+ 
  
 
